@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>BLOG | すいとおん。</title>
+
+  <meta
+    name="description"
+    content="すいとおん。との毎日。お散歩、おでかけ、犬用品、何気ない日常を残しています。"
+  >
+
+  <link
+    rel="preconnect"
+    href="https://fonts.googleapis.com"
+  >
+
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+  >
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Darumadrop+One&family=Noto+Sans+JP:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+  <link
+    rel="stylesheet"
+    href="style.css"
+  >
+
+</head>
+
+
+<body class="blog-page">
+
+
+  <!-- ==================================================
+       HEADER
+  ================================================== -->
+
+  <header class="site-header">
+
+    <div class="header-inner">
+
+<a
+  href="sui_to_on_dogsite.html"
+  class="logo home-logo"
+>
+
+  <span class="logo-main">
+    すいとおん。
+  </span>
+
+  <span class="logo-small">
+    sui &amp; on.
+  </span>
+
+</a>
+
+      <nav class="desktop-nav">
+
+        <a href="sui_to_on_dogsite.html">
+          HOME
+        </a>
+
+        <a
+          href="blog.html"
+          class="current-page"
+        >
+          BLOG
+        </a>
+
+        <a href="guide.html">
+          GUIDE
+        </a>
+
+        <a href="items.html">
+          ITEMS
+        </a>
+
+        <a href="event.html">
+          EVENT
+        </a>
+
+        <a href="comic.html">
+          COMIC
+        </a>
+
+        <a href="about.html">
+          ABOUT
+        </a>
+
+      </nav>
+
+
+      <button
+        class="menu-button"
+        id="menuButton"
+        type="button"
+        aria-label="メニューを開く"
+      >
+        ☰
+      </button>
+
+    </div>
+
+
+    <nav
+      class="mobile-nav"
+      id="mobileNav"
+    >
+
+      <a href="sui_to_on_dogsite.html">
+        HOME
+      </a>
+
+      <a
+        href="blog.html"
+        class="current-page"
+      >
+        BLOG
+      </a>
+
+      <a href="guide.html">
+        GUIDE
+      </a>
+
+      <a href="items.html">
+        ITEMS
+      </a>
+
+      <a href="event.html">
+        EVENT
+      </a>
+
+      <a href="comic.html">
+        COMIC
+      </a>
+
+      <a href="about.html">
+        ABOUT
+      </a>
+
+    </nav>
+
+  </header>
+
+
+
+  <!-- ==================================================
+       BLOG
+  ================================================== -->
+
+  <main class="blog-ref-page">
+
+
+    <!-- ==================================================
+         PAGE TITLE
+    ================================================== -->
+
+    <section class="blog-ref-title-section">
+
+      <div class="blog-ref-title-inner">
+
+        <div class="blog-ref-number">
+          02
+        </div>
+
+
+        <div class="blog-ref-title">
+
+          <p class="blog-ref-en">
+            BLOG
+          </p>
+
+          <h1>
+            すいとおん。との毎日。
+          </h1>
+
+        </div>
+
+
+        <div
+          class="blog-ref-paw"
+          aria-hidden="true"
+        >
+          🐾
+        </div>
+
+        <div class="page-update-note page-update-note-blog">
+
+        <span class="page-update-note-small">
+          EVERY
+        </span>
+
+          <strong>
+            TUESDAY
+          </strong>
+
+          <span class="page-update-note-ja">
+            毎週 火曜日 更新
+          </span>
+
+</div>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- ==================================================
+         CATEGORY
+    ================================================== -->
+
+    <nav
+      class="blog-ref-category"
+      aria-label="ブログカテゴリ"
+    >
+
+      <div class="blog-ref-category-inner">
+
+        <button
+          class="blog-filter active"
+          data-category="all"
+          type="button"
+        >
+          ALL
+        </button>
+
+        <button
+          class="blog-filter"
+          data-category="walk"
+          type="button"
+        >
+          お散歩
+        </button>
+
+        <button
+          class="blog-filter"
+          data-category="outing"
+          type="button"
+        >
+          おでかけ
+        </button>
+
+        <button
+          class="blog-filter"
+          data-category="goods"
+          type="button"
+        >
+          犬用品
+        </button>
+
+        <button
+          class="blog-filter"
+          data-category="daily"
+          type="button"
+        >
+          日常
+        </button>
+
+      </div>
+
+    </nav>
+
+
+
+    <!-- ==================================================
+         BLOG CONTENT
+    ================================================== -->
+
+    <section class="blog-ref-content">
+
+      <div
+        class="blog-ref-list"
+        id="blogList"
+      >
+      </div>
+
+    </section>
+
+
+
+    <!-- ==================================================
+         BOTTOM DECORATION
+    ================================================== -->
+
+    <div
+      class="blog-ref-bottom"
+      aria-hidden="true"
+    >
+
+      <span class="blog-ref-bottom-line"></span>
+
+      <span class="blog-ref-bottom-paw">
+        🐾
+      </span>
+
+    </div>
+
+
+  </main>
+
+
+
+  <!-- ==================================================
+       FOOTER
+  ================================================== -->
+
+  <footer class="site-footer">
+
+    <div class="footer-inner">
+
+      <div class="footer-brand">
+
+        <a
+          href="sui_to_on_dogsite.html"
+          class="footer-logo"
+        >
+          すいとおん。
+        </a>
+
+        <p class="footer-copy">
+          犬との毎日を、もっと楽しく。
+        </p>
+
+      </div>
+
+
+      <nav class="footer-nav">
+
+        <a href="blog.html">
+          BLOG
+        </a>
+
+        <a href="guide.html">
+          GUIDE
+        </a>
+
+        <a href="items.html">
+          ITEMS
+        </a>
+
+        <a href="event.html">
+          EVENT
+        </a>
+
+        <a href="comic.html">
+          COMIC
+        </a>
+
+        <a href="about.html">
+          ABOUT
+        </a>
+
+      </nav>
+
+
+      <div class="footer-social">
+
+        <a
+          href="https://www.instagram.com/whiteee_blkdogcats/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Instagram ↗
+        </a>
+
+      </div>
+
+    </div>
+
+    <div class="footer-policy-links">
+
+  <a href="privacy.html">
+    PRIVACY POLICY
+  </a>
+
+  <span>/</span>
+
+  <a href="contact.html">
+    CONTACT
+  </a>
+
+</div>
+
+
+    <div class="footer-bottom">
+
+      <p>
+        © 2026 すいとおん。
+      </p>
+
+    </div>
+
+  </footer>
+
+
+
+  <!-- ==================================================
+       JAVASCRIPT
+  ================================================== -->
+
+  <script src="publish-schedule.js"></script>
+  <script src="blog-data.js"></script>
+  <script src="blog.js"></script>
+  <script src="script.js"></script>
+
+
+</body>
+
+</html>

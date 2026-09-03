@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>EVENT | すいとおん。</title>
+
+
+  <!-- FONT -->
+
+  <link
+    rel="preconnect"
+    href="https://fonts.googleapis.com"
+  >
+
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+  >
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Darumadrop+One&family=Noto+Sans+JP:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+
+  <link
+    rel="stylesheet"
+    href="style.css"
+  >
+
+</head>
+
+
+<body class="event-page">
+
+
+  <!-- ==================================================
+       HEADER
+  ================================================== -->
+
+  <header class="site-header">
+
+    <div class="header-inner">
+
+      <a
+        href="sui_to_on_dogsite.html"
+        class="logo home-logo"
+      >
+
+        <span class="logo-main">
+          すいとおん。
+        </span>
+
+        <span class="logo-small">
+          sui &amp; on.
+        </span>
+
+      </a>
+
+
+      <nav class="desktop-nav">
+
+        <a href="sui_to_on_dogsite.html">
+          HOME
+        </a>
+
+        <a href="blog.html">
+          BLOG
+        </a>
+
+        <a href="guide.html">
+          GUIDE
+        </a>
+
+        <a href="items.html">
+          ITEMS
+        </a>
+
+        <a
+          href="event.html"
+          class="current-page"
+        >
+          EVENT
+        </a>
+
+        <a href="comic.html">
+          COMIC
+        </a>
+
+        <a href="about.html">
+          ABOUT
+        </a>
+
+      </nav>
+
+
+      <button
+        class="menu-button"
+        id="menuButton"
+        type="button"
+        aria-label="メニューを開く"
+      >
+        ☰
+      </button>
+
+    </div>
+
+
+    <nav
+      class="mobile-nav"
+      id="mobileNav"
+    >
+
+      <a href="sui_to_on_dogsite.html">
+        HOME
+      </a>
+
+      <a href="blog.html">
+        BLOG
+      </a>
+
+      <a href="guide.html">
+        GUIDE
+      </a>
+
+      <a href="items.html">
+        ITEMS
+      </a>
+
+      <a
+        href="event.html"
+        class="current-page"
+      >
+        EVENT
+      </a>
+
+      <a href="comic.html">
+        COMIC
+      </a>
+
+      <a href="about.html">
+        ABOUT
+      </a>
+
+    </nav>
+
+  </header>
+
+
+
+  <!-- ==================================================
+       MAIN
+  ================================================== -->
+
+  <main class="event-ref-page">
+
+
+    <!-- ==================================================
+         TITLE
+    ================================================== -->
+
+    <section class="event-ref-heading">
+
+      <div class="event-ref-heading-inner">
+
+
+        <div class="event-ref-title-row">
+
+          <span class="event-ref-number">
+            05
+          </span>
+
+
+          <div class="event-ref-title-text">
+
+            <h1>
+              EVENT
+            </h1>
+
+            <p>
+              犬と楽しめる、これからの予定。
+            </p>
+
+          </div>
+
+        </div>
+
+
+        <div
+          class="event-ref-paw"
+          aria-hidden="true"
+        >
+          🐾
+        </div>
+
+        <div class="page-update-note page-update-note-event">
+
+  <span class="page-update-note-small">
+    CHECK
+  </span>
+
+  <strong>
+    UPDATES
+  </strong>
+
+  <span class="page-update-note-ja">
+    随時更新
+  </span>
+
+</div>
+
+
+        <p class="event-ref-description">
+          犬と一緒に楽しめるイベントやマルシェ、<br>
+          譲渡会などの情報をまとめています。
+        </p>
+
+
+      </div>
+
+    </section>
+
+
+
+    <!-- ==================================================
+         FILTER
+    ================================================== -->
+
+    <section class="event-ref-filter">
+
+      <div class="event-ref-filter-inner">
+
+
+        <div class="event-ref-filter-row">
+
+          <span class="event-ref-filter-label">
+            TYPE
+          </span>
+
+
+          <div class="event-filter-buttons">
+
+            <button
+              type="button"
+              class="event-type-button active"
+              data-type="all"
+            >
+              ALL
+            </button>
+
+            <button
+              type="button"
+              class="event-type-button"
+              data-type="event"
+            >
+              EVENT
+            </button>
+
+            <button
+              type="button"
+              class="event-type-button"
+              data-type="adoption"
+            >
+              譲渡会
+            </button>
+
+          </div>
+
+        </div>
+
+
+        <div class="event-ref-filter-row">
+
+          <span class="event-ref-filter-label">
+            REGION
+          </span>
+
+
+  <div class="event-filter-buttons">
+
+  <button
+    type="button"
+    class="event-region-button active"
+    data-region="all"
+  >
+    <span class="event-region-icon">✦</span>
+    <span class="event-region-text">ALL</span>
+  </button>
+
+  <button
+    type="button"
+    class="event-region-button"
+    data-region="hokkaido"
+  >
+    <span class="event-region-icon">❄</span>
+    <span class="event-region-text">北海道</span>
+  </button>
+
+  <button
+    type="button"
+    class="event-region-button"
+    data-region="tohoku"
+  >
+    <span class="event-region-icon">🌾</span>
+    <span class="event-region-text">東北</span>
+  </button>
+
+  <button
+    type="button"
+    class="event-region-button"
+    data-region="kanto"
+  >
+    <span class="event-region-icon">🗼</span>
+    <span class="event-region-text">関東</span>
+  </button>
+
+  <button
+    type="button"
+    class="event-region-button"
+    data-region="chubu"
+  >
+    <span class="event-region-icon">🗻</span>
+    <span class="event-region-text">中部</span>
+  </button>
+
+  <button
+    type="button"
+    class="event-region-button"
+    data-region="kansai"
+  >
+    <span class="event-region-icon">🐙</span>
+    <span class="event-region-text">関西</span>
+  </button>
+
+  <button
+    type="button"
+    class="event-region-button"
+    data-region="chugoku"
+  >
+    <span class="event-region-icon">⛩</span>
+    <span class="event-region-text">中国</span>
+  </button>
+
+  <button
+    type="button"
+    class="event-region-button"
+    data-region="shikoku"
+  >
+    <span class="event-region-icon">🍊</span>
+    <span class="event-region-text">四国</span>
+  </button>
+
+  <button
+    type="button"
+    class="event-region-button"
+    data-region="kyushu"
+  >
+    <span class="event-region-icon">🌺</span>
+    <span class="event-region-text">九州・沖縄</span>
+  </button>
+
+</div>
+
+
+      </div>
+
+    </section>
+
+
+
+    <!-- ==================================================
+         UPCOMING
+    ================================================== -->
+
+    <section class="event-ref-upcoming">
+
+      <div class="event-ref-upcoming-inner">
+
+
+        <div class="event-ref-section-heading">
+
+          <div>
+
+            <p class="event-ref-small">
+              UPCOMING EVENTS
+            </p>
+
+            <h2>
+              これからのイベント
+            </h2>
+
+          </div>
+
+
+          <p>
+            気になるイベントや譲渡会を、<br>
+            種類や地域から探せます。
+          </p>
+
+        </div>
+
+
+
+        <div
+          class="event-ref-list"
+          id="eventList"
+        >
+        </div>
+
+
+      </div>
+
+    </section>
+
+
+
+    <!-- ==================================================
+         CALENDAR
+    ================================================== -->
+
+    <section class="event-ref-calendar-section">
+
+      <div class="event-ref-calendar-inner">
+
+
+        <div class="event-ref-calendar-heading">
+
+          <p class="event-ref-small">
+            CALENDAR
+          </p>
+
+          <h2>
+            イベントカレンダー
+          </h2>
+
+          <p>
+            日程から探したいときはこちら。
+          </p>
+
+        </div>
+
+
+
+        <div class="calendar event-ref-calendar">
+
+
+          <div class="calendar-header">
+
+            <button
+              class="calendar-button"
+              id="prevMonth"
+              type="button"
+              aria-label="前の月"
+            >
+              ‹
+            </button>
+
+
+            <h3 id="calendarTitle">
+            </h3>
+
+
+            <button
+              class="calendar-button"
+              id="nextMonth"
+              type="button"
+              aria-label="次の月"
+            >
+              ›
+            </button>
+
+          </div>
+
+
+
+          <div class="calendar-week">
+
+            <div>SUN</div>
+            <div>MON</div>
+            <div>TUE</div>
+            <div>WED</div>
+            <div>THU</div>
+            <div>FRI</div>
+            <div>SAT</div>
+
+          </div>
+
+
+          <div
+            class="calendar-days"
+            id="calendarDays"
+          >
+          </div>
+
+
+        </div>
+
+
+      </div>
+
+    </section>
+
+
+
+    <!-- ==================================================
+         NOTICE
+    ================================================== -->
+
+    <section class="event-ref-notice">
+
+      <div class="event-ref-notice-inner">
+
+        <p class="event-ref-small">
+          BEFORE YOU GO
+        </p>
+
+        <h2>
+          イベントへ行く前に
+        </h2>
+
+        <p>
+          開催日時や会場、参加条件などは
+          変更・延期・中止になる場合があります。<br>
+          おでかけ前に必ず主催者の
+          公式情報をご確認ください。
+        </p>
+
+      </div>
+
+    </section>
+
+
+
+    <div
+      class="event-ref-ending"
+      aria-hidden="true"
+    >
+      <span>🐾</span>
+    </div>
+
+
+  </main>
+
+
+
+  <!-- ==================================================
+       FOOTER
+  ================================================== -->
+
+  <footer class="site-footer">
+
+    <div class="footer-inner">
+
+      <div class="footer-brand">
+
+        <a
+          href="sui_to_on_dogsite.html"
+          class="footer-logo"
+        >
+          すいとおん。
+        </a>
+
+        <p class="footer-copy">
+          犬との毎日を、もっと楽しく。
+        </p>
+
+      </div>
+
+
+      <nav class="footer-nav">
+
+        <a href="blog.html">
+          BLOG
+        </a>
+
+        <a href="guide.html">
+          GUIDE
+        </a>
+
+        <a href="items.html">
+          ITEMS
+        </a>
+
+        <a href="event.html">
+          EVENT
+        </a>
+
+        <a href="comic.html">
+          COMIC
+        </a>
+
+        <a href="about.html">
+          ABOUT
+        </a>
+
+      </nav>
+
+
+      <div class="footer-social">
+
+        <a
+          href="https://www.instagram.com/whiteee_blkdogcats/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Instagram ↗
+        </a>
+
+      </div>
+
+    </div>
+
+    <div class="footer-policy-links">
+
+  <a href="privacy.html">
+    PRIVACY POLICY
+  </a>
+
+  <span>/</span>
+
+  <a href="contact.html">
+    CONTACT
+  </a>
+
+</div>
+
+
+    <div class="footer-bottom">
+
+      <p>
+        © 2026 すいとおん。
+      </p>
+
+    </div>
+
+  </footer>
+
+
+
+  <!-- ==================================================
+       JAVASCRIPT
+  ================================================== -->
+
+  <script src="blog-data.js"></script>
+  <script src="event-data.js"></script>
+  <script src="calendar.js"></script>
+  <script src="event.js"></script>
+  <script src="script.js"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>
+    CONTACT | すいとおん。
+  </title>
+
+  <meta
+    name="description"
+    content="すいとおん。へのお問い合わせはこちらから。"
+  >
+
+  <link
+    rel="preconnect"
+    href="https://fonts.googleapis.com"
+  >
+
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+  >
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Darumadrop+One&family=Noto+Sans+JP:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+  <link
+    rel="stylesheet"
+    href="style.css"
+  >
+
+</head>
+
+
+<body class="contact-page">
+
+
+  <!-- ==================================================
+       HEADER
+  ================================================== -->
+
+  <header class="site-header">
+
+    <div class="header-inner">
+
+      <a
+        href="sui_to_on_dogsite.html"
+        class="logo"
+      >
+        <span class="logo-main">
+          すいとおん。
+        </span>
+
+        <span class="logo-small">
+          sui &amp; on.
+        </span>
+      </a>
+
+
+      <nav class="desktop-nav">
+
+        <a href="sui_to_on_dogsite.html">
+          HOME
+        </a>
+
+        <a href="blog.html">
+          BLOG
+        </a>
+
+        <a href="guide.html">
+          GUIDE
+        </a>
+
+        <a href="items.html">
+          ITEMS
+        </a>
+
+        <a href="event.html">
+          EVENT
+        </a>
+
+        <a href="comic.html">
+          COMIC
+        </a>
+
+        <a href="about.html">
+          ABOUT
+        </a>
+
+      </nav>
+
+
+      <button
+        class="menu-button"
+        id="menuButton"
+        type="button"
+        aria-label="メニューを開く"
+      >
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+    </div>
+
+
+    <nav class="mobile-nav" id="mobileNav">
+
+      <a href="sui_to_on_dogsite.html">
+        HOME
+      </a>
+
+      <a href="blog.html">
+        BLOG
+      </a>
+
+      <a href="guide.html">
+        GUIDE
+      </a>
+
+      <a href="items.html">
+        ITEMS
+      </a>
+
+      <a href="event.html">
+        EVENT
+      </a>
+
+      <a href="comic.html">
+        COMIC
+      </a>
+
+      <a href="about.html">
+        ABOUT
+      </a>
+
+    </nav>
+
+  </header>
+
+
+  <!-- ==================================================
+       MAIN
+  ================================================== -->
+
+  <main class="contact-ref-page">
+
+
+    <!-- ==================================================
+         HEADING
+    ================================================== -->
+
+    <section class="contact-ref-heading">
+
+      <div class="contact-ref-heading-inner">
+
+        <p class="contact-ref-small">
+          SAY HELLO!
+        </p>
+
+        <h1>
+          CONTACT
+        </h1>
+
+        <p class="contact-ref-ja">
+          お問い合わせ
+        </p>
+
+        <p class="contact-ref-description">
+          「すいとおん。」へのお問い合わせはこちらから。
+          ご感想や掲載内容についてのご連絡など、
+          お気軽にお送りください。
+        </p>
+
+        <span
+          class="contact-ref-paw"
+          aria-hidden="true"
+        >
+          🐾
+        </span>
+
+      </div>
+
+    </section>
+
+
+    <!-- ==================================================
+         FORM
+    ================================================== -->
+
+    <section class="contact-ref-form-section">
+
+      <div class="contact-ref-form-inner">
+
+
+        <div class="contact-ref-note">
+
+          <span class="contact-ref-note-small">
+            MESSAGE
+          </span>
+
+          <strong>
+            HELLO!
+          </strong>
+
+          <span class="contact-ref-note-ja">
+            お気軽にどうぞ。
+          </span>
+
+        </div>
+
+
+        <form
+          id="contactForm"
+          class="contact-ref-form"
+        >
+
+
+          <!-- NAME -->
+
+          <div class="contact-ref-field">
+
+            <label for="contactName">
+
+              <span class="contact-ref-field-en">
+                NAME
+              </span>
+
+              <span class="contact-ref-field-ja">
+                お名前
+              </span>
+
+            </label>
+
+            <input
+              type="text"
+              id="contactName"
+              name="name"
+              autocomplete="name"
+              maxlength="100"
+              required
+            >
+
+          </div>
+
+
+          <!-- EMAIL -->
+
+          <div class="contact-ref-field">
+
+            <label for="contactEmail">
+
+              <span class="contact-ref-field-en">
+                EMAIL
+              </span>
+
+              <span class="contact-ref-field-ja">
+                メールアドレス
+              </span>
+
+            </label>
+
+            <input
+              type="email"
+              id="contactEmail"
+              name="email"
+              autocomplete="email"
+              maxlength="254"
+              required
+            >
+
+          </div>
+
+
+          <!-- SUBJECT -->
+
+          <div class="contact-ref-field">
+
+            <label for="contactSubject">
+
+              <span class="contact-ref-field-en">
+                SUBJECT
+              </span>
+
+              <span class="contact-ref-field-ja">
+                お問い合わせ内容
+              </span>
+
+            </label>
+
+            <select
+              id="contactSubject"
+              name="subject"
+              required
+            >
+
+              <option value="">
+                選択してください
+              </option>
+
+              <option value="site">
+                サイトについて
+              </option>
+
+              <option value="event">
+                イベント掲載について
+              </option>
+
+              <option value="product">
+                商品・掲載について
+              </option>
+
+              <option value="other">
+                その他
+              </option>
+
+            </select>
+
+          </div>
+
+
+          <!-- MESSAGE -->
+
+          <div class="contact-ref-field">
+
+            <label for="contactMessage">
+
+              <span class="contact-ref-field-en">
+                MESSAGE
+              </span>
+
+              <span class="contact-ref-field-ja">
+                メッセージ
+              </span>
+
+            </label>
+
+            <textarea
+              id="contactMessage"
+              name="message"
+              rows="8"
+              maxlength="3000"
+              required
+            ></textarea>
+
+          </div>
+
+
+          <!-- PRIVACY -->
+
+          <div class="contact-ref-privacy">
+
+            <label>
+
+              <input
+                type="checkbox"
+                id="contactPrivacy"
+                required
+              >
+
+              <span>
+
+                <a
+                  href="privacy.html"
+                  target="_blank"
+                  rel="noopener"
+                >
+                  プライバシーポリシー
+                </a>
+
+                に同意して送信します。
+
+              </span>
+
+            </label>
+
+          </div>
+
+
+          <!-- HONEYPOT -->
+
+          <div
+            class="contact-ref-honeypot"
+            aria-hidden="true"
+          >
+
+            <label for="contactWebsite">
+              Website
+            </label>
+
+            <input
+              type="text"
+              id="contactWebsite"
+              name="website"
+              tabindex="-1"
+              autocomplete="off"
+            >
+
+          </div>
+
+
+          <!-- SUBMIT -->
+
+          <div class="contact-ref-submit">
+
+            <button
+              type="submit"
+              id="contactSubmit"
+            >
+
+              <span>
+                SEND MESSAGE
+              </span>
+
+              <span aria-hidden="true">
+                →
+              </span>
+
+            </button>
+
+          </div>
+
+
+          <!-- STATUS -->
+
+          <p
+            id="contactStatus"
+            class="contact-ref-status"
+            aria-live="polite"
+          ></p>
+
+
+        </form>
+
+
+      </div>
+
+    </section>
+
+
+    <!-- ==================================================
+         END
+    ================================================== -->
+
+    <div
+      class="contact-ref-ending"
+      aria-hidden="true"
+    >
+
+      <span>
+        🐾
+      </span>
+
+      <span>
+        🐾
+      </span>
+
+    </div>
+
+
+  </main>
+
+
+  <!-- ==================================================
+       FOOTER
+  ================================================== -->
+
+  <footer class="site-footer">
+
+    <div class="footer-inner">
+
+      <div class="footer-logo">
+        すいとおん。
+      </div>
+
+
+      <div class="footer-policy-links">
+
+        <a href="privacy.html">
+          PRIVACY POLICY
+        </a>
+
+        <span>
+          /
+        </span>
+
+        <a href="contact.html">
+          CONTACT
+        </a>
+
+      </div>
+
+
+      <p>
+        © 2026 すいとおん。
+      </p>
+
+    </div>
+
+  </footer>
+
+
+  <script src="contact.js"></script>
+  <script src="script.js"></script>
+
+</body>
+
+</html>

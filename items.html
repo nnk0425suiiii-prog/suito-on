@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>ITEMS | すいとおん。</title>
+
+
+  <!-- FONT -->
+
+  <link
+    rel="preconnect"
+    href="https://fonts.googleapis.com"
+  >
+
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+  >
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Darumadrop+One&family=Noto+Sans+JP:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+
+  <link
+    rel="stylesheet"
+    href="style.css"
+  >
+
+</head>
+
+
+<body class="items-page">
+
+
+  <!-- ==================================================
+       HEADER
+  ================================================== -->
+
+  <header class="site-header">
+
+    <div class="header-inner">
+
+
+      <!-- LOGO -->
+
+      <a
+        href="sui_to_on_dogsite.html"
+        class="logo home-logo"
+      >
+
+        <span class="logo-main">
+          すいとおん。
+        </span>
+
+        <span class="logo-small">
+          sui &amp; on.
+        </span>
+
+      </a>
+
+
+
+      <!-- PC MENU -->
+
+      <nav class="desktop-nav">
+
+        <a href="sui_to_on_dogsite.html">
+          HOME
+        </a>
+
+        <a href="blog.html">
+          BLOG
+        </a>
+
+        <a href="guide.html">
+          GUIDE
+        </a>
+
+        <a
+          href="items.html"
+          class="current-page"
+        >
+          ITEMS
+        </a>
+
+        <a href="event.html">
+          EVENT
+        </a>
+
+        <a href="comic.html">
+          COMIC
+        </a>
+
+        <a href="about.html">
+          ABOUT
+        </a>
+
+      </nav>
+
+
+
+      <!-- MOBILE MENU BUTTON -->
+
+      <button
+        class="menu-button"
+        id="menuButton"
+        type="button"
+        aria-label="メニューを開く"
+      >
+        ☰
+      </button>
+
+    </div>
+
+
+
+    <!-- MOBILE MENU -->
+
+    <nav
+      class="mobile-nav"
+      id="mobileNav"
+    >
+
+      <a href="sui_to_on_dogsite.html">
+        HOME
+      </a>
+
+      <a href="blog.html">
+        BLOG
+      </a>
+
+      <a href="guide.html">
+        GUIDE
+      </a>
+
+      <a
+        href="items.html"
+        class="current-page"
+      >
+        ITEMS
+      </a>
+
+      <a href="event.html">
+        EVENT
+      </a>
+
+      <a href="comic.html">
+        COMIC
+      </a>
+
+      <a href="about.html">
+        ABOUT
+      </a>
+
+    </nav>
+
+  </header>
+
+
+
+  <!-- ==================================================
+       MAIN
+  ================================================== -->
+
+  <main class="items-ref-page">
+
+
+    <!-- ==================================================
+         TITLE
+    ================================================== -->
+
+    <section class="items-ref-heading">
+
+      <div class="items-ref-heading-inner">
+
+
+        <div class="items-ref-title-row">
+
+          <span class="items-ref-number">
+            04
+          </span>
+
+
+          <div class="items-ref-title-text">
+
+            <h1>
+              ITEMS
+            </h1>
+
+            <p>
+              すいとおん。の愛用品。
+            </p>
+
+          </div>
+
+        </div>
+
+
+        <div
+          class="items-ref-paw"
+          aria-hidden="true"
+        >
+          🐾
+        </div>
+
+        <div class="page-update-note page-update-note-items">
+
+  <span class="page-update-note-small">
+    CHECK
+  </span>
+
+  <strong>
+    UPDATES
+  </strong>
+
+  <span class="page-update-note-ja">
+    随時更新
+  </span>
+
+</div>
+
+
+        <p class="items-ref-description">
+          実際に使っているものや、<br>
+          暮らしの中で「よかった」と思ったものをまとめています。
+        </p>
+
+
+      </div>
+
+    </section>
+
+
+
+    <!-- ==================================================
+         FILTER
+    ================================================== -->
+
+    <section class="items-ref-filter">
+
+      <div class="items-ref-filter-inner">
+
+
+        <!-- WHO -->
+
+        <div class="items-ref-filter-row">
+
+          <span class="items-ref-filter-label">
+            WHO
+          </span>
+
+
+          <div class="items-filter-buttons">
+
+            <button
+              type="button"
+              class="items-filter-button active"
+              data-dog="all"
+            >
+              ALL
+            </button>
+
+            <button
+              type="button"
+              class="items-filter-button filter-sui"
+              data-dog="SUI"
+            >
+              SUI
+            </button>
+
+            <button
+              type="button"
+              class="items-filter-button filter-on"
+              data-dog="ON"
+            >
+              ON
+            </button>
+
+            <button
+              type="button"
+              class="items-filter-button"
+              data-dog="BOTH"
+            >
+              BOTH
+            </button>
+
+          </div>
+
+        </div>
+
+
+
+ <!-- CATEGORY -->
+
+<div class="items-ref-filter-row items-ref-category-row">
+
+  <span class="items-ref-filter-label">
+    CATEGORY
+  </span>
+
+  <div class="items-filter-buttons items-category-buttons">
+
+    <button
+      type="button"
+      class="items-filter-button items-category-button active"
+      data-category="all"
+    >
+      <span class="items-category-icon">✦</span>
+      <span class="items-category-text">ALL</span>
+    </button>
+
+    <button
+      type="button"
+      class="items-filter-button items-category-button"
+      data-category="walk"
+    >
+      <span class="items-category-icon">🐾</span>
+      <span class="items-category-text">お散歩</span>
+    </button>
+
+    <button
+      type="button"
+      class="items-filter-button items-category-button"
+      data-category="outing"
+    >
+      <span class="items-category-icon">👜</span>
+      <span class="items-category-text">おでかけ</span>
+    </button>
+
+    <button
+      type="button"
+      class="items-filter-button items-category-button"
+      data-category="home"
+    >
+      <span class="items-category-icon">⌂</span>
+      <span class="items-category-text">おうち</span>
+    </button>
+
+    <button
+      type="button"
+      class="items-filter-button items-category-button"
+      data-category="care"
+    >
+      <span class="items-category-icon">✧</span>
+      <span class="items-category-text">ケア</span>
+    </button>
+
+    <button
+      type="button"
+      class="items-filter-button items-category-button"
+      data-category="other"
+    >
+      <span class="items-category-icon">＋</span>
+      <span class="items-category-text">その他</span>
+    </button>
+
+  </div>
+
+</div>
+
+
+
+    <!-- ==================================================
+         ITEM LIST
+    ================================================== -->
+
+    <section class="items-ref-list-section">
+
+      <div class="items-ref-list-inner">
+
+        <div
+          class="items-ref-grid"
+          id="itemsList"
+        >
+        </div>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- ==================================================
+         NOTE
+    ================================================== -->
+
+    <section class="items-ref-note">
+
+      <div class="items-ref-note-inner">
+
+        <p class="items-ref-note-en">
+          OUR REAL FAVORITES
+        </p>
+
+        <h2>
+          実際に使っているものを。
+        </h2>
+
+        <p>
+          ここに載せているのは、
+          すいとおん。が実際に使っているものが中心です。<br>
+          BLOGで詳しく紹介しているものは、
+          商品カードから記事も読めます。
+        </p>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- END -->
+
+    <div
+      class="items-ref-ending"
+      aria-hidden="true"
+    >
+      <span>🐾</span>
+    </div>
+
+
+  </main>
+
+
+
+  <!-- ==================================================
+       FOOTER
+  ================================================== -->
+
+  <footer class="site-footer">
+
+    <div class="footer-inner">
+
+      <div class="footer-brand">
+
+        <a
+          href="sui_to_on_dogsite.html"
+          class="footer-logo"
+        >
+          すいとおん。
+        </a>
+
+        <p class="footer-copy">
+          犬との毎日を、もっと楽しく。
+        </p>
+
+      </div>
+
+
+      <nav class="footer-nav">
+
+        <a href="blog.html">
+          BLOG
+        </a>
+
+        <a href="guide.html">
+          GUIDE
+        </a>
+
+        <a href="items.html">
+          ITEMS
+        </a>
+
+        <a href="event.html">
+          EVENT
+        </a>
+
+        <a href="comic.html">
+          COMIC
+        </a>
+
+        <a href="about.html">
+          ABOUT
+        </a>
+
+      </nav>
+
+
+      <div class="footer-social">
+
+        <a
+          href="https://www.instagram.com/whiteee_blkdogcats/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Instagram ↗
+        </a>
+
+      </div>
+
+    </div>
+
+    <div class="footer-policy-links">
+
+  <a href="privacy.html">
+    PRIVACY POLICY
+  </a>
+
+  <span>/</span>
+
+  <a href="contact.html">
+    CONTACT
+  </a>
+
+</div>
+
+
+    <div class="footer-bottom">
+
+      <p>
+        © 2026 すいとおん。
+      </p>
+
+    </div>
+
+  </footer>
+
+
+
+  <!-- ==================================================
+       JAVASCRIPT
+  ================================================== -->
+
+  <script src="blog-data.js"></script>
+  <script src="items-data.js"></script>
+  <script src="items.js"></script>
+  <script src="items-like.js"></script>
+  <script src="script.js"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>GUIDE | すいとおん。</title>
+
+
+  <!-- FONT -->
+
+  <link
+    rel="preconnect"
+    href="https://fonts.googleapis.com"
+  >
+
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+  >
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Darumadrop+One&family=Noto+Sans+JP:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+
+  <link
+    rel="stylesheet"
+    href="style.css"
+  >
+
+</head>
+
+
+<body class="guide-article-page">
+
+
+  <!-- ==================================================
+       HEADER
+  ================================================== -->
+
+  <header class="site-header">
+
+    <div class="header-inner">
+
+<a
+  href="sui_to_on_dogsite.html"
+  class="logo home-logo"
+>
+
+  <span class="logo-main">
+    すいとおん。
+  </span>
+
+  <span class="logo-small">
+    sui &amp; on.
+  </span>
+
+</a>
+
+
+      <nav class="desktop-nav">
+
+        <a href="sui_to_on_dogsite.html">
+          HOME
+        </a>
+
+        <a href="blog.html">
+          BLOG
+        </a>
+
+        <a
+          href="guide.html"
+          class="current-page"
+        >
+          GUIDE
+        </a>
+
+        <a href="items.html">
+          ITEMS
+        </a>
+
+        <a href="event.html">
+          EVENT
+        </a>
+
+        <a href="comic.html">
+          COMIC
+        </a>
+
+        <a href="about.html">
+          ABOUT
+        </a>
+
+      </nav>
+
+
+      <button
+        class="menu-button"
+        id="menuButton"
+        type="button"
+        aria-label="メニューを開く"
+      >
+        ☰
+      </button>
+
+    </div>
+
+
+    <nav
+      class="mobile-nav"
+      id="mobileNav"
+    >
+
+      <a href="sui_to_on_dogsite.html">
+        HOME
+      </a>
+
+      <a href="blog.html">
+        BLOG
+      </a>
+
+      <a
+        href="guide.html"
+        class="current-page"
+      >
+        GUIDE
+      </a>
+
+      <a href="items.html">
+        ITEMS
+      </a>
+
+      <a href="event.html">
+        EVENT
+      </a>
+
+      <a href="comic.html">
+        COMIC
+      </a>
+
+      <a href="about.html">
+        ABOUT
+      </a>
+
+    </nav>
+
+  </header>
+
+
+
+  <!-- ==================================================
+       GUIDE ARTICLE
+  ================================================== -->
+
+  <main class="guide-article-ref-page">
+
+    <article
+      class="article"
+      id="guideArticle"
+    >
+
+
+      <!-- ==================================================
+           ARTICLE HEADER
+      ================================================== -->
+
+      <header class="guide-article-ref-header">
+
+        <div class="guide-article-ref-header-inner">
+
+
+          <!-- GUIDE LABEL -->
+
+          <div class="guide-article-ref-label">
+
+            <span class="guide-article-ref-number">
+              03
+            </span>
+
+
+            <div>
+
+              <span class="guide-article-ref-guide">
+                GUIDE
+              </span>
+
+              <a
+                href="guide.html"
+                class="guide-article-ref-back"
+              >
+                ← BACK TO GUIDE
+              </a>
+
+            </div>
+
+          </div>
+
+
+
+          <!-- META -->
+
+          <div class="guide-article-ref-meta">
+
+            <time id="guideArticleDate">
+            </time>
+
+            <span id="guideArticleCategory">
+            </span>
+
+          </div>
+
+
+
+          <!-- TITLE -->
+
+          <h1 id="guideArticleTitle">
+          </h1>
+
+
+
+          <!-- LEAD -->
+
+          <p
+            class="article-lead"
+            id="guideArticleLead"
+          >
+          </p>
+
+
+
+          <!-- DECORATION -->
+
+          <div
+            class="guide-article-ref-paw"
+            aria-hidden="true"
+          >
+            🐾
+          </div>
+
+
+          <span
+            class="guide-article-ref-note"
+            aria-hidden="true"
+          >
+            KEEP THIS!
+          </span>
+
+
+        </div>
+
+      </header>
+
+
+
+      <!-- ==================================================
+           MAIN IMAGE
+      ================================================== -->
+
+      <section class="guide-article-ref-main-image">
+
+        <div class="guide-article-ref-photo">
+
+          <span
+            class="guide-article-ref-tape"
+            aria-hidden="true"
+          ></span>
+
+          <img
+            id="guideArticleImage"
+            src=""
+            alt=""
+          >
+
+        </div>
+
+      </section>
+
+
+
+      <!-- ==================================================
+           BODY
+      ================================================== -->
+
+      <section class="guide-article-ref-body-wrap">
+
+        <div
+          class="article-body"
+          id="guideArticleBody"
+        >
+        </div>
+
+      </section>
+
+
+
+      <!-- ==================================================
+           GUIDE LIKE
+      ================================================== -->
+
+      <section
+        class="article-like guide-article-ref-like"
+        id="guideLike"
+      >
+
+        <div class="guide-article-ref-like-inner">
+
+          <p class="guide-article-ref-like-small">
+            WAS THIS HELPFUL?
+          </p>
+
+          <p class="article-like-text">
+            このガイド、役に立った？
+          </p>
+
+
+          <button
+            class="article-like-button"
+            id="guideLikeButton"
+            type="button"
+          >
+
+            <span
+              class="article-like-heart"
+              id="guideLikeHeart"
+            >
+              ♡
+            </span>
+
+            <span
+              class="article-like-count"
+              id="guideLikeCount"
+            >
+              0
+            </span>
+
+          </button>
+
+        </div>
+
+      </section>
+
+
+
+      <!-- ==================================================
+           GUIDE NAVIGATION
+      ================================================== -->
+
+      <nav
+        class="article-navigation guide-article-ref-navigation"
+        id="guideNavigation"
+        aria-label="前後のガイド"
+      >
+
+        <div
+          class="article-navigation-item article-navigation-prev"
+          id="previousGuide"
+        >
+        </div>
+
+
+        <div
+          class="article-navigation-item article-navigation-next"
+          id="nextGuide"
+        >
+        </div>
+
+      </nav>
+
+
+
+      <!-- ==================================================
+           BACK
+      ================================================== -->
+
+      <footer class="article-footer guide-article-ref-footer">
+
+        <a href="guide.html">
+          <span>←</span>
+          GUIDE一覧へ戻る
+        </a>
+
+      </footer>
+
+
+
+      <!-- ==================================================
+           ENDING
+      ================================================== -->
+
+      <div
+        class="guide-article-ref-ending"
+        aria-hidden="true"
+      >
+
+        <span>
+          🐾
+        </span>
+
+      </div>
+
+
+    </article>
+
+  </main>
+
+
+
+  <!-- ==================================================
+       SITE FOOTER
+  ================================================== -->
+
+  <footer class="site-footer">
+
+    <div class="footer-inner">
+
+      <div class="footer-brand">
+
+        <a
+          href="sui_to_on_dogsite.html"
+          class="footer-logo"
+        >
+          すいとおん。
+        </a>
+
+        <p class="footer-copy">
+          犬との毎日を、もっと楽しく。
+        </p>
+
+      </div>
+
+
+      <nav class="footer-nav">
+
+        <a href="blog.html">
+          BLOG
+        </a>
+
+        <a href="guide.html">
+          GUIDE
+        </a>
+
+        <a href="items.html">
+          ITEMS
+        </a>
+
+        <a href="event.html">
+          EVENT
+        </a>
+
+        <a href="comic.html">
+          COMIC
+        </a>
+
+        <a href="about.html">
+          ABOUT
+        </a>
+
+      </nav>
+
+
+      <div class="footer-social">
+
+        <a
+          href="https://www.instagram.com/whiteee_blkdogcats/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Instagram ↗
+        </a>
+
+      </div>
+
+    </div>
+
+    <div class="footer-policy-links">
+
+  <a href="privacy.html">
+    PRIVACY POLICY
+  </a>
+
+  <span>/</span>
+
+  <a href="contact.html">
+    CONTACT
+  </a>
+
+</div>
+
+
+    <div class="footer-bottom">
+
+      <p>
+        © 2026 すいとおん。
+      </p>
+
+    </div>
+
+  </footer>
+
+
+
+  <!-- ==================================================
+       JAVASCRIPT
+  ================================================== -->
+
+  <script src="publish-schedule.js"></script>
+  <script src="guide-data.js"></script>
+  <script src="guide-article.js"></script>
+  <script src="guide-like.js"></script>
+  <script src="script.js"></script>
+
+
+</body>
+
+</html>
