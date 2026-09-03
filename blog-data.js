@@ -595,10 +595,6 @@ const blogPosts = [
   datetime:
     "2026-08-29",
 
-  // ここから先のBLOGは毎週火曜10:00に1記事ずつ自動公開
-  // date / datetime は公開予定日に自動で置き換わります
-  queue: true,
-
   category:
     "犬用品",
 
