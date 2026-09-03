@@ -18691,3 +18691,175 @@ body.contact-page {
     font-size: 8px;
   }
 }
+
+/* ==================================================
+   HOME / INSTAGRAM LATEST POST
+   2026-09-03: black editorial frame
+================================================== */
+.home-page .home-instagram-latest {
+  position: relative;
+  width: min(292px, 100%);
+  overflow: visible;
+  border: 3px solid #292929;
+  border-radius: 2px;
+  background: #fffdf8;
+  box-shadow: 7px 7px 0 #292929;
+  transform: rotate(-0.7deg);
+  isolation: isolate;
+}
+.home-page .home-instagram-latest::before {
+  content: "";
+  position: absolute;
+  inset: 8px -9px -9px 8px;
+  border: 1px solid rgba(41,41,41,.18);
+  pointer-events: none;
+  z-index: -2;
+}
+.home-page .home-instagram-accent {
+  position: absolute;
+  z-index: 3;
+  display: block;
+  border: 2px solid #292929;
+  pointer-events: none;
+}
+.home-page .home-instagram-accent-blue {
+  width: 21px;
+  height: 21px;
+  top: -12px;
+  left: 18px;
+  border-radius: 50%;
+  background: #62a8bd;
+}
+.home-page .home-instagram-accent-orange {
+  width: 29px;
+  height: 10px;
+  right: 17px;
+  bottom: -7px;
+  background: #e47a4e;
+  transform: rotate(-5deg);
+}
+.home-page .home-instagram-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 15px 14px 12px;
+  border-bottom: 2px solid #292929;
+}
+.home-page .home-instagram-head-copy { min-width: 0; }
+.home-page .home-instagram-kicker {
+  margin: 0;
+  font-family: "Darumadrop One", sans-serif;
+  font-size: 15px;
+  line-height: 1;
+  letter-spacing: .12em;
+}
+.home-page .home-instagram-account {
+  margin: 5px 0 0;
+  font-size: 9px;
+  line-height: 1.2;
+  letter-spacing: .05em;
+  color: #555;
+}
+.home-page .home-instagram-latest-label {
+  flex: 0 0 auto;
+  padding: 4px 7px 3px;
+  border: 1px solid #292929;
+  background: #f6f0e5;
+  font-family: "Darumadrop One", sans-serif;
+  font-size: 8px;
+  line-height: 1;
+  letter-spacing: .1em;
+}
+.home-page .home-instagram-media {
+  position: relative;
+  display: block;
+  width: calc(100% - 22px);
+  margin: 11px;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border: 2px solid #292929;
+  background: #eee;
+}
+.home-page .home-instagram-media::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,.22);
+  pointer-events: none;
+}
+.home-page .home-instagram-media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform .35s ease;
+}
+.home-page .home-instagram-media:hover img { transform: scale(1.025); }
+.home-page .home-instagram-body {
+  padding: 0 13px 13px;
+}
+.home-page .home-instagram-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 2px 0 9px;
+  font-family: Arial, sans-serif;
+  font-size: 19px;
+  line-height: 1;
+  color: #292929;
+}
+.home-page .home-instagram-actions span { display: inline-block; }
+.home-page .home-instagram-save { margin-left: auto; }
+.home-page .home-instagram-caption {
+  margin: 0;
+  padding: 9px 0 10px;
+  border-top: 1px solid rgba(41,41,41,.18);
+  border-bottom: 1px solid rgba(41,41,41,.18);
+  font-size: 10px;
+  line-height: 1.8;
+  color: #444;
+}
+.home-page .home-instagram-footer-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding-top: 10px;
+}
+.home-page .home-instagram-note {
+  font-size: 7px;
+  line-height: 1.2;
+  letter-spacing: .12em;
+  color: #777;
+}
+.home-page .home-instagram-view {
+  flex: 0 0 auto;
+  padding: 5px 8px 4px;
+  border: 1px solid #292929;
+  background: #292929;
+  font-family: "Darumadrop One", sans-serif;
+  font-size: 9px;
+  line-height: 1;
+  letter-spacing: .08em;
+  color: #fffdf8;
+  transition: transform .2s ease, background .2s ease, color .2s ease;
+}
+.home-page .home-instagram-view:hover {
+  transform: translate(-1px,-1px);
+  background: #fffdf8;
+  color: #292929;
+}
+.home-page .home-instagram-latest.is-live .home-instagram-latest-label {
+  background: #e47a4e;
+}
+@media (max-width: 760px) {
+  .home-page .home-instagram-latest {
+    order: 2;
+    width: min(318px, calc(100% - 10px));
+    margin: 4px auto 8px;
+    transform: rotate(-0.35deg);
+    box-shadow: 6px 6px 0 #292929;
+  }
+  .home-page .home-instagram-kicker { font-size: 14px; }
+}
