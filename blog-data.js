@@ -1742,6 +1742,8 @@ const blogPosts = [
 
   date:
     "2026.09.08",
+   datetime:
+      "2026.09.08",
    
    queue:
     true,
