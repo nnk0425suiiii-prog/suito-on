@@ -2699,8 +2699,38 @@ const blogPosts = [
 
   `,
 
-  products: []
+[products: [
 
+      {
+        id:
+          "air-tag",
+
+        category:
+          "おうち",
+
+        categoryId:
+          "home",
+
+        name:
+          "airtag エアタグ",
+
+        image:
+          "blog/images/product-06.png",
+
+        price:
+          "¥4,999",
+
+        dog:
+          "BOTH",
+
+        description:
+          "なんかあった時のために、ハーネスにエアタグを忍び込ませております",
+
+        url:
+          "https://www.amazon.co.jp/エアタグ（4個セット）-【9月発売！第2世代-全球GPS高精度測位】-（Apple「探す」対応-技適認証・MFI認証済み/dp/B0FPD2JMWM/ref=sr_1_11_sspa?__mk_ja_JP=カタカナ&crid=99FCUHK8M1NX&dib=eyJ2IjoiMSJ9.rriQthA7az5zEh3BFkRGV6l9OISXgM4YuHhQyUD5CXW3ctn04bj37J1k0wSzKQfFVfo7pwI9vp_MjprzzB6c3OQq16mRUfESP4brdh_pce7hls0L2EV54Bl2tZ6s1quP999TOly-4e3ErPBiFCaayUxwDtUp-u-rHK3OMVHrIn2azEDxR84p1WvXdck0jszYJvhUBb4B7kNAx0iAMwrnrQCPTq_vCXldaGPxG_IcLPA85WPafiaK5RFcZjK2tJ52MTX3EMFVM03JBwxfMF0AIeXzCLwb5jq4qjkY5npvkMI.SbQ832UHrZOdjnaQUSFvfDu-7bMBiNB1P8jzOKzyoF8&dib_tag=se&keywords=エアタグ&qid=1788697541&sprefix=エアタグ%2Caps%2C284&sr=8-11-spons&ufe=app_do%3Aamzn1.fos.35785624-70c4-44ae-a5c3-3f044f475d63&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1"
+      }
+
+    ]
 }
 
 ];
