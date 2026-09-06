@@ -2699,7 +2699,7 @@ const blogPosts = [
 
   `,
 
-[products: [
+products: [
 
       {
         id:
