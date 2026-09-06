@@ -4416,9 +4416,15 @@ footer {
 
 .home-page .home-ref-story-inner {
   display: grid;
-  grid-template-columns: minmax(0, 2.4fr) minmax(290px, .78fr);
-  gap: 42px;
+
+  grid-template-columns:
+    minmax(0, 2fr)
+    minmax(370px, .95fr);
+
+  gap: 38px;
+
   align-items: stretch;
+
   max-width: 1450px;
   margin: 0 auto;
 }
@@ -4644,14 +4650,20 @@ footer {
 .home-page .home-ref-comic {
   display: flex;
   flex-direction: column;
+
   min-width: 0;
-  padding-left: 34px;
-  border-left: 1px solid var(--ref-line);
+
+  padding-left: 26px;
+
+  border-left:
+    1px solid var(--ref-line);
 }
 
 .home-page .home-ref-comic-body {
   width: 100%;
-  max-width: 340px;
+
+  max-width: 400px;
+
   margin: 0 auto;
 }
 
