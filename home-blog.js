@@ -61,11 +61,28 @@ if (homeBlogList) {
   const latestPosts =
     [...blogPosts]
 
+      /* =========================
+         公開済み記事だけ表示
+      ========================= */
+
+      .filter(post =>
+        typeof isContentPublished !== "function"
+        || isContentPublished(post)
+      )
+
+      /* =========================
+         新しい順
+      ========================= */
+
       .sort(
         (a, b) =>
           new Date(b.datetime) -
           new Date(a.datetime)
       )
+
+      /* =========================
+         最新3記事
+      ========================= */
 
       .slice(0, 3);
 
