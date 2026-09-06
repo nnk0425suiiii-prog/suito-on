@@ -15,7 +15,7 @@ const comicSeriesData = [
     "すいを見つけた日から、お迎えして家族になるまでのお話。",
 
   thumbnail:
-    "images/comic/comic-deai-thumb.png",
+    "images/comic/comic-deai-thumb1.png",
 
   comingSoon:
     false
