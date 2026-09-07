@@ -420,7 +420,7 @@ const calendarEvents = [
     "埼玉県越谷市レイクタウン8丁目",
 
   image:
-    "event/inu-no-yomatsuri-laketown-2026.png",
+    "images/event/inu-no-yomatsuri-laketown-2026.png",
 
   mapUrl:
     "https://www.google.com/maps/search/?api=1&query=見田方遺跡公園",
@@ -519,7 +519,7 @@ const calendarEvents = [
     "福島県郡山市南2丁目52",
 
   image:
-    "event/uchinoco-ichiba-koriyama-dx-2026.png",
+    "images/event/uchinoco-ichiba-koriyama-dx-2026.png",
 
   mapUrl:
     "https://www.google.com/maps/search/?api=1&query=ビッグパレットふくしま",
@@ -613,7 +613,7 @@ const calendarEvents = [
     "東京都江東区青海1丁目1",
 
   image:
-    "event/festa-autumn.png",
+    "images/event/festa-autumn.png",
 
   mapUrl:
     "https://www.google.com/maps/search/?api=1&query=お台場セントラル広場",
@@ -709,7 +709,7 @@ const calendarEvents = [
     "神奈川県横浜市金沢区白帆5-2",
 
   image:
-    "event/yokohama-bayside.png",
+    "images/event/yokohama-bayside.png",
 
   mapUrl:
     "https://www.google.com/maps/search/?api=1&query=三井アウトレットパーク横浜ベイサイド",
