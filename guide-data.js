@@ -953,9 +953,6 @@ const guidePosts = [
     title:
       "雨の日、お散歩どうする？ 外に出られない日の過ごし方",
 
-    date:
-      "2026.09.01",
-
     queue:
       true,
 
@@ -1317,8 +1314,6 @@ const guidePosts = [
 
     title:
       "季節の変わり目、犬も体調を崩しやすい？",
-     
-   date: "2026.09.04",
 
    queue: true,
 
