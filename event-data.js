@@ -231,7 +231,7 @@ const calendarEvents = [
       "kanto",
 
 
-    prefecture:
+    :
       "神奈川県",
 
 
@@ -323,6 +323,9 @@ const calendarEvents = [
   title:
     "TAMA DOG FES in 南町田鶴間公園",
 
+       region:
+      "kanto",
+
   prefecture:
     "東京都",
 
@@ -409,6 +412,8 @@ const calendarEvents = [
 
   title:
     "いぬの夜まつり",
+       region:
+      "kanto",
 
   prefecture:
     "埼玉県",
@@ -508,6 +513,8 @@ const calendarEvents = [
 
   title:
     "うちの仔市場 in 郡山DX vol.14",
+       region:
+      "tohoku",
 
   prefecture:
     "福島県",
@@ -602,6 +609,9 @@ const calendarEvents = [
 
   title:
     "ジャパンわんこフェスタ2026 秋",
+
+       region:
+      "kanto",
 
   prefecture:
     "東京都",
@@ -698,6 +708,9 @@ const calendarEvents = [
 
   title:
     "わんてらす in 三井アウトレットパーク 横浜ベイサイド 2026秋",
+
+       region:
+      "kanto",
 
   prefecture:
     "神奈川県",
