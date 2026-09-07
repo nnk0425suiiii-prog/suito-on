@@ -18,7 +18,11 @@ function createBlogItems() {
     return blogItems;
   }
 
+   blogPosts.forEach(post => {
 
+   if (post.queue === true) {
+     return;
+   }
 
     if (
       !post.products ||
