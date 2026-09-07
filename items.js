@@ -19,9 +19,6 @@ function createBlogItems() {
   }
 
 
-if (post.queue === true) {
-  return;
-}
 
     if (
       !post.products ||
