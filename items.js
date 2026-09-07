@@ -19,10 +19,9 @@ function createBlogItems() {
   }
 
 
-  blogPosts.forEach(post => {
-     if (post.comingSoon === true) {
-    return;
-  }
+if (post.queue === true) {
+  return;
+}
 
     if (
       !post.products ||
