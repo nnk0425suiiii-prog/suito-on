@@ -19,10 +19,14 @@ function createBlogItems() {
   }
 
    blogPosts.forEach(post => {
-
-   if (post.queue === true) {
-     return;
-   }
+      
+   if (
+      typeof isContentPublished === "function"
+        &&
+     !isContentPublished(post)
+      ) {
+        return;
+         }
 
     if (
       !post.products ||
