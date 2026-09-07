@@ -66,33 +66,13 @@ if (
 const latestGuidePost =
   [...guidePosts]
 
-    /* 未公開の記事はHOMEに出さない */
-    .filter(post => {
+    .filter(
+      post =>
+        typeof isContentPublished !== "function"
+        ||
+        isContentPublished(post)
+    )
 
-      if (!post.datetime) {
-        return false;
-      }
-
-
-      const publishDate =
-        post.queue === true
-
-          ? new Date(
-              `${post.datetime}T10:00:00+09:00`
-            )
-
-          : new Date(
-              `${post.datetime}T00:00:00+09:00`
-            );
-
-
-      return (
-        publishDate <= new Date()
-      );
-
-    })
-
-    /* 公開済みの中から最新 */
     .sort(
       (a, b) =>
         new Date(b.datetime)
@@ -101,7 +81,6 @@ const latestGuidePost =
     )
 
     [0];
-
 
   /* ==================================================
      DISPLAY
