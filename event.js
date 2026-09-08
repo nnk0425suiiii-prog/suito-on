@@ -8,6 +8,7 @@
    ・TYPE FILTER
    ・REGION FILTER
    ・STATUS表示
+   ・左側に日付＋曜日を表示
 ================================================== */
 
 
@@ -161,10 +162,173 @@ function getEventDateHTML(
 
   return `
     ${startDate}
+
     <span class="event-date-separator">
       —
     </span>
+
     ${endMonth}.${endDay}
+  `;
+
+}
+
+
+/* ==================================================
+   SIDE DATE DISPLAY
+
+   2026-09-27
+   ↓
+   9/27
+   (SUN)
+
+   複数日
+   ↓
+   9/19
+   (SAT)
+    —
+   9/20
+   (SUN)
+================================================== */
+
+function getEventSideDateHTML(
+  event
+) {
+
+
+  const weekNames = [
+
+    "SUN",
+    "MON",
+    "TUE",
+    "WED",
+    "THU",
+    "FRI",
+    "SAT"
+
+  ];
+
+
+  /* =========================
+     DATE PARTS
+  ========================= */
+
+  function createDateParts(
+    dateString
+  ) {
+
+
+    const date =
+      new Date(
+        `${dateString}T00:00:00`
+      );
+
+
+    return {
+
+      month:
+        date.getMonth() + 1,
+
+      day:
+        date.getDate(),
+
+      week:
+        weekNames[
+          date.getDay()
+        ]
+
+    };
+
+  }
+
+
+  const start =
+    createDateParts(
+      event.startDate
+    );
+
+
+  /* ==================================================
+     1日開催
+  ================================================== */
+
+  if (
+    !event.endDate
+    ||
+    event.startDate ===
+      event.endDate
+  ) {
+
+    return `
+
+      <div class="event-card-side-date">
+
+        <div class="event-card-side-date-part">
+
+          <span class="event-card-side-main">
+            ${start.month}/${start.day}
+          </span>
+
+          <span class="event-card-side-week">
+            (${start.week})
+          </span>
+
+        </div>
+
+      </div>
+
+    `;
+
+  }
+
+
+  /* ==================================================
+     複数日開催
+  ================================================== */
+
+  const end =
+    createDateParts(
+      event.endDate
+    );
+
+
+  return `
+
+    <div class="event-card-side-date">
+
+
+      <div class="event-card-side-date-part">
+
+        <span class="event-card-side-main">
+          ${start.month}/${start.day}
+        </span>
+
+        <span class="event-card-side-week">
+          (${start.week})
+        </span>
+
+      </div>
+
+
+      <span class="event-card-side-separator">
+        —
+      </span>
+
+
+      <div class="event-card-side-date-part">
+
+        <span class="event-card-side-main">
+          ${end.month}/${end.day}
+        </span>
+
+        <span class="event-card-side-week">
+          (${end.week})
+        </span>
+
+      </div>
+
+
+    </div>
+
   `;
 
 }
@@ -299,6 +463,7 @@ function getUpcomingEvents() {
 
   return calendarEvents
 
+
     /* =========================
        今日以降
 
@@ -306,21 +471,32 @@ function getUpcomingEvents() {
        endDate が今日以降なら表示
     ========================= */
 
-    .filter(event => {
+    .filter(
+      event => {
 
 
-      const eventLastDate =
-        event.endDate
-        ||
-        event.startDate;
+        if (
+          !event.startDate
+        ) {
+
+          return false;
+
+        }
 
 
-      return (
-        eventLastDate >=
-        todayString
-      );
+        const eventLastDate =
+          event.endDate
+          ||
+          event.startDate;
 
-    })
+
+        return (
+          eventLastDate >=
+          todayString
+        );
+
+      }
+    )
 
 
     /* =========================
@@ -330,14 +506,19 @@ function getUpcomingEvents() {
     .sort(
       (a, b) => {
 
+
         return (
+
           new Date(
             `${a.startDate}T00:00:00`
           )
+
           -
+
           new Date(
             `${b.startDate}T00:00:00`
           )
+
         );
 
       }
@@ -446,6 +627,16 @@ function displayEvents(
 
 
       /* =========================
+         SIDE DATE
+      ========================= */
+
+      const sideDateHTML =
+        getEventSideDateHTML(
+          event
+        );
+
+
+      /* =========================
          LOCATION
       ========================= */
 
@@ -512,6 +703,7 @@ function displayEvents(
             >
 
               <span>
+
                 ${
                   event.type ===
                   "adoption"
@@ -520,6 +712,7 @@ function displayEvents(
 
                     : "DOG EVENT"
                 }
+
               </span>
 
             </div>
@@ -570,25 +763,21 @@ function displayEvents(
       /* =========================
          LINK
 
-         中止でも公式情報を
-         確認できるようリンクは残す
+         event-detail.htmlへ
       ========================= */
 
-      const linkHTML =
-        event.url
-
-          ? `
+      const linkHTML = `
 
         <a
-            href="event-detail.html?id=${event.id}"
-            class="event-detail-link"
-            >
-            イベントを見る →
+          href="event-detail.html?id=${encodeURIComponent(event.id)}"
+          class="event-detail-link"
+        >
+
+          イベントを見る →
+
         </a>
 
-          `
-
-          : "";
+      `;
 
 
       /* ==================================================
@@ -598,8 +787,19 @@ function displayEvents(
       article.innerHTML = `
 
 
+        <!-- SIDE DATE -->
+
+        ${sideDateHTML}
+
+
+
+        <!-- IMAGE -->
+
         ${imageHTML}
 
+
+
+        <!-- CONTENT -->
 
         <div class="event-card-content">
 
@@ -628,7 +828,9 @@ function displayEvents(
 
 
 
-          <!-- DATE -->
+          <!-- ORIGINAL DATE
+               CSSで非表示
+               必要になったら再表示可能 -->
 
           <p class="event-card-date">
 
@@ -642,11 +844,13 @@ function displayEvents(
 
           <h3 class="event-card-title">
 
-            ${event.title}
+            ${event.title || ""}
 
           </h3>
 
 
+
+          <!-- PLACE -->
 
           ${
             locationText
@@ -666,13 +870,19 @@ function displayEvents(
 
 
 
+          <!-- ADDRESS -->
+
           ${addressHTML}
 
 
 
+          <!-- DESCRIPTION -->
+
           ${descriptionHTML}
 
 
+
+          <!-- DETAIL LINK -->
 
           ${linkHTML}
 
@@ -741,9 +951,11 @@ function applyEventFilter() {
 
 
         return (
+
           typeMatch
           &&
           regionMatch
+
         );
 
       }
@@ -784,6 +996,7 @@ eventTypeButtons.forEach(
 
         eventTypeButtons.forEach(
           btn => {
+
 
             btn.classList.remove(
               "active"
@@ -837,6 +1050,7 @@ eventRegionButtons.forEach(
 
         eventRegionButtons.forEach(
           btn => {
+
 
             btn.classList.remove(
               "active"
