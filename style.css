@@ -18875,3 +18875,441 @@ body.contact-page {
   }
   .home-page .home-instagram-kicker { font-size: 14px; }
 }
+/* ==================================================
+   EVENT LIST
+   DATE + IMAGE + CONTENT
+================================================== */
+
+
+/* ==================================================
+   LIST
+================================================== */
+
+.event-page .event-ref-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 22px;
+}
+
+
+/* ==================================================
+   CARD
+================================================== */
+
+.event-page .event-card {
+  display: grid;
+
+  grid-template-columns:
+    115px
+    minmax(260px, 35%)
+    minmax(0, 1fr);
+
+  min-height: 250px;
+
+  overflow: hidden;
+
+  border:
+    1px solid
+    rgba(41,41,41,.16);
+
+  border-radius: 0;
+
+  background:
+    #fffdf8;
+
+  box-shadow:
+    6px 7px 0
+    rgba(41,41,41,.045);
+
+  transition:
+    transform .3s ease,
+    box-shadow .3s ease;
+}
+
+
+.event-page .event-card:hover {
+  transform:
+    translateY(-3px);
+
+  box-shadow:
+    8px 9px 0
+    rgba(41,41,41,.055);
+}
+
+
+/* ==================================================
+   SIDE DATE
+================================================== */
+
+.event-page .event-card-side-date {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+
+  min-width: 0;
+
+  padding:
+    22px 12px;
+
+  text-align: center;
+
+  border-right:
+    1px solid
+    rgba(41,41,41,.14);
+
+  background:
+    #f6f0e5;
+}
+
+
+.event-page .event-card-side-date-part {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
+
+
+.event-page .event-card-side-main {
+  display: block;
+
+  font-family:
+    "Darumadrop One",
+    "Noto Sans JP",
+    sans-serif;
+
+  font-size: 37px;
+  font-weight: 400;
+
+  line-height: .95;
+
+  color:
+    #e47a4e;
+}
+
+
+.event-page .event-card-side-week {
+  display: block;
+
+  margin-top: 8px;
+
+  font-family:
+    "Noto Sans JP",
+    sans-serif;
+
+  font-size: 9px;
+  font-weight: 600;
+
+  letter-spacing: .12em;
+
+  color:
+    #777066;
+}
+
+
+.event-page .event-card-side-separator {
+  display: block;
+
+  margin:
+    11px 0;
+
+  color:
+    rgba(41,41,41,.35);
+
+  font-size: 12px;
+}
+
+
+/* ==================================================
+   IMAGE
+================================================== */
+
+.event-page .event-card-image {
+  width: 100%;
+  height: 100%;
+
+  min-height: 250px;
+
+  aspect-ratio: auto;
+
+  overflow: hidden;
+
+  background:
+    #eee8dd;
+}
+
+
+.event-page .event-card-image img {
+  display: block;
+
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+  object-position: center;
+
+  transition:
+    transform .45s ease;
+}
+
+
+.event-page
+.event-card:hover
+.event-card-image img {
+  transform:
+    scale(1.035);
+}
+
+
+/* NO IMAGE */
+
+.event-page .event-card-no-image {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* ==================================================
+   CONTENT
+================================================== */
+
+.event-page .event-card-content {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+
+  min-width: 0;
+
+  padding:
+    27px 32px 28px;
+}
+
+
+/* TYPE / STATUS */
+
+.event-page .event-card-meta {
+  margin-bottom: 11px;
+}
+
+
+/* 元の日付は非表示 */
+
+.event-page .event-card-date {
+  display: none;
+}
+
+
+/* TITLE */
+
+.event-page .event-card-title {
+  margin:
+    0 0 11px;
+
+  color:
+    #403c38;
+
+  font-size: 18px;
+  font-weight: 600;
+
+  line-height: 1.55;
+}
+
+
+/* PLACE */
+
+.event-page .event-card-place {
+  margin:
+    0 0 4px;
+
+  font-size: 11px;
+}
+
+
+/* ADDRESS */
+
+.event-page .event-card-address {
+  font-size: 9px;
+}
+
+
+/* DESCRIPTION */
+
+.event-page .event-card-description {
+  margin:
+    14px 0 0;
+
+  padding-top:
+    12px;
+
+  font-size: 10px;
+  line-height: 1.8;
+}
+
+
+/* LINK */
+
+.event-page .event-detail-link {
+  width: fit-content;
+
+  margin-top: 14px;
+
+  padding-bottom: 3px;
+
+  border-bottom:
+    1px solid
+    rgba(41,41,41,.45);
+
+  font-size: 9px;
+  font-weight: 600;
+}
+
+
+/* ==================================================
+   TABLET
+================================================== */
+
+@media (max-width: 950px) {
+
+  .event-page .event-card {
+    grid-template-columns:
+      95px
+      minmax(220px, 36%)
+      minmax(0, 1fr);
+
+    min-height: 225px;
+  }
+
+
+  .event-page .event-card-image {
+    min-height: 225px;
+  }
+
+
+  .event-page .event-card-side-main {
+    font-size: 31px;
+  }
+
+
+  .event-page .event-card-content {
+    padding:
+      22px 24px;
+  }
+
+
+  .event-page .event-card-description {
+    display: none;
+  }
+
+}
+
+
+/* ==================================================
+   MOBILE
+================================================== */
+
+@media (max-width: 700px) {
+
+  .event-page .event-ref-list {
+    gap: 28px;
+  }
+
+
+  .event-page .event-card {
+    display: grid;
+
+    grid-template-columns:
+      1fr;
+
+    min-height: 0;
+  }
+
+
+  /* 日付を横表示 */
+
+  .event-page .event-card-side-date {
+    min-height: 0;
+
+    flex-direction: row;
+
+    justify-content: flex-start;
+
+    gap: 7px;
+
+    padding:
+      13px 16px;
+
+    border-right: 0;
+
+    border-bottom:
+      1px solid
+      rgba(41,41,41,.13);
+
+    text-align: left;
+  }
+
+
+  .event-page .event-card-side-date-part {
+    flex-direction: row;
+
+    align-items: baseline;
+
+    gap: 7px;
+  }
+
+
+  .event-page .event-card-side-main {
+    font-size: 27px;
+  }
+
+
+  .event-page .event-card-side-week {
+    margin-top: 0;
+
+    font-size: 8px;
+  }
+
+
+  .event-page .event-card-side-separator {
+    margin:
+      0 3px;
+  }
+
+
+  /* IMAGE */
+
+  .event-page .event-card-image {
+    height: auto;
+    min-height: 0;
+
+    aspect-ratio:
+      16 / 10;
+  }
+
+
+  /* CONTENT */
+
+  .event-page .event-card-content {
+    display: block;
+
+    padding:
+      20px 18px 22px;
+  }
+
+
+  .event-page .event-card-title {
+    font-size: 16px;
+  }
+
+
+  .event-page .event-card-description {
+    display: block;
+
+    font-size: 10px;
+  }
+
+}
