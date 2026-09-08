@@ -18,15 +18,21 @@ function createBlogItems() {
     return blogItems;
   }
 
-   blogPosts.forEach(post => {
-      
-   if (
+
+  blogPosts.forEach(post => {
+
+    /* =========================
+       公開済みBLOGの記事だけ
+    ========================= */
+
+    if (
       typeof isContentPublished === "function"
-        &&
-     !isContentPublished(post)
-      ) {
-        return;
-         }
+      &&
+      !isContentPublished(post)
+    ) {
+      return;
+    }
+
 
     if (
       !post.products ||
@@ -96,6 +102,7 @@ function createBlogItems() {
 
 
   return blogItems;
+
 }
 
 
@@ -359,14 +366,18 @@ function displayItems(
       "itemsList"
     );
 
+
   if (!itemsList) {
     return;
   }
 
+
   itemsList.innerHTML = "";
 
 
-  /* EMPTY */
+  /* ==================================================
+     EMPTY
+  ================================================== */
 
   if (
     itemsToDisplay.length === 0
@@ -382,59 +393,101 @@ function displayItems(
     `;
 
     return;
+
   }
 
 
-  /* ITEMS */
+
+  /* ==================================================
+     ITEMS
+  ================================================== */
 
   itemsToDisplay.forEach(
     (item, index) => {
+
 
       const article =
         document.createElement(
           "article"
         );
 
+
       article.className =
         "items-ref-card";
 
+
       article.id =
         `item-${item.id}`;
+
+
+
+      /* =========================
+         DOG
+      ========================= */
 
       const dogClass =
         getDogClass(
           item.dog
         );
 
+
+
+      /* =========================
+         NUMBER
+      ========================= */
+
       const itemNumber =
         String(index + 1)
           .padStart(2, "0");
 
+
+
+      /* =========================
+         NEW
+      ========================= */
+
       const newHTML =
         isNewItem(item.addedDate)
+
           ? `
             <span class="items-ref-new">
               NEW
             </span>
           `
+
           : "";
+
+
+
+      /* =========================
+         IMAGE
+      ========================= */
 
       const imageHTML =
         item.image
+
           ? `
             <img
               src="${item.image}"
               alt="${item.name}"
             >
           `
+
           : `
             <div class="items-ref-no-image">
               NO IMAGE
             </div>
           `;
 
+
+
+      /* =========================
+         ITEM LINK
+      ========================= */
+
       const shopHTML =
         item.shopUrl
+
           ? `
             <a
               href="${item.shopUrl}"
@@ -446,10 +499,18 @@ function displayItems(
               <span>↗</span>
             </a>
           `
+
           : "";
+
+
+
+      /* =========================
+         BLOG LINK
+      ========================= */
 
       const blogHTML =
         item.blogUrl
+
           ? `
             <a
               href="${item.blogUrl}"
@@ -458,23 +519,83 @@ function displayItems(
               BLOGで詳しく読む →
             </a>
           `
+
           : "";
+
+
+
+      /* =========================
+         RECOMMENDATION
+      ========================= */
 
       const recommendation =
         item.recommendation ||
         "すいとおん。で実際に使っている愛用品です。";
+
+
+
+      /* =========================
+         BACK COLOR
+      ========================= */
 
       const backColorClass =
         index % 2 === 0
           ? "items-ref-back-sui"
           : "items-ref-back-on";
 
+
+
+      /* =========================
+         LIKE
+         裏面に表示
+      ========================= */
+
+      const likeHTML = `
+
+        <div class="item-like item-like-back">
+
+          <button
+            class="item-like-button"
+            type="button"
+            data-item-id="${item.id}"
+            aria-label="${item.name}にいいね"
+          >
+
+            <span class="item-like-heart">
+              ♡
+            </span>
+
+            <span class="item-like-count">
+              0
+            </span>
+
+          </button>
+
+        </div>
+
+      `;
+
+
+
+      /* ==================================================
+         CARD HTML
+      ================================================== */
+
       article.innerHTML = `
 
         <div class="items-ref-card-top">
-          <span class="items-ref-index">${itemNumber}</span>
-          <span class="items-ref-card-label">FAVORITE ITEM</span>
+
+          <span class="items-ref-index">
+            ${itemNumber}
+          </span>
+
+          <span class="items-ref-card-label">
+            FAVORITE ITEM
+          </span>
+
         </div>
+
+
 
         <div
           class="items-ref-flip-card"
@@ -484,67 +605,118 @@ function displayItems(
           aria-pressed="false"
         >
 
+
           <div class="items-ref-flip-inner">
+
+
+            <!-- ==================================================
+                 FRONT
+            ================================================== -->
 
             <div class="items-ref-flip-front">
 
+
               <div class="items-ref-image">
+
                 ${imageHTML}
+
                 ${newHTML}
-                <span class="items-ref-flip-hint">WHY? ↻</span>
+
+
+                <span class="items-ref-flip-hint">
+                  WHY? ↻
+                </span>
+
               </div>
+
+
 
               <div class="items-ref-info">
 
+
                 <div class="items-ref-meta">
+
                   <span class="items-ref-category">
                     ${item.category || "ITEM"}
                   </span>
+
+
                   <span class="item-dog ${dogClass}">
                     ${item.dog || "BOTH"}
                   </span>
+
                 </div>
 
-                <h2>${item.name}</h2>
+
+
+                <h2>
+                  ${item.name}
+                </h2>
+
+
 
                 ${
                   item.price
-                    ? `<p class="items-ref-price">${item.price}</p>`
+
+                    ? `
+                      <p class="items-ref-price">
+                        ${item.price}
+                      </p>
+                    `
+
                     : ""
                 }
 
-                <div class="item-like">
-                  <button
-                    class="item-like-button"
-                    type="button"
-                    data-item-id="${item.id}"
-                    aria-label="${item.name}にいいね"
-                  >
-                    <span class="item-like-heart">♡</span>
-                    <span class="item-like-count">0</span>
-                  </button>
-                </div>
 
               </div>
 
             </div>
 
-            <div class="items-ref-flip-back ${backColorClass}">
+
+
+            <!-- ==================================================
+                 BACK
+            ================================================== -->
+
+            <div
+              class="items-ref-flip-back ${backColorClass}"
+            >
+
 
               <div class="items-ref-back-content">
 
-                <p class="items-ref-back-kicker">WHY WE LIKE IT</p>
 
-                <h3>すいとおん。からひと言</h3>
+                <p class="items-ref-back-kicker">
+                  WHY WE LIKE IT
+                </p>
+
+
+                <h3>
+                  すいとおん。からひと言
+                </h3>
+
 
                 <p class="items-ref-recommendation">
                   ${recommendation}
                 </p>
 
+
+
                 <div class="items-ref-back-links">
+
                   ${blogHTML}
+
                   ${shopHTML}
+
                 </div>
+
+
+
+                <!-- LIKE -->
+
+                ${likeHTML}
+
+
 
                 <button
                   type="button"
@@ -554,15 +726,19 @@ function displayItems(
                   ↻ BACK
                 </button>
 
+
               </div>
 
             </div>
+
 
           </div>
 
         </div>
 
       `;
+
+
 
       itemsList.appendChild(
         article
@@ -572,14 +748,20 @@ function displayItems(
   );
 
 
-  /* FLIP CARD */
+
+  /* ==================================================
+     FLIP CARD
+  ================================================== */
 
   initializeItemFlipCards(
     itemsList
   );
 
 
-  /* LIKE RELOAD */
+
+  /* ==================================================
+     LIKE RELOAD
+  ================================================== */
 
   if (
     typeof initializeItemLikes
@@ -591,6 +773,7 @@ function displayItems(
   }
 
 }
+
 
 
 /* ==================================================
@@ -606,26 +789,44 @@ function initializeItemFlipCards(
       ".items-ref-flip-card"
     );
 
+
   cards.forEach(card => {
+
 
     const setFlipped =
       flipped => {
+
 
         card.classList.toggle(
           "is-flipped",
           flipped
         );
 
+
         card.setAttribute(
           "aria-pressed",
-          flipped ? "true" : "false"
+          flipped
+            ? "true"
+            : "false"
         );
 
       };
 
+
+
+    /* ==================================================
+       CARD CLICK
+    ================================================== */
+
     card.addEventListener(
       "click",
       event => {
+
+
+        /*
+          LINK / BUTTONを押した場合は
+          カードを裏返さない
+        */
 
         if (
           event.target.closest(
@@ -635,6 +836,7 @@ function initializeItemFlipCards(
           return;
         }
 
+
         setFlipped(
           !card.classList.contains(
             "is-flipped"
@@ -644,20 +846,33 @@ function initializeItemFlipCards(
       }
     );
 
+
+
+    /* ==================================================
+       KEYBOARD
+    ================================================== */
+
     card.addEventListener(
       "keydown",
       event => {
 
+
         if (
-          event.target !== card ||
-          !["Enter", " "].includes(
+          event.target !== card
+          ||
+          ![
+            "Enter",
+            " "
+          ].includes(
             event.key
           )
         ) {
           return;
         }
 
+
         event.preventDefault();
+
 
         setFlipped(
           !card.classList.contains(
@@ -668,10 +883,17 @@ function initializeItemFlipCards(
       }
     );
 
+
+
+    /* ==================================================
+       BACK BUTTON
+    ================================================== */
+
     const backButton =
       card.querySelector(
         ".items-ref-flip-back-button"
       );
+
 
     if (backButton) {
 
@@ -679,8 +901,13 @@ function initializeItemFlipCards(
         "click",
         event => {
 
+
           event.stopPropagation();
-          setFlipped(false);
+
+
+          setFlipped(
+            false
+          );
 
         }
       );
@@ -690,6 +917,7 @@ function initializeItemFlipCards(
   });
 
 }
+
 
 
 /* ==================================================
