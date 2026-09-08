@@ -1792,15 +1792,6 @@ const blogPosts = [
       が違います。
     </p>
 
-    <figure>
-
-      <figcaption>
-        いつも一緒に歩いている2人。
-        でも「好き」の方向は結構違います。
-      </figcaption>
-
-    </figure>
-
     <p>
       同じ家で暮らしているのに、
       なんでこんなに違うんだろう。
