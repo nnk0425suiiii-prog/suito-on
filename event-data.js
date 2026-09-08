@@ -227,16 +227,14 @@ const calendarEvents = [
        AREA
     ========================= */
 
-    region:
-      "kanto",
+   region:
+  "kanto",
 
+prefecture:
+  "神奈川県",
 
-    :
-      "神奈川県",
-
-
-    place:
-      "藤沢市",
+place:
+  "藤沢市",
 
 
     address:
