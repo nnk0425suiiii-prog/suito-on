@@ -1794,11 +1794,6 @@ const blogPosts = [
 
     <figure>
 
-      <img
-        src="blog/images/walk-eachother.jpg"
-        alt="紫陽花の前を一緒に歩くすいとおん"
-      >
-
       <figcaption>
         いつも一緒に歩いている2人。
         でも「好き」の方向は結構違います。
