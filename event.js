@@ -1,5 +1,6 @@
 /* ==================================================
    EVENT PAGE
+   すいとおん。
 
    event-data.js の calendarEvents から
 
@@ -9,16 +10,55 @@
    ・REGION FILTER
    ・STATUS表示
    ・左側に日付＋曜日を表示
+
+   CALENDAR
+   ・月送り
+   ・日曜 / 祝日 = 赤
+   ・土曜 = 青
+   ・今日 = 背景色
+   ・イベント開催日 = 足あと
+   ・祝日名 = カレンダー下に表示
+   ・日付クリックでイベントカードへ移動
 ================================================== */
 
 
 /* ==================================================
-   EVENT LIST
+   ELEMENTS
 ================================================== */
 
 const eventList =
   document.getElementById(
     "eventList"
+  );
+
+
+const calendarTitle =
+  document.getElementById(
+    "eventCalendarTitle"
+  );
+
+
+const calendarDays =
+  document.getElementById(
+    "eventCalendarDays"
+  );
+
+
+const prevMonthButton =
+  document.getElementById(
+    "eventCalendarPrev"
+  );
+
+
+const nextMonthButton =
+  document.getElementById(
+    "eventCalendarNext"
+  );
+
+
+const calendarHolidays =
+  document.getElementById(
+    "eventCalendarHolidays"
   );
 
 
@@ -36,32 +76,143 @@ let selectedEventRegion =
 
 /* ==================================================
    TODAY
-
-   YYYY-MM-DD に変換
 ================================================== */
 
-function getTodayString() {
-
-  const today =
-    new Date();
+const today =
+  new Date();
 
 
-  const year =
-    today.getFullYear();
+today.setHours(
+  0,
+  0,
+  0,
+  0
+);
 
 
-  const month =
+/* ==================================================
+   CALENDAR STATE
+================================================== */
+
+let calendarYear =
+  today.getFullYear();
+
+
+let calendarMonth =
+  today.getMonth();
+
+
+/* ==================================================
+   JAPANESE HOLIDAYS
+   2026
+
+   2027年になったら
+   ここへ追加すればOK
+================================================== */
+
+const japaneseHolidays = {
+
+  "2026-01-01":
+    "元日",
+
+  "2026-01-12":
+    "成人の日",
+
+  "2026-02-11":
+    "建国記念の日",
+
+  "2026-02-23":
+    "天皇誕生日",
+
+  "2026-03-20":
+    "春分の日",
+
+  "2026-04-29":
+    "昭和の日",
+
+  "2026-05-03":
+    "憲法記念日",
+
+  "2026-05-04":
+    "みどりの日",
+
+  "2026-05-05":
+    "こどもの日",
+
+  "2026-05-06":
+    "振替休日",
+
+  "2026-07-20":
+    "海の日",
+
+  "2026-08-11":
+    "山の日",
+
+  "2026-09-21":
+    "敬老の日",
+
+  "2026-09-22":
+    "国民の休日",
+
+  "2026-09-23":
+    "秋分の日",
+
+  "2026-10-12":
+    "スポーツの日",
+
+  "2026-11-03":
+    "文化の日",
+
+  "2026-11-23":
+    "勤労感謝の日"
+
+};
+
+
+/* ==================================================
+   WEEK
+================================================== */
+
+const eventWeekNames = [
+
+  "SUN",
+  "MON",
+  "TUE",
+  "WED",
+  "THU",
+  "FRI",
+  "SAT"
+
+];
+
+
+/* ==================================================
+   DATE UTILITIES
+================================================== */
+
+
+/* ==================================================
+   YYYY-MM-DD
+================================================== */
+
+function createDateString(
+  year,
+  month,
+  day
+) {
+
+  const monthString =
     String(
-      today.getMonth() + 1
+      month + 1
     ).padStart(
       2,
       "0"
     );
 
 
-  const day =
+  const dayString =
     String(
-      today.getDate()
+      day
     ).padStart(
       2,
       "0"
@@ -69,7 +220,46 @@ function getTodayString() {
 
 
   return (
-    `${year}-${month}-${day}`
+    `${year}-${monthString}-${dayString}`
+  );
+
+}
+
+
+/* ==================================================
+   TODAY STRING
+================================================== */
+
+function getTodayString() {
+
+  return createDateString(
+
+    today.getFullYear(),
+
+    today.getMonth(),
+
+    today.getDate()
+
+  );
+
+}
+
+
+/* ==================================================
+   DATE OBJECT
+================================================== */
+
+function createLocalDate(
+  dateString
+) {
+
+  if (!dateString) {
+    return null;
+  }
+
+
+  return new Date(
+    `${dateString}T00:00:00`
   );
 
 }
@@ -103,17 +293,16 @@ function formatEventDate(
 /* ==================================================
    EVENT DATE DISPLAY
 
-   1日開催
+   1日
    2026.09.12
 
    複数日
-   2026.09.12 — 09.14
+   2026.09.12 — 09.13
 ================================================== */
 
 function getEventDateHTML(
   event
 ) {
-
 
   const startDate =
     formatEventDate(
@@ -121,16 +310,12 @@ function getEventDateHTML(
     );
 
 
-  /* endDateなし */
-
   if (!event.endDate) {
 
     return startDate;
 
   }
 
-
-  /* 1日開催 */
 
   if (
     event.startDate ===
@@ -141,10 +326,6 @@ function getEventDateHTML(
 
   }
 
-
-  /* =========================
-     複数日開催
-  ========================= */
 
   const endParts =
     event.endDate.split(
@@ -161,6 +342,7 @@ function getEventDateHTML(
 
 
   return `
+
     ${startDate}
 
     <span class="event-date-separator">
@@ -168,26 +350,22 @@ function getEventDateHTML(
     </span>
 
     ${endMonth}.${endDay}
+
   `;
 
 }
 
 
 /* ==================================================
-   SIDE DATE DISPLAY
+   SIDE DATE
 
-   2026-09-27
-   ↓
-   9/27
+   9/13
    (SUN)
 
    複数日
-   ↓
-   9/19
-   (SAT)
-    —
-   9/20
-   (SUN)
+   9/19 (SAT)
+     —
+   9/20 (SUN)
 ================================================== */
 
 function getEventSideDateHTML(
@@ -195,31 +373,13 @@ function getEventSideDateHTML(
 ) {
 
 
-  const weekNames = [
-
-    "SUN",
-    "MON",
-    "TUE",
-    "WED",
-    "THU",
-    "FRI",
-    "SAT"
-
-  ];
-
-
-  /* =========================
-     DATE PARTS
-  ========================= */
-
   function createDateParts(
     dateString
   ) {
 
-
     const date =
-      new Date(
-        `${dateString}T00:00:00`
+      createLocalDate(
+        dateString
       );
 
 
@@ -232,7 +392,7 @@ function getEventSideDateHTML(
         date.getDate(),
 
       week:
-        weekNames[
+        eventWeekNames[
           date.getDay()
         ]
 
@@ -342,7 +502,6 @@ function getEventTypeLabel(
   type
 ) {
 
-
   if (
     type === "adoption"
   ) {
@@ -364,7 +523,6 @@ function getEventTypeLabel(
 function getEventTypeClass(
   type
 ) {
-
 
   if (
     type === "adoption"
@@ -388,9 +546,6 @@ function getEventStatusHTML(
   status
 ) {
 
-
-  /* 中止 */
-
   if (
     status === "cancelled"
   ) {
@@ -410,8 +565,6 @@ function getEventStatusHTML(
 
   }
 
-
-  /* 延期 */
 
   if (
     status === "postponed"
@@ -433,23 +586,26 @@ function getEventStatusHTML(
   }
 
 
-  /* 通常 */
-
   return "";
 
 }
 
 
 /* ==================================================
-   UPCOMING EVENTS CREATE
+   UPCOMING EVENTS
 ================================================== */
 
 function getUpcomingEvents() {
 
-
   if (
     typeof calendarEvents ===
-    "undefined"
+      "undefined"
+
+    ||
+
+    !Array.isArray(
+      calendarEvents
+    )
   ) {
 
     return [];
@@ -461,19 +617,19 @@ function getUpcomingEvents() {
     getTodayString();
 
 
-  return calendarEvents
+  return [
+
+    ...calendarEvents
+
+  ]
 
 
-    /* =========================
-       今日以降
-
-       複数日イベントは
-       endDate が今日以降なら表示
-    ========================= */
+    /* ==================================================
+       終了日が今日以降
+    ================================================== */
 
     .filter(
       event => {
-
 
         if (
           !event.startDate
@@ -499,30 +655,79 @@ function getUpcomingEvents() {
     )
 
 
-    /* =========================
+    /* ==================================================
        開催日の近い順
-    ========================= */
+    ================================================== */
 
     .sort(
       (a, b) => {
 
-
         return (
 
-          new Date(
-            `${a.startDate}T00:00:00`
+          createLocalDate(
+            a.startDate
           )
 
           -
 
-          new Date(
-            `${b.startDate}T00:00:00`
+          createLocalDate(
+            b.startDate
           )
 
         );
 
       }
     );
+
+}
+
+
+/* ==================================================
+   FILTER EVENTS
+================================================== */
+
+function getFilteredEvents() {
+
+  const upcomingEvents =
+    getUpcomingEvents();
+
+
+  return upcomingEvents.filter(
+    event => {
+
+
+      const typeMatch =
+
+        selectedEventType ===
+          "all"
+
+        ||
+
+        event.type ===
+          selectedEventType;
+
+
+      const regionMatch =
+
+        selectedEventRegion ===
+          "all"
+
+        ||
+
+        event.region ===
+          selectedEventRegion;
+
+
+      return (
+
+        typeMatch
+        &&
+        regionMatch
+
+      );
+
+    }
+  );
 
 }
 
@@ -535,20 +740,17 @@ function displayEvents(
   eventsToDisplay
 ) {
 
-
   if (!eventList) {
     return;
   }
 
-
-  /* 一度空にする */
 
   eventList.innerHTML =
     "";
 
 
   /* ==================================================
-     0 EVENTS
+     EMPTY
   ================================================== */
 
   if (
@@ -590,9 +792,25 @@ function displayEvents(
         "event-card";
 
 
-      /* =========================
+      /* カレンダー移動用 */
+
+      article.id =
+        `event-${event.id}`;
+
+
+      article.dataset.startDate =
+        event.startDate;
+
+
+      article.dataset.endDate =
+        event.endDate
+        ||
+        event.startDate;
+
+
+      /* ==================================================
          TYPE
-      ========================= */
+      ================================================== */
 
       const typeLabel =
         getEventTypeLabel(
@@ -606,9 +824,9 @@ function displayEvents(
         );
 
 
-      /* =========================
+      /* ==================================================
          STATUS
-      ========================= */
+      ================================================== */
 
       const statusHTML =
         getEventStatusHTML(
@@ -616,9 +834,9 @@ function displayEvents(
         );
 
 
-      /* =========================
+      /* ==================================================
          DATE
-      ========================= */
+      ================================================== */
 
       const dateHTML =
         getEventDateHTML(
@@ -626,19 +844,15 @@ function displayEvents(
         );
 
 
-      /* =========================
-         SIDE DATE
-      ========================= */
-
       const sideDateHTML =
         getEventSideDateHTML(
           event
         );
 
 
-      /* =========================
+      /* ==================================================
          LOCATION
-      ========================= */
+      ================================================== */
 
       const locationParts =
         [];
@@ -672,9 +886,9 @@ function displayEvents(
         );
 
 
-      /* =========================
+      /* ==================================================
          IMAGE
-      ========================= */
+      ================================================== */
 
       const imageHTML =
         event.image
@@ -685,7 +899,8 @@ function displayEvents(
 
               <img
                 src="${event.image}"
-                alt="${event.title}"
+                alt="${event.title || "イベント画像"}"
+                loading="lazy"
               >
 
             </div>
@@ -720,9 +935,9 @@ function displayEvents(
           `;
 
 
-      /* =========================
+      /* ==================================================
          DESCRIPTION
-      ========================= */
+      ================================================== */
 
       const descriptionHTML =
         event.description
@@ -740,9 +955,9 @@ function displayEvents(
           : "";
 
 
-      /* =========================
+      /* ==================================================
          ADDRESS
-      ========================= */
+      ================================================== */
 
       const addressHTML =
         event.address
@@ -760,54 +975,39 @@ function displayEvents(
           : "";
 
 
-      /* =========================
-         LINK
+      /* ==================================================
+         DETAIL LINK
+      ================================================== */
 
-         event-detail.htmlへ
-      ========================= */
-
-      const linkHTML = `
+      const detailLinkHTML = `
 
         <a
           href="event-detail.html?id=${encodeURIComponent(event.id)}"
           class="event-detail-link"
         >
-
           イベントを見る →
-
         </a>
 
       `;
 
 
       /* ==================================================
-         CARD
+         CARD HTML
       ================================================== */
 
       article.innerHTML = `
 
 
-        <!-- SIDE DATE -->
-
         ${sideDateHTML}
 
-
-
-        <!-- IMAGE -->
 
         ${imageHTML}
 
 
-
-        <!-- CONTENT -->
-
         <div class="event-card-content">
 
 
-          <!-- TYPE / STATUS -->
-
           <div class="event-card-meta">
-
 
             <span
               class="
@@ -815,42 +1015,23 @@ function displayEvents(
                 ${typeClass}
               "
             >
-
               ${typeLabel}
-
             </span>
 
-
             ${statusHTML}
-
 
           </div>
 
 
-
-          <!-- ORIGINAL DATE
-               CSSで非表示
-               必要になったら再表示可能 -->
-
           <p class="event-card-date">
-
             ${dateHTML}
-
           </p>
 
 
-
-          <!-- TITLE -->
-
           <h3 class="event-card-title">
-
             ${event.title || ""}
-
           </h3>
 
-
-
-          <!-- PLACE -->
 
           ${
             locationText
@@ -858,9 +1039,7 @@ function displayEvents(
               ? `
 
                 <p class="event-card-place">
-
                   ${locationText}
-
                 </p>
 
               `
@@ -869,26 +1048,16 @@ function displayEvents(
           }
 
 
-
-          <!-- ADDRESS -->
-
           ${addressHTML}
 
-
-
-          <!-- DESCRIPTION -->
 
           ${descriptionHTML}
 
 
-
-          <!-- DETAIL LINK -->
-
-          ${linkHTML}
+          ${detailLinkHTML}
 
 
         </div>
-
 
       `;
 
@@ -905,66 +1074,912 @@ function displayEvents(
 
 
 /* ==================================================
-   APPLY FILTER
+   CALENDAR EVENT CHECK
 ================================================== */
 
-function applyEventFilter() {
+function isDateInsideEvent(
+  dateString,
+  event
+) {
+
+  if (
+    !event.startDate
+  ) {
+
+    return false;
+
+  }
 
 
-  const upcomingEvents =
-    getUpcomingEvents();
+  const endDate =
+    event.endDate
+    ||
+    event.startDate;
 
 
-  const filteredEvents =
-    upcomingEvents.filter(
-      event => {
+  return (
+
+    dateString >=
+      event.startDate
+
+    &&
+
+    dateString <=
+      endDate
+
+  );
+
+}
 
 
-        /* =========================
-           TYPE
-        ========================= */
+/* ==================================================
+   EVENTS ON DATE
+================================================== */
 
-        const typeMatch =
+function getEventsOnDate(
+  dateString
+) {
 
-          selectedEventType ===
-            "all"
-
-          ||
-
-          event.type ===
-            selectedEventType;
+  const events =
+    getFilteredEvents();
 
 
-        /* =========================
-           REGION
-        ========================= */
+  return events.filter(
+    event => {
 
-        const regionMatch =
+      return isDateInsideEvent(
+        dateString,
+        event
+      );
 
-          selectedEventRegion ===
-            "all"
+    }
+  );
 
-          ||
+}
 
-          event.region ===
-            selectedEventRegion;
+
+/* ==================================================
+   TODAY CHECK
+================================================== */
+
+function isTodayDate(
+  year,
+  month,
+  day
+) {
+
+  return (
+
+    year ===
+      today.getFullYear()
+
+    &&
+
+    month ===
+      today.getMonth()
+
+    &&
+
+    day ===
+      today.getDate()
+
+  );
+
+}
+
+
+/* ==================================================
+   CALENDAR TITLE
+================================================== */
+
+function renderCalendarTitle() {
+
+  if (!calendarTitle) {
+    return;
+  }
+
+
+  const monthNumber =
+    String(
+      calendarMonth + 1
+    ).padStart(
+      2,
+      "0"
+    );
+
+
+  calendarTitle.textContent =
+    `${calendarYear}. ${monthNumber}`;
+
+}
+
+
+/* ==================================================
+   CALENDAR HOLIDAYS
+================================================== */
+
+function renderCalendarHolidays() {
+
+  if (!calendarHolidays) {
+    return;
+  }
+
+
+  const holidaysThisMonth =
+    Object.entries(
+      japaneseHolidays
+    )
+    .filter(
+      ([dateString]) => {
+
+        const parts =
+          dateString
+            .split("-")
+            .map(Number);
+
+
+        const year =
+          parts[0];
+
+
+        const month =
+          parts[1];
 
 
         return (
 
-          typeMatch
-          &&
-          regionMatch
+          year === calendarYear
 
+          &&
+
+          month ===
+            calendarMonth + 1
+
+        );
+
+      }
+    )
+    .sort(
+      (a, b) => {
+
+        return (
+          a[0].localeCompare(
+            b[0]
+          )
         );
 
       }
     );
 
 
+  /* ==================================================
+     祝日なし
+  ================================================== */
+
+  if (
+    holidaysThisMonth.length === 0
+  ) {
+
+    calendarHolidays.innerHTML =
+      "";
+
+    calendarHolidays.hidden =
+      true;
+
+    return;
+
+  }
+
+
+  calendarHolidays.hidden =
+    false;
+
+
+  calendarHolidays.innerHTML = `
+
+    <p class="event-calendar-holiday-title">
+      今月の祝日
+    </p>
+
+
+    <div class="event-calendar-holiday-list">
+
+      ${
+        holidaysThisMonth
+
+          .map(
+            ([dateString, holidayName]) => {
+
+              const parts =
+                dateString.split("-");
+
+
+              const month =
+                Number(
+                  parts[1]
+                );
+
+
+              const day =
+                Number(
+                  parts[2]
+                );
+
+
+              return `
+
+                <div class="event-calendar-holiday-row">
+
+                  <span>
+                    ${month}/${day}
+                  </span>
+
+                  <p>
+                    ${holidayName}
+                  </p>
+
+                </div>
+
+              `;
+
+            }
+          )
+
+          .join("")
+      }
+
+    </div>
+
+  `;
+
+}
+
+
+/* ==================================================
+   RENDER CALENDAR
+================================================== */
+
+function renderCalendar() {
+
+  if (
+    !calendarDays
+  ) {
+
+    return;
+
+  }
+
+
+  renderCalendarTitle();
+
+
+  calendarDays.innerHTML =
+    "";
+
+
+  /* ==================================================
+     MONTH INFO
+  ================================================== */
+
+  const firstDay =
+    new Date(
+      calendarYear,
+      calendarMonth,
+      1
+    );
+
+
+  const firstWeekDay =
+    firstDay.getDay();
+
+
+  const lastDate =
+    new Date(
+      calendarYear,
+      calendarMonth + 1,
+      0
+    ).getDate();
+
+
+  const previousMonthLastDate =
+    new Date(
+      calendarYear,
+      calendarMonth,
+      0
+    ).getDate();
+
+
+  /* ==================================================
+     42 CELLS
+     6週間表示
+  ================================================== */
+
+  for (
+    let cellIndex = 0;
+    cellIndex < 42;
+    cellIndex++
+  ) {
+
+
+    let cellYear =
+      calendarYear;
+
+
+    let cellMonth =
+      calendarMonth;
+
+
+    let cellDay;
+
+
+    let outsideMonth =
+      false;
+
+
+    /* ==================================================
+       PREVIOUS MONTH
+    ================================================== */
+
+    if (
+      cellIndex <
+      firstWeekDay
+    ) {
+
+      cellDay =
+        previousMonthLastDate
+        -
+        firstWeekDay
+        +
+        cellIndex
+        +
+        1;
+
+
+      cellMonth =
+        calendarMonth - 1;
+
+
+      if (
+        cellMonth < 0
+      ) {
+
+        cellMonth =
+          11;
+
+        cellYear =
+          calendarYear - 1;
+
+      }
+
+
+      outsideMonth =
+        true;
+
+    }
+
+
+    /* ==================================================
+       CURRENT MONTH
+    ================================================== */
+
+    else if (
+      cellIndex <
+      firstWeekDay
+      +
+      lastDate
+    ) {
+
+      cellDay =
+        cellIndex
+        -
+        firstWeekDay
+        +
+        1;
+
+    }
+
+
+    /* ==================================================
+       NEXT MONTH
+    ================================================== */
+
+    else {
+
+      cellDay =
+        cellIndex
+        -
+        firstWeekDay
+        -
+        lastDate
+        +
+        1;
+
+
+      cellMonth =
+        calendarMonth + 1;
+
+
+      if (
+        cellMonth > 11
+      ) {
+
+        cellMonth =
+          0;
+
+        cellYear =
+          calendarYear + 1;
+
+      }
+
+
+      outsideMonth =
+        true;
+
+    }
+
+
+    /* ==================================================
+       DATE INFO
+    ================================================== */
+
+    const dateObject =
+      new Date(
+        cellYear,
+        cellMonth,
+        cellDay
+      );
+
+
+    const weekDay =
+      dateObject.getDay();
+
+
+    const dateString =
+      createDateString(
+        cellYear,
+        cellMonth,
+        cellDay
+      );
+
+
+    const holidayName =
+      japaneseHolidays[
+        dateString
+      ]
+      ||
+      "";
+
+
+    const eventsOnDate =
+      getEventsOnDate(
+        dateString
+      );
+
+
+    const hasEvent =
+      eventsOnDate.length > 0;
+
+
+    /* ==================================================
+       DAY BUTTON
+    ================================================== */
+
+    const dayButton =
+      document.createElement(
+        "button"
+      );
+
+
+    dayButton.type =
+      "button";
+
+
+    dayButton.className =
+      "calendar-day";
+
+
+    dayButton.dataset.date =
+      dateString;
+
+
+    /* ==================================================
+       OUTSIDE
+    ================================================== */
+
+    if (
+      outsideMonth
+    ) {
+
+      dayButton.classList.add(
+        "calendar-day-outside"
+      );
+
+    }
+
+
+    /* ==================================================
+       SUNDAY
+    ================================================== */
+
+    if (
+      weekDay === 0
+    ) {
+
+      dayButton.classList.add(
+        "calendar-day-sunday"
+      );
+
+    }
+
+
+    /* ==================================================
+       SATURDAY
+    ================================================== */
+
+    if (
+      weekDay === 6
+    ) {
+
+      dayButton.classList.add(
+        "calendar-day-saturday"
+      );
+
+    }
+
+
+    /* ==================================================
+       HOLIDAY
+    ================================================== */
+
+    if (
+      holidayName
+    ) {
+
+      dayButton.classList.add(
+        "calendar-day-holiday"
+      );
+
+    }
+
+
+    /* ==================================================
+       TODAY
+    ================================================== */
+
+    if (
+      isTodayDate(
+        cellYear,
+        cellMonth,
+        cellDay
+      )
+    ) {
+
+      dayButton.classList.add(
+        "calendar-day-today"
+      );
+
+    }
+
+
+    /* ==================================================
+       EVENT
+    ================================================== */
+
+    if (
+      hasEvent
+    ) {
+
+      dayButton.classList.add(
+        "calendar-day-has-event"
+      );
+
+    }
+
+
+    /* ==================================================
+       ACCESSIBILITY
+    ================================================== */
+
+    let ariaLabel =
+      `${cellYear}年${cellMonth + 1}月${cellDay}日`;
+
+
+    if (
+      holidayName
+    ) {
+
+      ariaLabel +=
+        ` ${holidayName}`;
+
+    }
+
+
+    if (
+      hasEvent
+    ) {
+
+      ariaLabel +=
+        ` イベント${eventsOnDate.length}件`;
+
+    }
+
+
+    dayButton.setAttribute(
+      "aria-label",
+      ariaLabel
+    );
+
+
+    /* ==================================================
+       HTML
+
+       祝日名はここには入れない
+       ↓
+       カレンダー下にまとめて表示
+    ================================================== */
+
+    dayButton.innerHTML = `
+
+      <span class="calendar-day-number">
+        ${cellDay}
+      </span>
+
+
+      ${
+        hasEvent
+
+          ? `
+
+            <span
+              class="calendar-event-paw"
+              aria-hidden="true"
+            >
+              🐾
+            </span>
+
+          `
+
+          : ""
+      }
+
+    `;
+
+
+    /* ==================================================
+       CLICK
+    ================================================== */
+
+    dayButton.addEventListener(
+      "click",
+      () => {
+
+
+        /* 前月・翌月の日付 */
+
+        if (
+          outsideMonth
+        ) {
+
+          calendarYear =
+            cellYear;
+
+
+          calendarMonth =
+            cellMonth;
+
+
+          renderCalendar();
+
+          return;
+
+        }
+
+
+        /* イベントなし */
+
+        if (
+          !hasEvent
+        ) {
+
+          return;
+
+        }
+
+
+        scrollToEventOnDate(
+          dateString
+        );
+
+      }
+    );
+
+
+    calendarDays.appendChild(
+      dayButton
+    );
+
+  }
+
+
+  /* ==================================================
+     HOLIDAY LIST
+  ================================================== */
+
+  renderCalendarHolidays();
+
+}
+
+
+/* ==================================================
+   SCROLL TO EVENT
+================================================== */
+
+function scrollToEventOnDate(
+  dateString
+) {
+
+  const events =
+    getEventsOnDate(
+      dateString
+    );
+
+
+  if (
+    events.length === 0
+  ) {
+
+    return;
+
+  }
+
+
+  const firstEvent =
+    events[0];
+
+
+  const target =
+    document.getElementById(
+      `event-${firstEvent.id}`
+    );
+
+
+  if (!target) {
+    return;
+  }
+
+
+  target.scrollIntoView({
+
+    behavior:
+      "smooth",
+
+    block:
+      "center"
+
+  });
+
+
+  /* ==================================================
+     HIGHLIGHT
+  ================================================== */
+
+  target.classList.add(
+    "event-card-highlight"
+  );
+
+
+  window.setTimeout(
+    () => {
+
+      target.classList.remove(
+        "event-card-highlight"
+      );
+
+    },
+    1600
+  );
+
+}
+
+
+/* ==================================================
+   PREVIOUS MONTH
+================================================== */
+
+if (
+  prevMonthButton
+) {
+
+  prevMonthButton.addEventListener(
+    "click",
+    () => {
+
+
+      calendarMonth--;
+
+
+      if (
+        calendarMonth < 0
+      ) {
+
+        calendarMonth =
+          11;
+
+
+        calendarYear--;
+
+      }
+
+
+      renderCalendar();
+
+    }
+  );
+
+}
+
+
+/* ==================================================
+   NEXT MONTH
+================================================== */
+
+if (
+  nextMonthButton
+) {
+
+  nextMonthButton.addEventListener(
+    "click",
+    () => {
+
+
+      calendarMonth++;
+
+
+      if (
+        calendarMonth > 11
+      ) {
+
+        calendarMonth =
+          0;
+
+
+        calendarYear++;
+
+      }
+
+
+      renderCalendar();
+
+    }
+  );
+
+}
+
+
+/* ==================================================
+   APPLY FILTER
+================================================== */
+
+function applyEventFilter() {
+
+  const filteredEvents =
+    getFilteredEvents();
+
+
+  /* ==================================================
+     EVENT LIST
+  ================================================== */
+
   displayEvents(
     filteredEvents
   );
+
+
+  /* ==================================================
+     CALENDAR
+  ================================================== */
+
+  renderCalendar();
 
 }
 
@@ -992,11 +2007,8 @@ eventTypeButtons.forEach(
           button.dataset.type;
 
 
-        /* 全部OFF */
-
         eventTypeButtons.forEach(
           btn => {
-
 
             btn.classList.remove(
               "active"
@@ -1005,8 +2017,6 @@ eventTypeButtons.forEach(
           }
         );
 
-
-        /* 押したものだけON */
 
         button.classList.add(
           "active"
@@ -1046,11 +2056,8 @@ eventRegionButtons.forEach(
           button.dataset.region;
 
 
-        /* 全部OFF */
-
         eventRegionButtons.forEach(
           btn => {
-
 
             btn.classList.remove(
               "active"
@@ -1059,8 +2066,6 @@ eventRegionButtons.forEach(
           }
         );
 
-
-        /* 押したものだけON */
 
         button.classList.add(
           "active"
