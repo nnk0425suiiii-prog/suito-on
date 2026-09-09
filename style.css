@@ -11821,6 +11821,7 @@ body.items-page {
 }
 /* ==================================================
    EVENT REFERENCE DESIGN
+   cleaned + calendar sidebar
 ================================================== */
 
 body.event-page {
@@ -11832,7 +11833,6 @@ body.event-page {
 .event-page .event-ref-page {
   overflow: hidden;
 }
-
 
 /* ==================================================
    HEADING
@@ -11856,17 +11856,10 @@ body.event-page {
 
 .event-page .event-ref-number {
   flex-shrink: 0;
-
-  font-family:
-    "Darumadrop One",
-    sans-serif;
-
-  font-size:
-    clamp(70px, 9vw, 120px);
-
+  font-family: "Darumadrop One", sans-serif;
+  font-size: clamp(70px, 9vw, 120px);
   font-weight: 400;
   line-height: .8;
-
   color: #e47a4e;
 }
 
@@ -11876,14 +11869,8 @@ body.event-page {
 
 .event-page .event-ref-title-text h1 {
   margin: 0;
-
-  font-family:
-    "Darumadrop One",
-    sans-serif;
-
-  font-size:
-    clamp(48px, 7vw, 90px);
-
+  font-family: "Darumadrop One", sans-serif;
+  font-size: clamp(48px, 7vw, 90px);
   font-weight: 400;
   line-height: .9;
   letter-spacing: .02em;
@@ -11891,11 +11878,7 @@ body.event-page {
 
 .event-page .event-ref-title-text p {
   margin: 16px 0 0;
-
-  font-family:
-    "Noto Sans JP",
-    sans-serif;
-
+  font-family: "Noto Sans JP", sans-serif;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: .08em;
@@ -11905,10 +11888,7 @@ body.event-page {
   width: min(440px, 100%);
   margin: 28px 0 0;
   padding-top: 16px;
-
-  border-top:
-    1px solid rgba(41,41,41,.25);
-
+  border-top: 1px solid rgba(41,41,41,.25);
   font-size: 11px;
   line-height: 2;
   color: #777;
@@ -11918,15 +11898,10 @@ body.event-page {
   position: absolute;
   top: -18px;
   right: 3%;
-
   font-size: 42px;
-
   opacity: .62;
-
-  transform:
-    rotate(15deg);
+  transform: rotate(15deg);
 }
-
 
 /* ==================================================
    FILTER
@@ -11940,214 +11915,106 @@ body.event-page {
   width: min(1120px, 100%);
   margin: 0 auto;
   padding: 20px 0;
-
-  border-top:
-    1px solid rgba(41,41,41,.3);
-
-  border-bottom:
-    1px solid rgba(41,41,41,.3);
+  border-top: 1px solid rgba(41,41,41,.3);
+  border-bottom: 1px solid rgba(41,41,41,.3);
 }
 
 .event-page .event-ref-filter-row {
   display: flex;
   align-items: center;
   gap: 28px;
-
   min-height: 45px;
 }
 
-.event-page
-.event-ref-filter-row
-+
-.event-ref-filter-row {
-  border-top:
-    1px dashed rgba(41,41,41,.16);
+.event-page .event-ref-filter-row + .event-ref-filter-row {
+  border-top: 1px dashed rgba(41,41,41,.16);
 }
 
 .event-page .event-ref-filter-label {
   width: 90px;
   flex-shrink: 0;
-
-  font-family:
-    "Darumadrop One",
-    sans-serif;
-
+  font-family: "Darumadrop One", sans-serif;
   font-size: 15px;
-
   color: #e47a4e;
 }
+
 .event-page .event-filter-buttons {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
 }
 
-
-/* ==================================================
-   TYPE BUTTON
-================================================== */
-
 .event-page .event-type-button {
-
   min-height: 34px;
-
-  padding:
-    7px 16px;
-
-  border:
-    1px solid rgba(41,41,41,.3);
-
-  border-radius:
-    999px;
-
-  background:
-    transparent;
-
-  color:
-    #292929;
-
-  font-family:
-    "Noto Sans JP",
-    sans-serif;
-
+  padding: 7px 16px;
+  border: 1px solid rgba(41,41,41,.3);
+  border-radius: 999px;
+  background: transparent;
+  color: #292929;
+  font-family: "Noto Sans JP", sans-serif;
   font-size: 10px;
-
   cursor: pointer;
-
-  transition:
-    background-color .25s ease,
-    border-color .25s ease,
-    color .25s ease;
+  transition: background-color .25s ease, border-color .25s ease, color .25s ease;
 }
-
 
 .event-page .event-type-button:hover,
 .event-page .event-type-button.active {
-
-  background:
-    #e47a4e;
-
-  border-color:
-    #e47a4e;
-
-  color:
-    #fffdf8;
+  background: #e47a4e;
+  border-color: #e47a4e;
+  color: #fffdf8;
 }
 
-
-/* ==================================================
-   REGION BUTTON
-   ITEMS CATEGORY と同じデザイン
-================================================== */
-
 .event-page .event-region-button {
-
   width: 82px;
   height: 82px;
   min-height: 82px;
-
   padding: 8px;
-
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-
   gap: 5px;
-
-  border:
-    1px solid rgba(41,41,41,.28);
-
-  border-radius:
-    50%;
-
-  background:
-    transparent;
-
-  color:
-    #292929;
-
-  font-family:
-    "Noto Sans JP",
-    sans-serif;
-
+  border: 1px solid rgba(41,41,41,.28);
+  border-radius: 50%;
+  background: transparent;
+  color: #292929;
+  font-family: "Noto Sans JP", sans-serif;
   cursor: pointer;
-
-  transition:
-    transform .2s ease,
-    background-color .25s ease,
-    border-color .25s ease;
+  transition: transform .2s ease, background-color .25s ease, border-color .25s ease;
 }
 
-
-/* ICON */
-
 .event-page .event-region-icon {
-
   display: flex;
   align-items: center;
   justify-content: center;
-
   min-height: 27px;
-
   font-size: 22px;
   line-height: 1;
 }
 
-
-/* TEXT */
-
 .event-page .event-region-text {
-
   font-size: 9px;
   font-weight: 700;
-
   line-height: 1.2;
   letter-spacing: .04em;
-
   white-space: nowrap;
 }
 
-
-/* HOVER */
-
 .event-page .event-region-button:hover {
-
-  transform:
-    translateY(-2px);
-
-  background:
-    rgba(228,122,78,.10);
-
-  border-color:
-    #e47a4e;
+  transform: translateY(-2px);
+  background: rgba(228,122,78,.10);
+  border-color: #e47a4e;
 }
-
-
-/* ACTIVE */
 
 .event-page .event-region-button.active {
-
-  background:
-    #e47a4e;
-
-  border-color:
-    #e47a4e;
-
-  color:
-    #fffdf8;
+  background: #e47a4e;
+  border-color: #e47a4e;
+  color: #fffdf8;
 }
 
-
-.event-page
-.event-region-button.active
-.event-region-icon {
-
-  transform:
-    rotate(-5deg);
+.event-page .event-region-button.active .event-region-icon {
+  transform: rotate(-5deg);
 }
-
-
 
 /* ==================================================
    UPCOMING
@@ -12167,120 +12034,167 @@ body.event-page {
   align-items: flex-end;
   justify-content: space-between;
   gap: 50px;
-
   margin-bottom: 38px;
 }
 
 .event-page .event-ref-small {
   margin: 0 0 5px;
-
-  font-family:
-    "Darumadrop One",
-    sans-serif;
-
+  font-family: "Darumadrop One", sans-serif;
   font-size: 16px;
-
   color: #e47a4e;
 }
 
 .event-page .event-ref-section-heading h2,
-.event-page .event-ref-calendar-heading h2,
 .event-page .event-ref-notice h2 {
   margin: 0;
-
-  font-family:
-    "Noto Sans JP",
-    sans-serif;
-
-  font-size:
-    clamp(24px, 3.4vw, 38px);
-
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: clamp(24px, 3.4vw, 38px);
   font-weight: 600;
-
   line-height: 1.5;
 }
 
-.event-page
-.event-ref-section-heading
-> p {
+.event-page .event-ref-section-heading > p {
   margin: 0;
-
   font-size: 11px;
   line-height: 1.9;
   color: #777;
-
   text-align: right;
 }
 
-
 /* ==================================================
-   EVENT LIST
+   EVENT + CALENDAR LAYOUT
 ================================================== */
+
+.event-page .event-ref-content-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 330px;
+  gap: 30px;
+  align-items: start;
+}
 
 .event-page .event-ref-list {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0,1fr));
-  gap: 26px;
+  grid-template-columns: 1fr;
+  gap: 22px;
+  min-width: 0;
 }
 
+/* ==================================================
+   EVENT CARD
+================================================== */
+
 .event-page .event-card {
+  display: grid;
+  grid-template-columns: 88px minmax(205px, 33%) minmax(0, 1fr);
+  min-height: 225px;
   overflow: hidden;
-
-  border:
-    1px solid rgba(41,41,41,.16);
-
+  border: 1px solid rgba(41,41,41,.16);
   border-radius: 0;
-
-  background:
-    #fffdf8;
-
-  box-shadow:
-    6px 7px 0 rgba(41,41,41,.045);
-
-  transition:
-    transform .3s ease,
-    box-shadow .3s ease;
+  background: #fffdf8;
+  box-shadow: 6px 7px 0 rgba(41,41,41,.045);
+  transition: transform .3s ease, box-shadow .3s ease;
+  scroll-margin-top: 112px;
 }
 
 .event-page .event-card:hover {
-  transform:
-    translateY(-4px);
+  transform: translateY(-3px);
+  box-shadow: 8px 9px 0 rgba(41,41,41,.055);
+}
 
-  box-shadow:
-    8px 10px 0 rgba(41,41,41,.055);
+.event-page .event-card.calendar-target {
+  animation: eventCardFocus 1.2s ease;
+}
+
+@keyframes eventCardFocus {
+  0%, 100% { box-shadow: 6px 7px 0 rgba(41,41,41,.045); }
+  45% { box-shadow: 0 0 0 3px rgba(228,122,78,.28), 8px 9px 0 rgba(41,41,41,.055); }
+}
+
+.event-page .event-card-side-date {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  padding: 20px 8px;
+  text-align: center;
+  border-right: 1px solid rgba(41,41,41,.14);
+  background: #f6f0e5;
+}
+
+.event-page .event-card-side-date-part {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.event-page .event-card-side-main {
+  display: block;
+  font-family: "Darumadrop One", "Noto Sans JP", sans-serif;
+  font-size: 31px;
+  font-weight: 400;
+  line-height: .95;
+  color: #e47a4e;
+}
+
+.event-page .event-card-side-week {
+  display: block;
+  margin-top: 7px;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 8px;
+  font-weight: 600;
+  letter-spacing: .11em;
+  color: #777066;
+}
+
+.event-page .event-card-side-separator {
+  display: block;
+  margin: 9px 0;
+  color: rgba(41,41,41,.35);
+  font-size: 11px;
 }
 
 .event-page .event-card-image {
   width: 100%;
-  aspect-ratio: 16 / 8.5;
-
+  height: 100%;
+  min-height: 225px;
+  aspect-ratio: auto;
   overflow: hidden;
-
-  border-radius: 0;
-
-  background:
-    #eee8dd;
+  background: #eee8dd;
 }
 
 .event-page .event-card-image img {
+  display: block;
   width: 100%;
   height: 100%;
   object-fit: cover;
-
-  transition:
-    transform .45s ease;
+  object-position: center;
+  transition: transform .45s ease;
 }
 
-.event-page
-.event-card:hover
-.event-card-image img {
-  transform:
-    scale(1.035);
+.event-page .event-card:hover .event-card-image img {
+  transform: scale(1.035);
+}
+
+.event-page .event-card-no-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.event-page .event-card-no-image span {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .14em;
+  color: #8ca7a3;
 }
 
 .event-page .event-card-content {
-  padding:
-    24px 26px 27px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 0;
+  padding: 22px 24px 23px;
 }
 
 .event-page .event-card-meta {
@@ -12288,268 +12202,349 @@ body.event-page {
   align-items: center;
   flex-wrap: wrap;
   gap: 8px;
-
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .event-page .event-type-label {
   display: inline-flex;
   align-items: center;
-
-  padding:
-    5px 10px;
-
-  border-radius:
-    999px;
-
+  padding: 5px 10px;
+  border-radius: 999px;
   font-size: 8px;
   font-weight: 700;
   letter-spacing: .1em;
 }
 
-.event-page
-.event-type-label.event-type-normal {
-  background:
-    #f5d8ca;
-
-  color:
-    #a9573c;
+.event-page .event-type-label.event-type-normal {
+  background: #f5d8ca;
+  color: #a9573c;
 }
 
-.event-page
-.event-type-label.event-type-adoption {
-  background:
-    #dcebf2;
-
-  color:
-    #527f91;
+.event-page .event-type-label.event-type-adoption {
+  background: #dcebf2;
+  color: #527f91;
 }
 
 .event-page .event-status {
-  padding:
-    5px 10px;
-
-  border-radius:
-    999px;
-
+  padding: 5px 10px;
+  border-radius: 999px;
   font-size: 8px;
 }
 
 .event-page .event-card-date {
-  margin:
-    0 0 10px;
-
-  font-family:
-    "Darumadrop One",
-    sans-serif;
-
-  font-size: 19px;
-
-  letter-spacing: .04em;
-
-  color: #e47a4e;
+  display: none;
 }
 
 .event-page .event-card-title {
-  margin:
-    0 0 13px;
-
-  font-size: 18px;
+  margin: 0 0 10px;
+  color: #403c38;
+  font-size: 17px;
   font-weight: 600;
-  line-height: 1.6;
+  line-height: 1.55;
 }
 
 .event-page .event-card-place {
-  margin:
-    0 0 5px;
-
-  font-size: 11px;
+  margin: 0 0 3px;
+  font-size: 10px;
   line-height: 1.7;
-
   color: #666;
 }
 
 .event-page .event-card-address {
   margin: 0;
-
-  font-size: 10px;
+  font-size: 9px;
   line-height: 1.7;
-
   color: #999;
 }
 
 .event-page .event-card-description {
-  margin:
-    18px 0 0;
-
-  padding-top: 16px;
-
-  border-top:
-    1px dashed rgba(41,41,41,.18);
-
-  font-size: 11px;
-  line-height: 1.9;
-
+  margin: 12px 0 0;
+  padding-top: 11px;
+  border-top: 1px dashed rgba(41,41,41,.18);
+  font-size: 9px;
+  line-height: 1.8;
   color: #777;
 }
 
 .event-page .event-detail-link {
   display: inline-flex;
-
-  margin-top: 18px;
-
-  padding-bottom: 4px;
-
-  border-bottom:
-    1px solid #292929;
-
-  font-size: 10px;
-
+  width: fit-content;
+  margin-top: 13px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid rgba(41,41,41,.45);
+  font-size: 9px;
+  font-weight: 600;
   color: #292929;
 }
 
-
 /* ==================================================
-   CALENDAR
+   CALENDAR SIDEBAR
 ================================================== */
 
-.event-page
-.event-ref-calendar-section {
-  padding:
-    95px 24px 110px;
-
-  background:
-    #efe5da;
+.event-page .event-calendar-sidebar {
+  position: relative;
+  padding-top: 54px;
 }
 
-.event-page
-.event-ref-calendar-inner {
-  width:
-    min(1120px, 100%);
-
-  margin:
-    0 auto;
+.event-page .event-calendar-sticky {
+  position: sticky;
+  top: 112px;
 }
 
-.event-page
-.event-ref-calendar-heading {
-  margin-bottom:
-    35px;
+.event-page .event-calendar-dogs {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 50%;
+  width: 205px;
+  height: 72px;
+  transform: translateX(-50%);
+  background-image: url("images/event/calendar-sui-on.png");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: contain;
+  pointer-events: none;
 }
 
-.event-page
-.event-ref-calendar-heading > p:last-child {
-  margin:
-    12px 0 0;
-
-  font-size:
-    11px;
-
-  color:
-    #777;
+.event-page .event-calendar-card {
+  padding: 24px 20px 20px;
+  border: 1px solid rgba(41,41,41,.18);
+  background: #fffdf8;
+  box-shadow: 6px 7px 0 rgba(41,41,41,.045);
 }
 
-.event-page .event-ref-calendar {
-  max-width:
-    1000px;
-
-  margin:
-    0 auto;
-
-  padding:
-    32px;
-
-  border:
-    1px solid rgba(41,41,41,.14);
-
-  border-radius:
-    0;
-
-  background:
-    #fffdf8;
-
-  box-shadow:
-    7px 8px 0 rgba(41,41,41,.04);
+.event-page .event-calendar-header {
+  display: grid;
+  grid-template-columns: 34px 1fr 34px;
+  align-items: center;
+  margin-bottom: 20px;
 }
 
-.event-page .calendar-header {
-  margin-bottom:
-    28px;
+.event-page .event-calendar-title {
+  margin: 0;
+  text-align: center;
+  font-family: "Darumadrop One", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: .05em;
 }
 
-.event-page .calendar-header h3 {
-  font-family:
-    "Darumadrop One",
-    sans-serif;
-
-  font-size:
-    31px;
-
-  font-weight:
-    400;
+.event-page .event-calendar-button {
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #292929;
+  font-size: 27px;
+  line-height: 1;
+  cursor: pointer;
+  transition: transform .2s ease, opacity .2s ease;
 }
 
-.event-page .calendar-button {
-  width: 42px;
-  height: 42px;
-
-  border:
-    1px solid rgba(41,41,41,.25);
-
-  border-radius:
-    50%;
-
-  background:
-    transparent;
-
-  cursor:
-    pointer;
+.event-page .event-calendar-button:hover {
+  transform: translateY(-1px);
+  opacity: .55;
 }
 
-.event-page .calendar-day.today .calendar-date {
-  background:
-    #e47a4e;
-
-  color:
-    #fff;
+.event-page .event-calendar-week,
+.event-page .event-calendar-days {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
 }
 
+.event-page .event-calendar-week {
+  margin-bottom: 8px;
+}
+
+.event-page .event-calendar-week span {
+  text-align: center;
+  font-size: 8px;
+  font-weight: 700;
+  letter-spacing: .06em;
+  color: #55504b;
+}
+
+.event-page .event-calendar-week span:first-child {
+  color: #e55f4d;
+}
+
+.event-page .event-calendar-week span:last-child {
+  color: #2994ca;
+}
+
+.event-page .event-calendar-day {
+  position: relative;
+  min-height: 39px;
+  padding: 3px 1px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  border: 0;
+  background: transparent;
+  color: #292929;
+  font-family: inherit;
+  cursor: default;
+}
+
+.event-page button.event-calendar-day.has-event {
+  cursor: pointer;
+}
+
+.event-page button.event-calendar-day.has-event:hover .event-calendar-date {
+  transform: translateY(-1px);
+}
+
+.event-page .event-calendar-date-wrap {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  min-width: 29px;
+  min-height: 29px;
+  padding: 0 2px;
+  border-radius: 50%;
+}
+
+.event-page .event-calendar-date {
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1;
+  transition: transform .2s ease;
+}
+
+.event-page .event-calendar-event-icon {
+  position: absolute;
+  right: 1px;
+  bottom: 0;
+  font-size: 8px;
+  line-height: 1;
+  color: #e47a4e;
+  filter: grayscale(.15);
+}
+
+.event-page .event-calendar-day.is-sunday .event-calendar-date,
+.event-page .event-calendar-day.is-holiday .event-calendar-date {
+  color: #e55f4d;
+}
+
+.event-page .event-calendar-day.is-saturday .event-calendar-date {
+  color: #2994ca;
+}
+
+.event-page .event-calendar-day.is-other-month .event-calendar-date {
+  color: rgba(41,41,41,.20);
+}
+
+.event-page .event-calendar-day.is-holiday .event-calendar-date-wrap {
+  background: #f8ded5;
+}
+
+.event-page .event-calendar-day.is-today .event-calendar-date-wrap {
+  background: #f7e8b9;
+}
+
+.event-page .event-calendar-day.is-holiday.is-today .event-calendar-date-wrap {
+  box-shadow: inset 0 0 0 2px #e7c66c;
+}
+
+.event-page .event-calendar-legend {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px 14px;
+  margin-top: 18px;
+  padding-top: 14px;
+  border-top: 1px dashed rgba(41,41,41,.16);
+  font-size: 8px;
+  color: #6f6963;
+}
+
+.event-page .event-calendar-legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.event-page .event-calendar-legend-paw {
+  font-size: 12px;
+  color: #e47a4e;
+}
+
+.event-page .event-calendar-legend-dot {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.event-page .event-calendar-legend-holiday {
+  background: #f8ded5;
+}
+
+.event-page .event-calendar-legend-today {
+  background: #f7e8b9;
+}
+
+.event-page .event-calendar-holidays {
+  margin-top: 16px;
+  padding: 15px 16px;
+  border: 1px solid rgba(41,41,41,.12);
+  background: #fbf7ef;
+}
+
+.event-page .event-calendar-holidays-title {
+  margin: 0 0 9px;
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.event-page .event-calendar-holiday-list {
+  display: grid;
+  gap: 5px;
+}
+
+.event-page .event-calendar-holiday-row {
+  display: grid;
+  grid-template-columns: 42px 1fr;
+  gap: 8px;
+  align-items: baseline;
+  font-size: 9px;
+  color: #55504b;
+}
+
+.event-page .event-calendar-holiday-date {
+  font-family: "Darumadrop One", sans-serif;
+  font-size: 15px;
+  color: #e55f4d;
+}
+
+.event-page .event-calendar-no-holiday {
+  font-size: 9px;
+  color: #99918a;
+}
 
 /* ==================================================
    NOTICE
 ================================================== */
 
 .event-page .event-ref-notice {
-  padding:
-    90px 24px;
+  padding: 90px 24px;
+  background: #efe5da;
 }
 
 .event-page .event-ref-notice-inner {
-  width:
-    min(700px, 100%);
-
-  margin:
-    0 auto;
-
-  text-align:
-    center;
+  width: min(700px, 100%);
+  margin: 0 auto;
+  text-align: center;
 }
 
-.event-page
-.event-ref-notice-inner > p:last-child {
-  margin:
-    25px 0 0;
-
-  font-size:
-    12px;
-
-  line-height:
-    2.1;
-
-  color:
-    #666;
+.event-page .event-ref-notice-inner > p:last-child {
+  margin: 25px 0 0;
+  font-size: 12px;
+  line-height: 2.1;
+  color: #666;
 }
-
 
 /* ==================================================
    ENDING
@@ -12557,216 +12552,243 @@ body.event-page {
 
 .event-page .event-ref-ending {
   position: relative;
-
-  width:
-    min(1120px, calc(100% - 48px));
-
-  height:
-    105px;
-
-  margin:
-    0 auto 45px;
+  width: min(1120px, calc(100% - 48px));
+  height: 105px;
+  margin: 0 auto 45px;
 }
 
-.event-page
-.event-ref-ending::before {
+.event-page .event-ref-ending::before {
   content: "";
-
   position: absolute;
-
   top: 52px;
   left: 0;
-
   width: 100%;
-
-  border-top:
-    1px dashed rgba(41,41,41,.2);
+  border-top: 1px dashed rgba(41,41,41,.2);
 }
 
-.event-page
-.event-ref-ending span {
+.event-page .event-ref-ending span {
   position: absolute;
-
   z-index: 1;
-
   top: 26px;
   right: 8%;
-
-  padding:
-    5px 12px;
-
-  background:
-    #f6f0e5;
-
-  font-size:
-    29px;
-
-  transform:
-    rotate(12deg);
+  padding: 5px 12px;
+  background: #f6f0e5;
+  font-size: 29px;
+  transform: rotate(12deg);
 }
-
-
-/* ==================================================
-   EMPTY
-================================================== */
 
 .event-page .events-empty {
-  grid-column:
-    1 / -1;
-
-  padding:
-    80px 20px;
-
-  text-align:
-    center;
-
-  color:
-    #777;
-
-  font-size:
-    13px;
+  grid-column: 1 / -1;
+  padding: 80px 20px;
+  text-align: center;
+  color: #777;
+  font-size: 13px;
 }
 
+/* ==================================================
+   TABLET
+================================================== */
+
+@media (max-width: 1050px) {
+  .event-page .event-ref-content-layout {
+    grid-template-columns: minmax(0, 1fr) 290px;
+    gap: 24px;
+  }
+
+  .event-page .event-card {
+    grid-template-columns: 78px minmax(175px, 34%) minmax(0, 1fr);
+    min-height: 205px;
+  }
+
+  .event-page .event-card-image {
+    min-height: 205px;
+  }
+
+  .event-page .event-card-side-main {
+    font-size: 28px;
+  }
+
+  .event-page .event-card-content {
+    padding: 19px 20px;
+  }
+
+  .event-page .event-card-description {
+    display: none;
+  }
+}
 
 /* ==================================================
    MOBILE
 ================================================== */
 
 @media (max-width: 760px) {
-
   body.event-page {
-    padding-top:
-      68px !important;
+    padding-top: 68px !important;
   }
-
 
   .event-page .event-ref-heading {
-    padding:
-      85px 20px 30px;
+    padding: 85px 20px 30px;
   }
-
 
   .event-page .event-ref-title-row {
-    gap:
-      15px;
+    gap: 15px;
   }
-
 
   .event-page .event-ref-number {
-    font-size:
-      65px;
+    font-size: 65px;
   }
 
-
-  .event-page
-  .event-ref-title-text h1 {
-    font-size:
-      52px;
+  .event-page .event-ref-title-text h1 {
+    font-size: 52px;
   }
 
-
-  .event-page
-  .event-ref-title-text p {
-    margin-top:
-      10px;
-
-    font-size:
-      12px;
+  .event-page .event-ref-title-text p {
+    margin-top: 10px;
+    font-size: 12px;
   }
-
 
   .event-page .event-ref-paw {
-    font-size:
-      28px;
+    font-size: 28px;
   }
-
 
   .event-page .event-ref-filter {
-    padding:
-      0 20px 42px;
+    padding: 0 20px 42px;
   }
 
-
-  .event-page
-  .event-ref-filter-row {
-    display:
-      block;
-
-    padding:
-      12px 0;
+  .event-page .event-ref-filter-row {
+    display: block;
+    padding: 12px 0;
   }
 
-
-  .event-page
-  .event-ref-filter-label {
-    display:
-      block;
-
-    width:
-      auto;
-
-    margin-bottom:
-      10px;
+  .event-page .event-ref-filter-label {
+    display: block;
+    width: auto;
+    margin-bottom: 10px;
   }
 
-
-  .event-page
-  .event-ref-upcoming {
-    padding:
-      0 20px 80px;
+  .event-page .event-filter-buttons {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 7px;
+    -webkit-overflow-scrolling: touch;
   }
 
-
-  .event-page
-  .event-ref-section-heading {
-    display:
-      block;
+  .event-page .event-region-button {
+    flex: 0 0 76px;
+    width: 76px;
+    height: 76px;
+    min-height: 76px;
   }
 
-
-  .event-page
-  .event-ref-section-heading
-  > p {
-    margin-top:
-      15px;
-
-    text-align:
-      left;
+  .event-page .event-ref-upcoming {
+    padding: 0 20px 80px;
   }
 
+  .event-page .event-ref-section-heading {
+    display: block;
+  }
+
+  .event-page .event-ref-section-heading > p {
+    margin-top: 15px;
+    text-align: left;
+  }
+
+  .event-page .event-ref-content-layout {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  .event-page .event-calendar-sidebar {
+    order: -1;
+    width: 100%;
+    padding-top: 48px;
+  }
+
+  .event-page .event-calendar-sticky {
+    position: relative;
+    top: auto;
+  }
+
+  .event-page .event-calendar-dogs {
+    width: 170px;
+    height: 60px;
+  }
+
+  .event-page .event-calendar-card {
+    padding: 20px 14px 18px;
+  }
+
+  .event-page .event-calendar-day {
+    min-height: 38px;
+  }
 
   .event-page .event-ref-list {
-    grid-template-columns:
-      1fr;
+    gap: 28px;
   }
 
-
-  .event-page
-  .event-ref-calendar-section {
-    padding:
-      70px 16px 85px;
+  .event-page .event-card {
+    display: grid;
+    grid-template-columns: 1fr;
+    min-height: 0;
   }
 
-
-  .event-page
-  .event-ref-calendar {
-    padding:
-      18px;
+  .event-page .event-card-side-date {
+    min-height: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 7px;
+    padding: 13px 16px;
+    border-right: 0;
+    border-bottom: 1px solid rgba(41,41,41,.13);
+    text-align: left;
   }
 
-
-  .event-page .calendar-day {
-    min-height:
-      70px;
+  .event-page .event-card-side-date-part {
+    flex-direction: row;
+    align-items: baseline;
+    gap: 7px;
   }
 
+  .event-page .event-card-side-main {
+    font-size: 27px;
+  }
+
+  .event-page .event-card-side-week {
+    margin-top: 0;
+    font-size: 8px;
+  }
+
+  .event-page .event-card-side-separator {
+    margin: 0 3px;
+  }
+
+  .event-page .event-card-image {
+    height: auto;
+    min-height: 0;
+    aspect-ratio: 1 / 1;
+  }
+
+  .event-page .event-card-content {
+    display: block;
+    padding: 20px 18px 22px;
+  }
+
+  .event-page .event-card-title {
+    font-size: 16px;
+  }
+
+  .event-page .event-card-description {
+    display: block;
+    font-size: 10px;
+  }
 
   .event-page .event-ref-notice {
-    padding:
-      70px 20px;
+    padding: 70px 20px;
   }
-
 }
+
+
 /* ==================================================
    EVENT DETAIL REFERENCE DESIGN
 ================================================== */
@@ -18876,335 +18898,421 @@ body.contact-page {
   .home-page .home-instagram-kicker { font-size: 14px; }
 }
 /* ==================================================
-   EVENT LIST
-   DATE + IMAGE + CONTENT
+   EVENT CALENDAR
+   FINAL COMPACT DESIGN
 ================================================== */
 
 
-/* ==================================================
-   LIST
-================================================== */
+/* カレンダー本体 */
 
-.event-page .event-ref-list {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 22px;
+.event-page .event-calendar-sidebar {
+  align-self: start;
 }
 
 
-/* ==================================================
-   CARD
-================================================== */
+.event-page .event-calendar-sticky {
+  position: sticky;
+  top: 120px;
 
-.event-page .event-card {
-  display: grid;
+  width: 100%;
 
-  grid-template-columns:
-    115px
-    minmax(260px, 35%)
-    minmax(0, 1fr);
+  padding: 30px 28px 26px;
 
-  min-height: 250px;
-
-  overflow: hidden;
+  background: #fffdf8;
 
   border:
     1px solid
-    rgba(41,41,41,.16);
-
-  border-radius: 0;
-
-  background:
-    #fffdf8;
+    rgba(41, 41, 41, .18);
 
   box-shadow:
     6px 7px 0
-    rgba(41,41,41,.045);
-
-  transition:
-    transform .3s ease,
-    box-shadow .3s ease;
-}
-
-
-.event-page .event-card:hover {
-  transform:
-    translateY(-3px);
-
-  box-shadow:
-    8px 9px 0
-    rgba(41,41,41,.055);
+    rgba(41, 41, 41, .045);
 }
 
 
 /* ==================================================
-   SIDE DATE
+   HEADER
 ================================================== */
 
-.event-page .event-card-side-date {
-  display: flex;
-  flex-direction: column;
+.event-page .event-calendar-header {
+  display: grid;
+
+  grid-template-columns:
+    40px 1fr 40px;
 
   align-items: center;
-  justify-content: center;
 
-  min-width: 0;
+  margin-bottom: 26px;
+}
 
-  padding:
-    22px 12px;
+
+.event-page .event-calendar-title {
+  margin: 0;
 
   text-align: center;
 
-  border-right:
-    1px solid
-    rgba(41,41,41,.14);
-
-  background:
-    #f6f0e5;
-}
-
-
-.event-page .event-card-side-date-part {
-  display: flex;
-  flex-direction: column;
-
-  align-items: center;
-}
-
-
-.event-page .event-card-side-main {
-  display: block;
-
   font-family:
     "Darumadrop One",
-    "Noto Sans JP",
     sans-serif;
 
-  font-size: 37px;
+  font-size: 29px;
   font-weight: 400;
 
-  line-height: .95;
-
-  color:
-    #e47a4e;
+  letter-spacing: .08em;
 }
 
 
-.event-page .event-card-side-week {
-  display: block;
+.event-page .event-calendar-button {
+  appearance: none;
 
-  margin-top: 8px;
+  width: 40px;
+  height: 40px;
 
-  font-family:
-    "Noto Sans JP",
-    sans-serif;
+  padding: 0;
 
-  font-size: 9px;
-  font-weight: 600;
+  border: 0;
 
-  letter-spacing: .12em;
+  background: transparent;
 
-  color:
-    #777066;
-}
+  color: #292929;
 
+  font-size: 31px;
+  line-height: 1;
 
-.event-page .event-card-side-separator {
-  display: block;
-
-  margin:
-    11px 0;
-
-  color:
-    rgba(41,41,41,.35);
-
-  font-size: 12px;
+  cursor: pointer;
 }
 
 
 /* ==================================================
-   IMAGE
+   WEEK
 ================================================== */
 
-.event-page .event-card-image {
+.event-page .event-calendar-week {
+  display: grid;
+
+  grid-template-columns:
+    repeat(7, minmax(0, 1fr));
+
+  margin-bottom: 10px;
+}
+
+
+.event-page .event-calendar-week span {
+  text-align: center;
+
+  color: #292929;
+
+  font-size: 8px;
+  font-weight: 700;
+
+  letter-spacing: .08em;
+}
+
+
+.event-page .event-calendar-week span:first-child {
+  color: #e45f45;
+}
+
+
+.event-page .event-calendar-week span:last-child {
+  color: #4096c4;
+}
+
+
+/* ==================================================
+   DAYS
+================================================== */
+
+.event-page .calendar-days,
+.event-page .event-calendar-days {
+  display: grid;
+
+  grid-template-columns:
+    repeat(7, minmax(0, 1fr));
+
+  border: 0 !important;
+
+  background: transparent !important;
+}
+
+
+.event-page .calendar-day {
+  position: relative;
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+
   width: 100%;
-  height: 100%;
+  height: 52px;
+  min-height: 52px !important;
 
-  min-height: 250px;
+  padding: 0 !important;
 
-  aspect-ratio: auto;
+  border: 0 !important;
 
-  overflow: hidden;
+  background: transparent;
 
-  background:
-    #eee8dd;
+  color: #292929;
+
+  font-family: inherit;
+
+  cursor: default;
 }
 
 
-.event-page .event-card-image img {
-  display: block;
+/* 数字 */
 
-  width: 100%;
-  height: 100%;
-
-  object-fit: cover;
-  object-position: center;
-
-  transition:
-    transform .45s ease;
-}
-
-
-.event-page
-.event-card:hover
-.event-card-image img {
-  transform:
-    scale(1.035);
-}
-
-
-/* NO IMAGE */
-
-.event-page .event-card-no-image {
+.event-page .calendar-day-number {
   display: flex;
 
   align-items: center;
   justify-content: center;
+
+  width: 31px;
+  height: 31px;
+
+  border-radius: 50%;
+
+  font-size: 12px;
+  font-weight: 500;
+
+  line-height: 1;
 }
 
 
 /* ==================================================
-   CONTENT
+   SUNDAY
 ================================================== */
 
-.event-page .event-card-content {
-  display: flex;
-  flex-direction: column;
-
-  justify-content: center;
-
-  min-width: 0;
-
-  padding:
-    27px 32px 28px;
+.event-page .calendar-day-sunday
+.calendar-day-number {
+  color: #e45f45;
 }
 
 
-/* TYPE / STATUS */
+/* ==================================================
+   SATURDAY
+================================================== */
 
-.event-page .event-card-meta {
-  margin-bottom: 11px;
+.event-page .calendar-day-saturday
+.calendar-day-number {
+  color: #4096c4;
 }
 
 
-/* 元の日付は非表示 */
+/* ==================================================
+   HOLIDAY
+================================================== */
 
-.event-page .event-card-date {
-  display: none;
+.event-page .calendar-day-holiday
+.calendar-day-number {
+  color: #e45f45;
 }
 
 
-/* TITLE */
+/* ==================================================
+   TODAY
+================================================== */
 
-.event-page .event-card-title {
-  margin:
-    0 0 11px;
+.event-page .calendar-day-today
+.calendar-day-number {
+  background: #f5e2a8;
 
-  color:
-    #403c38;
-
-  font-size: 18px;
-  font-weight: 600;
-
-  line-height: 1.55;
+  color: #292929;
 }
 
 
-/* PLACE */
+/* 今日が日曜・祝日の場合 */
 
-.event-page .event-card-place {
-  margin:
-    0 0 4px;
+.event-page
+.calendar-day-today.calendar-day-sunday
+.calendar-day-number,
+
+.event-page
+.calendar-day-today.calendar-day-holiday
+.calendar-day-number {
+  color: #e45f45;
+}
+
+
+/* ==================================================
+   OUTSIDE MONTH
+================================================== */
+
+.event-page .calendar-day-outside {
+  opacity: .22;
+}
+
+
+/* ==================================================
+   EVENT PAW
+================================================== */
+
+.event-page .calendar-event-paw {
+  position: absolute;
+
+  right: 3px;
+  bottom: 1px;
+
+  display: block;
 
   font-size: 11px;
+  line-height: 1;
+
+  transform: rotate(-10deg);
 }
 
 
-/* ADDRESS */
+/* イベントがある日はクリック */
 
-.event-page .event-card-address {
-  font-size: 9px;
+.event-page .calendar-day-has-event {
+  cursor: pointer;
 }
 
 
-/* DESCRIPTION */
-
-.event-page .event-card-description {
-  margin:
-    14px 0 0;
-
-  padding-top:
-    12px;
-
-  font-size: 10px;
-  line-height: 1.8;
-}
-
-
-/* LINK */
-
-.event-page .event-detail-link {
-  width: fit-content;
-
-  margin-top: 14px;
-
-  padding-bottom: 3px;
-
-  border-bottom:
-    1px solid
-    rgba(41,41,41,.45);
-
-  font-size: 9px;
-  font-weight: 600;
+.event-page .calendar-day-has-event:hover
+.calendar-day-number {
+  background:
+    rgba(228, 122, 78, .1);
 }
 
 
 /* ==================================================
-   TABLET
+   LEGEND
 ================================================== */
 
-@media (max-width: 950px) {
+.event-page .event-calendar-legend {
+  display: flex;
 
-  .event-page .event-card {
-    grid-template-columns:
-      95px
-      minmax(220px, 36%)
-      minmax(0, 1fr);
+  flex-wrap: wrap;
 
-    min-height: 225px;
-  }
+  align-items: center;
 
+  gap: 15px;
 
-  .event-page .event-card-image {
-    min-height: 225px;
-  }
+  margin-top: 18px;
 
+  padding-top: 17px;
 
-  .event-page .event-card-side-main {
-    font-size: 31px;
-  }
+  border-top:
+    1px dashed
+    rgba(41,41,41,.16);
 
+  color: #6f6862;
 
-  .event-page .event-card-content {
-    padding:
-      22px 24px;
-  }
+  font-size: 9px;
+}
 
 
-  .event-page .event-card-description {
-    display: none;
-  }
+.event-page .event-calendar-legend-item {
+  display: flex;
 
+  align-items: center;
+
+  gap: 6px;
+}
+
+
+.event-page .event-calendar-legend-paw {
+  font-size: 15px;
+}
+
+
+.event-page .event-calendar-legend-circle {
+  width: 14px;
+  height: 14px;
+
+  border-radius: 50%;
+}
+
+
+.event-page .event-calendar-legend-holiday {
+  background: #f7d6cd;
+}
+
+
+.event-page .event-calendar-legend-today {
+  background: #f5e2a8;
+}
+
+
+/* ==================================================
+   HOLIDAY LIST
+================================================== */
+
+.event-page #eventCalendarHolidays {
+  margin-top: 18px;
+
+  padding: 17px 18px;
+
+  border:
+    1px solid
+    rgba(41,41,41,.11);
+
+  background:
+    rgba(246,240,229,.45);
+}
+
+
+.event-page .event-calendar-holiday-title {
+  margin: 0 0 11px;
+
+  font-size: 10px;
+  font-weight: 700;
+
+  letter-spacing: .08em;
+}
+
+
+.event-page .event-calendar-holiday-list {
+  display: grid;
+
+  gap: 7px;
+}
+
+
+.event-page .event-calendar-holiday-row {
+  display: grid;
+
+  grid-template-columns:
+    48px 1fr;
+
+  align-items: center;
+
+  gap: 8px;
+
+  font-size: 10px;
+}
+
+
+.event-page .event-calendar-holiday-row span {
+  color: #e45f45;
+
+  font-weight: 700;
+}
+
+
+.event-page .event-calendar-holiday-row p {
+  margin: 0;
+
+  color: #655f59;
+}
+
+
+/* ==================================================
+   CARD HIGHLIGHT
+================================================== */
+
+.event-page .event-card-highlight {
+  outline:
+    2px solid
+    rgba(228,122,78,.45);
+
+  outline-offset: 4px;
 }
 
 
@@ -19212,102 +19320,32 @@ body.contact-page {
    MOBILE
 ================================================== */
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
 
-  .event-page .event-ref-list {
-    gap: 28px;
-  }
-
-
-  .event-page .event-card {
-    display: grid;
-
-    grid-template-columns:
-      1fr;
-
-    min-height: 0;
-  }
-
-
-  /* 日付を横表示 */
-
-  .event-page .event-card-side-date {
-    min-height: 0;
-
-    flex-direction: row;
-
-    justify-content: flex-start;
-
-    gap: 7px;
+  .event-page .event-calendar-sticky {
+    position: static;
 
     padding:
-      13px 16px;
-
-    border-right: 0;
-
-    border-bottom:
-      1px solid
-      rgba(41,41,41,.13);
-
-    text-align: left;
+      24px 18px 20px;
   }
 
 
-  .event-page .event-card-side-date-part {
-    flex-direction: row;
-
-    align-items: baseline;
-
-    gap: 7px;
+  .event-page .calendar-day {
+    height: 46px;
+    min-height: 46px !important;
   }
 
 
-  .event-page .event-card-side-main {
-    font-size: 27px;
+  .event-page .calendar-day-number {
+    width: 29px;
+    height: 29px;
+
+    font-size: 11px;
   }
 
 
-  .event-page .event-card-side-week {
-    margin-top: 0;
-
-    font-size: 8px;
-  }
-
-
-  .event-page .event-card-side-separator {
-    margin:
-      0 3px;
-  }
-
-
-  /* IMAGE */
-
-  .event-page .event-card-image {
-    height: auto;
-    min-height: 0;
-
-    aspect-ratio:
-      16 / 10;
-  }
-
-
-  /* CONTENT */
-
-  .event-page .event-card-content {
-    display: block;
-
-    padding:
-      20px 18px 22px;
-  }
-
-
-  .event-page .event-card-title {
-    font-size: 16px;
-  }
-
-
-  .event-page .event-card-description {
-    display: block;
+  .event-page .calendar-event-paw {
+    right: 2px;
 
     font-size: 10px;
   }
