@@ -12,9 +12,6 @@
 
   <title>EVENT | すいとおん。</title>
 
-
-  <!-- FONT -->
-
   <link
     rel="preconnect"
     href="https://fonts.googleapis.com"
@@ -30,7 +27,6 @@
     href="https://fonts.googleapis.com/css2?family=Darumadrop+One&family=Noto+Sans+JP:wght@400;500;600;700&display=swap"
     rel="stylesheet"
   >
-
 
   <link
     rel="stylesheet"
@@ -120,21 +116,10 @@
       id="mobileNav"
     >
 
-      <a href="sui_to_on_dogsite.html">
-        HOME
-      </a>
-
-      <a href="blog.html">
-        BLOG
-      </a>
-
-      <a href="guide.html">
-        GUIDE
-      </a>
-
-      <a href="items.html">
-        ITEMS
-      </a>
+      <a href="sui_to_on_dogsite.html">HOME</a>
+      <a href="blog.html">BLOG</a>
+      <a href="guide.html">GUIDE</a>
+      <a href="items.html">ITEMS</a>
 
       <a
         href="event.html"
@@ -143,13 +128,8 @@
         EVENT
       </a>
 
-      <a href="comic.html">
-        COMIC
-      </a>
-
-      <a href="about.html">
-        ABOUT
-      </a>
+      <a href="comic.html">COMIC</a>
+      <a href="about.html">ABOUT</a>
 
     </nav>
 
@@ -166,6 +146,8 @@
 
     <!-- ==================================================
          TITLE
+
+         ★ここは今の共通レイアウトの位置を変更しない
     ================================================== -->
 
     <section class="event-ref-heading">
@@ -202,21 +184,25 @@
           🐾
         </div>
 
+
+        <!-- CHECK UPDATES
+             ★位置は既存CSSのまま -->
+
         <div class="page-update-note page-update-note-event">
 
-  <span class="page-update-note-small">
-    CHECK
-  </span>
+          <span class="page-update-note-small">
+            CHECK
+          </span>
 
-  <strong>
-    UPDATES
-  </strong>
+          <strong>
+            UPDATES
+          </strong>
 
-  <span class="page-update-note-ja">
-    随時更新
-  </span>
+          <span class="page-update-note-ja">
+            随時更新
+          </span>
 
-</div>
+        </div>
 
 
         <p class="event-ref-description">
@@ -233,12 +219,16 @@
 
     <!-- ==================================================
          FILTER
+
+         ★TYPE / REGION も今の位置を変更しない
     ================================================== -->
 
     <section class="event-ref-filter">
 
       <div class="event-ref-filter-inner">
 
+
+        <!-- TYPE -->
 
         <div class="event-ref-filter-row">
 
@@ -278,6 +268,8 @@
         </div>
 
 
+        <!-- REGION -->
+
         <div class="event-ref-filter-row">
 
           <span class="event-ref-filter-label">
@@ -285,90 +277,92 @@
           </span>
 
 
-  <div class="event-filter-buttons">
+          <div class="event-filter-buttons">
 
-  <button
-    type="button"
-    class="event-region-button active"
-    data-region="all"
-  >
-    <span class="event-region-icon">✦</span>
-    <span class="event-region-text">ALL</span>
-  </button>
+            <button
+              type="button"
+              class="event-region-button active"
+              data-region="all"
+            >
+              <span class="event-region-icon">✦</span>
+              <span class="event-region-text">ALL</span>
+            </button>
 
-  <button
-    type="button"
-    class="event-region-button"
-    data-region="hokkaido"
-  >
-    <span class="event-region-icon">❄</span>
-    <span class="event-region-text">北海道</span>
-  </button>
+            <button
+              type="button"
+              class="event-region-button"
+              data-region="hokkaido"
+            >
+              <span class="event-region-icon">❄</span>
+              <span class="event-region-text">北海道</span>
+            </button>
 
-  <button
-    type="button"
-    class="event-region-button"
-    data-region="tohoku"
-  >
-    <span class="event-region-icon">🌾</span>
-    <span class="event-region-text">東北</span>
-  </button>
+            <button
+              type="button"
+              class="event-region-button"
+              data-region="tohoku"
+            >
+              <span class="event-region-icon">🌾</span>
+              <span class="event-region-text">東北</span>
+            </button>
 
-  <button
-    type="button"
-    class="event-region-button"
-    data-region="kanto"
-  >
-    <span class="event-region-icon">🗼</span>
-    <span class="event-region-text">関東</span>
-  </button>
+            <button
+              type="button"
+              class="event-region-button"
+              data-region="kanto"
+            >
+              <span class="event-region-icon">🗼</span>
+              <span class="event-region-text">関東</span>
+            </button>
 
-  <button
-    type="button"
-    class="event-region-button"
-    data-region="chubu"
-  >
-    <span class="event-region-icon">🗻</span>
-    <span class="event-region-text">中部</span>
-  </button>
+            <button
+              type="button"
+              class="event-region-button"
+              data-region="chubu"
+            >
+              <span class="event-region-icon">🗻</span>
+              <span class="event-region-text">中部</span>
+            </button>
 
-  <button
-    type="button"
-    class="event-region-button"
-    data-region="kansai"
-  >
-    <span class="event-region-icon">🐙</span>
-    <span class="event-region-text">関西</span>
-  </button>
+            <button
+              type="button"
+              class="event-region-button"
+              data-region="kansai"
+            >
+              <span class="event-region-icon">🐙</span>
+              <span class="event-region-text">関西</span>
+            </button>
 
-  <button
-    type="button"
-    class="event-region-button"
-    data-region="chugoku"
-  >
-    <span class="event-region-icon">⛩</span>
-    <span class="event-region-text">中国</span>
-  </button>
+            <button
+              type="button"
+              class="event-region-button"
+              data-region="chugoku"
+            >
+              <span class="event-region-icon">⛩</span>
+              <span class="event-region-text">中国</span>
+            </button>
 
-  <button
-    type="button"
-    class="event-region-button"
-    data-region="shikoku"
-  >
-    <span class="event-region-icon">🍊</span>
-    <span class="event-region-text">四国</span>
-  </button>
+            <button
+              type="button"
+              class="event-region-button"
+              data-region="shikoku"
+            >
+              <span class="event-region-icon">🍊</span>
+              <span class="event-region-text">四国</span>
+            </button>
 
-  <button
-    type="button"
-    class="event-region-button"
-    data-region="kyushu"
-  >
-    <span class="event-region-icon">🌺</span>
-    <span class="event-region-text">九州・沖縄</span>
-  </button>
+            <button
+              type="button"
+              class="event-region-button"
+              data-region="kyushu"
+            >
+              <span class="event-region-icon">🌺</span>
+              <span class="event-region-text">九州・沖縄</span>
+            </button>
 
-</div>
+          </div>
+
+        </div>
 
 
       </div>
@@ -379,6 +373,10 @@
 
     <!-- ==================================================
          UPCOMING
+
+         ★ここから下だけ新レイアウト
+         PC      左：一覧 / 右：sticky calendar
+         MOBILE  calendar / 一覧
     ================================================== -->
 
     <section class="event-ref-upcoming">
@@ -409,97 +407,132 @@
         </div>
 
 
-
-        <div
-          class="event-ref-list"
-          id="eventList"
-        >
-        </div>
+        <div class="event-ref-content-layout">
 
 
-      </div>
-
-    </section>
-
-
-
-    <!-- ==================================================
-         CALENDAR
-    ================================================== -->
-
-    <section class="event-ref-calendar-section">
-
-      <div class="event-ref-calendar-inner">
-
-
-        <div class="event-ref-calendar-heading">
-
-          <p class="event-ref-small">
-            CALENDAR
-          </p>
-
-          <h2>
-            イベントカレンダー
-          </h2>
-
-          <p>
-            日程から探したいときはこちら。
-          </p>
-
-        </div>
-
-
-
-        <div class="calendar event-ref-calendar">
-
-
-          <div class="calendar-header">
-
-            <button
-              class="calendar-button"
-              id="prevMonth"
-              type="button"
-              aria-label="前の月"
-            >
-              ‹
-            </button>
-
-
-            <h3 id="calendarTitle">
-            </h3>
-
-
-            <button
-              class="calendar-button"
-              id="nextMonth"
-              type="button"
-              aria-label="次の月"
-            >
-              ›
-            </button>
-
-          </div>
-
-
-
-          <div class="calendar-week">
-
-            <div>SUN</div>
-            <div>MON</div>
-            <div>TUE</div>
-            <div>WED</div>
-            <div>THU</div>
-            <div>FRI</div>
-            <div>SAT</div>
-
-          </div>
-
+          <!-- ==================================================
+               EVENT LIST
+          ================================================== -->
 
           <div
-            class="calendar-days"
-            id="calendarDays"
+            class="event-ref-list"
+            id="eventList"
           >
           </div>
+
+
+
+          <!-- ==================================================
+               CALENDAR SIDEBAR
+          ================================================== -->
+
+          <aside class="event-calendar-sidebar">
+
+            <div class="event-calendar-sticky">
+
+
+              <!--
+                すい＆おん画像
+
+                images/event/calendar-sui-on.png
+
+                を置くとカレンダー上から覗きます。
+                画像がなくてもカレンダー自体は正常動作します。
+              -->
+
+              <div
+                class="event-calendar-dogs"
+                aria-hidden="true"
+              ></div>
+
+
+              <div class="event-calendar-card">
+
+
+                <div class="event-calendar-header">
+
+                  <button
+                    class="event-calendar-button"
+                    id="eventCalendarPrev"
+                    type="button"
+                    aria-label="前の月を見る"
+                  >
+                    ‹
+                  </button>
+
+
+                  <h3
+                    class="event-calendar-title"
+                    id="eventCalendarTitle"
+                  >
+                  </h3>
+
+
+                  <button
+                    class="event-calendar-button"
+                    id="eventCalendarNext"
+                    type="button"
+                    aria-label="次の月を見る"
+                  >
+                    ›
+                  </button>
+
+                </div>
+
+
+                <div
+                  class="event-calendar-week"
+                  aria-hidden="true"
+                >
+                  <span>SUN</span>
+                  <span>MON</span>
+                  <span>TUE</span>
+                  <span>WED</span>
+                  <span>THU</span>
+                  <span>FRI</span>
+                  <span>SAT</span>
+                </div>
+
+
+                <div
+                  class="event-calendar-days"
+                  id="eventCalendarDays"
+                >
+                </div>
+
+
+                <div class="event-calendar-legend">
+
+                  <span class="event-calendar-legend-item">
+                    <span class="event-calendar-legend-paw">🐾</span>
+                    イベントあり
+                  </span>
+
+                  <span class="event-calendar-legend-item">
+                    <span class="event-calendar-legend-dot event-calendar-legend-holiday"></span>
+                    祝日
+                  </span>
+
+                  <span class="event-calendar-legend-item">
+                    <span class="event-calendar-legend-dot event-calendar-legend-today"></span>
+                    今日
+                  </span>
+
+                </div>
+
+
+                <div
+                  class="event-calendar-holidays"
+                  id="eventCalendarHolidays"
+                >
+                </div>
+
+
+              </div>
+
+            </div>
+
+          </aside>
 
 
         </div>
@@ -577,31 +610,12 @@
 
 
       <nav class="footer-nav">
-
-        <a href="blog.html">
-          BLOG
-        </a>
-
-        <a href="guide.html">
-          GUIDE
-        </a>
-
-        <a href="items.html">
-          ITEMS
-        </a>
-
-        <a href="event.html">
-          EVENT
-        </a>
-
-        <a href="comic.html">
-          COMIC
-        </a>
-
-        <a href="about.html">
-          ABOUT
-        </a>
-
+        <a href="blog.html">BLOG</a>
+        <a href="guide.html">GUIDE</a>
+        <a href="items.html">ITEMS</a>
+        <a href="event.html">EVENT</a>
+        <a href="comic.html">COMIC</a>
+        <a href="about.html">ABOUT</a>
       </nav>
 
 
@@ -619,19 +633,20 @@
 
     </div>
 
+
     <div class="footer-policy-links">
 
-  <a href="privacy.html">
-    PRIVACY POLICY
-  </a>
+      <a href="privacy.html">
+        PRIVACY POLICY
+      </a>
 
-  <span>/</span>
+      <span>/</span>
 
-  <a href="contact.html">
-    CONTACT
-  </a>
+      <a href="contact.html">
+        CONTACT
+      </a>
 
-</div>
+    </div>
 
 
     <div class="footer-bottom">
@@ -648,11 +663,12 @@
 
   <!-- ==================================================
        JAVASCRIPT
+
+       calendar.js は不要になりました。
+       event.js の中で一覧とカレンダーをまとめて管理します。
   ================================================== -->
 
-  <script src="blog-data.js"></script>
   <script src="event-data.js"></script>
-  <script src="calendar.js"></script>
   <script src="event.js"></script>
   <script src="script.js"></script>
 
