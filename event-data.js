@@ -251,7 +251,7 @@ place:
     ========================= */
 
     image:
-      "images/event/dogbousaifesta.png",
+      "images/event/shonan-dog-bousai-festa-2026.png",
 
 
 
@@ -334,7 +334,7 @@ place:
     "東京都町田市鶴間3丁目1-1",
 
   image:
-    "images/event/tama-dog-fes-tsuruma-2026.png",
+    "images/event/tama-dog-fes-2026.png",
 
   mapUrl:
     "https://www.google.com/maps/search/?api=1&query=南町田鶴間公園",
@@ -423,7 +423,7 @@ place:
     "埼玉県越谷市レイクタウン8丁目",
 
   image:
-    "images/event/inu-no-yomatsuri-laketown-2026.png",
+    "images/event/inu-no-yomatsuri-2026.png",
 
   mapUrl:
     "https://www.google.com/maps/search/?api=1&query=見田方遺跡公園",
@@ -621,7 +621,7 @@ place:
     "東京都江東区青海1丁目1",
 
   image:
-    "images/event/festa-autumn.png",
+    "images/event/japan-wanko-festa-2026-autumn.png",
 
   mapUrl:
     "https://www.google.com/maps/search/?api=1&query=お台場セントラル広場",
@@ -720,7 +720,7 @@ place:
     "神奈川県横浜市金沢区白帆5-2",
 
   image:
-    "images/event/yokohama-bayside.png",
+    "images/event/wanterrace--2026.png",
 
   mapUrl:
     "https://www.google.com/maps/search/?api=1&query=三井アウトレットパーク横浜ベイサイド",
