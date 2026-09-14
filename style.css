@@ -13060,7 +13060,7 @@ body.event-detail-page-body {
 
 .event-detail-ref-image-inner {
   width:
-    min(1060px, 100%);
+    min(760px, 100%);
 
   margin:
     0 auto;
@@ -13117,20 +13117,17 @@ body.event-detail-page-body {
 
 .event-detail-page-body
 .event-detail-image {
-  width:
-    100%;
+  width: 100%;
 
-  max-width:
-    none;
+  max-width: none;
 
-  margin:
-    0;
+  margin: 0;
 
-  overflow:
-    hidden;
+  overflow: visible;
 
-  border-radius:
-    0;
+  border-radius: 0;
+
+  background: transparent;
 }
 
 
@@ -13138,14 +13135,17 @@ body.event-detail-page-body {
 .event-detail-image img {
   display: block;
 
-  width:
-    100%;
+  width: 100%;
+  height: auto;
 
-  max-height:
-    680px;
+  max-height: none;
 
-  object-fit:
-    cover;
+  aspect-ratio: auto;
+
+  object-fit: contain;
+  object-position: center;
+
+  margin: 0 auto;
 }
 
 
