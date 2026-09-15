@@ -3084,13 +3084,6 @@ products: [
       </strong>
     </p>
 
-    <figure class="article-photo">
-      <img
-        src="blog/images/sui-on-wrestling.jpg"
-        alt="一緒にワンプロをするすいとおん"
-      >
-    </figure>
-
     <p>
       よかった。
     </p>
@@ -3271,13 +3264,6 @@ products: [
     <p>
       普通にくっついて寝ています。
     </p>
-
-    <figure class="article-photo">
-      <img
-        src="blog/images/sui-on-sleep-close.jpg"
-        alt="くっついて眠るすいとおん"
-      >
-    </figure>
 
     <p>
       ケンカして。
