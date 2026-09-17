@@ -33,7 +33,7 @@
   shell.className = 'mobile-home';
   shell.innerHTML = `
     <section class="mh-hero" aria-label="すいとおんの日常">
-      <div class="mh-editorial-title" aria-hidden="true">Little days,<br><span>big love.</span></div><span class="mh-flower" aria-hidden="true">✳</span><span class="mh-side-note" aria-hidden="true">THE SUI &amp; ON JOURNAL</span>
+      <div class="mh-editorial-title" aria-hidden="true">Little days,<br><span>big love.</span></div><span class="mh-flower" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" focusable="false" style="display:block;width:1em;height:1em;overflow:visible"><path d="M50 5V95M5 50H95M18 18L82 82M18 82L82 18" fill="none" stroke="currentColor" stroke-width="5"/></svg></span><span class="mh-side-note" aria-hidden="true">THE SUI &amp; ON JOURNAL</span>
       <p class="mh-motto">犬との毎日を、<br>もっと楽しく。</p>
       <div class="mh-photo" aria-roledescription="スライドショー" aria-label="すいとおんの写真">${heroPhotos.map(([id,alt,position],i)=>`<img class="mh-slide ${i===0?'is-active':''}" src="images/home/sui-on-home-${id}.jpeg" alt="${esc(alt)}" style="object-position:${position}" aria-hidden="${i!==0}" ${i===0?'fetchpriority="high"':'loading="lazy"'} decoding="async">`).join('')}</div>
       <div class="mh-photo-controls"><button type="button" class="mh-photo-prev" aria-label="前の写真">‹</button><span class="mh-photo-count">1 / 5</span><button type="button" class="mh-photo-next" aria-label="次の写真">›</button><button type="button" class="mh-photo-pause" aria-label="写真の自動切替を停止">Ⅱ</button></div>
