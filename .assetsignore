@@ -1,4 +1,13 @@
-.git
 **/.git
-.DS_Store
 **/.DS_Store
+_worker.js
+wrangler.jsonc
+tools/
+edge/
+*-review.html
+preview-navigation.js
+*.md
+*.zip
+*.py
+*.txt
+!robots.txt
