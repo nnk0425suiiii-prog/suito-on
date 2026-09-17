@@ -65,6 +65,8 @@ function createBlogItems() {
           product.addedDate ||
           post.datetime,
 
+        updatedDate: post.datetime || product.addedDate || "",
+
         category:
           product.category || "",
 
@@ -126,6 +128,8 @@ function createManualItems() {
 
     addedDate:
       item.addedDate || "",
+
+    updatedDate: item.updatedDate || item.addedDate || "",
 
     category:
       item.category || "",
@@ -189,70 +193,27 @@ const uniqueItemsMap =
   new Map();
 
 
+function getItemDateTime(value) {
+  if (!value) return 0;
+  const time = Date.parse(/^\d{4}-\d{2}-\d{2}$/.test(value) ? `${value}T00:00:00+09:00` : value);
+  return Number.isFinite(time) ? time : 0;
+}
+
 mergedItems.forEach(item => {
-
-  if (!item.id) {
-
-    console.warn(
-      "ITEM IDがありません:",
-      item
-    );
-
-    return;
+  if (!item.id) return;
+  const previous = uniqueItemsMap.get(item.id);
+  if (!previous || (item.source === "blog" && previous.source !== "blog") ||
+      (item.source === previous.source && getItemDateTime(item.updatedDate) > getItemDateTime(previous.updatedDate))) {
+    uniqueItemsMap.set(item.id, item);
   }
-
-
-  if (
-    !uniqueItemsMap.has(item.id)
-  ) {
-
-    uniqueItemsMap.set(
-      item.id,
-      item
-    );
-
-  }
-
 });
 
-
-
-/* ==================================================
-   ALL ITEMS
-================================================== */
-
-const allItems =
-  Array.from(
-    uniqueItemsMap.values()
-  )
-
-  .sort((a, b) => {
-
-
-    const dateA =
-      a.addedDate
-
-        ? new Date(
-            `${a.addedDate}T00:00:00`
-          )
-
-        : new Date(0);
-
-
-    const dateB =
-      b.addedDate
-
-        ? new Date(
-            `${b.addedDate}T00:00:00`
-          )
-
-        : new Date(0);
-
-
-    return dateB - dateA;
-
-  });
-
+// Blog recommendations come first; newest published mention wins within each group.
+const allItems = Array.from(uniqueItemsMap.values()).sort((a, b) =>
+  Number(b.source === "blog") - Number(a.source === "blog")
+  || getItemDateTime(b.updatedDate || b.addedDate) - getItemDateTime(a.updatedDate || a.addedDate)
+  || String(a.id).localeCompare(String(b.id))
+);
 
 
 /* ==================================================
@@ -495,7 +456,7 @@ function displayItems(
               rel="noopener noreferrer"
               class="items-ref-shop-link"
             >
-              ITEMを見る
+              商品を見る
               <span>↗</span>
             </a>
           `
@@ -516,7 +477,7 @@ function displayItems(
               href="${item.blogUrl}"
               class="items-ref-blog-link"
             >
-              BLOGで詳しく読む →
+              紹介ブログを読む →
             </a>
           `
 
@@ -582,163 +543,18 @@ function displayItems(
       ================================================== */
 
       article.innerHTML = `
-
-        <div class="items-ref-card-top">
-
-          <span class="items-ref-index">
-            ${itemNumber}
-          </span>
-
-          <span class="items-ref-card-label">
-            FAVORITE ITEM
-          </span>
-
-        </div>
-
-
-
-        <div
-          class="items-ref-flip-card"
-          tabindex="0"
-          role="button"
-          aria-label="${item.name}のおすすめポイントを見る"
-          aria-pressed="false"
-        >
-
-
-          <div class="items-ref-flip-inner">
-
-
-            <!-- ==================================================
-                 FRONT
-            ================================================== -->
-
-            <div class="items-ref-flip-front">
-
-
-              <div class="items-ref-image">
-
-                ${imageHTML}
-
-                ${newHTML}
-
-
-                <span class="items-ref-flip-hint">
-                  WHY? ↻
-                </span>
-
-              </div>
-
-
-
-              <div class="items-ref-info">
-
-
-                <div class="items-ref-meta">
-
-                  <span class="items-ref-category">
-                    ${item.category || "ITEM"}
-                  </span>
-
-
-                  <span class="item-dog ${dogClass}">
-                    ${item.dog || "BOTH"}
-                  </span>
-
-                </div>
-
-
-
-                <h2>
-                  ${item.name}
-                </h2>
-
-
-
-                ${
-                  item.price
-
-                    ? `
-                      <p class="items-ref-price">
-                        ${item.price}
-                      </p>
-                    `
-
-                    : ""
-                }
-
-
-              </div>
-
-            </div>
-
-
-
-            <!-- ==================================================
-                 BACK
-            ================================================== -->
-
-            <div
-              class="items-ref-flip-back ${backColorClass}"
-            >
-
-
-              <div class="items-ref-back-content">
-
-
-                <p class="items-ref-back-kicker">
-                  WHY WE LIKE IT
-                </p>
-
-
-                <h3>
-                  すいとおん。からひと言
-                </h3>
-
-
-                <p class="items-ref-recommendation">
-                  ${recommendation}
-                </p>
-
-
-
-                <div class="items-ref-back-links">
-
-                  ${blogHTML}
-
-                  ${shopHTML}
-
-                </div>
-
-
-
-                <!-- LIKE -->
-
-                ${likeHTML}
-
-
-
-                <button
-                  type="button"
-                  class="items-ref-flip-back-button"
-                  aria-label="表面に戻る"
-                >
-                  ↻ BACK
-                </button>
-
-
-              </div>
-
-            </div>
-
-
+        <div class="item-open-card">
+          <div class="item-open-photo">${imageHTML}${newHTML}</div>
+          <div class="item-open-body">
+            <div class="items-ref-meta"><span class="items-ref-category">${item.category || "ITEM"}</span><span class="item-dog ${dogClass}">${item.dog || "BOTH"}</span></div>
+            <h2>${item.name}</h2>
+            ${item.price ? `<p class="item-open-price">${item.price}</p>` : ""}
+            <p class="item-open-note">${recommendation}</p>
+            <div class="item-open-links">${blogHTML}${shopHTML}</div>
+            ${likeHTML}
           </div>
-
         </div>
-
       `;
-
-
 
       itemsList.appendChild(
         article
@@ -753,9 +569,7 @@ function displayItems(
      FLIP CARD
   ================================================== */
 
-  initializeItemFlipCards(
-    itemsList
-  );
+
 
 
 

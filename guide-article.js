@@ -144,6 +144,7 @@ if (
 
 else {
 
+  markArticleNotFound();
 
   document.title =
     "記事が見つかりません | すいとおん。";
@@ -314,3 +315,6 @@ function setupGuideNavigation() {
 
 
 setupGuideNavigation();
+if (guidePost && (typeof isContentPublished !== "function" || isContentPublished(guidePost))) {
+  enhanceArticle(guidePost, guidePosts, "guide-article", "guideArticleBody");
+}

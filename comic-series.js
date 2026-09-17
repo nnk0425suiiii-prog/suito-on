@@ -100,6 +100,7 @@ document.addEventListener(
 
     const comicsHTML =
       seriesComics
+        .filter((comic, index, all) => !comic.comingSoon || index === all.findIndex(item => item.comingSoon))
         .map(
           comic => {
 
@@ -228,6 +229,7 @@ document.addEventListener(
                     </p>
 
 
+                    <button type="button" class="comic-like-button" data-episode-id="${comic.id}" aria-label="${comic.title}にいいね"><span class="article-like-heart">♡</span><span class="article-like-count">…</span></button>
                     <a
                       href="${comic.detailPage}"
                       class="comic-series-read"
@@ -332,7 +334,7 @@ document.addEventListener(
           </p>
 
           <p>
-            この編、好き？
+            シリーズ全体を応援する
           </p>
 
 
@@ -340,6 +342,7 @@ document.addEventListener(
             type="button"
             class="comic-like-button"
             data-series-id="${series.id}"
+            aria-label="${series.name}にいいね"
           >
 
             <span class="article-like-heart">

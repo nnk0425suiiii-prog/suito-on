@@ -1,0 +1,108 @@
+body.event-page { background:#fffdf7; background-image:linear-gradient(#a8c7dc24 1px,transparent 1px),linear-gradient(90deg,#a8c7dc24 1px,transparent 1px); background-size:23px 23px; color:#3f4c58; }
+.event-page .event-ref-page { margin-top:0; padding-top:100px; }
+.event-page .event-ref-heading { padding:35px 24px 24px !important; background:transparent; }
+.event-page .event-ref-heading-inner { max-width:1060px; margin:auto; position:relative; }
+.event-page .event-ref-title-row { display:flex; gap:22px; align-items:center; }
+.event-page .event-ref-number { font:italic 42px Georgia,serif !important; color:#d88e7e; }
+.event-page .event-ref-title-text h1 { font-family:'Darumadrop One',sans-serif; font-size:80px !important; line-height:1; color:#d88e7e; transform:rotate(-3deg); }
+.event-page .event-ref-title-text p { font-size:15px; color:#527e9b; margin-top:15px; }
+.event-page .event-ref-paw { display:none; }
+.event-page .event-ref-description { font-size:14px; line-height:1.9; margin-top:24px; }
+.event-page .page-update-note { position:absolute; top:24px; right:0; width:115px; height:115px; display:flex; flex-direction:column; justify-content:center; align-items:center; gap:5px; background:#d2f9d4; border:0; border-radius:47% 42% 48% 39%; box-shadow:none; transform:rotate(8deg); }
+.event-page .page-update-note:before { content:''; position:absolute; width:100%; height:65%; left:0; top:-43%; background:radial-gradient(ellipse 11% 23% at 12% 64%,#d2f9d4 96%,transparent 100%),radial-gradient(ellipse 12% 26% at 37% 32%,#d2f9d4 96%,transparent 100%),radial-gradient(ellipse 12% 26% at 65% 32%,#d2f9d4 96%,transparent 100%),radial-gradient(ellipse 11% 23% at 89% 64%,#d2f9d4 96%,transparent 100%); border:0; box-shadow:none; border-radius:0; transform:none; }
+.event-page .page-update-note:after { display:none; }
+.event-page .page-update-note strong { font-size:20px; }
+.event-page .page-update-note-small,.event-page .page-update-note-ja { font-size:10px; }
+.event-page .event-ref-filter { background:transparent; padding:15px 24px 25px; }
+.event-page .event-ref-filter-inner { max-width:1060px; margin:auto; }
+.event-page .event-filter-button { border:0; border-radius:20px 13px 24px 15px; background:#f2eee5; color:#527e9b; min-height:44px; }
+.event-page .event-filter-button.active { background:#dceaf5; color:#3e6279; }
+
+body.event-detail-page-body { background:#fffdf7; background-image:linear-gradient(#a8c7dc24 1px,transparent 1px),linear-gradient(90deg,#a8c7dc24 1px,transparent 1px); background-size:23px 23px; }
+.event-page .event-ref-filter-inner { padding:0; border:0; }
+.event-page .event-ref-filter-row { border:0!important; margin-bottom:12px; gap:14px; }
+.event-page .event-filter-buttons { display:flex; flex-wrap:wrap; gap:7px; }
+.event-page :is(.event-type-button,.event-region-button) { width:auto; min-height:44px; height:auto; display:inline-flex; flex-direction:row; align-items:center; gap:6px; padding:8px 14px; border:0; border-radius:20px 14px 23px 16px; background:#f2eee5; font-size:12px; }
+.event-page :is(.event-type-button,.event-region-button).active { background:#dceaf5; color:#466b82; }
+.event-page .event-region-icon { width:auto; height:auto; font-size:16px; }
+.event-page .event-region-text { white-space:nowrap; }
+.event-page .event-ref-description { padding-top:0; border:0; }
+.event-page .event-ref-upcoming-inner { max-width:1120px; }
+.event-page .event-ref-content-layout { grid-template-columns:minmax(0,1fr) 280px; gap:25px; }
+.event-page .event-card { grid-template-columns:180px minmax(0,1fr); border:0; border-radius:26px 18px 29px 20px; box-shadow:none; background:#f7f2e9; padding:14px; gap:16px; }
+.event-page .event-card-side-date { display:none; }
+.event-page .event-card-image { width:100%; height:220px; border:0; background:#fffefa; border-radius:15px; }
+.event-page .event-card-image img { width:100%; height:100%; object-fit:contain; }
+.event-page .event-card-content { padding:8px 0; }
+.event-page .event-card-title { font-size:19px; line-height:1.6; }
+.event-page .event-card-date { color:#527e9b; font-weight:700; }
+.event-page .event-detail-link { min-height:44px; display:inline-flex; align-items:center; color:#527e9b; }
+.event-page .event-calendar-card { border:0; border-radius:26px 18px 29px 20px; background:#edf4f7; box-shadow:none; }
+.event-page .event-ref-notice { background:transparent; }
+.event-detail-page-body .event-detail-image { max-height:none; height:auto; object-fit:contain; }
+@media(max-width:820px) {
+ .event-page .event-ref-content-layout { grid-template-columns:1fr; }
+ .event-page .event-calendar-sidebar { max-width:400px; width:100%; margin:25px auto; }
+}
+@media(max-width:600px) {
+ .event-page .event-ref-page { padding-top:14px; }
+ .event-page .event-ref-heading { padding:24px 20px 14px!important; }
+ .event-page .event-ref-number { display:none; }
+ .event-page .event-ref-title-row { min-height:105px; padding-right:80px; }
+ .event-page .event-ref-title-text h1 { font-size:52px!important; }
+ .event-page .event-ref-title-text p { font-size:11px; margin-top:10px; }
+ .event-page .page-update-note { top:14px; width:65px!important; height:65px!important; min-width:0!important; min-height:0!important; padding:5px!important; }
+ .event-page .page-update-note strong { font-size:12px; }
+ .event-page .page-update-note-small,.event-page .page-update-note-ja { font-size:7px; }
+ .event-page .event-ref-description { font-size:12px; margin-top:8px; }
+ .event-page .event-ref-filter { padding:8px 20px 20px; }
+ .event-page .event-ref-filter-row { display:block; }
+ .event-page .event-ref-filter-label { display:none; }
+ .event-page .event-filter-buttons { flex-wrap:nowrap; overflow-x:auto; padding-bottom:5px; }
+ .event-page :is(.event-type-button,.event-region-button) { flex-shrink:0; }
+ .event-page .event-ref-upcoming { padding:10px 16px 30px; }
+ .event-page .event-card { grid-template-columns:110px minmax(0,1fr); padding:12px; gap:12px; }
+ .event-page .event-card-image { height:150px; }
+ .event-page .event-card-title { font-size:15px; }
+ .event-page .event-card-date { font-size:12px; }
+ .event-page .event-card-description,.event-page .event-card-address { display:none; }
+ .event-page .event-card-place { font-size:12px; }
+}
+.event-page .event-card-date { display:block!important; }
+@media(max-width:820px) {
+ .event-page .event-ref-list { order:0; }
+ .event-page .event-calendar-sidebar { order:1; }
+}
+
+.outing-entry { max-width:1060px; margin:16px auto; padding:0 20px; } .outing-entry a { display:inline-flex; padding:12px 18px; border-radius:20px 13px 24px 16px; background:#dceaf5; color:#466b82; font-size:13px; }
+
+/* Consistent event editorial sections, including entries awaiting confirmation. */
+.event-detail-page-body .event-detail-main { min-width: 0; }
+.event-detail-page-body .event-detail-content { overflow-wrap: anywhere; line-height: 1.95; }
+.event-detail-page-body .event-detail-content h2 { margin: 38px 0 16px; font-size: clamp(19px, 2vw, 24px); line-height: 1.5; }
+.event-detail-page-body .event-practical-info { margin: 20px 0; padding: 8px 22px; background: #f5f7f0; border-radius: 23px 19px 26px 18px; }
+.event-detail-page-body .event-practical-info > div { display: grid; grid-template-columns: 100px minmax(0, 1fr); gap: 16px; padding: 17px 0; border-bottom: 1px dashed #c7d7cd; }
+.event-detail-page-body .event-practical-info > div:last-child { border-bottom: 0; }
+.event-detail-page-body .event-practical-info dt { font-weight: 700; color: #48605b; }
+.event-detail-page-body .event-practical-info dd { margin: 0; }
+.event-detail-page-body .event-editorial-note { background: #fff4dc; border-left: 4px solid #d5b879; border-radius: 7px 18px 18px 7px; padding: 18px 20px; font-size: 14px; }
+.event-detail-page-body .event-editorial-tip { margin: 30px 0; padding: 23px; background: #edf4f7; border-radius: 25px 18px 27px 20px; }
+.event-detail-page-body .event-editorial-tip h3 { margin: 0 0 12px; font-size: 17px; color: #507489; }
+.event-detail-page-body .event-editorial-tip p { margin: 0 0 12px; }
+.event-detail-page-body .event-editorial-tip small, .event-detail-page-body .event-source-date { font-size: 12px; color: #63706d; }
+.event-detail-page-body .event-source-links { padding-left: 1.3em; }
+.event-detail-page-body .event-source-links a { color: #496d80; text-decoration: underline; text-underline-offset: 4px; }
+@media (max-width: 600px) {
+ .event-detail-page-body .event-practical-info { padding: 5px 17px; }
+ .event-detail-page-body .event-practical-info > div { grid-template-columns: 1fr; gap: 5px; }
+}
+
+/* Square information posters: keep all title/date/venue text visible. */
+.event-page .event-card { grid-template-columns: minmax(220px, 42%) minmax(0, 1fr); }
+.event-page .event-card-image { height:auto; aspect-ratio:1; overflow:hidden; }
+.event-page .event-card-image img { display:block; width:100%; height:100%; object-fit:contain; }
+@media(max-width:600px) {
+ .event-page .event-card { grid-template-columns:1fr; gap:8px; padding:14px; }
+ .event-page .event-card-image { height:auto; aspect-ratio:1; }
+ .event-page .event-card-content { padding:4px 6px; }
+}

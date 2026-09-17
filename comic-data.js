@@ -45,7 +45,7 @@ const comicData = [
       "出会い編",
 
     image:
-      "images/comic/comic-001-vertical.png",
+      "images/comic/sui-on-deai-001-v2.png",
 
     alt:
       "すいとおん。4コマ 出会い編① みつけた。",
@@ -77,7 +77,7 @@ const comicData = [
       "出会い編",
 
     image:
-      "images/comic/comic-002-vertical.png",
+      "images/comic/sui-on-deai-002-v2.png",
 
     alt:
       "すいとおん。4コマ 出会い編② 翌日、店舗へ。",
@@ -109,7 +109,7 @@ const comicData = [
       "出会い編",
 
     image:
-      "images/comic/comic-003-vertical.png",
+      "images/comic/sui-on-deai-003-v2.png",
 
     alt:
       "すいとおん。4コマ 出会い編③ はじめまして、すい。",
@@ -141,7 +141,7 @@ const comicData = [
       "出会い編",
 
     image:
-      "images/comic/comic-004-vertical.png",
+      "images/comic/sui-on-deai-004-v2.png",
 
     alt:
       "すいとおん。4コマ 出会い編④ 帰宅。試練のはじまり",

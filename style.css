@@ -327,7 +327,7 @@ a {
 }
 
 
-/* ä»˜ç®‹ã®ä¸Šã®ãƒ†ãƒ¼ãƒ—ã£ã½ã„éƒ¨åˆ† */
+/* 付箋の上のテープっぽい部分 */
 
 .page-update-note::before {
   content: "";
@@ -381,7 +381,7 @@ a {
 }
 
 
-/* æ¯Žé€± ç«æ›œæ—¥ æ›´æ–° */
+/* 毎週 火曜日 更新 */
 
 .page-update-note-ja {
   margin-top: 10px;
@@ -395,10 +395,10 @@ a {
 }
 
 
-/* BLOGã ã‘å°‘ã—ã‚ªãƒ¬ãƒ³ã‚¸ã®è½æ›¸ã */
+/* BLOGだけ少しオレンジの落書き */
 
 .page-update-note-blog::after {
-  content: "â—";
+  content: "●";
 
   position: absolute;
 
@@ -445,7 +445,7 @@ a {
 }
 
 .page-update-note-about::after {
-  content: "â—";
+  content: "●";
 
   position: absolute;
   right: 13px;
@@ -466,7 +466,7 @@ a {
 .page-update-note-comic::after,
 .page-update-note-event::after,
 .page-update-note-items::after {
-  content: "â—";
+  content: "●";
 
   position: absolute;
 
@@ -1791,7 +1791,7 @@ a.article-product-link:hover {
 }
 
 .event-card-place::before {
-  content: "â—‹";
+  content: "○";
   margin-right: 6px;
   color: #b9ada3;
   font-size: 8px;
@@ -2346,7 +2346,7 @@ a.comic-list-card:hover {
 }
 
 
-/* é‰›ç­†ãƒžãƒ¼ã‚¯ */
+/* 鉛筆マーク */
 
 .comic-series-coming-doodle {
   position: absolute;
@@ -2404,7 +2404,7 @@ a.comic-list-card:hover {
 }
 
 
-/* ç´™ã£ã½ã„é£¾ã‚Š */
+/* 紙っぽい飾り */
 
 .comic-series-coming-image::before {
   content: "";
@@ -2425,10 +2425,10 @@ a.comic-list-card:hover {
 }
 
 
-/* å°ã•ã„è½æ›¸ã */
+/* 小さい落書き */
 
 .comic-series-coming-image::after {
-  content: "ãƒ»ãƒ»ãƒ»";
+  content: "・・・";
 
   position: absolute;
 
@@ -3544,7 +3544,7 @@ footer {
 
 /* ==================================================
    RANKING
-   category strip ã®ç›´ä¸‹ã«è¿½åŠ 
+   category strip の直下に追加
 ================================================== */
 
 .home-page .home-popular-section {
@@ -4388,8 +4388,8 @@ footer {
   }
 }
 /* ==================================================
-   HOME CENTER â€” REFERENCE LAYOUT
-   ã“ã®ãƒ–ãƒ­ãƒƒã‚¯ã‚’ style.css ã®ä¸€ç•ªæœ€å¾Œã«è¿½åŠ 
+   HOME CENTER — REFERENCE LAYOUT
+   このブロックを style.css の一番最後に追加
 ================================================== */
 
 .home-page .home-ref-story,
@@ -4476,8 +4476,8 @@ footer {
 
 
 /* BLOG LIST
-   1ä»¶ç›®ï¼å¤§
-   2ãƒ»3ä»¶ç›®ï¼å³å´ã«ç¸¦ç©ã¿
+   1件目＝大
+   2・3件目＝右側に縦積み
 */
 
 .home-page #homeBlogList.home-ref-blog-list {
@@ -5094,7 +5094,7 @@ footer {
 }
 
 
-/* å†™çœŸã‚‚ã¡ã‚‡ã£ã¨ã ã‘å‹•ã‹ã™ */
+/* 写真もちょっとだけ動かす */
 
 .home-page .home-ref-column img {
   transition: transform 0.45s ease;
@@ -5105,7 +5105,7 @@ footer {
 }
 
 
-/* ALL â—‹â—‹ ã®çŸ¢å° */
+/* ALL ○○ の矢印 */
 
 .home-page .home-ref-column .home-ref-all span {
   display: inline-block;
@@ -5124,7 +5124,7 @@ html {
 }
 
 
-/* å›ºå®šãƒ˜ãƒƒãƒ€ãƒ¼ã«ã‚¿ã‚¤ãƒˆãƒ«ãŒéš ã‚Œãªã„ã‚ˆã†ã«ã™ã‚‹ */
+/* 固定ヘッダーにタイトルが隠れないようにする */
 
 #home,
 #ranking,
@@ -7291,7 +7291,7 @@ body.article-page {
 }
 /* ==================================================
    GLOBAL HEADER
-   å…¨ãƒšãƒ¼ã‚¸å®Œå…¨å…±é€š
+   全ページ完全共通
 ================================================== */
 
 .site-header {
@@ -9429,7 +9429,7 @@ body.guide-article-page {
 /* ==================================================
    GLOBAL LOGO
    HOME / BLOG / GUIDE / ITEMS / EVENT / COMIC / ABOUT
-   å…¨ãƒšãƒ¼ã‚¸å…±é€š
+   全ページ共通
 ================================================== */
 
 .site-header .logo {
@@ -9465,7 +9465,7 @@ body.guide-article-page {
    GUIDE TOP ALIGN WITH BLOG
 ================================================== */
 
-/* GUIDEä¸Šéƒ¨å…¨ä½“ */
+/* GUIDE上部全体 */
 .guide-page-body .guide-ref-heading {
   padding-top: 130px !important;
   padding-bottom: 45px !important;
@@ -9479,7 +9479,7 @@ body.guide-article-page {
 }
 
 
-/* FIND BY ã‚’ã‚¿ã‚¤ãƒˆãƒ«å´ã¸å¯„ã›ã‚‹ */
+/* FIND BY をタイトル側へ寄せる */
 .guide-page-body .guide-ref-category {
   padding-top: 0 !important;
   padding-bottom: 60px !important;
@@ -9492,7 +9492,7 @@ body.guide-article-page {
 }
 
 
-/* GUIDEä¸€è¦§ã‚‚åŒã˜å·¦å³ãƒ©ã‚¤ãƒ³ */
+/* GUIDE一覧も同じ左右ライン */
 .guide-page-body .guide-ref-list {
   width: min(1220px, calc(100% - 80px)) !important;
   max-width: none !important;
@@ -9636,7 +9636,7 @@ body.guide-article-page {
 }
 
 
-/* FIND BY ã¯BLOGã®ã‚«ãƒ†ã‚´ãƒªã¨åŒã˜é«˜ã•æ„Ÿã« */
+/* FIND BY はBLOGのカテゴリと同じ高さ感に */
 
 .guide-page-body .guide-ref-category-label {
   margin-right: 8px;
@@ -9720,7 +9720,7 @@ body.guide-article-page {
    HOME / BLOG / GUIDE
    2026-09-02
 
-   â€» ç¾æ™‚ç‚¹ã§ã¯ã“ã‚Œã‚’ style.css ã®ä¸€ç•ªæœ€å¾Œã«ç½®ã
+   ※ 現時点ではこれを style.css の一番最後に置く
 ================================================== */
 
 
@@ -9742,7 +9742,7 @@ body.guide-article-page {
 
 /* ==================================================
    GLOBAL HEADER
-   å…¨ãƒšãƒ¼ã‚¸å®Œå…¨å…±é€š
+   全ページ完全共通
 ================================================== */
 
 .site-header {
@@ -9978,7 +9978,7 @@ a.current-page::after{
 
 /* ==================================================
    BODY TOP
-   å›ºå®šãƒ˜ãƒƒãƒ€ãƒ¼åˆ†
+   固定ヘッダー分
 ================================================== */
 
 body.blog-page,
@@ -9992,7 +9992,7 @@ body.guide-article-page {
 
 /* ==================================================
    BLOG + GUIDE
-   PAGE WIDTH å®Œå…¨å…±é€š
+   PAGE WIDTH 完全共通
 ================================================== */
 
 .blog-page .blog-ref-title-inner,
@@ -10021,7 +10021,7 @@ body.guide-article-page {
 
 /* ==================================================
    BLOG + GUIDE
-   TITLE AREA å…±é€š
+   TITLE AREA 共通
 ================================================== */
 
 .blog-page .blog-ref-title-section,
@@ -10116,7 +10116,7 @@ body.guide-article-page {
 
 /* ==================================================
    GUIDE TITLE
-   BLOGã¨åŒã‚µã‚¤ã‚ºãƒ»åŒé…ç½®
+   BLOGと同サイズ・同配置
 ================================================== */
 
 .guide-page-body .guide-ref-heading-inner {
@@ -10161,7 +10161,7 @@ body.guide-article-page {
 }
 
 
-/* GUIDEå´ã‚¿ã‚¤ãƒˆãƒ«åŒ…ã¿ */
+/* GUIDE側タイトル包み */
 
 .guide-page-body .guide-ref-title-text {
   display: flex !important;
@@ -10302,7 +10302,7 @@ body.guide-article-page {
 
 /* ==================================================
    GUIDE CATEGORY
-   BLOGã®ä½ç½®ãƒ»å¹…ã¨ä¸€è‡´
+   BLOGの位置・幅と一致
 ================================================== */
 
 .guide-page-body .guide-ref-category {
@@ -10349,7 +10349,7 @@ body.guide-article-page {
 
 /* ==================================================
    FILTER BUTTON SIZE
-   BLOG / GUIDE å…±é€š
+   BLOG / GUIDE 共通
 ================================================== */
 
 .blog-page .blog-filter,
@@ -10449,7 +10449,7 @@ body.guide-article-page {
 
 /* ==================================================
    GUIDE FEATURED
-   BLOGã¨åŒã˜å¤–å´ãƒ©ã‚¤ãƒ³
+   BLOGと同じ外側ライン
 ================================================== */
 
 .guide-page-body .guide-ref-featured {
@@ -10469,7 +10469,7 @@ body.guide-article-page {
 
 /* ==================================================
    ARTICLE HEADER
-   BLOG / GUIDE å…±é€šãƒ˜ãƒƒãƒ€ãƒ¼å¹…
+   BLOG / GUIDE 共通ヘッダー幅
 ================================================== */
 
 .article-page .article-ref-header-inner,
@@ -11754,14 +11754,14 @@ body.items-page {
 ================================================== */
 
 
-/* ä¸Šéƒ¨ã‚’BLOG / GUIDEã«ã•ã‚‰ã«è¿‘ã¥ã‘ã‚‹ */
+/* 上部をBLOG / GUIDEにさらに近づける */
 
 .items-page .items-ref-heading {
   padding-bottom: 30px;
 }
 
 
-/* èª¬æ˜Žæ–‡ã‚’å°‘ã—è¿‘ã¥ã‘ã‚‹ */
+/* 説明文を少し近づける */
 
 .items-page .items-ref-description {
   margin-top: 28px;
@@ -11769,7 +11769,7 @@ body.items-page {
 }
 
 
-/* FILTERã‚’å°‘ã—ä¸Šã¸ */
+/* FILTERを少し上へ */
 
 .items-page .items-ref-filter {
   padding-top: 0;
@@ -11777,28 +11777,28 @@ body.items-page {
 }
 
 
-/* å•†å“ä¸€è¦§ã®é–‹å§‹ä½ç½®ã‚’å°‘ã—ä¸Šã’ã‚‹ */
+/* 商品一覧の開始位置を少し上げる */
 
 .items-page .items-ref-list-section {
   padding-top: 0;
 }
 
 
-/* ã‚«ãƒ¼ãƒ‰é–“éš”ã‚’å°‘ã—ã ã‘è©°ã‚ã‚‹ */
+/* カード間隔を少しだけ詰める */
 
 .items-page .items-ref-grid {
   gap: 62px 28px;
 }
 
 
-/* å•†å“ç”»åƒã‚’ã»ã‚“ã®å°‘ã—ã‚³ãƒ³ãƒ‘ã‚¯ãƒˆã« */
+/* 商品画像をほんの少しコンパクトに */
 
 .items-page .items-ref-image {
   max-width: 100%;
 }
 
 
-/* å•†å“ã‚¿ã‚¤ãƒˆãƒ«ã‚’å°‘ã—èª­ã¿ã‚„ã™ã */
+/* 商品タイトルを少し読みやすく */
 
 .items-page .items-ref-info h2 {
   font-size: 14px;
@@ -11806,14 +11806,14 @@ body.items-page {
 }
 
 
-/* ç•ªå·ã‚’å°‘ã—ã ã‘æŽ§ãˆã‚ã« */
+/* 番号を少しだけ控えめに */
 
 .items-page .items-ref-index {
   font-size: 22px;
 }
 
 
-/* FAVORITE ITEMã‚‚å°‘ã—å¼±ã */
+/* FAVORITE ITEMも少し弱く */
 
 .items-page .items-ref-card-label {
   font-size: 7px;
@@ -12299,7 +12299,7 @@ body.event-page {
   width: 205px;
   height: 72px;
   transform: translateX(-50%);
-  background-image: url("images/event/calendar-sui-on.png");
+  background-image: none;
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: contain;
@@ -16269,10 +16269,10 @@ body.about-page-body {
 }
 /* ==================================================
    COMIC THUMBNAIL FIX
-   ã‚µãƒ ãƒã‚’åˆ‡ã‚‰ãšã«å…¨ä½“è¡¨ç¤º
+   サムネを切らずに全体表示
 ================================================== */
 
-/* COMIC ãŠè©±ã‚’é¸ã¶ */
+/* COMIC お話を選ぶ */
 .comic-list-image {
   overflow: hidden;
 }
@@ -16767,7 +16767,7 @@ body.about-page-body {
 }
 /* ==================================================
    HOME HERO
-   å…ƒã®SUI & ON.ã‚’æ°´å½©ã®ä¸Šã¸
+   元のSUI & ON.を水彩の上へ
 ================================================== */
 
 .home-page .home-hero-visual {
@@ -16793,7 +16793,7 @@ left: calc(50% + 75px);
 }
 
 /* ==================================================
-   ARTICLE BACK LINKS â€” ALWAYS VISIBLE
+   ARTICLE BACK LINKS — ALWAYS VISIBLE
 ================================================== */
 
 .article-page .article-footer a,
@@ -18106,7 +18106,7 @@ body.contact-page {
 /* ==================================================
    MOBILE GLOBAL HEADER / DRAWER
    2026-09-03
-   å·¦ï¼šä¸‰æœ¬ç·š / å³ï¼šã‚¹ã‚¯ã‚¨ã‚¢ãƒ­ã‚´
+   左：三本線 / 右：スクエアロゴ
 ================================================== */
 
 @media (max-width: 820px) {
@@ -18139,13 +18139,13 @@ body.contact-page {
     box-sizing: border-box !important;
   }
 
-  /* PCãƒŠãƒ“ã¯å®Œå…¨ã«éžè¡¨ç¤º */
+  /* PCナビは完全に非表示 */
   .site-header .desktop-nav,
   .home-page .site-header .desktop-nav {
     display: none !important;
   }
 
-  /* å·¦ï¼šä¸‰æœ¬ç·š */
+  /* 左：三本線 */
   .site-header .menu-button,
   .home-page .site-header .menu-button {
     order: 1 !important;
@@ -18204,12 +18204,12 @@ body.contact-page {
     transform: rotate(-45deg) !important;
   }
 
-  /* æ—¢å­˜buttonå†…ã®spanãŒã‚ã‚‹ãƒšãƒ¼ã‚¸ã‚‚éžè¡¨ç¤º */
+  /* 既存button内のspanがあるページも非表示 */
   .site-header .menu-button > span {
     display: none !important;
   }
 
-  /* å³ï¼šå››è§’ã„ãƒ­ã‚´ */
+  /* 右：四角いロゴ */
   .site-header .logo,
   .home-page .site-header .logo,
   .home-page .site-header .home-logo {
@@ -18235,7 +18235,7 @@ body.contact-page {
 
   .site-header .logo::before,
   .home-page .site-header .logo::before {
-    content: "ã™ã„\Aã¨ãŠã‚“ã€‚" !important;
+    content: "すい\Aとおん。" !important;
     white-space: pre !important;
     text-align: center !important;
     font-family: "Darumadrop One", "Noto Sans JP", sans-serif !important;
@@ -18269,7 +18269,7 @@ body.contact-page {
     display: none !important;
   }
 
-  /* å·¦ã‹ã‚‰å‡ºã‚‹å…±é€šãƒ¢ãƒã‚¤ãƒ«ãƒ¡ãƒ‹ãƒ¥ãƒ¼ */
+  /* 左から出る共通モバイルメニュー */
   .site-header .mobile-nav,
   .home-page .site-header .mobile-nav {
     position: fixed !important;
@@ -18335,7 +18335,7 @@ body.contact-page {
 ================================================== */
 @media (max-width: 820px) {
 
-  /* HEADER: å·¦ãƒ­ã‚´ / å³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ */
+  /* HEADER: 左ロゴ / 右メニュー */
   .site-header .logo,
   .home-page .site-header .logo,
   .home-page .site-header .home-logo {
@@ -18351,7 +18351,7 @@ body.contact-page {
     margin-right: 0 !important;
   }
 
-  /* HOME: ä¸¸å†™çœŸã‚’å°‘ã—å°ã•ãã—ã¦æ–‡å­—ã¨ã®è¢«ã‚Šã‚’é˜²ã */
+  /* HOME: 丸写真を少し小さくして文字との被りを防ぐ */
   .home-page .home-hero-dog-sui {
     width: 122px !important;
     height: 122px !important;
@@ -18364,7 +18364,7 @@ body.contact-page {
     left: -8px !important;
   }
 
-  /* ABOUT: ã‚¹ãƒžãƒ›ã§ã¯æ–‡å­—åŒå£«ã‚’çµ¶å¯¾ã«é‡ã­ãªã„ */
+  /* ABOUT: スマホでは文字同士を絶対に重ねない */
   .about-page-body .about-ref-title-row,
   .about-page-body .about-ref-section-head,
   .about-page-body .about-ref-intro-layout,
@@ -18449,7 +18449,7 @@ body.contact-page {
 ================================================== */
 @media (max-width: 820px) {
 
-  /* HOME: ä¸¸å†™çœŸã‚’ã•ã‚‰ã«å°ã•ã */
+  /* HOME: 丸写真をさらに小さく */
   .home-page .home-hero-dog-sui {
     width: 106px !important;
     height: 106px !important;
@@ -18462,7 +18462,7 @@ body.contact-page {
     left: 2px !important;
   }
 
-  /* ABOUT: VIEWã‚’èª¬æ˜Žæ–‡ã®ä¸‹ã«å›ºå®šã—ã€é‡ãªã‚Šã‚’ãªãã™ */
+  /* ABOUT: VIEWを説明文の下に固定し、重なりをなくす */
   .about-page-body .about-ref-link-card,
   .about-page-body .about-ref-link-card:first-child {
     display: flex !important;
@@ -18499,13 +18499,13 @@ body.contact-page {
 ================================================== */
 @media (max-width: 820px) {
 
-  /* SUI + ã™ã„ ã‚’å†™çœŸã‹ã‚‰å°‘ã—å·¦ã¸é€ƒãŒã™ */
+  /* SUI + すい を写真から少し左へ逃がす */
   .home-page .home-hero-visual .home-hero-name-sui {
     position: relative !important;
     left: -24px !important;
   }
 
-  /* & ã‚’SUI / ON.ã®ä¸­å¤®ã¸ */
+  /* & をSUI / ON.の中央へ */
   .home-page .home-hero-visual .home-hero-and {
     align-self: center !important;
     margin: 20px 0 16px !important;
@@ -18669,7 +18669,7 @@ body.contact-page {
   cursor: pointer;
 }
 
-/* è¡¨é¢ã®ç”»åƒã‹ã‚‰å¤–éƒ¨ã‚µã‚¤ãƒˆã¸ç›´æŽ¥é£›ã°ã•ãªã„ */
+/* 表面の画像から外部サイトへ直接飛ばさない */
 .items-page .items-ref-flip-front .items-ref-image {
   overflow: visible;
 }
@@ -18903,7 +18903,7 @@ body.contact-page {
 ================================================== */
 
 
-/* ã‚«ãƒ¬ãƒ³ãƒ€ãƒ¼æœ¬ä½“ */
+/* カレンダー本体 */
 
 .event-page .event-calendar-sidebar {
   align-self: start;
@@ -19064,7 +19064,7 @@ body.contact-page {
 }
 
 
-/* æ•°å­— */
+/* 数字 */
 
 .event-page .calendar-day-number {
   display: flex;
@@ -19126,7 +19126,7 @@ body.contact-page {
 }
 
 
-/* ä»Šæ—¥ãŒæ—¥æ›œãƒ»ç¥æ—¥ã®å ´åˆ */
+/* 今日が日曜・祝日の場合 */
 
 .event-page
 .calendar-day-today.calendar-day-sunday
@@ -19167,7 +19167,7 @@ body.contact-page {
 }
 
 
-/* ã‚¤ãƒ™ãƒ³ãƒˆãŒã‚ã‚‹æ—¥ã¯ã‚¯ãƒªãƒƒã‚¯ */
+/* イベントがある日はクリック */
 
 .event-page .calendar-day-has-event {
   cursor: pointer;
@@ -19350,4 +19350,32 @@ body.contact-page {
     font-size: 10px;
   }
 
+}
+
+/* Consistent illustrations in the mobile drawer. */
+.site-header .mobile-nav a { gap:16px !important; }
+.site-header .mobile-nav .journal-menu-icon {
+ width:25px; height:25px; flex:0 0 25px; fill:none; stroke:#527e9b;
+ stroke-width:1.7; stroke-linecap:round; stroke-linejoin:round; transform:rotate(-5deg);
+}
+.site-header .mobile-nav a:nth-child(even) .journal-menu-icon { stroke:#cd8777; transform:rotate(5deg); }
+
+/* Shared journal header across every page; preserve the existing logo. */
+body .site-header {
+ background:#fffdf7f5 !important;
+ border-bottom:0 !important;
+ box-shadow:none !important;
+}
+body .site-header::after {
+ content:''; position:absolute; left:0; right:0; bottom:-9px; height:12px; pointer-events:none;
+ background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='12' viewBox='0 0 100 12'%3E%3Cpath d='M0 0H100V5Q75 15 50 5Q25 -5 0 5Z' fill='%23edf4f7'/%3E%3Cpath d='M0 5Q25 -5 50 5Q75 15 100 5' fill='none' stroke='%23b1cddd' stroke-width='1'/%3E%3C/svg%3E") repeat-x bottom left;
+ opacity:.65;
+}
+@media(max-width:820px) {
+ body .site-header { background:#edf4f7 !important; }
+ body .site-header .menu-button { background:#ffffff70 !important; border-radius:44% 51% 42% 49% !important; }
+ body .site-header .menu-button::before,body .site-header .menu-button::after { background:#527e9b !important; }
+ body .site-header .menu-button::before { box-shadow:0 8px 0 #527e9b !important; }
+ body .site-header .menu-button.is-open::before { box-shadow:none !important; }
+ body .site-header .mobile-nav { background:#f4f9fc !important; }
 }

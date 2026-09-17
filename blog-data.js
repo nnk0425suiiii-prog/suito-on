@@ -3449,7 +3449,7 @@ products: [
   queue: true,
 
   image:
-    "blog/images/separation-anxiety-main.jpg",
+    "images/home/sui-on-home-portrait.jpeg",
 
   lead:
     "すいは、お留守番がほとんどできません。長く離れるほど、そのあと体調を崩しやすくなることも。困っているわけではないけれど、このままでいいのかはずっと悩んでいます。",
@@ -3500,12 +3500,7 @@ products: [
       もう一度通院。
     </p>
 
-    <figure class="article-photo">
-      <img
-        src="blog/images/sui-medicine.jpg"
-        alt="すいが体調を崩した時に処方された薬"
-      >
-    </figure>
+    <!-- 写真は元ファイル未提供のため非表示: blog/images/sui-medicine.jpg -->
 
     <p>
       すいの場合、
@@ -3556,12 +3551,7 @@ products: [
       なかなか眠れませんでした。
     </p>
 
-    <figure class="article-photo">
-      <img
-        src="blog/images/sui-sick-hug.jpg"
-        alt="体調を崩して飼い主に抱っこされたまま眠るすい"
-      >
-    </figure>
+    <!-- 写真は元ファイル未提供のため非表示: blog/images/sui-sick-hug.jpg -->
 
     <p>
       スマホを見ている時も、
@@ -3577,12 +3567,7 @@ products: [
       監視カメラを見返してみても、
     </p>
 
-    <figure class="article-photo">
-      <img
-        src="blog/images/sui-sick-camera.jpg"
-        alt="監視カメラに映った抱っこされているすい"
-      >
-    </figure>
+    <!-- 写真は元ファイル未提供のため非表示: blog/images/sui-sick-camera.jpg -->
 
     <p>
       <strong>
@@ -3620,12 +3605,7 @@ products: [
       おんもいます。笑
     </p>
 
-    <figure class="article-photo">
-      <img
-        src="blog/images/sui-on-sick-day.jpg"
-        alt="体調を崩しているすいの近くで一緒に眠るおん"
-      >
-    </figure>
+    <!-- 写真は元ファイル未提供のため非表示: blog/images/sui-on-sick-day.jpg -->
 
     <p>
       すいは私にくっついて寝て。
@@ -3711,12 +3691,7 @@ products: [
       普段一緒に乗っている時はというと。
     </p>
 
-    <figure class="article-photo">
-      <img
-        src="blog/images/sui-on-car-sleep.jpg"
-        alt="車の中で飼い主に抱っこされたまま眠るすいとおん"
-      >
-    </figure>
+    <!-- 写真は元ファイル未提供のため非表示: blog/images/sui-on-car-sleep.jpg -->
 
     <p>
       <strong>
@@ -4348,12 +4323,7 @@ products: [
       お互い同じ犬だとは思ってなさそうな。😂
     </p>
 
-    <figure class="article-photo">
-      <img
-        src="blog/images/sui-bread-small.jpg"
-        alt="小さなすいを見つめるぶーさん"
-      >
-    </figure>
+    <!-- 写真は元ファイル未提供のため非表示: blog/images/sui-bread-small.jpg -->
 
     <p>
       でも、
@@ -4419,12 +4389,7 @@ products: [
       一緒にお散歩したり。
     </p>
 
-    <figure class="article-photo">
-      <img
-        src="blog/images/sui-bread-autumn-walk.jpg"
-        alt="落ち葉の道を一緒に散歩するすいとぶーさん"
-      >
-    </figure>
+    <!-- 写真は元ファイル未提供のため非表示: blog/images/sui-bread-autumn-walk.jpg -->
 
     <p>
       ドッグランへ行ったり。

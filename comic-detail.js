@@ -329,6 +329,18 @@ document.addEventListener(
 
 
 
+      <section class="comic-series-like-section">
+        <div class="comic-series-like">
+          <p class="comic-ref-small">LIKE THIS STORY?</p>
+          <p>このお話、好き？</p>
+          <button type="button" class="comic-like-button" data-episode-id="${comic.id}" aria-label="${comic.title}にいいね">
+            <span class="article-like-heart">♡</span>
+            <span class="article-like-count">…</span>
+          </button>
+          <p class="comic-like-note">このお話へのいいねです。</p>
+        </div>
+      </section>
+
       <!-- NAVIGATION -->
 
       <nav class="comic-detail-navigation">
@@ -349,7 +361,7 @@ document.addEventListener(
           href="${seriesUrl}"
           class="main-button"
         >
-          ${comic.series}へ戻る
+          ${comic.series}のお話一覧へ
         </a>
 
       </div>
@@ -362,6 +374,8 @@ document.addEventListener(
     // ==================================================
     // PAGE TITLE
     // ==================================================
+
+    if (typeof initializeComicLike === "function") initializeComicLike();
 
     document.title =
       `${comic.title}｜${comic.series}｜すいとおん。`;

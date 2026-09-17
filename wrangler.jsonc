@@ -1,0 +1,24 @@
+{
+  "name": "fragrant-queen-7091",
+  "main": "_worker.js",
+  "compatibility_date": "2026-09-17",
+  "build": {
+    "command": "node tools/build-sharing.cjs"
+  },
+  "assets": {
+    "directory": ".",
+    "binding": "ASSETS",
+    "run_worker_first": [
+      "/article",
+      "/article.html",
+      "/guide-article",
+      "/guide-article.html",
+      "/comic-detail",
+      "/comic-detail.html",
+      "/comic-series",
+      "/comic-series.html",
+      "/event-detail",
+      "/event-detail.html"
+    ]
+  }
+}

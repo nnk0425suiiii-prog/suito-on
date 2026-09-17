@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>おでかけ・関東 | すいとおん。</title>
+
+  <link
+    rel="preconnect"
+    href="https://fonts.googleapis.com"
+  >
+
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+  >
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Darumadrop+One&family=Noto+Sans+JP:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+  <link
+    rel="stylesheet"
+    href="style.css?v=20260917-final"
+  >
+
+<link rel="stylesheet" href="event-journal.css?v=20260917-final">
+<link rel="stylesheet" href="journal-footer.css?v=20260917-final">
+<meta name="description" content="関東で犬と遊ぶ・泊まるおでかけ候補。雨の日の屋内施設、登録や料金、ひとり旅の予約条件を公式情報とともに紹介します。">
+<link rel="canonical" href="https://suito-on.com/outing">
+<meta property="og:title" content="おでかけ・関東 | すいとおん。">
+<meta property="og:description" content="犬と遊ぶ・泊まる。関東のおでかけ候補と、行く前に確認したいこと。">
+<meta property="og:url" content="https://suito-on.com/outing">
+<meta property="og:image" content="https://suito-on.com/images/home/sui-on-home-forest-walk.jpeg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="outing.css?v=20260917-final">
+<link rel="stylesheet" href="outing-nav.css?v=20260917-final">
+</head>
+
+
+<body class="event-page outing-page">
+
+
+  <!-- ==================================================
+       HEADER
+  ================================================== -->
+
+  <header class="site-header">
+
+    <div class="header-inner">
+
+      <a
+        href="index.html"
+        class="logo home-logo"
+      >
+
+        <span class="logo-main">
+          すいとおん。
+        </span>
+
+        <span class="logo-small">
+          sui &amp; on.
+        </span>
+
+      </a>
+
+
+      <nav class="desktop-nav">
+
+        <a href="index.html">
+          HOME
+        </a>
+
+        <a href="blog.html">
+          BLOG
+        </a>
+
+        <a href="guide.html">
+          GUIDE
+        </a>
+
+        <a href="items.html">
+          ITEMS
+        </a>
+
+        <a
+          href="event.html"
+          class="current-page"
+        >
+          EVENT
+        </a>
+
+        <a href="comic.html">
+          COMIC
+        </a>
+
+        <a href="about.html">
+          ABOUT
+        </a>
+
+      </nav>
+
+
+      <button
+        class="menu-button"
+        id="menuButton"
+        type="button"
+        aria-label="メニューを開く"
+      >
+        ☰
+      </button>
+
+    </div>
+
+
+    <nav
+      class="mobile-nav"
+      id="mobileNav"
+    >
+
+      <a href="index.html">HOME</a>
+      <a href="blog.html">BLOG</a>
+      <a href="guide.html">GUIDE</a>
+      <a href="items.html">ITEMS</a>
+
+      <a
+        href="event.html"
+        class="current-page"
+      >
+        EVENT
+      </a>
+
+      <a href="comic.html">COMIC</a>
+      <a href="about.html">ABOUT</a>
+
+    </nav>
+
+  </header>
+
+
+
+  <!-- ==================================================
+       MAIN
+  ================================================== -->
+
+  <main class="outing-main"><nav class="outing-section-nav" aria-label="おでかけの種類"><a href="outing.html" data-section="all">すべて</a><a href="outing.html?kind=play" data-section="play">遊ぶ</a><a href="outing.html?kind=stay" data-section="stay">泊まる</a><a href="event.html" data-section="event">イベント</a></nav>
+<header class="outing-heading"><p class="outing-eyebrow">SUI & ON. / KANTO</p><h1>Little trips.</h1><h2>ふたりと、どこへ行こう。</h2><p>雨の日も、晴れの日も。<br>行く前に知りたい条件から、おでかけ探し。</p></header>
+
+<div class="outing-tools"><label><input type="checkbox" id="indoorOnly"> 屋内ランあり</label><label><input type="checkbox" id="soloOnly"> 1名プラン確認済み</label><button id="outingReset">条件をリセット</button></div>
+<p class="outing-editorial">関東の候補メモ · 2026.09.17確認<br>公式情報を中心にまとめた未訪問リストです。料金・条件は変更されるため、お出かけ前にリンク先をご確認ください。</p>
+<p id="outingCount" role="status"></p><section id="outingList" class="outing-grid" aria-label="おでかけ候補"></section>
+<aside class="outing-bottom"><h2>「行けるかな？」を、ひとつずつ。</h2><p>屋内と屋根付き、会員制と都度払いは別の条件。<br>1名利用の可否と、犬2頭の受入条件も分けて確認しています。</p><a href="event.html">開催日からイベントを探す →</a></aside>
+</main>
+
+
+
+  <!-- ==================================================
+       FOOTER
+  ================================================== -->
+
+  <footer class="site-footer">
+
+    <div class="footer-inner">
+
+      <div class="footer-brand">
+
+        <a
+          href="index.html"
+          class="footer-logo"
+        >
+          すいとおん。
+        </a>
+
+        <p class="footer-copy">
+          犬との毎日を、もっと楽しく。
+        </p>
+
+      </div>
+
+
+      <nav class="footer-nav">
+        <a href="blog.html">BLOG</a>
+        <a href="guide.html">GUIDE</a>
+        <a href="items.html">ITEMS</a>
+        <a href="event.html">EVENT</a>
+        <a href="comic.html">COMIC</a>
+        <a href="about.html">ABOUT</a>
+      </nav>
+
+
+      <div class="footer-social">
+
+        <a
+          href="https://www.instagram.com/whiteee_blkdogcats/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Instagram ↗
+        </a>
+
+      </div>
+
+    </div>
+
+
+    <div class="footer-policy-links">
+
+      <a href="privacy.html">
+        PRIVACY POLICY
+      </a>
+
+      <span>/</span>
+
+      <a href="contact.html">
+        CONTACT
+      </a>
+
+    </div>
+
+
+    <div class="footer-bottom">
+
+      <p>
+        © 2026 すいとおん。
+      </p>
+
+    </div>
+
+  </footer>
+
+
+
+  <!-- ==================================================
+       JAVASCRIPT
+
+       calendar.js は不要になりました。
+       event.js の中で一覧とカレンダーをまとめて管理します。
+  ================================================== -->
+
+  <script src="outing-data.js?v=20260917-final"></script>
+  <script src="outing.js?v=20260917-final"></script>
+  <script src="script.js?v=20260917-final"></script>
+
+
+
+</body>
+
+</html>

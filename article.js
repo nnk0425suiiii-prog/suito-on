@@ -1,3 +1,15 @@
+// Old profile links shared before September 2026 continue to work.
+(() => {
+  const url = new URL(window.location.href);
+  const aliases = { "about-sui": "introduce-sui", "about-on": "introduce-on" };
+  const id = url.searchParams.get("id");
+  const replacement = Object.prototype.hasOwnProperty.call(aliases, id) ? aliases[id] : null;
+  if (replacement) {
+    url.searchParams.set("id", replacement);
+    history.replaceState(null, "", url.pathname + url.search + url.hash);
+  }
+})();
+
 /* ==================================================
    ARTICLE
 ================================================== */
@@ -32,6 +44,8 @@ if (!post || (
   typeof isContentPublished === "function"
   && !isContentPublished(post)
 )) {
+
+  markArticleNotFound();
 
   document.querySelector(
     ".article"
@@ -377,3 +391,6 @@ function setupArticleNavigation() {
 
 
 setupArticleNavigation();
+if (post && (typeof isContentPublished !== "function" || isContentPublished(post))) {
+  enhanceArticle(post, blogPosts, "article", "articleBody");
+}

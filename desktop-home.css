@@ -1,0 +1,91 @@
+/* The same Sui & On journal, composed for a wider screen. */
+@media(min-width:761px) {
+ body.home-page.mobile-home-ready .site-header { background:#fffdf7f5 !important; }
+ body.home-page.mobile-home-ready .site-header:after { opacity:.5; }
+ body.home-page.mobile-home-ready .site-header .menu-button { display:none !important; }
+ .mobile-home-ready.home-page .mobile-home { max-width:1120px; padding:110px 42px 36px; }
+ .mobile-home-ready .mh-hero { height:560px; margin:0 0 12px; }
+ .mh-editorial-title { font-size:108px; left:2%; top:100px; z-index:3; }
+ .mh-editorial-title span { padding-left:42px; }
+ .mh-photo { width:47%; height:465px; left:45%; top:30px; }
+ .mh-motto { writing-mode:horizontal-tb; top:330px; left:6%; font-size:19px; line-height:1.9; letter-spacing:3px; padding:12px 16px; background:transparent; }
+ .mh-flower { top:0; right:1%; font-size:150px; }
+ .mh-side-note { right:0; top:230px; font-size:11px; letter-spacing:3px; }
+ .mh-note { left:32%; bottom:50px; font-size:12px; padding:24px 20px; }
+ .mh-note span { font-size:11px; }
+ .mh-hero h1 { right:2%; bottom:12px; font-size:16px; padding:24px 26px; }
+ .mh-photo-controls { left:68%; bottom:-7px; }
+ .mh-nav { margin:30px 0 48px; padding:18px 25px; }
+ .mh-nav a { gap:8px; font-size:12px; min-height:55px; }
+ .mh-nav svg { width:28px; height:28px; }
+ .mh-section { margin-bottom:62px; }
+ .mh-heading { margin-bottom:25px; }
+ .mh-heading h2 { gap:18px; }
+ .mh-heading h2 b { font-size:43px; }
+ .mh-heading h2 span { font-size:42px; }
+ .mh-heading > a,.mh-caption { font-size:13px; }
+ .mh-popular,.mh-guides { gap:26px; }
+ .mh-card > span,.mh-guides .mh-card > span { font-size:16px; line-height:1.8; }
+ .mh-ranked-image { aspect-ratio:1.65; margin-bottom:14px; }
+ .mh-ranked-image b { width:36px; height:39px; font-size:23px; }
+ .mh-blog { grid-template-columns:1.35fr 1fr; gap:22px 32px; }
+ .mh-blog .mh-card:first-child > img { aspect-ratio:1.25; }
+ .mh-blog .mh-card:first-child > span { font-size:21px; margin-top:12px; }
+ .mh-blog .mh-card:not(:first-child) > img { aspect-ratio:2.9; }
+ .mh-guides .mh-card { padding:14px 14px 18px; border-radius:29px 20px 33px 22px; }
+ .mh-guides .mh-card > img { aspect-ratio:1.5; margin-bottom:14px; }
+ .mh-row { grid-template-columns:160px minmax(0,1fr); gap:26px; padding-block:28px; }
+ .mh-row h2 { flex-direction:row; align-items:center; gap:12px; font-size:30px; }
+ .mh-row h2 svg { width:29px; height:29px; }
+ .mh-event { padding:17px 23px; gap:25px; }
+ .mh-event > img { width:180px; height:110px; }
+ .mh-event strong { font-size:19px; }
+ .mh-event small { font-size:13px; margin-top:12px; }
+ .mh-event > b { margin-left:auto; }
+ .mh-items { gap:22px; grid-template-columns:repeat(3,minmax(0,1fr)) 44px; }
+ .mh-items img { height:120px; aspect-ratio:auto; }
+ .mh-items span { font-size:12px; margin-top:10px; }
+ .mh-comic { padding:17px 25px; gap:28px; font-size:19px; }
+ .mh-comic img { width:45%; height:145px; }
+ .mh-comic small { font-size:14px; margin-top:12px; }
+ .mh-about > div > img { width:105px; height:105px; margin-right:24px; }
+ .mh-about h3 { font-size:18px; margin-bottom:10px; }
+ .mh-about p { font-size:14px; }
+ .mh-about a { font-size:13px; margin-right:24px; }
+ .mh-instagram { margin-top:35px; padding:30px 40px; }
+ .mh-instagram strong { font-size:30px; }
+ .mh-instagram span { font-size:14px; }
+ .mobile-home-ready.home-page .site-footer { padding-top:42px; }
+}
+@media(min-width:761px) and (max-width:950px) {
+ .mobile-home-ready.home-page .mobile-home { padding-inline:28px; }
+ .mh-editorial-title { font-size:83px; top:125px; }
+ .mh-photo { width:49%; left:43%; }
+ .mh-note { left:29%; }
+ .mh-row { grid-template-columns:125px minmax(0,1fr); }
+ .mh-row h2 { font-size:25px; }
+}
+@media(min-width:761px) and (max-width:820px) {
+ body.home-page.mobile-home-ready .site-header .menu-button { display:block !important; }
+}
+/* Keep portrait photographs intact instead of cropping them into strips. */
+@media(min-width:761px) {
+ .mh-blog { grid-template-columns:repeat(3,minmax(0,1fr)); align-items:start; gap:26px; }
+ .mh-blog .mh-card:first-child { grid-row:auto; }
+ .mh-blog .mh-card > img,
+ .mh-blog .mh-card:first-child > img,
+ .mh-blog .mh-card:not(:first-child) > img { width:100%; height:280px; aspect-ratio:auto; object-fit:contain; transform:none; background:#f3eee5; padding:8px; margin:0 0 14px; border-radius:22px 15px 25px 17px; }
+ .mh-blog .mh-card > span,
+ .mh-blog .mh-card:first-child > span { font-size:16px; line-height:1.8; padding:0; margin:0; }
+ .mh-popular .mh-ranked-image { height:230px; aspect-ratio:auto; background:#f3eee5; }
+ .mh-popular .mh-ranked-image img { object-fit:contain; padding:8px; }
+ .mh-guides .mh-card > img { height:220px; aspect-ratio:auto; object-fit:contain; }
+}
+@media(min-width:761px) and (max-width:950px) {
+ .mh-blog { gap:18px; }
+ .mh-blog .mh-card > img,
+ .mh-blog .mh-card:first-child > img,
+ .mh-blog .mh-card:not(:first-child) > img { height:220px; }
+ .mh-popular .mh-ranked-image { height:190px; }
+ .mh-guides .mh-card > img { height:180px; }
+}

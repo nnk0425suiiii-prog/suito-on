@@ -1,0 +1,218 @@
+{
+  "article:first-blog": {
+    "source": "blog/images/suion-01.png",
+    "image": "images/social/share-3692277eb394.jpg",
+    "width": 1200,
+    "height": 1600
+  },
+  "article:introduce-sui": {
+    "source": "blog/images/introduce-02.png",
+    "image": "images/social/share-180bf7a89391.jpg",
+    "width": 1200,
+    "height": 1600
+  },
+  "article:introduce-on": {
+    "source": "blog/images/on-01.png",
+    "image": "images/social/share-28cff622e579.jpg",
+    "width": 903,
+    "height": 1600
+  },
+  "article:pool": {
+    "source": "blog/images/pool.png",
+    "image": "images/social/share-1431a98b03d6.jpg",
+    "width": 1533,
+    "height": 1600
+  },
+  "article:sui-food-journey": {
+    "source": "blog/images/sui-food.png",
+    "image": "images/social/share-8c319f2d25cf.jpg",
+    "width": 1200,
+    "height": 1600
+  },
+  "article:20260901-personality": {
+    "source": "blog/images/personality-main.jpg",
+    "image": "images/social/share-9fd4f13f1504.jpg",
+    "width": 1200,
+    "height": 1600
+  },
+  "article:20260915-sui-on-first-day": {
+    "source": "blog/images/sui-on-first-meet.jpg",
+    "image": "images/social/share-62b42d1faf21.jpg",
+    "width": 1600,
+    "height": 1200
+  },
+  "article:20260915-separation-anxiety": {
+    "source": "images/home/sui-on-home-portrait.jpeg",
+    "image": "images/social/share-9d11c03670ae.jpg",
+    "width": 1200,
+    "height": 1600
+  },
+  "article:20260908-bread": {
+    "source": "blog/images/sui-bread-main.jpg",
+    "image": "images/social/share-93ee8764ef8c.jpg",
+    "width": 1200,
+    "height": 1600
+  },
+  "guide-article:summer-walk-time": {
+    "source": "images/guide/summer-walk.jpg",
+    "image": "images/social/share-02da2475e53c.jpg",
+    "width": 1600,
+    "height": 1066
+  },
+  "guide-article:heartworm-prevention": {
+    "source": "images/guide/heartworm.jpg",
+    "image": "images/social/share-d1302e6885e6.jpg",
+    "width": 1600,
+    "height": 1066
+  },
+  "guide-article:pet-care-study": {
+    "source": "images/guide/pet-care-study.jpg",
+    "image": "images/social/share-b9f5f489f8f4.jpg",
+    "width": 1600,
+    "height": 1066
+  },
+  "guide-article:living-with-dog": {
+    "source": "images/guide/living-with-dog.jpg",
+    "image": "images/social/share-8d3187663e1e.jpg",
+    "width": 1600,
+    "height": 1066
+  },
+  "guide-article:rainy-day-walk": {
+    "source": "images/guide/rainy-day-walk.jpg",
+    "image": "images/social/share-01405f0a182a.jpg",
+    "width": 1600,
+    "height": 1066
+  },
+  "guide-article:season-change-health": {
+    "source": "images/guide/season-change-health.jpg",
+    "image": "images/social/share-0611de670a6e.jpg",
+    "width": 1600,
+    "height": 1066
+  },
+  "guide-article:dog-socialization": {
+    "source": "images/guide/dog-socialization.jpg",
+    "image": "images/social/share-a924626afff8.jpg",
+    "width": 1600,
+    "height": 1066
+  },
+  "comic-detail:1": {
+    "source": "images/comic/sui-on-deai-001-v2.png",
+    "image": "images/social/share-d4e7b222dcba.jpg",
+    "width": 1066,
+    "height": 1600
+  },
+  "comic-detail:2": {
+    "source": "images/comic/sui-on-deai-002-v2.png",
+    "image": "images/social/share-22d156f8c6b1.jpg",
+    "width": 1066,
+    "height": 1600
+  },
+  "comic-detail:3": {
+    "source": "images/comic/sui-on-deai-003-v2.png",
+    "image": "images/social/share-21814d06e2a5.jpg",
+    "width": 1066,
+    "height": 1600
+  },
+  "comic-detail:4": {
+    "source": "images/comic/sui-on-deai-004-v2.png",
+    "image": "images/social/share-76e634a6c2dd.jpg",
+    "width": 1066,
+    "height": 1600
+  },
+  "comic-series:deai": {
+    "source": "images/comic/comic-deai-thumb1.png",
+    "image": "images/social/share-1d592690e646.jpg",
+    "width": 1600,
+    "height": 900
+  },
+  "event-detail:tokyowanwansumeerfestival2026": {
+    "source": "images/event/sui-on-tokyowanwansumeerfestival2026.jpg",
+    "image": "images/social/share-223122bf7479.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  "event-detail:shonan-dog-bousai-festa-2026": {
+    "source": "images/event/sui-on-shonan-dog-bousai-festa-2026.jpg",
+    "image": "images/social/share-126c58fc8e21.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  "event-detail:tama-dog-fes-tsuruma-2026": {
+    "source": "images/event/sui-on-tama-dog-fes-tsuruma-2026.jpg",
+    "image": "images/social/share-6358b0e3bec8.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  "event-detail:inu-no-yomatsuri-laketown-2026": {
+    "source": "images/event/sui-on-inu-no-yomatsuri-laketown-2026.jpg",
+    "image": "images/social/share-674891dba421.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  "event-detail:uchinoco-ichiba-koriyama-dx-2026": {
+    "source": "images/event/sui-on-uchinoco-ichiba-koriyama-dx-2026.jpg",
+    "image": "images/social/share-c21b95ab9ba2.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  "event-detail:japan-wanko-festa-autumn-2026": {
+    "source": "images/event/sui-on-japan-wanko-festa-autumn-2026.jpg",
+    "image": "images/social/share-5414daee22e1.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  "event-detail:wanterrace-yokohama-bayside-2026-autumn": {
+    "source": "images/event/sui-on-wanterrace-yokohama-bayside-2026-autumn.jpg",
+    "image": "images/social/share-1fd743565071.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  "event-detail:ishikari-animal-welfare-autumn-festival-2026": {
+    "source": "images/event/sui-on-ishikari-animal-welfare-autumn-festival-2026.jpg",
+    "image": "images/social/share-3803ece5af55.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  "event-detail:arche-pet-fes-matsushima-autumn-2026": {
+    "source": "images/event/sui-on-arche-pet-fes-matsushima-autumn-2026.jpg",
+    "image": "images/social/share-d0f6dff46ae8.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  "event-detail:wan-wonderful-festa-yamagata-2026": {
+    "source": "images/event/sui-on-wan-wonderful-festa-yamagata-2026.jpg",
+    "image": "images/social/share-9b6d05412e38.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  "event-detail:koiwai-dog-fes-2026": {
+    "source": "images/event/sui-on-koiwai-dog-fes-2026.jpg",
+    "image": "images/social/share-644e5732dac2.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  "event-detail:hachinohe-wanko-festival-2026": {
+    "source": "images/event/sui-on-hachinohe-wanko-festival-2026.jpg",
+    "image": "images/social/share-8e09e9e557c0.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  "event-detail:wan-wonderful-festa-shiojiri-2026": {
+    "source": "images/event/sui-on-wan-wonderful-festa-shiojiri-2026.jpg",
+    "image": "images/social/share-e2e5b4deb29a.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  "event-detail:kisosansen-wanko-marche-vol28-2026": {
+    "source": "images/event/sui-on-kisosansen-wanko-marche-vol28-2026.jpg",
+    "image": "images/social/share-8a53474596e2.jpg",
+    "width": 1600,
+    "height": 1600
+  },
+  "event-detail:boo-bull-boo-festa-autumn-2026": {
+    "source": "images/event/sui-on-boo-bull-boo-festa-autumn-2026.jpg",
+    "image": "images/social/share-bfa648169f2f.jpg",
+    "width": 1600,
+    "height": 1600
+  }
+}

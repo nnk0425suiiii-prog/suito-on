@@ -1,0 +1,57 @@
+/* Small additions kept separate from the existing illustration and layout styles. */
+.home-welcome {
+  padding: 112px 24px 30px;
+  background: var(--home-paper, #f6f0e5);
+  color: #292929;
+  text-align: center;
+}
+.home-welcome-label {
+  margin: 0 0 10px;
+  font-family: "Darumadrop One", sans-serif;
+  font-size: 18px;
+  letter-spacing: .1em;
+  color: #486f79;
+}
+.home-welcome h1 { margin: 0; font-size: clamp(23px, 3vw, 34px); line-height: 1.65; }
+.home-welcome-copy { margin: 15px 0 20px; font-size: 13px; line-height: 2; }
+.welcome-mobile-break { display: none; }
+.home-welcome-links { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; }
+.home-welcome-links a {
+  display: flex; align-items: center; justify-content: space-between; gap: 20px;
+  padding: 13px 18px; min-height: 48px; border: 1px solid #928d81;
+  border-radius: 7px; background: #fffdf8; font-size: 13px; font-weight: 600;
+}
+.home-welcome-links a:hover { background: #e8f1f3; }
+.home-welcome-links a:focus-visible, .story-toc a:focus-visible, .story-related a:focus-visible {
+  outline: 3px solid #486f79; outline-offset: 4px;
+}
+.home-page .home-hero { padding-top: 24px; min-height: 0; }
+.story-toc {
+  margin: 0 0 32px; padding: 18px 22px; border: 1px solid #c9c3b6;
+  border-radius: 8px; background: #fffdf8; color: #292929;
+}
+.story-toc summary { cursor: pointer; font-weight: 700; font-size: 15px; min-height: 24px; }
+.story-toc ol { padding-left: 22px; margin: 15px 0 0; }
+.story-toc li { margin: 8px 0; }
+.story-toc a { display: inline-block; padding: 5px 0; text-decoration: underline; text-underline-offset: 4px; font-size: 14px; }
+#articleBody h2, #guideArticleBody h2 { scroll-margin-top: 100px; }
+.story-related { margin: 48px 0 8px; padding: 24px 0 0; border-top: 1px solid #c9c3b6; }
+.story-related h2 { font-size: 20px; }
+.story-related ul { padding: 0; list-style: none; }
+.story-related li { margin: 10px 0; }
+.story-related a { display: block; padding: 14px 16px; border-radius: 6px; background: #edf3f3; line-height: 1.8; font-size: 14px; }
+@media (max-width: 760px) {
+  .home-welcome { padding: 95px 20px 22px; }
+  .welcome-mobile-break { display: initial; }
+  .home-welcome-label { font-size: 15px; }
+  .home-welcome-copy { font-size: 12px; }
+  .home-welcome-links { gap: 8px; }
+  .home-welcome-links a { width: 100%; max-width: 360px; padding: 11px 16px; }
+  .home-page .home-hero { padding-top: 0; }
+  .home-page .home-hero-message { order: 2; }
+  .home-page .home-instagram-latest { order: 3; }
+  .story-toc { padding: 15px 18px; }
+}
+@media (max-width: 360px) {
+  .home-page .home-popular-title h2 { font-size: 42px; }
+}
