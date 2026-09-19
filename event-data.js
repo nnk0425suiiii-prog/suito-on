@@ -704,4 +704,4 @@ const calendarEvents = [
     }
   ]
 }
-);
+];
