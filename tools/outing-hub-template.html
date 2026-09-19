@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>おでかけ・関東 | すいとおん。</title>
+
+  <link
+    rel="preconnect"
+    href="https://fonts.googleapis.com"
+  >
+
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+  >
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Darumadrop+One&family=Noto+Sans+JP:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+  <link
+    rel="stylesheet"
+    href="style.css?v=20260917-final"
+  >
+
+<link rel="stylesheet" href="event-journal.css?v=20260917-final">
+<link rel="stylesheet" href="journal-footer.css?v=20260917-final">
+<meta name="description" content="関東で犬と遊ぶ・泊まるおでかけ候補。雨の日の屋内施設、登録や料金、ひとり旅の予約条件を公式情報とともに紹介します。">
+<link rel="canonical" href="https://suito-on.com/outing">
+<meta property="og:title" content="おでかけ・関東 | すいとおん。">
+<meta property="og:description" content="犬と遊ぶ・泊まる。関東のおでかけ候補と、行く前に確認したいこと。">
+<meta property="og:url" content="https://suito-on.com/outing">
+<meta property="og:image" content="https://suito-on.com/images/home/sui-on-home-forest-walk.jpeg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="outing.css?v=20260919-data-weather">
+<link rel="stylesheet" href="outing-nav.css?v=20260919-outing-v2">
+</head>
+
+
+<body class="event-page outing-page">
+
+
+  <!-- ==================================================
+       HEADER
+  ================================================== -->
+
+  <header class="site-header">
+
+    <div class="header-inner">
+
+      <a
+        href="index.html"
+        class="logo home-logo"
+      >
+
+        <span class="logo-main">
+          すいとおん。
+        </span>
+
+        <span class="logo-small">
+          sui &amp; on.
+        </span>
+
+      </a>
+
+
+      <nav class="desktop-nav">
+
+        <a href="index.html">
+          HOME
+        </a>
+
+        <a href="blog.html">
+          BLOG
+        </a>
+
+        <a href="guide.html">
+          GUIDE
+        </a>
+
+        <a href="items.html">
+          ITEMS
+        </a>
+
+        <a
+          href="outing.html"
+          class="current-page"
+        >
+          OUTING
+        </a>
+
+        <a href="comic.html">
+          COMIC
+        </a>
+
+        <a href="about.html">
+          ABOUT
+        </a>
+
+      </nav>
+
+
+      <button
+        class="menu-button"
+        id="menuButton"
+        type="button"
+        aria-label="メニューを開く"
+      >
+        ☰
+      </button>
+
+    </div>
+
+
+    <nav
+      class="mobile-nav"
+      id="mobileNav"
+    >
+
+      <a href="index.html">HOME</a>
+      <a href="blog.html">BLOG</a>
+      <a href="guide.html">GUIDE</a>
+      <a href="items.html">ITEMS</a>
+
+      <a
+        href="outing.html"
+        class="current-page"
+      >
+        OUTING
+      </a>
+
+      <a href="comic.html">COMIC</a>
+      <a href="about.html">ABOUT</a>
+
+    </nav>
+
+  </header>
+
+
+
+  <!-- ==================================================
+       MAIN
+  ================================================== -->
+
+  <main class="outing-main"><nav class="outing-section-nav" aria-label="おでかけの探し方"><a href="outing.html#features">特集を読む</a><a href="outing.html#places">場所を探す</a><a href="event.html">イベント</a></nav>
+<header class="outing-heading"><p class="outing-eyebrow">SUI &amp; ON. / OUTING</p><h1>Little trips.</h1><h2>ふたりと、どこへ行こう。</h2><p>雨の日も、晴れの日も。<br>おでかけする日、おうちで遊ぶ日。今日の楽しみを見つけよう。</p></header>
+<section id="features" class="outing-hub-section"><header class="outing-section-title"><small>01 / JOURNAL</small><h2>気分から、特集を読む。</h2></header><div class="outing-features">{{FEATURE_CARDS}}</div><p class="outing-editorial">表紙は各特集のイメージイラストです。実在施設の外観・設備を描いたものではありません。</p></section>
+<section id="places" class="outing-hub-section"><header class="outing-section-title"><small>02 / PLACES</small><h2>条件から、場所を探す。</h2><p>日帰り18施設＋お泊まり5施設。記事を読まずに探したいときは、ここから。</p></header>
+<form id="outingFilters" class="outing-filter-box"><div class="outing-tools"><label>過ごし方 <select id="outingKind"><option value="all">すべて</option><option value="play">遊ぶ</option><option value="stay">泊まる</option></select></label><label>地域 <select id="outingRegion"><option value="all">掲載エリアすべて</option></select></label><label>施設名 <input type="search" id="outingSearch" placeholder="施設名・エリアで検索"></label></div>
+<div class="outing-tools"><label><input type="checkbox" id="indoorOnly"> 屋内ランあり</label><label><input type="checkbox" id="freeOnly"> ラン利用無料</label><label><input type="checkbox" id="visitedOnly"> 訪問しました</label><label><input type="checkbox" id="soloOnly"> 1名宿泊プランあり</label><label><input type="checkbox" id="bedOnly"> ベッド利用可の宿（条件あり）</label><button type="button" id="outingReset">条件をリセット</button></div></form>
+<p class="outing-editorial">訪問した施設は「訪問しました」で区別しています。料金・登録方法は各施設の情報源へ。屋内と屋根付きは分けて掲載し、当日の営業・空き状況は公式で確認してください。</p>
+<p id="outingCount" role="status" aria-live="polite"></p><div id="outingList" class="outing-grid"></div><noscript><p>施設の絞り込みにはJavaScriptを有効にしてください。特集の記事とイベントページは上のリンクから開けます。</p></noscript></section>
+<aside class="outing-bottom"><p class="outing-eyebrow">03 / EVENTS</p><h2>日付が決まっているなら。</h2><p>マルシェや季節の催しは、イベント一覧とカレンダーへ。</p><a href="event.html">開催日からイベントを探す →</a></aside></main>
+
+
+
+  <!-- ==================================================
+       FOOTER
+  ================================================== -->
+
+  <footer class="site-footer">
+
+    <div class="footer-inner">
+
+      <div class="footer-brand">
+
+        <a
+          href="index.html"
+          class="footer-logo"
+        >
+          すいとおん。
+        </a>
+
+        <p class="footer-copy">
+          犬との毎日を、もっと楽しく。
+        </p>
+
+      </div>
+
+
+      <nav class="footer-nav">
+        <a href="blog.html">BLOG</a>
+        <a href="guide.html">GUIDE</a>
+        <a href="items.html">ITEMS</a>
+        <a href="outing.html">OUTING</a>
+        <a href="comic.html">COMIC</a>
+        <a href="about.html">ABOUT</a>
+      </nav>
+
+
+      <div class="footer-social">
+
+        <a
+          href="https://www.instagram.com/whiteee_blkdogcats/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Instagram ↗
+        </a>
+
+      </div>
+
+    </div>
+
+
+    <div class="footer-policy-links">
+
+      <a href="privacy.html">
+        PRIVACY POLICY
+      </a>
+
+      <span>/</span>
+
+      <a href="contact.html">
+        CONTACT
+      </a>
+
+    </div>
+
+
+    <div class="footer-bottom">
+
+      <p>
+        © 2026 すいとおん。
+      </p>
+
+    </div>
+
+  </footer>
+
+
+
+  <!-- ==================================================
+       JAVASCRIPT
+
+       calendar.js は不要になりました。
+       event.js の中で一覧とカレンダーをまとめて管理します。
+  ================================================== -->
+
+  <script src="outing-data.js?v=20260919-free10"></script>
+  <script src="outing.js?v=20260919-data-weather"></script>
+  <script src="script.js?v=20260919-outing-v2"></script>
+
+
+
+</body>
+
+</html>
