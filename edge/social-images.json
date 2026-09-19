@@ -214,5 +214,23 @@
     "image": "images/social/share-bfa648169f2f.jpg",
     "width": 1600,
     "height": 1600
+  },
+  "event-detail:wan-park-blue-shimotsuma-2026-sw": {
+    "source": "images/event/sui-on-wan-park-blue-shimotsuma-2026-sw.png",
+    "image": "images/event/sui-on-wan-park-blue-shimotsuma-2026-sw.png",
+    "width": 1254,
+    "height": 1254
+  },
+  "event-detail:lucy-kirakira-wanko-night-2026-sw": {
+    "source": "images/event/sui-on-lucy-kirakira-wanko-night-2026-sw.png",
+    "image": "images/event/sui-on-lucy-kirakira-wanko-night-2026-sw.png",
+    "width": 1254,
+    "height": 1254
+  },
+  "event-detail:resol-no-mori-aizome-2026-sw": {
+    "source": "images/event/sui-on-resol-no-mori-aizome-2026-sw.png",
+    "image": "images/event/sui-on-resol-no-mori-aizome-2026-sw.png",
+    "width": 1254,
+    "height": 1254
   }
 }
