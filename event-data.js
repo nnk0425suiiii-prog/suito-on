@@ -622,3 +622,88 @@ const calendarEvents = [
     sources: [{"label": "開催情報の参考：Dog Hug Life（第三者）", "url": "https://doghuglife.com/posts/dog-event-2026-10-zenkoku"}]
   }
 ];
+
+{
+  "id": "wan-park-blue-shimotsuma-2026-sw",
+  "title": "WanパークBlue in ビアスパークしもつま",
+  "startDate": "2026-09-19",
+  "endDate": "2026-09-22",
+  "prefecture": "茨城県",
+  "place": "ビアスパークしもつま",
+  "address": "茨城県下妻市長塚乙70-3",
+  "description": "犬用品のマルシェとキッチンカーを楽しむ４日間。マルシェ入場は無料、併設ドッグランは別料金・受付が必要です。",
+  "type": "event",
+  "status": "scheduled",
+  "region": "kanto",
+  "image": "images/event/sui-on-wan-park-blue-shimotsuma-2026-sw.png",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=茨城県下妻市長塚乙70-3",
+  "content": "<p>ビアスパークしもつまを会場に開かれる犬連れのマーケット。施設提供情報を掲載した地域メディア「とりぷれ」は、犬用品やキッチンカーなど約30店舗の参加を案内しています。</p>\n<h2>このイベントの楽しみ方</h2><p>犬用のおやつや洋服、リードなどを見て回れるので、愛犬に合うものを探したい日に。買い物と併設ドッグランの利用は別に考えて、先に受付や料金を確認すると予定を組みやすくなります。</p>\n<h2>時間・料金・参加の前に</h2><dl class=\"event-practical-info\"><div><dt>開催日時</dt><dd>2026年9月19日（土）〜22日（火・祝）／10:00〜16:00。</dd></div><div><dt>料金</dt><dd>マルシェ入場無料。商品購入・飲食・併設ドッグランは別料金です。</dd></div><div><dt>ドッグランの受付</dt><dd>併設ランを初めて利用する場合はフロント受付とワクチン接種証明書が必要と案内されています。ランの登録・利用料金は現地で確認してください。</dd></div><div><dt>事前登録・所要時間</dt><dd>マルシェの事前登録要否と、初回ラン受付にかかる時間は未確認です。ドッグランを利用する方は受付の時間も見込んでください。</dd></div><div><dt>雨天・犬連れの条件</dt><dd>雨天時の開催判断、マルシェ内の犬同伴ルールは主催者の最新案内で確認してください。</dd></div></dl>\n<h2>会場への行き方</h2><p>会場住所は茨城県下妻市長塚乙70-3。車で向かう場合は、当日の駐車場所と混雑時の案内を確認してください。マルシェへの犬同伴と、温泉・館内・宿泊施設への犬同伴は別の条件です。</p>\n<aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>買い物だけなら身軽に、ランでも遊ぶなら証明書も一緒に。犬用の水と器を用意し、昼間の気温に合わせて休憩を取りましょう。</p><small>編集部からの準備のヒントです。参加体験談ではありません。</small></aside>\n<h2>情報元・最新のお知らせ</h2><ul class=\"event-source-links\"><li><a href=\"https://tripre.jp/archives/42524\" target=\"_blank\" rel=\"noopener noreferrer\">地域メディア とりぷれ・施設提供情報を含む開催案内 ↗</a></li></ul>\n<p class=\"event-source-date\">情報整理：2026年9月19日。開催変更・空き状況は出発前に情報元でご確認ください。サムネイルはすいとおん。制作のイメージイラストで、実際の会場・作品を再現したものではありません。</p>",
+  "url": "",
+  "editorialCheckedAt": "2026-09-19",
+  "verificationNote": "開催概要は施設提供情報を掲載した地域メディアで確認。マルシェの登録・雨天対応・駐車条件は未確認です。",
+  "sources": [
+    {
+      "label": "地域メディア とりぷれ・施設提供情報を含む開催案内",
+      "url": "https://tripre.jp/archives/42524"
+    }
+  ]
+},
+{
+  "id": "lucy-kirakira-wanko-night-2026-sw",
+  "title": "キラキラわんこナイト｜Lucy Resort",
+  "startDate": "2026-09-19",
+  "endDate": "2026-09-23",
+  "prefecture": "茨城県",
+  "place": "Lucy Resort（ルーシーリゾート）",
+  "address": "茨城県つくば市上河原崎39-1",
+  "description": "光る首輪やライトを身につけて楽しむ夜のドッグラン。期間中はナイト追加料金が無料ですが、通常入場料と初回登録料は別途必要です。",
+  "type": "event",
+  "status": "scheduled",
+  "region": "kanto",
+  "image": "images/event/sui-on-lucy-kirakira-wanko-night-2026-sw.png",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=茨城県つくば市上河原崎39-1",
+  "content": "<p>シルバーウィークの夜に、光るアイテムをつけて愛犬とドッグランへ。Lucy Resortでは９月19〜23日の18〜21時に「キラキラわんこナイト」を案内しています。</p>\n<h2>このイベントの楽しみ方</h2><p>光る首輪やペンダントなどは持ち込み可能で、店内販売も案内されています。暗い場所での遊びに慣れていない犬は、周囲の様子を見ながら短い滞在から楽しむのもよさそうです。</p>\n<h2>時間・料金・参加の前に</h2><dl class=\"event-practical-info\"><div><dt>開催日時</dt><dd>2026年9月19日（土）〜23日（水・祝）／18:00〜21:00。</dd></div><div><dt>料金</dt><dd>期間中はナイト追加料金が無料。通常のドッグラン入場料は必要です。初回登録事務手数料は１頭1,100円（税込）。通常入場料は公式料金表をご確認ください。</dd></div><div><dt>予約・登録</dt><dd>通常のドッグランは予約不要の案内がありますが、すべての犬にデジタル会員登録が必要です。都度利用の１日フリーパスがあります。初回受付の所要時間は未確認です。</dd></div><div><dt>持参するもの</dt><dd>イベント案内では、１年未満のワクチン接種証明書と狂犬病接種証明書の提示が必要とされています。</dd></div><div><dt>開催変更</dt><dd>同じ案内ページの９月21日「MUSIC NIGHT」は天候を理由に中止告知が出ています。キラキラわんこナイトとは分けて確認し、来場当日の営業状況も公式で確認してください。</dd></div></dl>\n<h2>会場への行き方</h2><p>茨城県つくば市上河原崎39-1。車での行き方や駐車案内は公式アクセス情報へ。夜の帰宅時刻も含めて計画し、当日の営業カレンダーを確認してください。</p>\n<aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>明るいうちに証明書をそろえ、光るアイテムの電池も確認。初回は登録があるため、遊ぶ時間とは別に受付の余裕を取りましょう。</p><small>編集部からの準備のヒントです。参加体験談ではありません。</small></aside>\n<h2>情報元・最新のお知らせ</h2><ul class=\"event-source-links\"><li><a href=\"https://www.lucyresort.com/event_info/eventinfo2/2026/08/474/\" target=\"_blank\" rel=\"noopener noreferrer\">Lucy Resort・シルバーウィークイベント公式案内 ↗</a></li><li><a href=\"https://www.lucyresort.com/welcome/\" target=\"_blank\" rel=\"noopener noreferrer\">Lucy Resort・初めて利用する方へ ↗</a></li><li><a href=\"https://www.lucyresort.com/price/\" target=\"_blank\" rel=\"noopener noreferrer\">Lucy Resort・営業時間と料金 ↗</a></li></ul>\n<p class=\"event-source-date\">情報整理：2026年9月19日。開催変更・空き状況は出発前に情報元でご確認ください。サムネイルはすいとおん。制作のイメージイラストで、実際の会場・作品を再現したものではありません。</p>",
+  "url": "https://www.lucyresort.com/event_info/eventinfo2/2026/08/474/",
+  "editorialCheckedAt": "2026-09-19",
+  "verificationNote": "９月21日のMUSIC NIGHTは中止告知あり。夜の追加料金無料と通常入場料を混同しないようご注意ください。",
+  "sources": [
+    {
+      "label": "Lucy Resort・シルバーウィークイベント公式案内",
+      "url": "https://www.lucyresort.com/event_info/eventinfo2/2026/08/474/"
+    },
+    {
+      "label": "Lucy Resort・初めて利用する方へ",
+      "url": "https://www.lucyresort.com/welcome/"
+    },
+    {
+      "label": "Lucy Resort・営業時間と料金",
+      "url": "https://www.lucyresort.com/price/"
+    }
+  ]
+},
+{
+  "id": "resol-no-mori-aizome-2026-sw",
+  "title": "リソルの森｜愛犬と楽しむ藍染体験",
+  "startDate": "2026-09-20",
+  "endDate": "2026-09-21",
+  "prefecture": "千葉県",
+  "place": "リソルの森（体験の集合場所は予約時に確認）",
+  "address": "千葉県長生郡長柄町上野521-4",
+  "description": "９月20日はガーランド、21日は布パネルを作る藍染体験。日帰り参加可・犬同伴は条件あり。予約枠と同伴条件を確認して参加する企画です。",
+  "type": "event",
+  "status": "scheduled",
+  "region": "kanto",
+  "image": "images/event/sui-on-resol-no-mori-aizome-2026-sw.png",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=千葉県長生郡長柄町上野521-4",
+  "content": "<p>リソルの森のシルバーウィーク企画から、日帰り参加と愛犬同伴が案内されている２つの藍染体験を紹介します。マルシェやドッグランとは違い、ものづくりを楽しみたい方向けの企画です。</p>\n<h2>このイベントの楽しみ方</h2><p>20日は布の旗をつないだガーランド、21日は染めた布を使うファブリックパネルを制作します。同じ時間帯の別プログラムなので、作りたいものに合わせて日を選べます。</p>\n<h2>時間・料金・参加の前に</h2><dl class=\"event-practical-info\"><div><dt>開催日時</dt><dd>2026年9月20日（日）・21日（月・祝）／各日13:30〜15:30。</dd></div><div><dt>日別の内容</dt><dd>20日：藍染ガーランドづくり。21日：藍染ファブリックパネルづくり。</dd></div><div><dt>料金・定員</dt><dd>各日2,500円（税込）〜、定員12名。対象は「どなたでも」、日帰り参加可と案内されています。</dd></div><div><dt>予約・犬の条件</dt><dd>公式イベントページの各プログラム予約リンクから、空き枠と料金を確認してください。愛犬同伴は条件付きで、犬のサイズ・頭数・待機方法などの詳細は参加前に施設へ確認が必要です。</dd></div><div><dt>受付・雨の日</dt><dd>体験は２時間。受付に必要な時間、集合場所、雨天時の実施場所と対応は予約時に確認してください。</dd></div></dl>\n<h2>会場への行き方</h2><p>施設住所は千葉県長生郡長柄町上野521-4。広い施設のため、この住所だけで体験の集合場所に着くとは限りません。利用駐車場と集合場所を予約時に確認してください。</p>\n<aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>手を使う体験中、愛犬が落ち着いて待てる方法を相談しておくと安心です。ひとり＋犬での参加や多頭連れは、予約前に受け入れ条件を聞いておきましょう。</p><small>編集部からの準備のヒントです。参加体験談ではありません。</small></aside>\n<h2>情報元・最新のお知らせ</h2><ul class=\"event-source-links\"><li><a href=\"https://www.resol-no-mori.com/event/kiji123.html\" target=\"_blank\" rel=\"noopener noreferrer\">リソルの森・シルバーウィーク2026公式プログラム ↗</a></li></ul>\n<p class=\"event-source-date\">情報整理：2026年9月19日。開催変更・空き状況は出発前に情報元でご確認ください。サムネイルはすいとおん。制作のイメージイラストで、実際の会場・作品を再現したものではありません。</p>",
+  "url": "https://www.resol-no-mori.com/event/kiji123.html",
+  "editorialCheckedAt": "2026-09-19",
+  "verificationNote": "犬同伴の詳細条件と予約の空き状況は未確認です。「予約確認」から公式のプログラム案内をご確認ください。",
+  "sources": [
+    {
+      "label": "リソルの森・シルバーウィーク2026公式プログラム",
+      "url": "https://www.resol-no-mori.com/event/kiji123.html"
+    }
+  ]
+}
+);
