@@ -90,8 +90,8 @@ const outingFeatures = [
   },
   {
     id: "outing-indoor-kanto",
-    title: "関東の室内ドッグランへ。",
-    description: "東京・神奈川・埼玉の4施設。登録・予約を比べて選ぼう。",
+    title: "関東の室内ドッグラン10選。",
+    description: "東京・神奈川・埼玉の10施設。登録・予約を比べて選ぼう。",
     label: "RAINY DAY / KANTO",
     date: "2026-09-19",
     image: "images/outing/feature-indoor-kanto-illustration.png",
