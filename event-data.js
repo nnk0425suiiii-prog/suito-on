@@ -1,4 +1,4 @@
-/* EVENT DATA — イベント本文・開催情報
+/* イベント本文・開催情報
  * 追加時は既存の1件をコピーし、ID・日時・会場・本文・情報元を更新。
  * IDはURLといいねに使用するため、公開後は変更しないでください。
  * contentの構成：紹介 / 楽しみ方 / 参加情報 / アクセス / おでかけメモ / 情報元。
@@ -621,7 +621,6 @@ const calendarEvents = [
     verificationNote: "開催概要は第三者媒体での確認です。料金・企画・犬の参加条件は、主催者による最新案内との照合が必要です。",
     sources: [{"label": "開催情報の参考：Dog Hug Life（第三者）", "url": "https://doghuglife.com/posts/dog-event-2026-10-zenkoku"}]
   },
-
 {
   "id": "wan-park-blue-shimotsuma-2026-sw",
   "title": "WanパークBlue in ビアスパークしもつま",
