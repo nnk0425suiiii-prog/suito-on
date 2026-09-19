@@ -9,7 +9,7 @@
     BLOG:'M7 3h7l4 4v14H7z M14 3v5h4 M10 12h5 M10 16h5',
     GUIDE:'M12 5Q6 2 2 5v15q5-3 10 0q5-3 10 0V5q-5-3-10 0v15',
     ITEMS:'M5 8h14l1 13H4z M9 9V6a3 3 0 0 1 6 0v3',
-    EVENT:'M4 6h16v15H4z M8 3v6 M16 3v6 M4 11h16 M8 15h2 M14 15h2',
+    OUTING:'M4 6h16v15H4z M8 3v6 M16 3v6 M4 11h16 M8 15h2 M14 15h2',
     COMIC:'M12 3a9 9 0 1 0 0 18a9 9 0 1 0 0-18 M8 9h1 M15 9h1 M8 14q4 5 8 0',
     ABOUT:'M12 11c-3 0-7 6-5 9s4 0 5 0s4 3 5 0s-2-9-5-9 M5 5v3 M10 3v3 M15 3v3 M20 5v3'
   };
@@ -44,7 +44,7 @@
     <section class="mh-section" aria-label="人気の記事"><header class="mh-heading"><h2><b>01</b><span>POPULAR</span></h2><span class="mh-caption">いいねの多い記事</span></header><div class="mh-popular" aria-live="polite"><p class="mh-empty">ランキングを読み込み中…</p></div></section>
     <section class="mh-section">${heading('02','BLOG','すべての記事','blog.html')}<div class="mh-blog">${blogs.map(p=>card(p,'article')).join('')}</div></section>
     <section class="mh-section">${heading('03','GUIDE','暮らしのヒント','guide.html')}<div class="mh-guides">${guides.map(p=>card(p,'guide-article')).join('')}</div></section>
-    <section class="mh-row"><h2>${icon('EVENT')}<span>EVENT</span></h2>${upcoming?`<a class="mh-event" href="event-detail.html?id=${encodeURIComponent(upcoming.id)}">${upcoming.image?img(upcoming.image):''}<span><strong>${esc(upcoming.title)}</strong><small>${esc(upcoming.startDate.replaceAll('-','.'))} · ${esc(upcoming.prefecture || '')}</small></span><b aria-hidden="true">›</b></a>`:'<a href="event.html">イベントカレンダーを見る →</a>'}</section>
+    <section class="mh-row"><h2>${icon('OUTING')}<span>OUTING</span></h2><a class="mh-event" href="outing.html">${img('images/home/sui-on-home-forest-walk.jpeg')}<span><strong>ふたりと、どこへ行こう。</strong><small>特集・遊ぶ・泊まる・イベント</small></span><b aria-hidden="true">›</b></a></section>
     <section class="mh-row"><h2>${icon('ITEMS')}<span>ITEMS</span></h2><div class="mh-items">${allItems.slice(0,3).map(item=>`<a href="${esc(item.blogUrl || 'items.html')}" aria-label="${esc(item.name)}">${img(item.image)}<span>${esc(item.name)}</span></a>`).join('')}<a class="mh-more" href="items.html" aria-label="すべてのアイテム">→</a></div></section>
     <section class="mh-row"><h2>${icon('COMIC')}<span>COMIC</span></h2><a class="mh-comic" href="${series?'comic-series.html?series='+encodeURIComponent(series.id):'comic.html'}">${series?img(series.thumbnail):''}<span>すいとおん。の4コマ<small>${esc(series?.name || 'シリーズ一覧')} →</small></span></a></section>
     <section class="mh-row mh-about" id="mh-about"><h2>${icon('ABOUT')}<span>ABOUT</span></h2><div>${img('blog/images/suion-01.png')}<h3>すいとおん。について</h3><p>ふたりとの何気ない毎日や、犬との暮らしで見つけた小さな幸せを綴っています。</p><a href="article.html?id=introduce-sui">すいの紹介 →</a><a href="article.html?id=introduce-on">おんの紹介 →</a></div></section>
