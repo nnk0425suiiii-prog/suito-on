@@ -98,6 +98,9 @@ document.addEventListener(
       );
 
 
+    const series = getComicSeriesById(seriesId);
+    const isFinalEpisode = isComicSeriesComplete(seriesId) && comic.id === series.finalEpisodeId;
+
     const seriesUrl =
       seriesId
         ? `comic-series.html?series=${seriesId}`
@@ -227,15 +230,15 @@ document.addEventListener(
           <div class="comic-detail-next-coming">
 
             <span>
-              NEXT
+              ${isFinalEpisode ? "THE END" : "NEXT"}
             </span>
 
             <strong>
-              つづく…
+              ${isFinalEpisode ? `${comic.series} おわり` : "つづく…"}
             </strong>
 
             <small>
-              次のお話を準備中
+              ${isFinalEpisode ? (series.nextSeriesName ? `次は、${series.nextSeriesName}へ。` : "最後までお読みいただき、ありがとうございました。") : "次のお話を準備中"}
             </small>
 
           </div>

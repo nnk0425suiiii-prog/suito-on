@@ -368,15 +368,15 @@ document.addEventListener(
       <div class="comic-series-coming">
 
         <span>
-          つづく…
+          ${isComicSeriesComplete(seriesId) ? `${series.name} おわり` : "つづく…"}
         </span>
 
         <small>
-          TO BE CONTINUED
+          ${isComicSeriesComplete(seriesId) ? "THE END" : "TO BE CONTINUED"}
         </small>
 
         <p>
-          次のお話も準備中です。
+          ${isComicSeriesComplete(seriesId) ? (series.nextSeriesName ? `次は、${series.nextSeriesName}へ。お外の世界へ。` : "最後までお読みいただき、ありがとうございました。") : "次のお話も準備中です。"}
         </p>
 
       </div>

@@ -17,6 +17,10 @@ const comicSeriesData = [
   thumbnail:
     "images/comic/comic-deai-thumb1.png",
 
+  finalEpisodeId: 6,
+
+  nextSeriesName: "社会化期編",
+
   comingSoon:
     false
 }
@@ -154,6 +158,32 @@ const comicData = [
 
     comingSoon:
       true
+  },
+
+  {
+    "id": 5,
+    "queue": true,
+    "number": "005",
+    "title": "いるかな。",
+    "series": "出会い編",
+    "image": "images/comic/sui-on-deai-005-v1.png",
+    "alt": "すいとおん。4コマ 出会い編⑤ いるかな。",
+    "description": "初めての夜。鳴かずに約2時間おきに手を伸ばし、私がいるか確認するすい。私もすいが気になって、あまり眠れませんでした。",
+    "detailPage": "comic-detail.html?id=5",
+    "comingSoon": true
+  },
+
+  {
+    "id": 6,
+    "queue": true,
+    "number": "006",
+    "title": "もう、うちの子。",
+    "series": "出会い編",
+    "image": "images/comic/sui-on-deai-006-v1.png",
+    "alt": "すいとおん。4コマ 出会い編⑥ もう、うちの子。 出会い編最終話",
+    "description": "お迎えから数日、すっかりくつろぐすいと、気になって仕方ない猫の先輩。わが家に新しい毎日が始まりました。出会い編、最終話。",
+    "detailPage": "comic-detail.html?id=6",
+    "comingSoon": true
   }
 
 ];
@@ -295,3 +325,13 @@ function getComicsBySeriesId(seriesId) {
     );
 
 }
+
+
+// 最終話が公開されてから、シリーズを完結表示にする。
+function isComicSeriesComplete(seriesId) {
+  const series = getComicSeriesById(seriesId);
+  if (!series || !series.finalEpisodeId) return false;
+  const finalEpisode = getComicById(series.finalEpisodeId);
+  return Boolean(finalEpisode && finalEpisode.series === series.name && !finalEpisode.comingSoon);
+}
+
