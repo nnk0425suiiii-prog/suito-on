@@ -107,7 +107,21 @@ const manualItems = [
 
     recommendation:
       "日々のブラッシングや毛玉ケアで使っている、すいとおん。のケア用品です。"
-  }
+  },
 
+  /* うちの子の目元クリーナー */
+{
+  "id": "amigo-eye-cleaner-100ml",
+  "name": "Amigo うちの子の目元クリーナー 100ml",
+  "addedDate": "2026-09-20",
+  "category": "ケア",
+  "categoryId": "care",
+  "dog": "SUI",
+  "image": "https://shop.r10s.jp/petforest/cabinet/a/amigo/amigo-1/pf-4562347095201.jpg",
+  "price": "¥1,320（税込）",
+  "shopUrl": "https://item.rakuten.co.jp/petforest/pf-4562347095201/",
+  "blogUrl": "",
+  "recommendation": "毎日の目元のお手入れに。コットンやタオルにつけて、涙やけ部分や目の周りの汚れをやさしく拭き取るクリーナーです。無香料・100ml。目に直接スプレーせずに使います。"
+}
 
 ];
