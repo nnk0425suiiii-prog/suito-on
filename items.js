@@ -208,10 +208,9 @@ mergedItems.forEach(item => {
   }
 });
 
-// Blog recommendations come first; newest published mention wins within each group.
+// NEW表示と同じ追加日を基準に、ブログ掲載・手動追加をまとめて新着順に表示。
 const allItems = Array.from(uniqueItemsMap.values()).sort((a, b) =>
-  Number(b.source === "blog") - Number(a.source === "blog")
-  || getItemDateTime(b.updatedDate || b.addedDate) - getItemDateTime(a.updatedDate || a.addedDate)
+  getItemDateTime(b.addedDate || b.updatedDate) - getItemDateTime(a.addedDate || a.updatedDate)
   || String(a.id).localeCompare(String(b.id))
 );
 
