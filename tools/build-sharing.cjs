@@ -1,3 +1,4 @@
+require('./build-outing.cjs');
 // Run after changing content data. No external dependencies; works on Node 20+.
 const fs = require('node:fs');
 const path = require('node:path');
