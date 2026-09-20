@@ -1,152 +1,57 @@
-/* 特集はこの配列に追加。施設情報は {{place:施設ID}} で outing-data.js から読み込みます。 */
+/* 特集本文。追加・修正はこのJSで行い、ビルド時にHTMLを生成します。 */
 const outingFeatures = [
   {
-    id: "outing-stay-together",
-    title: "遊んだ夜も、一緒に。",
-    description: "ドッグランとベッド利用の条件で選ぶ、関東のお泊まり3選。",
-    label: "STAY / KANTO / WITH DOGS",
-    date: "2026-09-19",
-    image: "images/outing/feature-stay-together-illustration.png",
-    content: `
-<p>たっぷり遊んだ夜も、できればいつものように一緒に眠りたい。ドッグランがあり、公式に人のベッドの利用が認められている関東の3施設を集めました。どれも未訪問の候補です。</p>
-<section class="outing-article-block">
-<h2>「一緒に眠る」の条件も比べよう。</h2>
-<p>inumo芝公園とグランデ常陸はマナーウェア着用が条件。DANQOOはベッド利用可の案内があり、寝具の細則は予約時に確認したい宿です。ベッドの上に乗れることと、掛け布団の中まで入れることは同じとは限らないので、普段の寝方を伝えて確認すると安心です。</p>
-<p>ラン重視なら、屋内のinumo、専用ランと共用の屋根付きランがある常陸、屋外2か所のDANQOO。それぞれ違う過ごし方ができます。今回の3施設は、1名宿泊が確約されたリストではありません。</p></section>
-{{place:inumo-shibakoen}}
-{{place:hitachi-stay}}
-{{place:danqoo}}
-<p>料金は空室や人数で変動します。愛犬の体重・頭数・必要書類と寝具の条件を確認してから予約を。宿泊者向けのランを、予約不要の日帰り施設としては紹介していません。</p>
-<a class="outing-article-cta" href="outing.html?kind=stay&amp;bed=1#places">ベッド利用可の宿を一覧で比べる →</a>
-`,
+    "id": "outing-stay-together",
+    "title": "愛犬と泊まれる宿、関東10選。",
+    "description": "ドッグランのある宿を、添い寝の条件・ひとり泊・部屋の過ごし方で比較。",
+    "label": "STAY / KANTO / 10 STAYS",
+    "date": "2026-09-19",
+    "image": "images/outing/feature-stay-together-illustration.png",
+    "content": "<p>昼はランで遊んで、夜は愛犬と同じ部屋でのんびり。関東のドッグランがある宿を10軒集めました。順位ではなく、旅の過ごし方で選ぶためのリストです。いずれも公式情報をもとにした未訪問の候補です。</p>\n<nav class=\"outing-section-nav\" aria-label=\"宿特集の地域\"><a href=\"outing-stay-together.html\">関東の宿10選</a><a href=\"outing-stay-kansai.html\">関西の宿10選</a></nav>\n<section class=\"outing-article-block\"><h2>一緒に泊まる。どこで眠る？</h2><p>同室宿泊と、人のベッドでの添い寝は別の条件。添い寝可を優先しつつ、ランや滞在環境が魅力の宿も比較用に掲載しました。マナーウェアの要否や、掛け布団の中に入れるかは宿ごとに確認しましょう。</p><p>1名予約は、定員や「2名1室時の1人料金」だけでは判断できません。確認できたプランだけを「1名プランあり」にしています。記載のない宿は1名不可と決めつけず、希望日と犬の頭数を伝えて問い合わせを。</p></section>\n<section class=\"outing-article-block\"><h2>まずは10軒を見比べよう。</h2><p>宿名を押すと詳しい紹介へ。添い寝「要確認」は禁止と断定したものではなく、今回の公式確認範囲で許可を確認できなかった宿です。</p><div class=\"outing-stay-compare\"><a href=\"#inumo-shibakoen\"><small>01 / 東京・港区芝公園</small><strong>inumo芝公園</strong><span>屋内ドッグラン約76㎡。</span><b>添い寝・ベッド利用可（条件あり）</b></a><a href=\"#forest-hills-nasu\"><small>02 / 栃木・那須町</small><strong>ホテルフォレストヒルズ那須</strong><span>共用の屋外ランと屋根付きラン。専用ラン付き客室も選べます。</span><b>添い寝・ベッド利用可（条件あり）</b></a><a href=\"#kinugawa-kizuna\"><small>03 / 栃木・日光市</small><strong>鬼怒川 絆</strong><span>約100畳の室内ドッグラン。利用はチェックイン〜22:00、6:30〜チェックアウトの案内。</span><b>添い寝・ベッド利用可（条件あり）</b></a><a href=\"#hitachi-stay\"><small>04 / 茨城・小美玉市</small><strong>グランデ プライベート ドッグ リゾート常陸（宿泊）</strong><span>各客室の屋外専用ラン＋共用の屋根付きラン。</span><b>添い寝・ベッド利用可（条件あり）</b></a><a href=\"#danqoo\"><small>05 / 千葉・南房総市</small><strong>DANQOO（ダンクー）</strong><span>屋外の共用ラン2か所。専用ガーデン付き客室もあり。</span><b>添い寝・ベッド利用可（条件あり）</b></a><a href=\"#asovilla-mini\"><small>06 / 千葉・九十九里</small><strong>ASOVILLA mini</strong><span>客室専用の屋外ラン。&amp;WANの屋内ラン利用は確約ではありません。</span><b>添い寝は要確認</b></a><a href=\"#regina-sengokuhara\"><small>07 / 神奈川・箱根</small><strong>レジーナリゾート箱根仙石原</strong><span>共用の屋内ランと屋外ラン。専用ランは対象客室のみ。</span><b>添い寝は要確認</b></a><a href=\"#epinard-nasu-terrace\"><small>08 / 栃木・那須町</small><strong>ホテルエピナール那須・テラス棟</strong><span>テラス棟に屋外ドッグラン。シャンプールームや預かり用ドッグキャビンもあります。</span><b>添い寝は要確認</b></a><a href=\"#doggys-island-stay\"><small>09 / 千葉・八街市</small><strong>小谷流の里 ドギーズアイランド（宿泊）</strong><span>天然芝の体格別ランなど。ラン・水遊び設備の利用時間や対象エリアは宿泊時の案内を確認。</span><b>添い寝は要確認</b></a><a href=\"#regina-kamogawa\"><small>10 / 千葉・鴨川市</small><strong>レジーナリゾート鴨川</strong><span>天然芝のドッグラン。愛犬用プールもありますが、営業期間・当日の利用条件を確認。</span><b>添い寝不可</b></a></div></section>\n<section class=\"outing-article-block\"><h2>こんな旅なら、このあたり。</h2><p>雨が気になるならinumo芝公園・鬼怒川 絆・箱根仙石原の屋内ラン。森のコテージならフォレストヒルズ那須、専用ラン重視なら常陸やASOVILLA mini。小型犬と温泉でくつろぐならDANQOOも候補です。</p><p>ひとり＋愛犬のヴィラ旅は、まず1名プランのあるASOVILLA miniから確認を。ゆるり熱海も気になる宿ですが、静岡県なので今回の関東10選には数えていません。</p></section>\n{{place:inumo-shibakoen}}\n{{place:forest-hills-nasu}}\n{{place:kinugawa-kizuna}}\n{{place:hitachi-stay}}\n{{place:danqoo}}\n{{place:asovilla-mini}}\n{{place:regina-sengokuhara}}\n{{place:epinard-nasu-terrace}}\n{{place:doggys-island-stay}}\n{{place:regina-kamogawa}}\n<section class=\"outing-article-block\"><h2>予約する前に、3つだけ。</h2><ul><li>犬の体重・頭数と、大人の人数に合う客室か。</li><li>ベッド・寝具のルールと、食事やお風呂の間の過ごし方。</li><li>屋外ランの雨天時の運用と、犬料金を含む宿泊総額。</li></ul><p>営業・空室・料金は変わります。公式リンクから希望日の条件を確認してください。宿泊者向けランを、予約不要の日帰りランとして案内しているものではありません。</p></section>\n<a class=\"outing-article-cta\" href=\"outing.html?kind=stay&amp;region=kanto#places\">関東の宿を条件で絞り込む →</a><br><a class=\"outing-article-cta\" href=\"outing-stay-kansai.html\">関西の宿10選も読む →</a>"
   },
   {
-    id: "outing-dogruns-kanto",
-    title: "関東のドッグラン10選。",
-    description: "室内・屋根付き・天然芝・水遊び・無料。今日はどこで遊ぶ？",
-    label: "PLAY / KANTO / 10 PLACES",
-    date: "2026-09-19",
-    image: "images/outing/feature-dogruns-kanto-illustration.png",
-    content: `
-<p>広い芝生で走りたい日も、雨を避けて遊びたい日も。関東の10施設を、遊べる環境と初回の準備で選べるようにまとめました。順位ではなく、目的別の候補です。訪問した寄七つ星・豊洲ぐるり以外は、公式情報から選んだ未訪問の施設です。</p>
-<section class="outing-article-block">
-<h2>今日の気分で選ぶなら。</h2>
-<p>室内ならWANCOTT・DOG ISLAND瀬谷・DOG RUN TOKYO・ペットステーションWAN。屋根付きも選択肢に入れるなら、わんダフルネイチャーヴィレッジ・グランデ常陸。天然芝や水遊びならドギーズアイランド、訪問して広さがうれしかった寄七つ星も。無料で探すなら豊洲ぐるり・代々木公園です。</p>
-<p>屋根付きは雨風を完全に避けられる室内とは別。無料のランでも事前登録や駐車料金を確認しておきましょう。</p></section>
-{{place:yadoriki}}
-{{place:toyosu-gururi}}
-{{place:wancott}}
-{{place:wonderful-village}}
-{{place:yoyogi}}
-{{place:dog-island-seya}}
-{{place:dog-run-tokyo}}
-{{place:petstation-wan}}
-{{place:doggys-island}}
-{{place:hitachi-dayrun}}
-`,
+    "id": "outing-stay-kansai",
+    "title": "愛犬と泊まれる宿、関西10選。",
+    "description": "滋賀・京都・兵庫のラン付き宿。琵琶湖のホテルから淡路島のヴィラまで、添い寝の条件も比較。",
+    "label": "STAY / KANSAI / 10 STAYS",
+    "date": "2026-09-19",
+    "image": "images/outing/feature-stay-kansai-illustration.png",
+    "content": "<p>昼はランで遊んで、夜は愛犬と同じ部屋でのんびり。関西のドッグランがある宿を10軒集めました。順位ではなく、旅の過ごし方で選ぶためのリストです。いずれも公式情報をもとにした未訪問の候補です。</p>\n<nav class=\"outing-section-nav\" aria-label=\"宿特集の地域\"><a href=\"outing-stay-together.html\">関東の宿10選</a><a href=\"outing-stay-kansai.html\">関西の宿10選</a></nav>\n<section class=\"outing-article-block\"><h2>一緒に泊まる。どこで眠る？</h2><p>同室宿泊と、人のベッドでの添い寝は別の条件。添い寝可を優先しつつ、ランや滞在環境が魅力の宿も比較用に掲載しました。マナーウェアの要否や、掛け布団の中に入れるかは宿ごとに確認しましょう。</p><p>1名予約は、定員や「2名1室時の1人料金」だけでは判断できません。確認できたプランだけを「1名プランあり」にしています。記載のない宿は1名不可と決めつけず、希望日と犬の頭数を伝えて問い合わせを。</p></section>\n<section class=\"outing-article-block\"><h2>まずは10軒を見比べよう。</h2><p>宿名を押すと詳しい紹介へ。添い寝「要確認」は禁止と断定したものではなく、今回の公式確認範囲で許可を確認できなかった宿です。</p><div class=\"outing-stay-compare\"><a href=\"#biwadog\"><small>01 / 滋賀・彦根市</small><strong>ホテルビワドッグ</strong><span>屋外ドッグラン3面。犬の体格や当日の運用に合うエリアで遊べます。</span><b>添い寝・ベッド利用可（条件あり）</b></a><a href=\"#dogvilla-koto\"><small>02 / 京都・京丹波町</small><strong>DOG VILLA 木都</strong><span>各棟のプライベートドッグラン。ほかの犬との接触を避けながら遊ぶ旅にも。</span><b>添い寝・ベッド利用可（条件あり）</b></a><a href=\"#glampdome-kobe-dog\"><small>03 / 兵庫・神戸市</small><strong>グランドーム神戸天空・愛犬同伴客室</strong><span>対象のスパスイート・スイートドッグに専用ドッグラン。一般客室とは条件が異なります。</span><b>添い寝・ベッド利用可（条件あり）</b></a><a href=\"#doggywood\"><small>04 / 兵庫・淡路島</small><strong>DOGGYWOOD</strong><span>専用ドッグラン付き。スイートのランは約1,000㎡で、棟によって広さが異なります。</span><b>添い寝・ベッド利用可（条件あり）</b></a><a href=\"#suitevilla-awaji-dog\"><small>05 / 兵庫・淡路島</small><strong>プライベートヴィラグランピング淡路・ドッグスイートヴィラ</strong><span>ドッグスイートヴィラに専用ドッグラン。犬同伴はこの客室タイプを選びます。</span><b>添い寝・ベッド利用可（条件あり）</b></a><a href=\"#awajitoinu-yado\"><small>06 / 兵庫・淡路島</small><strong>淡路と犬と宿</strong><span>2つのドッグランを備えた一棟貸し。共用ホテルとは違う過ごし方ができます。</span><b>添い寝・ベッド利用可（条件あり）</b></a><a href=\"#dogvilla-towa\"><small>07 / 兵庫・淡路島</small><strong>Dog Villa TOWA</strong><span>天然芝のプライベートドッグラン。屋内ランとしては掲載していません。</span><b>添い寝・ベッド利用可（条件あり）</b></a><a href=\"#ponte-nodo\"><small>08 / 兵庫・淡路市岩屋</small><strong>Ponte Nodo</strong><span>明石海峡大橋を望む天然芝のプライベートドッグラン。</span><b>添い寝・ベッド利用可（条件あり）</b></a><a href=\"#matsunoura-bettei\"><small>09 / 滋賀・大津市</small><strong>松の浦別邸</strong><span>大型犬用と小型・中型犬用に分かれた屋外ラン2か所。</span><b>添い寝不可</b></a><a href=\"#biwafront-hikone\"><small>10 / 滋賀・彦根市</small><strong>蒼の湖邸 BIWAFRONT HIKONE・ドッグフレンドリーヴィラ</strong><span>ヴィラエリアにドッグラン。ホテル一般客室ではなく犬同伴対応ヴィラを選びます。</span><b>就寝時はケージ</b></a></div></section>\n<section class=\"outing-article-block\"><h2>湖のそば、森の中、島のヴィラ。</h2><p>今回は滋賀・京都・兵庫から選びました。琵琶湖エリアならホテルビワドッグ、森のヴィラなら京丹波の木都。淡路島では専用ランの広さや、記念日の過ごし方から選べます。</p><p>添い寝を外せないなら、ビワドッグや木都、淡路島の添い寝可の宿から。松の浦別邸とBIWAFRONT HIKONEは犬の寝る場所に制限があるので、同室で別々に眠れる家族向けです。</p></section>\n{{place:biwadog}}\n{{place:dogvilla-koto}}\n{{place:glampdome-kobe-dog}}\n{{place:doggywood}}\n{{place:suitevilla-awaji-dog}}\n{{place:awajitoinu-yado}}\n{{place:dogvilla-towa}}\n{{place:ponte-nodo}}\n{{place:matsunoura-bettei}}\n{{place:biwafront-hikone}}\n<section class=\"outing-article-block\"><h2>予約する前に、3つだけ。</h2><ul><li>犬の体重・頭数と、大人の人数に合う客室か。</li><li>ベッド・寝具のルールと、食事やお風呂の間の過ごし方。</li><li>屋外ランの雨天時の運用と、犬料金を含む宿泊総額。</li></ul><p>営業・空室・料金は変わります。公式リンクから希望日の条件を確認してください。宿泊者向けランを、予約不要の日帰りランとして案内しているものではありません。</p></section>\n<a class=\"outing-article-cta\" href=\"outing.html?kind=stay&amp;region=kansai#places\">関西の宿を条件で絞り込む →</a><br><a class=\"outing-article-cta\" href=\"outing-stay-together.html\">関東の宿10選も読む →</a>"
   },
   {
-    id: "outing-rainy-home",
-    title: "雨の日、おうちで何する？",
-    description: "すいとおん家のノーズワークと、いっしょに遊ぶアイデア。",
-    label: "AT HOME",
-    date: "2026-09-19",
-    image: "images/outing/feature-rainy-home-illustration.png",
-    content: `
-<p>雨の日、犬とおうちで何する？すいとおん家は、ノーズワークを取り入れつつ、家でも全力で遊びます。笑</p>
-<p>おでかけできない日も、ふたりといっしょに楽しめることを。うちで使っている遊びと、次に試したいアイデアをまとめました。</p>
-
-<section class="outing-article-block">
-<p class="outing-eyebrow">01 / OUR LITTLE DAYS</p>
-<h2>うちは、ノーズワークから。</h2>
-<p>にんじんのおもちゃや布のマットを使って、鼻を使う遊びを取り入れています。写真はおうちで遊んでいるすいとおん。いつもの部屋も、おもちゃをひとつ出すと遊び場になります。</p><figure><img src="images/outing/sui-on-carrot-nosework-soft.png" alt="にんじん型のノーズワークおもちゃを囲むすいとおん" loading="lazy"><figcaption>すいとおん家のおうち遊び。にんじんのおもちゃで。</figcaption></figure>
-<p>初めてなら、ごはんを見つけやすい位置に少量置くところから。難しく隠すより、「見つけられた！」で終われるくらいが始めやすそうです。</p><div class="outing-photo-pair"><figure><img src="images/outing/sui-on-food-toy-soft.png" alt="黄色いフードトイを調べるすい" loading="lazy"><figcaption>仕掛けのあるおもちゃも。</figcaption></figure><figure><img src="images/outing/sui-on-snuffle-mat-soft.png" alt="布のマットに鼻を近づけるすい" loading="lazy"><figcaption>布の間をくんくん。</figcaption></figure></div></section>
-
-<section class="outing-article-block">
-<p class="outing-eyebrow">02 / PLAY TOGETHER</p>
-<h2>いっしょに遊ぶ時間も、たっぷり。</h2>
-<p>すいとおん家は、おうちでも全力で遊ぶ派。遊び方の候補には、お気に入りのおもちゃを使った短い引っ張りっこもあります。ときどき休憩を挟んで、犬の方からまた遊びたくなるペースで。</p>
-<p>滑りやすい床はマットを敷き、家具にぶつからないスペースで。おもちゃを高く振って飛びつかせたり、階段で走らせたりせず、足元で遊べる形にします。</p></section>
-
-<section class="outing-article-block">
-<p class="outing-eyebrow">03 / A FEW MORE IDEAS</p>
-<h2>次は、こんな遊びも。</h2><h3>お気に入りのおもちゃを探す</h3>
-<p>まずは見える場所に置いて、一緒に「どこかな？」。見つけたら褒めて、一緒に遊ぶところまでをセットに。慣れたら、探す範囲を少しだけ広げます。</p><h3>おいで、できた！の小さな練習</h3>
-<p>同じ部屋の近い距離で名前を呼んで、来られたら褒める。すでに知っている合図を数回楽しむだけでも、飼い主と関わる時間になります。飽きる前に切り上げて休憩へ。</p><h3>遊んだあとは、何もしない時間</h3>
-<p>ずっと楽しませ続けなくても大丈夫。いつもの落ち着ける場所で、ゆっくり休む時間も用意します。やりたくなさそうなら、その日はおしまいに。</p></section>
-<aside class="outing-bottom">
-<h2>ふたりで遊ぶときの小さな約束。</h2>
-<p>フードやおもちゃを取り合いそうなときは、距離を取るか1頭ずつ。布や部品をかじって飲み込まないよう、見ていられるときに使います。使うフードは普段のごはんの一部を取り分け、遊びの分だけ増やしすぎないように。</p></aside>
-
-<section class="outing-article-block">
-<h2>外で遊びたくなったら。</h2>
-<p>雨の日でも出かけたい日は、室内ドッグランという選択肢も。登録や予約を先に確認して、無理なく行ける場所を探してみてください。</p>
-<a class="outing-article-cta" href="outing-indoor-kanto.html">関東の室内ドッグラン特集へ →</a></section>
-
-<p class="outing-editorial">写真・日常の体験：すいとおん家。追加の遊び方は 
-<a href="https://www.dogstrust.org.uk/dog-advice/life-with-your-dog/enrichment/enrichment-activities-for-dogs" target="_blank" rel="noopener noreferrer">Dogs Trustのエンリッチメント案内</a>、
-<a href="https://www.akc.org/expert-advice/training/indoor-scent-games-for-dogs/" target="_blank" rel="noopener noreferrer">AKCの室内の嗅覚遊び</a>を参考に整理しています。追加アイデアは、すいとおん家の実践済み体験を示すものではありません。</p>
-`,
+    "id": "outing-dogruns-kanto",
+    "title": "関東のドッグラン10選。",
+    "description": "室内・屋根付き・天然芝・水遊び・無料。今日はどこで遊ぶ？",
+    "label": "PLAY / KANTO / 10 PLACES",
+    "date": "2026-09-19",
+    "image": "images/outing/feature-dogruns-kanto-illustration.png",
+    "content": "\n<p>広い芝生で走りたい日も、雨を避けて遊びたい日も。関東の10施設を、遊べる環境と初回の準備で選べるようにまとめました。順位ではなく、目的別の候補です。訪問した寄七つ星・豊洲ぐるり以外は、公式情報から選んだ未訪問の施設です。</p>\n<section class=\"outing-article-block\">\n<h2>今日の気分で選ぶなら。</h2>\n<p>室内ならWANCOTT・DOG ISLAND瀬谷・DOG RUN TOKYO・ペットステーションWAN。屋根付きも選択肢に入れるなら、わんダフルネイチャーヴィレッジ・グランデ常陸。天然芝や水遊びならドギーズアイランド、訪問して広さがうれしかった寄七つ星も。無料で探すなら豊洲ぐるり・代々木公園です。</p>\n<p>屋根付きは雨風を完全に避けられる室内とは別。無料のランでも事前登録や駐車料金を確認しておきましょう。</p></section>\n{{place:yadoriki}}\n{{place:toyosu-gururi}}\n{{place:wancott}}\n{{place:wonderful-village}}\n{{place:yoyogi}}\n{{place:dog-island-seya}}\n{{place:dog-run-tokyo}}\n{{place:petstation-wan}}\n{{place:doggys-island}}\n{{place:hitachi-dayrun}}\n"
   },
   {
-    id: "outing-indoor-kanto",
-    title: "関東の室内ドッグラン10選。",
-    description: "東京・神奈川・埼玉の10施設。登録・予約を比べて選ぼう。",
-    label: "RAINY DAY / KANTO",
-    date: "2026-09-19",
-    image: "images/outing/feature-indoor-kanto-illustration.png",
-    content: `
-<p>雨予報を見て「今週、どこなら遊べる？」と迷ったら。完全屋内のランを、登録・予約の違いから選べるようにまとめました。今回は東京・神奈川・埼玉の4施設を紹介します。</p>
-<p>これは2026年9月19日に公式案内を確認した候補リストです。当日営業や予約枠の空きを保証するものではありません。未訪問の施設なので、利用体験とは分けて紹介しています。</p>
-<aside class="outing-bottom">
-<h2>出発前は、この順番で。</h2><ol><li>愛犬のサイズに合う枠・エリアを確認。</li><li>初回登録、証明書の準備、必要な予約を済ませる。</li><li>当日の貸切・休業情報を確認して出発。</li></ol></aside>
-{{place:wancott}}
-{{place:dog-island-seya}}
-{{place:dog-run-tokyo}}
-{{place:petstation-wan}}
-{{place:wonderful-village}}
-
-<section class="outing-article-block">
-<h2>今日は、おうちで遊ぶのもあり。</h2>
-<p>外に出る気分じゃない日や、登録が間に合わない日には、おうち遊びへ。すいとおん家のノーズワークも紹介しています。</p>
-<a class="outing-article-cta" href="outing-rainy-home.html">雨の日のおうち遊びを読む →</a></section>
-
-<p class="outing-editorial">候補探しの参考：
-<a href="https://konokototomoni.com/category-walk/kanagawa-indoor-dogrun/" target="_blank" rel="noopener noreferrer">コノコトトモニ・神奈川県の室内ドッグラン紹介</a>。施設の条件は上記の公式情報を確認して独自に整理しました。</p>
-`,
+    "id": "outing-rainy-home",
+    "title": "雨の日、おうちで何する？",
+    "description": "すいとおん家のノーズワークと、いっしょに遊ぶアイデア。",
+    "label": "AT HOME",
+    "date": "2026-09-19",
+    "image": "images/outing/feature-rainy-home-illustration.png",
+    "content": "\n<p>雨の日、犬とおうちで何する？すいとおん家は、ノーズワークを取り入れつつ、家でも全力で遊びます。笑</p>\n<p>おでかけできない日も、ふたりといっしょに楽しめることを。うちで使っている遊びと、次に試したいアイデアをまとめました。</p>\n\n<section class=\"outing-article-block\">\n<p class=\"outing-eyebrow\">01 / OUR LITTLE DAYS</p>\n<h2>うちは、ノーズワークから。</h2>\n<p>にんじんのおもちゃや布のマットを使って、鼻を使う遊びを取り入れています。写真はおうちで遊んでいるすいとおん。いつもの部屋も、おもちゃをひとつ出すと遊び場になります。</p><figure><img src=\"images/outing/sui-on-carrot-nosework-soft.png\" alt=\"にんじん型のノーズワークおもちゃを囲むすいとおん\" loading=\"lazy\"><figcaption>すいとおん家のおうち遊び。にんじんのおもちゃで。</figcaption></figure>\n<p>初めてなら、ごはんを見つけやすい位置に少量置くところから。難しく隠すより、「見つけられた！」で終われるくらいが始めやすそうです。</p><div class=\"outing-photo-pair\"><figure><img src=\"images/outing/sui-on-food-toy-soft.png\" alt=\"黄色いフードトイを調べるすい\" loading=\"lazy\"><figcaption>仕掛けのあるおもちゃも。</figcaption></figure><figure><img src=\"images/outing/sui-on-snuffle-mat-soft.png\" alt=\"布のマットに鼻を近づけるすい\" loading=\"lazy\"><figcaption>布の間をくんくん。</figcaption></figure></div></section>\n\n<section class=\"outing-article-block\">\n<p class=\"outing-eyebrow\">02 / PLAY TOGETHER</p>\n<h2>いっしょに遊ぶ時間も、たっぷり。</h2>\n<p>すいとおん家は、おうちでも全力で遊ぶ派。遊び方の候補には、お気に入りのおもちゃを使った短い引っ張りっこもあります。ときどき休憩を挟んで、犬の方からまた遊びたくなるペースで。</p>\n<p>滑りやすい床はマットを敷き、家具にぶつからないスペースで。おもちゃを高く振って飛びつかせたり、階段で走らせたりせず、足元で遊べる形にします。</p></section>\n\n<section class=\"outing-article-block\">\n<p class=\"outing-eyebrow\">03 / A FEW MORE IDEAS</p>\n<h2>次は、こんな遊びも。</h2><h3>お気に入りのおもちゃを探す</h3>\n<p>まずは見える場所に置いて、一緒に「どこかな？」。見つけたら褒めて、一緒に遊ぶところまでをセットに。慣れたら、探す範囲を少しだけ広げます。</p><h3>おいで、できた！の小さな練習</h3>\n<p>同じ部屋の近い距離で名前を呼んで、来られたら褒める。すでに知っている合図を数回楽しむだけでも、飼い主と関わる時間になります。飽きる前に切り上げて休憩へ。</p><h3>遊んだあとは、何もしない時間</h3>\n<p>ずっと楽しませ続けなくても大丈夫。いつもの落ち着ける場所で、ゆっくり休む時間も用意します。やりたくなさそうなら、その日はおしまいに。</p></section>\n<aside class=\"outing-bottom\">\n<h2>ふたりで遊ぶときの小さな約束。</h2>\n<p>フードやおもちゃを取り合いそうなときは、距離を取るか1頭ずつ。布や部品をかじって飲み込まないよう、見ていられるときに使います。使うフードは普段のごはんの一部を取り分け、遊びの分だけ増やしすぎないように。</p></aside>\n\n<section class=\"outing-article-block\">\n<h2>外で遊びたくなったら。</h2>\n<p>雨の日でも出かけたい日は、室内ドッグランという選択肢も。登録や予約を先に確認して、無理なく行ける場所を探してみてください。</p>\n<a class=\"outing-article-cta\" href=\"outing-indoor-kanto.html\">関東の室内ドッグラン特集へ →</a></section>\n\n<p class=\"outing-editorial\">写真・日常の体験：すいとおん家。追加の遊び方は \n<a href=\"https://www.dogstrust.org.uk/dog-advice/life-with-your-dog/enrichment/enrichment-activities-for-dogs\" target=\"_blank\" rel=\"noopener noreferrer\">Dogs Trustのエンリッチメント案内</a>、\n<a href=\"https://www.akc.org/expert-advice/training/indoor-scent-games-for-dogs/\" target=\"_blank\" rel=\"noopener noreferrer\">AKCの室内の嗅覚遊び</a>を参考に整理しています。追加アイデアは、すいとおん家の実践済み体験を示すものではありません。</p>\n"
   },
   {
-    id: "outing-free-dogruns",
-    title: "東京の無料ドッグラン10選。",
-    description: "豊洲ぐるり・桜ヶ丘・代々木ほか。登録方法とエリア分けを比べて、次のお出かけへ。",
-    label: "FREE / TOKYO / 10 PLACES",
-    date: "2026-09-19",
-    image: "images/outing/feature-free-dogruns-illustration.png",
-    content: `
-<p>無料で遊べるランも、選択肢があると「次はここに行こう」が楽しみになる。今回は東京の10か所を、地域・登録方法・ランの区画から比べられるようにまとめました。掲載する10施設はいずれも屋外です。</p>
-<p>「無料」はランの利用料について。駐車場や移動費まで無料とは限りません。豊洲ぐるりは都立公園とは別の登録で、ほかの9施設は都立12公園の共通登録の対象です。</p>
-<aside class="outing-bottom"><h2>最初に登録、そのあと行き先選び。</h2><p>都立共通登録は当日にすぐ使えるとは限りません。木場の公式案内は通常7〜10日、混雑時は約2週間。すいとおん家は約1週間、豊洲ぐるりは約2日で連絡が来ましたが、これは個人の体験です。</p><p>登録が済んでいたら、体格別エリア・おもちゃのルール・同伴できる子どもの年齢もチェック。同じ共通登録でも、各公園のルールは異なります。</p><a href="https://www.tokyo-park.or.jp/park/kiba/facility/">登録にかかる日数の公式案内 ↗</a></aside>
-<section class="outing-article-block"><h2>気になる場所へ、すぐに。</h2><ol><li><a href="#toyosu-gururi">豊洲ぐるりドッグラン</a> — 東京・江東区豊洲</li><li><a href="#sakuragaoka">桜ヶ丘公園ドッグラン</a> — 東京・多摩市</li><li><a href="#oyamadairi">小山内裏公園ドッグラン</a> — 東京・町田市／八王子市</li><li><a href="#koganei">小金井公園ドッグラン</a> — 東京・小金井市</li><li><a href="#yoyogi">代々木公園ドッグラン</a> — 東京・渋谷</li><li><a href="#kiba">木場公園ドッグラン</a> — 東京・江東区</li><li><a href="#johoku-chuo">城北中央公園ドッグラン</a> — 東京・練馬区／板橋区</li><li><a href="#toneri">舎人公園ドッグラン</a> — 東京・足立区</li><li><a href="#shinozaki">篠崎公園ドッグラン</a> — 東京・江戸川区</li><li><a href="#komazawa-olympic">駒沢オリンピック公園ドッグラン</a> — 東京・世田谷区／目黒区</li></ol><p>豊洲ぐるりの訪問メモ以外は、公式情報をもとにした候補紹介です。共通登録の体験を、すべての公園への訪問体験としては扱っていません。</p></section>
-{{place:toyosu-gururi}}
-{{place:sakuragaoka}}
-{{place:oyamadairi}}
-{{place:koganei}}
-{{place:yoyogi}}
-{{place:kiba}}
-{{place:johoku-chuo}}
-{{place:toneri}}
-{{place:shinozaki}}
-{{place:komazawa-olympic}}
-<section class="outing-article-block"><h2>バッグに入れておきたいもの。</h2><p>登録証、リード、水、排泄物を持ち帰る袋、足拭きタオル。玩具は公園によって禁止・曜日制・区画限定なので、持っていく前に確認を。食べ物を使ったノーズワークは、自宅などルールに合った場所で楽しもう。</p><p>ランの利用条件や閉鎖情報は出発前に各公園の公式案内を確認してください。雨上がりの地面や暑さも考えて、無理なく遊べる日に。</p><a class="outing-article-cta" href="outing.html?kind=play&amp;free=1#places">無料ラン10施設を一覧で比べる →</a></section>
-<section class="outing-article-block">
-<h2>都立12公園ドッグラン共通利用登録って？</h2>
-<p>対象のいずれか1公園でWEB申請すると、12公園のドッグランを共通で利用できます。豊洲ぐるりは対象外で、別途登録が必要です。</p>
-<p>対象：桜ヶ丘公園・神代植物公園・篠崎公園・小山内裏公園・蘆花恒春園・駒沢オリンピック公園・城北中央公園・水元公園・舎人公園・代々木公園・木場公園・小金井公園。</p>
-<p>申請には当該年度の狂犬病予防注射済票（プレート）の画像を用意します。登録証を携帯し、各公園の利用ルールを確認してください。</p>
-<p>すいとおん家は登録の連絡まで約1週間でした。これは個人の体験です。木場公園の2026年度公式案内では通常7〜10日、混雑時は2週間程度かかる場合があるとされています。</p>
-<p>
-<a href="https://www.tokyo-park.or.jp/faq/">対象公園・共通登録の公式案内 ↗</a> / 
-<a href="https://www.tokyo-park.or.jp/park/kiba/facility/">2026年度の登録案内・申請入口 ↗</a></p></section>
-`,
+    "id": "outing-indoor-kanto",
+    "title": "関東の室内ドッグラン10選。",
+    "description": "東京・神奈川・埼玉・茨城・群馬の10施設。料金・登録・予約を比べて選ぼう。",
+    "label": "RAINY DAY / KANTO",
+    "date": "2026-09-19",
+    "image": "images/outing/feature-indoor-kanto-illustration.png",
+    "content": "\n<p>雨予報を見て「今週、どこなら遊べる？」と迷ったら。室内のランを、料金・登録・予約の違いから選べるようにまとめました。今回は東京・神奈川・埼玉・茨城・群馬の10施設を紹介します。</p>\n<p>これは2026年9月19日に公式案内を確認した候補リストです。当日営業や予約枠の空きを保証するものではありません。未訪問の施設なので、利用体験とは分けて紹介しています。</p>\n<aside class=\"outing-bottom\">\n<h2>出発前は、この順番で。</h2>\n<ol>\n<li>愛犬のサイズに合う枠・エリアを確認。</li>\n<li>初回登録、証明書の準備、必要な予約を済ませる。</li>\n<li>当日の貸切・休業情報を確認して出発。</li>\n</ol>\n</aside>\n<section class=\"outing-article-block\">\n<p class=\"outing-eyebrow\">神奈川・横浜</p>\n<h2>WANCOTT</h2>\n<p>横浜方面で、会員登録を済ませてから遊びたい日に。通常のドッグパークは予約不要ですが、初回はWEB登録だけで完了せず、来館時の書類確認も必要です。</p>\n<dl>\n<dt>料金の目安</dt>\n<dd>1頭1時間 1,650円＋年会費1頭3,300円。犬2頭は利用料3,300円／時間、初年度年会費は別途6,600円。</dd>\n<dt>行く前に</dt>\n<dd>WEB会員登録 → 来館時に原本確認。通常のドッグパークは予約不要。</dd>\n</dl>\n<a class=\"outing-article-cta\" href=\"outing.html?place=wancott#place-wancott\">持ち物・営業時間も見る →</a>\n<p class=\"outing-article-sources\">情報源：<a href=\"https://www.wancott.com/dogpark/\" target=\"_blank\" rel=\"noopener noreferrer\">屋内パーク ↗</a> / <a href=\"https://www.wancott.com/price/\" target=\"_blank\" rel=\"noopener noreferrer\">料金 ↗</a> / <a href=\"https://www.wancott.com/registry/\" target=\"_blank\" rel=\"noopener noreferrer\">登録・持ち物 ↗</a>\n</p>\n</section>\n<section class=\"outing-article-block\">\n<p class=\"outing-eyebrow\">神奈川・横浜市瀬谷区</p>\n<h2>DOG ISLAND 瀬谷店</h2>\n<p>朝や夕方にも遊びたい日の候補。完全屋内・空調付きで、WEB登録と時間枠の予約が必要です。無人営業のため、予約完了を確認してから向かいましょう。</p>\n<dl>\n<dt>料金の目安</dt>\n<dd>1頭50分900円。駐車場は無料・予約制（6台）。貸切料金は公式で確認。</dd>\n<dt>行く前に</dt>\n<dd>WEB登録の承認後、犬のサイズに合う時間枠を予約・カード決済。駐車場付きの枠を選んでください。</dd>\n</dl>\n<a class=\"outing-article-cta\" href=\"outing.html?place=dog-island-seya#place-dog-island-seya\">持ち物・営業時間も見る →</a>\n<p class=\"outing-article-sources\">情報源：<a href=\"https://dogisland.studio.site/\" target=\"_blank\" rel=\"noopener noreferrer\">施設・料金・登録と予約 ↗</a>\n</p>\n</section>\n<section class=\"outing-article-block\">\n<p class=\"outing-eyebrow\">東京・渋谷区千駄ヶ谷</p>\n<h2>DOG RUN TOKYO</h2>\n<p>都心で、予定を決めてから遊びたい日に。通常枠でも体重別の時間帯を選びます。追加の犬の料金も分かれているので、多頭で行く場合は総額を先に確認できます。</p>\n<dl>\n<dt>料金の目安</dt>\n<dd>飼い主1名＋犬1頭・50分：平日2,980円、土日祝3,480円。犬1頭追加990円。飼い主1名につき合計3頭まで。</dd>\n<dt>行く前に</dt>\n<dd>完全予約制・事前カード決済。日時予約とチケット購入が必要。追加の犬・付き添いは別途チケットを購入。</dd>\n</dl>\n<a class=\"outing-article-cta\" href=\"outing.html?place=dog-run-tokyo#place-dog-run-tokyo\">持ち物・営業時間も見る →</a>\n<p class=\"outing-article-sources\">情報源：<a href=\"https://dogrun-tokyo.jp/\" target=\"_blank\" rel=\"noopener noreferrer\">施設・予約入口 ↗</a> / <a href=\"https://dogrun-tokyo.jp/price/\" target=\"_blank\" rel=\"noopener noreferrer\">料金 ↗</a> / <a href=\"https://dogrun-tokyo.jp/flow/\" target=\"_blank\" rel=\"noopener noreferrer\">予約手順 ↗</a> / <a href=\"https://dogrun-tokyo.jp/terms/\" target=\"_blank\" rel=\"noopener noreferrer\">利用規約 ↗</a>\n</p>\n</section>\n<section class=\"outing-article-block\" id=\"bonz\">\n<p class=\"outing-eyebrow\">東京・北区滝野川</p>\n<h2>BONZ DOGRUN</h2>\n<p>12kg未満の子と、都内の室内ランで遊びたい日に。地下1階の100㎡の人工芝エリアで過ごせます。平日は保育園のため一部スペースが区切られるので、営業カレンダーを見てから向かいましょう。</p>\n<dl>\n<dt>料金の目安</dt>\n<dd>飼い主1名＋犬1頭・1日1,400円。初回登録料は1頭500円、1年更新300円。犬・飼い主の追加は各400円。</dd>\n<dt>行く前に</dt>\n<dd>12kg以上の犬は利用不可。1年以内の混合ワクチン・狂犬病ワクチンの証明書とマナーベルトを持参。初回は受付で利用登録（事前WEB入力も可能）。</dd>\n<dt>所在地</dt>\n<dd>東京都北区滝野川3-51-3 コグレビルB1F。</dd>\n</dl>\n<a class=\"outing-article-cta\" href=\"outing.html?place=bonz#place-bonz\">持ち物・営業時間も見る →</a>\n<p class=\"outing-article-sources\">情報源：<a href=\"https://www.bonz.jp/?page_id=95\" target=\"_blank\" rel=\"noopener noreferrer\">料金・利用条件 ↗</a> / <a href=\"https://www.bonz.jp/?page_id=20\" target=\"_blank\" rel=\"noopener noreferrer\">アクセス ↗</a>\n</p>\n</section>\n<section class=\"outing-article-block\" id=\"dogly\">\n<p class=\"outing-eyebrow\">東京・台東区根岸</p>\n<h2>DOGLY DOGRUN</h2>\n<p>駅から歩いて行ける室内ランを探している日に。鶯谷駅南口・入谷駅から徒歩約5分で、営業時間内は時間制限なく利用できます。日によってミニスペース営業や貸切になるため、カレンダーの確認を忘れずに。</p>\n<dl>\n<dt>料金の目安</dt>\n<dd>大人1名550円＋犬1頭330円。支払いは現金のみ。飼い主1名につき犬2頭まで。</dd>\n<dt>行く前に</dt>\n<dd>初回は狂犬病・混合ワクチンの接種証明書を持参。5歳以下のお子さま、保護者が同伴していない中学生以下は利用不可。通常12:30〜17:00（最終受付16:30）。</dd>\n<dt>所在地</dt>\n<dd>東京都台東区根岸3-1-10。</dd>\n</dl>\n<a class=\"outing-article-cta\" href=\"outing.html?place=dogly#place-dogly\">持ち物・営業時間も見る →</a>\n<p class=\"outing-article-sources\">情報源：<a href=\"https://doglycafe.com/dogrun/\" target=\"_blank\" rel=\"noopener noreferrer\">料金・条件・営業カレンダー ↗</a> / <a href=\"https://doglycafe.com/access/\" target=\"_blank\" rel=\"noopener noreferrer\">アクセス ↗</a>\n</p>\n</section>\n<section class=\"outing-article-block\">\n<p class=\"outing-eyebrow\">埼玉・三郷市</p>\n<h2>ペットステーションWAN</h2>\n<p>埼玉方面で、短い時間から遊びたい日の候補。通常利用は小型・中型犬のみ。大型犬は貸切になり、予約の期限も違うので注意してください。</p>\n<dl>\n<dt>料金の目安</dt>\n<dd>通常利用は犬1頭30分550円（税込表記）。貸切1時間3,300円（税込表記）。駐車場は近隣コインパーキング。</dd>\n<dt>行く前に</dt>\n<dd>来店前に公式の貸切予定を確認。貸切の予約は遅くとも1週間前まで。通常利用の初回登録要否は店舗に確認（048-951-3114）。</dd>\n</dl>\n<a class=\"outing-article-cta\" href=\"outing.html?place=petstation-wan#place-petstation-wan\">持ち物・営業時間も見る →</a>\n<p class=\"outing-article-sources\">情報源：<a href=\"https://petstation-wan.com/dog-run/\" target=\"_blank\" rel=\"noopener noreferrer\">ランの料金・条件 ↗</a> / <a href=\"https://petstation-wan.com/dog-run-status/\" target=\"_blank\" rel=\"noopener noreferrer\">貸切・利用状況 ↗</a>\n</p>\n</section>\n<section class=\"outing-article-block\" id=\"dog-runs-well\">\n<p class=\"outing-eyebrow\">埼玉・幸手市</p>\n<h2>ドッグランズウェル</h2>\n<p>土日祝のお出かけ候補に。室内ランは会員制で、カフェで受付をしてから利用します。イベントや貸切で入れない時間もあるので、その日の予定を確認しておきましょう。</p>\n<dl>\n<dt>料金の目安</dt>\n<dd>犬1頭500〜1,000円の体重別料金。会員カード発行500円。体重の区分境界や利用時間は公式案内・店舗で確認。</dd>\n<dt>行く前に</dt>\n<dd>室内ランは土日祝のみ、10:00〜18:30の案内。会員への入会が必要です。幼稚園以下のお子さまは入室不可。</dd>\n<dt>所在地</dt>\n<dd>埼玉県幸手市香日向4-15-9。</dd>\n</dl>\n<a class=\"outing-article-cta\" href=\"outing.html?place=dog-runs-well#place-dog-runs-well\">持ち物・営業時間も見る →</a>\n<p class=\"outing-article-sources\">情報源：<a href=\"https://www.dr-well.com/室内ドッグラン\" target=\"_blank\" rel=\"noopener noreferrer\">公式料金表・利用条件 ↗</a>\n</p>\n</section>\n<section class=\"outing-article-block\" id=\"smiley-smile\">\n<p class=\"outing-eyebrow\">神奈川・相模原市中央区</p>\n<h2>Smiley-Smile</h2>\n<p>前もって予定を立てて、約11坪の室内ランで遊びたい日に。時間貸しは会員制で、貸切は別プランです。暑い日は冷房が十分に効かない旨の公式案内があるため、事前に室温を確認して選びましょう。</p>\n<dl>\n<dt>料金の目安</dt>\n<dd>公式表記の初回利用料金は犬1頭30分500円＋会員カード発行1,100円。多頭登録・貸切は別料金。</dd>\n<dt>行く前に</dt>\n<dd>希望日の4日前16時までに登録・予約を。公式本文の一部には別の期限も残るため、余裕をもって連絡し、予約確定の返信を確認してください。犬鑑札等、接種関連の証明書、犬の顔写真が必要。中学生以下はランへの入場不可。</dd>\n</dl>\n<a class=\"outing-article-cta\" href=\"outing.html?place=smiley-smile#place-smiley-smile\">持ち物・営業時間も見る →</a>\n<p class=\"outing-article-sources\">情報源：<a href=\"https://www.smiley--smile.com/dogrun-kanagawa101.html\" target=\"_blank\" rel=\"noopener noreferrer\">料金・登録・予約 ↗</a> / <a href=\"https://www.smiley--smile.com/\" target=\"_blank\" rel=\"noopener noreferrer\">最新のお知らせ ↗</a>\n</p>\n</section>\n<section class=\"outing-article-block\" id=\"lotti-cafe\">\n<p class=\"outing-eyebrow\">茨城・つくば市</p>\n<h2>lotti cafe</h2>\n<p>小さな子と、室内ランやカフェで過ごしたい日に。通常の室内ランは10kg以下が対象で、冷暖房付き。ランだけの利用も可能ですが、混雑時は14時以降の案内があります。</p>\n<dl>\n<dt>料金の目安</dt>\n<dd>犬1頭880円。2頭目以降は10％割引の案内あり。飲食・貸切の料金は別途確認。</dd>\n<dt>行く前に</dt>\n<dd>狂犬病・混合ワクチンの証明書を持参。貸切の場合は体重制限なし。土日祝の混雑時は食事も含め店内利用3時間。予約はLINE・Instagram DM・電話で、当日の混雑時は電話で確認を。</dd>\n<dt>所在地</dt>\n<dd>茨城県つくば市上の室2168-1。</dd>\n</dl>\n<a class=\"outing-article-cta\" href=\"outing.html?place=lotti-cafe#place-lotti-cafe\">持ち物・営業時間も見る →</a>\n<p class=\"outing-article-sources\">情報源：<a href=\"https://www.lotticafe.com/\" target=\"_blank\" rel=\"noopener noreferrer\">料金・利用条件・予約方法 ↗</a>\n</p>\n</section>\n<section class=\"outing-article-block\" id=\"dogran-ltd\">\n<p class=\"outing-eyebrow\">群馬・前橋市</p>\n<h2>Dogran.LTD</h2>\n<p>群馬方面で、広さのある室内ランを探している日に。約200㎡の空調付きランで、会員登録のうえ、時間利用または月額プランを選べます。</p>\n<dl>\n<dt>料金の目安</dt>\n<dd>犬1頭10分につき平日110円、土日祝220円。60分利用なら平日660円／土日祝1,320円が単価から計算した目安。月額は1頭5,500円、2頭目以降は1頭1,100円追加。</dd>\n<dt>行く前に</dt>\n<dd>会員登録が必要。料金ページには30分から販売の記載がありますが、その後のお知らせで予約受付は60分からに変更されています。予約画面で最新の時間枠と総額を確認してください。</dd>\n</dl>\n<a class=\"outing-article-cta\" href=\"outing.html?place=dogran-ltd#place-dogran-ltd\">持ち物・営業時間も見る →</a>\n<p class=\"outing-article-sources\">情報源：<a href=\"https://dogran.ltd/31/\" target=\"_blank\" rel=\"noopener noreferrer\">料金 ↗</a> / <a href=\"https://dogran.ltd/195/\" target=\"_blank\" rel=\"noopener noreferrer\">室内設備 ↗</a> / <a href=\"https://dogran.ltd/560/\" target=\"_blank\" rel=\"noopener noreferrer\">予約は60分から ↗</a> / <a href=\"https://dogran.ltd/access/\" target=\"_blank\" rel=\"noopener noreferrer\">アクセス ↗</a>\n</p>\n</section>\n<section class=\"outing-article-block\">\n<h2>「屋根付き」は、別の選択肢。</h2>\n<p>あきる野のわんダフルネイチャーヴィレッジには屋根付きランがあります。室内とは異なり、横からの雨や園内の移動で濡れることも。大雨の日の完全屋内施設とは分けて選びましょう。</p>\n<a class=\"outing-article-cta\" href=\"outing.html?place=wonderful-village#place-wonderful-village\">施設の条件を見る →</a>\n</section>\n<section class=\"outing-article-block\">\n<h2>今日は、おうちで遊ぶのもあり。</h2>\n<p>外に出る気分じゃない日や、登録が間に合わない日には、おうち遊びへ。すいとおん家のノーズワークも紹介しています。</p>\n<a class=\"outing-article-cta\" href=\"outing-rainy-home.html\">雨の日のおうち遊びを読む →</a>\n</section>\n<p class=\"outing-editorial\">候補探しの参考：<a href=\"https://konokototomoni.com/category-walk/kanagawa-indoor-dogrun/\" target=\"_blank\" rel=\"noopener noreferrer\">コノコトトモニ・神奈川県の室内ドッグラン紹介</a>。施設の条件は上記の公式情報を確認して独自に整理しました。</p>\n"
   },
+  {
+    "id": "outing-free-dogruns",
+    "title": "関東の利用無料ドッグラン10選。",
+    "description": "都立共通登録の代表1か所に、海辺・道の駅・公園の9か所。登録の違いと別途費用も比較。",
+    "label": "FREE / KANTO / 10 PLACES",
+    "date": "2026-09-19",
+    "image": "images/outing/feature-free-dogruns-illustration.png",
+    "content": "\n<p>いつもの公園から、少し遠くのドライブ先まで。関東のラン利用料が無料の10か所を、景色や登録方法の違いから選びました。都立12公園の共通登録対象は、桜ヶ丘公園を代表として1枠で紹介します。</p>\n<section class=\"outing-article-block\"><h2>「無料」の中身も見ておこう。</h2><p>ここでいう無料は、ランを使うたびの利用料です。柏の葉公園は登録・年度更新の費用が別途必要。駐車料金や交通費も施設によってかかります。</p><p>すぐ遊びたいなら、自由利用の海の公園や受付不要のろまんちっく村が候補。保田小附属ようちえんは無料でも当日受付が必要です。豊洲ぐるり・桜ヶ丘・城南島・東扇島は登録を先に確認しておきましょう。</p></section>\n<section class=\"outing-article-block\"><h2>今回の10か所。</h2><ol><li><a href=\"#sakuragaoka\">桜ヶ丘公園ドッグラン</a>（東京）</li><li><a href=\"#toyosu-gururi\">豊洲ぐるりドッグラン</a>（東京）</li><li><a href=\"#jonanjima-tsubasa\">城南島海浜公園・つばさドッグラン</a>（東京）</li><li><a href=\"#uminokoen\">海の公園・犬の遊び場</a>（神奈川）</li><li><a href=\"#higashi-ogishima\">東扇島東公園・わんわん広場</a>（神奈川）</li><li><a href=\"#tokorozawa-koku\">所沢航空記念公園ドッグラン</a>（埼玉）</li><li><a href=\"#hota-kindergarten\">道の駅 保田小附属ようちえん・ドッグラン</a>（千葉）</li><li><a href=\"#romanticmura\">道の駅うつのみや ろまんちっく村・ドッグラン</a>（栃木）</li><li><a href=\"#agatsumakyo\">道の駅あがつま峡・ドッグラン</a>（群馬）</li><li><a href=\"#kashiwanoha\">千葉県立柏の葉公園ドッグラン</a>（千葉）</li></ol></section>\n{{place:sakuragaoka}}\n<section class=\"outing-article-block\"><h2>この登録で、ほかにも11公園。</h2><p>桜ヶ丘を含めた合計12公園が共通登録の対象です。残りは、神代植物公園・篠崎公園・小山内裏公園・蘆花恒春園・駒沢オリンピック公園・城北中央公園・水元公園・舎人公園・代々木公園・木場公園・小金井公園。近い公園から選べます。今回の10選では、これらを別々の枠には数えていません。</p><p>対象1公園でWEB申請し、登録証を携帯して利用。公園ごとの区画・犬のサイズ・おもちゃのルールはそれぞれ確認してください。すいとおん家は連絡まで約1週間でしたが、これは個人の体験で、審査日数の保証ではありません。</p><p><a href=\"https://www.tokyo-park.or.jp/faq/\">都立12公園の共通登録・公式案内 ↗</a></p></section>\n{{place:toyosu-gururi}}\n{{place:jonanjima-tsubasa}}\n{{place:uminokoen}}\n{{place:higashi-ogishima}}\n{{place:tokorozawa-koku}}\n{{place:hota-kindergarten}}\n{{place:romanticmura}}\n{{place:agatsumakyo}}\n{{place:kashiwanoha}}\n<section class=\"outing-article-block\"><h2>登録証は、全部共通ではありません。</h2><p>桜ヶ丘などの都立12公園、城南島などの海上公園3施設、豊洲ぐるり、川崎の東扇島、柏の葉公園はそれぞれ別の仕組み。名称が似ていても、同じ登録証で入れるとは限りません。</p><p>豊洲ぐるりはすいとおん家で登録に2日ほどかかりました。受付から利用できるまでの日数は混雑や施設の手続きによるので、初回は余裕をもって準備を。</p><p>リード・水・排泄用品・必要な証明書を準備して、雨上がりや強風時の閉鎖情報も確認しましょう。未訪問施設は公式情報から選んだ候補として紹介しています。</p><a class=\"outing-article-cta\" href=\"outing.html?kind=play&amp;free=1#places\">ほかの掲載公園も含めて、利用無料のランを探す →</a></section>\n"
+  }
 ];

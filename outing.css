@@ -58,3 +58,14 @@
 .outing-feature-card>img{height:auto;aspect-ratio:1;object-fit:contain;align-self:center;background:#fffdf6;}
 .outing-article-hero img{max-height:none;object-fit:contain;}
 .outing-article .outing-article-hero{max-width:600px;}
+
+/* A forecast link, not an embedded or live facility forecast. */
+.outing-weather{margin:18px 0;padding:16px;background:#f4f0e6;border-radius:22px 17px 24px 18px;}
+.outing-weather strong{display:block;color:#527e9b;font-size:15px;}
+.outing-weather>a{display:inline-flex;align-items:center;min-height:44px;color:#456f89;font-weight:700;}
+.outing-weather p{font-size:12px;line-height:1.8;margin:7px 0;}
+.outing-weather details{border:0;padding:0;margin:8px 0 0;}
+.outing-weather summary{font-size:13px;cursor:pointer;}
+
+/* Regional stay comparison: readable cards on phones, two columns on desktop. */
+.outing-stay-compare{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.outing-stay-compare>a{display:grid;gap:8px;padding:18px;border:1px solid #bfd0d7;border-radius:23px 18px 25px 17px;background:#fffdf7;text-decoration:none;color:inherit;min-width:0}.outing-stay-compare small{color:#507b8e}.outing-stay-compare strong{font-size:1.05rem}.outing-stay-compare span{font-size:.88rem;line-height:1.7}.outing-stay-compare b{font-size:.82rem;color:#865b52}.outing-stay-compare a:focus-visible{outline:3px solid #507b8e;outline-offset:3px}.outing-article-block[id]{scroll-margin-top:110px}@media(max-width:600px){.outing-stay-compare{grid-template-columns:1fr}}
