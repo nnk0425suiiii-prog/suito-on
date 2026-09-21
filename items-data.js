@@ -1,127 +1,107 @@
-/* ==================================================
-   ITEMS DATA
-
-   BLOGに登場していないけれど
-   ITEMSには載せたい商品を
-   手動で追加する場所。
-
-
-   ★ BLOGの商品はここに書かなくてOK
-
-   blog-data.js
-   ↓
-   products
-   ↓
-   ITEMSへ自動追加
-
-
-   dog:
-
-   "SUI"
-   "ON"
-   "BOTH"
-
-================================================== */
-
-
+/* Edit records here. */
 const manualItems = [
-
-
-  /* ==================================================
-     SAMPLE 01
-  ================================================== */
-
   {
-    id:
-      "deerdear-dog-gum",
-
-    name:
-      "エゾシカの角 無添加おやつ【半割Lサイズ】deerdear dog gum/鹿の角ガム 鹿の角おやつ 天然素材 鹿の角犬",
-
-    addedDate: "2026-08-27",
-
-    category:
-      "おうち",
-
-    categoryId:
-      "home",
-
-    dog:
-      "BOTH",
-
-    image:
-      "images/items/beer.jpg",
-
-    price:
-      "¥3,080",
-
-    shopUrl:
-      "https://item.rakuten.co.jp/denis-store/717448/",
-
-    /*
-      関連BLOGがない場合は
-      空欄でOK
-    */
-
-    blogUrl:
-      "",
-
-    recommendation:
-      "長く楽しめるおやつとして、すいとおん。で愛用しているアイテムです。"
+    "id": "deerdear-dog-gum",
+    "name": "エゾシカの角 無添加おやつ【半割Lサイズ】deerdear dog gum/鹿の角ガム 鹿の角おやつ 天然素材 鹿の角犬",
+    "addedDate": "2026-08-27",
+    "category": "おうち",
+    "categoryId": "home",
+    "dog": "BOTH",
+    "image": "images/items/beer.jpg",
+    "price": "¥3,080",
+    "shopUrl": "https://item.rakuten.co.jp/denis-store/717448/",
+    "blogUrl": "",
+    "recommendation": "長く楽しめるおやつとして、すいとおん。で愛用しているアイテムです。"
   },
-
-
-  /* ==================================================
-     SAMPLE 02
-  ================================================== */
-
   {
-    id:
-      "BIOGANCE",
-
-    name:
-      "BIOGANCE エクストラ・リス タングルリムーバー 犬用 250mL",
-
-    addedDate: "2026-08-26",
-
-    category:
-      "ケア",
-
-    categoryId:
-      "care",
-
-    dog:
-      "BOTH",
-
-    image:
-      "images/items/BIOGANCE.jpg",
-
-    price:
-      "¥2,950",
-
-    shopUrl:
-      "https://www.amazon.co.jp/dp/B07F3MC4ZG?ref=ppx_yo2ov_dt_b_fed_asin_title",
-
-    blogUrl:
-      "",
-
-    recommendation:
-      "日々のブラッシングや毛玉ケアで使っている、すいとおん。のケア用品です。"
+    "id": "BIOGANCE",
+    "name": "BIOGANCE エクストラ・リス タングルリムーバー 犬用 250mL",
+    "addedDate": "2026-08-26",
+    "category": "ケア",
+    "categoryId": "care",
+    "dog": "BOTH",
+    "image": "images/items/BIOGANCE.jpg",
+    "price": "¥2,950",
+    "shopUrl": "https://www.amazon.co.jp/dp/B07F3MC4ZG?ref=ppx_yo2ov_dt_b_fed_asin_title",
+    "blogUrl": "",
+    "recommendation": "日々のブラッシングや毛玉ケアで使っている、すいとおん。のケア用品です。"
   },
-
-  /* うちの子の目元クリーナー */
-{
-  "id": "amigo-eye-cleaner-100ml",
-  "name": "Amigo うちの子の目元クリーナー 100ml",
-  "addedDate": "2026-09-20",
-  "category": "ケア",
-  "categoryId": "care",
-  "dog": "SUI",
-  "image": "https://shop.r10s.jp/petforest/cabinet/a/amigo/amigo-1/pf-4562347095201.jpg",
-  "price": "¥1,320（税込）",
-  "shopUrl": "https://item.rakuten.co.jp/petforest/pf-4562347095201/",
-  "blogUrl": "",
-  "recommendation": "毎日の目元のお手入れに。コットンやタオルにつけて、涙やけ部分や目の周りの汚れをやさしく拭き取るクリーナーです。無香料・100ml。目に直接スプレーせずに使います。"
-}
-
+  {
+    "id": "biogance-protein-plus",
+    "name": "BIOGANCE プロテインプラス シャンプー 250mL",
+    "dog": "BOTH",
+    "recommendation": "お風呂の日に使っているシャンプー。すいとおん家のケア愛用品としてInstagramでも紹介しました。 使い方は商品表示を確認してください。",
+    "shopUrl": "https://www.irisplaza.co.jp/index.php?KB=SHOSAI&SID=7131863F",
+    "addedDate": "2026-09-21",
+    "category": "ケア",
+    "categoryId": "care",
+    "image": "",
+    "price": "販売先で確認",
+    "blogUrl": ""
+  },
+  {
+    "id": "biogance-apple-volume",
+    "name": "BIOGANCE アップルボリューム コンディショナー 250mL",
+    "dog": "BOTH",
+    "recommendation": "うちで使っているコンディショナー。毎日のケアからお風呂の日までの愛用品のひとつです。 使い方は商品表示を確認してください。",
+    "shopUrl": "https://www.irisplaza.co.jp/index.php?KB=SHOSAI&SID=7131863F",
+    "addedDate": "2026-09-21",
+    "category": "ケア",
+    "categoryId": "care",
+    "image": "",
+    "price": "販売先で確認",
+    "blogUrl": ""
+  },
+  {
+    "id": "wilda-whitening-shampoo",
+    "name": "WILDA SIBERICA ホワイトニング シャンプー",
+    "dog": "SUI",
+    "recommendation": "白いすいには、日によってこちらのシャンプーも使っています。 使い方は商品表示を確認してください。",
+    "shopUrl": "https://www.wilda-petcare.com/",
+    "addedDate": "2026-09-21",
+    "category": "ケア",
+    "categoryId": "care",
+    "image": "",
+    "price": "販売先で確認",
+    "blogUrl": ""
+  },
+  {
+    "id": "wilda-whitening-conditioner",
+    "name": "WILDA SIBERICA ホワイトニング コンディショナー",
+    "dog": "SUI",
+    "recommendation": "白いすいのケアに、日によって同シリーズのシャンプーと合わせて使っています。 使い方は商品表示を確認してください。",
+    "shopUrl": "https://www.wilda-petcare.com/",
+    "addedDate": "2026-09-21",
+    "category": "ケア",
+    "categoryId": "care",
+    "image": "",
+    "price": "販売先で確認",
+    "blogUrl": ""
+  },
+  {
+    "id": "amigo-eye-cleaner",
+    "name": "Amigo うちの子の目元クリーナー 100mL",
+    "dog": "BOTH",
+    "recommendation": "目元は毎日拭いていて、少しマシになったように感じています。個人の感想で、涙やけを治す効果を保証するものではありません。 使い方は商品表示を確認してください。",
+    "shopUrl": "https://store.shopping.yahoo.co.jp/petforestvalor/pf-4562347095201.html",
+    "addedDate": "2026-09-21",
+    "category": "ケア",
+    "categoryId": "care",
+    "image": "",
+    "price": "販売先で確認",
+    "blogUrl": ""
+  },
+  {
+    "id": "inopet-otecare",
+    "name": "INOPET おてケアシャンプー",
+    "dog": "BOTH",
+    "recommendation": "うちで使っている足元のケア用品。Instagramの愛犬ケア愛用品まとめでも紹介しました。 使い方は商品表示を確認してください。",
+    "shopUrl": "https://inopet.jp/products/otecare-shampoo",
+    "addedDate": "2026-09-21",
+    "category": "ケア",
+    "categoryId": "care",
+    "image": "",
+    "price": "販売先で確認",
+    "blogUrl": ""
+  }
 ];
