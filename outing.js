@@ -3,8 +3,8 @@
  const $=id=>document.getElementById(id);
  const controls={kind:$('outingKind'),region:$('outingRegion'),q:$('outingSearch'),indoor:$('indoorOnly'),free:$('freeOnly'),visited:$('visitedOnly'),solo:$('soloOnly'),bed:$('bedOnly')};
  const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
- const regions={kanto:['東京','神奈川','千葉','埼玉','茨城','栃木','群馬'],kansai:['滋賀','京都','大阪','兵庫','奈良','和歌山']};
- controls.region.add(new Option('関東すべて','kanto'));controls.region.add(new Option('関西すべて','kansai'));
+ const regions={hokkaido:['北海道'],tohoku:['青森','岩手','宮城','秋田','山形','福島'],kanto:['東京','神奈川','千葉','埼玉','茨城','栃木','群馬'],koshinetsu:['山梨','長野','新潟'],hokuriku:['富山','石川','福井'],tokai:['静岡','愛知','岐阜','三重'],kansai:['滋賀','京都','大阪','兵庫','奈良','和歌山'],chugoku:['鳥取','島根','岡山','広島','山口'],shikoku:['徳島','香川','愛媛','高知'],kyushu:['福岡','佐賀','長崎','熊本','大分','宮崎','鹿児島'],okinawa:['沖縄']};
+ Object.entries({hokkaido:'北海道',tohoku:'東北',kanto:'関東',koshinetsu:'甲信越',hokuriku:'北陸',tokai:'東海',kansai:'関西',chugoku:'中国地方',shikoku:'四国',kyushu:'九州',okinawa:'沖縄'}).forEach(([key,label])=>controls.region.add(new Option(label+'すべて',key)));
  [...new Set(outingPlaces.map(p=>p.prefecture))].sort((a,b)=>a.localeCompare(b,'ja')).forEach(r=>controls.region.add(new Option(r,r)));
  let selectedPlace='';
  function restore(){
