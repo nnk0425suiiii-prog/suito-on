@@ -35,7 +35,7 @@ const manualItems = [
     "addedDate": "2026-09-21",
     "category": "ケア",
     "categoryId": "care",
-    "image": "",
+    "image": "images/items/biogance-protein-plus.jpg",
     "price": "販売先で確認",
     "blogUrl": ""
   },
@@ -48,7 +48,7 @@ const manualItems = [
     "addedDate": "2026-09-21",
     "category": "ケア",
     "categoryId": "care",
-    "image": "",
+    "image": "images/items/biogance-apple-volume.jpg",
     "price": "販売先で確認",
     "blogUrl": ""
   },
@@ -61,7 +61,7 @@ const manualItems = [
     "addedDate": "2026-09-21",
     "category": "ケア",
     "categoryId": "care",
-    "image": "",
+    "image": "images/items/wilda-whitening-shampoo.jpg",
     "price": "販売先で確認",
     "blogUrl": ""
   },
@@ -74,7 +74,7 @@ const manualItems = [
     "addedDate": "2026-09-21",
     "category": "ケア",
     "categoryId": "care",
-    "image": "",
+    "image": "images/items/wilda-whitening-conditioner.png",
     "price": "販売先で確認",
     "blogUrl": ""
   },
@@ -87,7 +87,7 @@ const manualItems = [
     "addedDate": "2026-09-21",
     "category": "ケア",
     "categoryId": "care",
-    "image": "",
+    "image": "images/items/amigo-eye-cleaner.webp",
     "price": "販売先で確認",
     "blogUrl": ""
   },
@@ -100,7 +100,7 @@ const manualItems = [
     "addedDate": "2026-09-21",
     "category": "ケア",
     "categoryId": "care",
-    "image": "",
+    "image": "images/items/inopet-otecare.jpg",
     "price": "販売先で確認",
     "blogUrl": ""
   }
