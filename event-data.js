@@ -1,4 +1,4 @@
-/* EVENT DATA: existing records preserved; 2026-09-20 additions. */
+/* EVENT DATA — 既存データを保持し、2026-09-23に13件追加 */
 const calendarEvents = [
   {
     "id": "tokyowanwansumeerfestival2026",
@@ -711,6 +711,331 @@ const calendarEvents = [
       {
         "label": "主催者公式・日程と会場ルール",
         "url": "https://inumatsuri.com/toki-terrace/"
+      }
+    ]
+  },
+  {
+    "id": "ingy-day-nasu-2026",
+    "title": "インギーday in 那須ハイ",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-04",
+    "region": "kanto",
+    "prefecture": "栃木県",
+    "place": "那須ハイランドパーク・フォレストプラザドッグラン",
+    "address": "栃木県那須郡那須町高久乙3375",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=那須ハイランドパーク・フォレストプラザドッグラン",
+    "image": "images/event/ingy-day-nasu-2026.png",
+    "description": "交流会と集合写真、園内パレードを組み合わせた犬種イベント。イングリッシュ・コッカー・スパニエルの家族が集まる一日です。",
+    "content": "<p>交流会と集合写真、園内パレードを組み合わせた犬種イベント。イングリッシュ・コッカー・スパニエルの家族が集まる一日です。</p><h2>開催情報と参加条件</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>10:00〜14:00</dd></div><div><dt>料金</dt><dd>専用チケットに加え、会場で運営費の支払いが必要。駐車料金も別途。合計額は公式の券種・参加条件で確認してください。</dd></div><div><dt>予約・犬連れの条件</dt><dd>ノベルティ付きの事前申込は終了。ノベルティなし参加の案内と専用チケットを確認してください。</dd></div><div><dt>雨の日</dt><dd>雨天時の実施内容・中止判断は公式の最新案内を確認。</dd></div><div><dt>会場</dt><dd>那須ハイランドパーク・フォレストプラザドッグラン／栃木県那須郡那須町高久乙3375</dd></div></dl><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>集合写真やパレードに参加したい場合は、入園と受付にかかる時間も見込んで到着を。犬種・同居犬の参加条件と同伴同意書は公式で確認してください。</p><small>準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・開催直前の確認</h2><p><a href=\"https://www.nasuhai.co.jp/hotnews/detail.php?n=1292\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・会場の公式案内を見る ↗</a></p><p>情報確認：2026年9月23日。未確認事項は本文に明記しています。中止・変更や参加条件は、出発前にも当該回の公式案内をご確認ください。</p>",
+    "url": "https://www.nasuhai.co.jp/hotnews/detail.php?n=1292",
+    "editorialCheckedAt": "2026-09-23",
+    "verificationNote": "開催日・会場は公式で確認。未確認の料金・同伴条件は本文に記載。",
+    "sources": [
+      {
+        "label": "主催者・会場の公式開催案内",
+        "url": "https://www.nasuhai.co.jp/hotnews/detail.php?n=1292"
+      }
+    ]
+  },
+  {
+    "id": "cavalier-land-nasu-2026",
+    "title": "PREMIUMキャバリアランド2026",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-10-11",
+    "endDate": "2026-10-11",
+    "region": "kanto",
+    "prefecture": "栃木県",
+    "place": "那須ハイランドパーク・タウンセンター／フォレストプラザドッグラン",
+    "address": "栃木県那須郡那須町高久乙3375",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=那須ハイランドパーク・タウンセンター／フォレストプラザドッグラン",
+    "image": "images/event/cavalier-land-nasu-2026.png",
+    "description": "「ケケケのきゃばりあ」がテーマのキャバリアイベント。スタンプラリーなど、園内を回って楽しむ企画が案内されています。",
+    "content": "<p>「ケケケのきゃばりあ」がテーマのキャバリアイベント。スタンプラリーなど、園内を回って楽しむ企画が案内されています。</p><h2>開催情報と参加条件</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>10:00〜16:00</dd></div><div><dt>料金</dt><dd>専用チケット前売：大人3,600円・子ども1,800円・犬1,400円。当日：大人4,200円・子ども2,100円・犬1,600円。年齢区分・駐車等の別料金は公式を確認。</dd></div><div><dt>予約・犬連れの条件</dt><dd>入園券付きイベント専用チケットが必要。犬同伴入園の同意書も準備してください。</dd></div><div><dt>雨の日</dt><dd>雨天決行。変更・中止は直前の主催案内を確認。</dd></div><div><dt>会場</dt><dd>那須ハイランドパーク・タウンセンター／フォレストプラザドッグラン／栃木県那須郡那須町高久乙3375</dd></div></dl><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>犬と乗れるアトラクションの特典にも体格・同乗者等の条件があります。チケットを持っていれば全犬が利用できるとは限らないため、乗り物を目的にする場合は先に条件を確認しましょう。</p><small>準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・開催直前の確認</h2><p><a href=\"https://www.nasuhai.co.jp/hotnews/detail.php?n=1346\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・会場の公式案内を見る ↗</a></p><p>情報確認：2026年9月23日。未確認事項は本文に明記しています。中止・変更や参加条件は、出発前にも当該回の公式案内をご確認ください。</p>",
+    "url": "https://www.nasuhai.co.jp/hotnews/detail.php?n=1346",
+    "editorialCheckedAt": "2026-09-23",
+    "verificationNote": "開催日・会場は公式で確認。未確認の料金・同伴条件は本文に記載。",
+    "sources": [
+      {
+        "label": "主催者・会場の公式開催案内",
+        "url": "https://www.nasuhai.co.jp/hotnews/detail.php?n=1346"
+      }
+    ]
+  },
+  {
+    "id": "spitz-oidenasu-2026",
+    "title": "第2回 日本スピッツおいでNASU",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-17",
+    "region": "kanto",
+    "prefecture": "栃木県",
+    "place": "那須ハイランドパーク・フォレストプラザドッグラン",
+    "address": "栃木県那須郡那須町高久乙3375",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=那須ハイランドパーク・フォレストプラザドッグラン",
+    "image": "images/event/spitz-oidenasu-2026.png",
+    "description": "日本スピッツと家族が集まり、交流や集合写真を楽しむオフ会。ミックス、ジャーマンミッテル、同居犬も参加対象として案内されています。",
+    "content": "<p>日本スピッツと家族が集まり、交流や集合写真を楽しむオフ会。ミックス、ジャーマンミッテル、同居犬も参加対象として案内されています。</p><h2>開催情報と参加条件</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>10:00〜12:00</dd></div><div><dt>料金</dt><dd>専用チケット：大人1,600円・子ども800円・シニア800円・犬500円。年齢区分や駐車料金は公式を確認。</dd></div><div><dt>予約・犬連れの条件</dt><dd>参加フォームへの登録と専用チケットの購入が必要。同伴入園の同意書も準備を。</dd></div><div><dt>雨の日</dt><dd>小雨時はフォレストプラザ、荒天中止。</dd></div><div><dt>会場</dt><dd>那須ハイランドパーク・フォレストプラザドッグラン／栃木県那須郡那須町高久乙3375</dd></div></dl><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>集合写真は11:30の予定。観覧車への乗車は別料金なので、写真撮影と乗車を分けて予算を組みましょう。</p><small>準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・開催直前の確認</h2><p><a href=\"https://www.nasuhai.co.jp/hotnews/detail.php?n=1253\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・会場の公式案内を見る ↗</a></p><p>情報確認：2026年9月23日。未確認事項は本文に明記しています。中止・変更や参加条件は、出発前にも当該回の公式案内をご確認ください。</p>",
+    "url": "https://www.nasuhai.co.jp/hotnews/detail.php?n=1253",
+    "editorialCheckedAt": "2026-09-23",
+    "verificationNote": "開催日・会場は公式で確認。未確認の料金・同伴条件は本文に記載。",
+    "sources": [
+      {
+        "label": "主催者・会場の公式開催案内",
+        "url": "https://www.nasuhai.co.jp/hotnews/detail.php?n=1253"
+      }
+    ]
+  },
+  {
+    "id": "samofes-nasu-2026",
+    "title": "サモフェス in 那須ハイ",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "region": "kanto",
+    "prefecture": "栃木県",
+    "place": "那須ハイランドパーク・フォレストプラザドッグラン",
+    "address": "栃木県那須郡那須町高久乙3375",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=那須ハイランドパーク・フォレストプラザドッグラン",
+    "image": "images/event/samofes-nasu-2026.png",
+    "description": "サモエド、サモエドミックスと同居犬の交流イベント。11:30から集合写真の予定があり、ランを中心に過ごす一日です。",
+    "content": "<p>サモエド、サモエドミックスと同居犬の交流イベント。11:30から集合写真の予定があり、ランを中心に過ごす一日です。</p><h2>開催情報と参加条件</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>10:00〜14:00</dd></div><div><dt>料金</dt><dd>イベント専用チケットが必要。最新の販売額・駐車料金は公式の販売画面で確認してください。</dd></div><div><dt>予約・犬連れの条件</dt><dd>参加対象と専用チケットを確認して購入。通常の入園券だけで参加できると判断しないでください。</dd></div><div><dt>雨の日</dt><dd>天候による変更・開催判断は公式案内を確認。</dd></div><div><dt>会場</dt><dd>那須ハイランドパーク・フォレストプラザドッグラン／栃木県那須郡那須町高久乙3375</dd></div></dl><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>ドッグラン内は人・犬とも食べ物の持込み不可で、飲み物は可の案内です。犬のおやつで誘導したい場合も、会場ルールを優先して食事場所を別に考えておきましょう。</p><small>準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・開催直前の確認</h2><p><a href=\"https://www.nasuhai.co.jp/hotnews/detail.php?n=1187\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・会場の公式案内を見る ↗</a></p><p>情報確認：2026年9月23日。未確認事項は本文に明記しています。中止・変更や参加条件は、出発前にも当該回の公式案内をご確認ください。</p>",
+    "url": "https://www.nasuhai.co.jp/hotnews/detail.php?n=1187",
+    "editorialCheckedAt": "2026-09-23",
+    "verificationNote": "開催日・会場は公式で確認。未確認の料金・同伴条件は本文に記載。",
+    "sources": [
+      {
+        "label": "主催者・会場の公式開催案内",
+        "url": "https://www.nasuhai.co.jp/hotnews/detail.php?n=1187"
+      }
+    ]
+  },
+  {
+    "id": "dachshund-tsuna-nasu-2026",
+    "title": "ダックス大集合！ツナと一緒にダックスオフ会",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-14",
+    "region": "kanto",
+    "prefecture": "栃木県",
+    "place": "那須ハイランドパーク・わんっだふるトロピカーナレストラン／フォレストプラザドッグラン",
+    "address": "栃木県那須郡那須町高久乙3375",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=那須ハイランドパーク・わんっだふるトロピカーナレストラン／フォレストプラザドッグラン",
+    "image": "images/event/dachshund-tsuna-nasu-2026.png",
+    "description": "ダックスとダックスミックスのオフ会。前半は食事とグッズ販売、後半はランで交流・じゃんけん大会・集合写真の予定です。",
+    "content": "<p>ダックスとダックスミックスのオフ会。前半は食事とグッズ販売、後半はランで交流・じゃんけん大会・集合写真の予定です。</p><h2>開催情報と参加条件</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>11:00〜13:00</dd></div><div><dt>料金</dt><dd>入園券付き専用チケットが必要。販売額と食事代の扱いは販売ページで確認してください。</dd></div><div><dt>予約・犬連れの条件</dt><dd>専用チケットを購入。当日窓口販売も予定されています。犬同伴入園の同意書が必要です。</dd></div><div><dt>雨の日</dt><dd>小雨時はフォレストプラザ、荒天中止の予定。</dd></div><div><dt>会場</dt><dd>那須ハイランドパーク・わんっだふるトロピカーナレストラン／フォレストプラザドッグラン／栃木県那須郡那須町高久乙3375</dd></div></dl><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>食事会場とランで場所が変わります。カートの置き場所や食事の注文方法は当日受付で確認し、食事代込みとは思い込まずに準備を。</p><small>準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・開催直前の確認</h2><p><a href=\"https://www.nasuhai.co.jp/hotnews/detail.php?n=1325\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・会場の公式案内を見る ↗</a></p><p>情報確認：2026年9月23日。未確認事項は本文に明記しています。中止・変更や参加条件は、出発前にも当該回の公式案内をご確認ください。</p>",
+    "url": "https://www.nasuhai.co.jp/hotnews/detail.php?n=1325",
+    "editorialCheckedAt": "2026-09-23",
+    "verificationNote": "開催日・会場は公式で確認。未確認の料金・同伴条件は本文に記載。",
+    "sources": [
+      {
+        "label": "主催者・会場の公式開催案内",
+        "url": "https://www.nasuhai.co.jp/hotnews/detail.php?n=1325"
+      }
+    ]
+  },
+  {
+    "id": "bernese-festa-nasu-2026",
+    "title": "バーニーズフェスタ2026 in 那須ハイランドパーク",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-11-22",
+    "endDate": "2026-11-22",
+    "region": "kanto",
+    "prefecture": "栃木県",
+    "place": "那須ハイランドパーク・フォレストプラザドッグラン",
+    "address": "栃木県那須郡那須町高久乙3375",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=那須ハイランドパーク・フォレストプラザドッグラン",
+    "image": "images/event/bernese-festa-nasu-2026.png",
+    "description": "競技や集合企画、長寿表彰、園内パレードを予定するバーニーズのイベント。他犬種も参加可能ですが、主催者が定める対象外犬種があります。",
+    "content": "<p>競技や集合企画、長寿表彰、園内パレードを予定するバーニーズのイベント。他犬種も参加可能ですが、主催者が定める対象外犬種があります。</p><h2>開催情報と参加条件</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>10:30〜17:00（予定）</dd></div><div><dt>料金</dt><dd>専用チケット代＋会場参加費＋駐車料金。会場参加費は大人1,000円・3歳〜小学生500円・0〜2歳と犬は無料。専用チケット代は別です。</dd></div><div><dt>予約・犬連れの条件</dt><dd>専用チケット購入後、当日会場で参加費を支払い。同伴同意書が必要。対象外犬種の一覧を必ず公式で確認。</dd></div><div><dt>雨の日</dt><dd>天候によって中止になる場合があります。</dd></div><div><dt>会場</dt><dd>那須ハイランドパーク・フォレストプラザドッグラン／栃木県那須郡那須町高久乙3375</dd></div></dl><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>会場内ではロングリード・リールリードの扱いに制限があります。短く管理できるリードを用意し、犬種の条件は参加前に照合してください。</p><small>準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・開催直前の確認</h2><p><a href=\"https://www.nasuhai.co.jp/hotnews/detail.php?n=1271\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・会場の公式案内を見る ↗</a></p><p>情報確認：2026年9月23日。未確認事項は本文に明記しています。中止・変更や参加条件は、出発前にも当該回の公式案内をご確認ください。</p>",
+    "url": "https://www.nasuhai.co.jp/hotnews/detail.php?n=1271",
+    "editorialCheckedAt": "2026-09-23",
+    "verificationNote": "開催日・会場は公式で確認。未確認の料金・同伴条件は本文に記載。",
+    "sources": [
+      {
+        "label": "主催者・会場の公式開催案内",
+        "url": "https://www.nasuhai.co.jp/hotnews/detail.php?n=1271"
+      }
+    ]
+  },
+  {
+    "id": "withdog-metsa-vol3-2026",
+    "title": "With Dog Festa in メッツァビレッジ Vol.3",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-18",
+    "region": "kanto",
+    "prefecture": "埼玉県",
+    "place": "メッツァビレッジ",
+    "address": "埼玉県飯能市宮沢327-6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=メッツァビレッジ",
+    "image": "images/event/withdog-metsa-vol3-2026.png",
+    "description": "湖畔で犬用品のマルシェや犬連れゲームを楽しむ2日間。買い物だけでなく、短い体験を一つ組み合わせたい家族にも候補です。",
+    "content": "<p>湖畔で犬用品のマルシェや犬連れゲームを楽しむ2日間。買い物だけでなく、短い体験を一つ組み合わせたい家族にも候補です。</p><h2>開催情報と参加条件</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>9:30〜16:00</dd></div><div><dt>料金</dt><dd>イベント入場無料。わんわん縁日・Goal with Dogは各300円の案内。買い物・駐車等は別途。</dd></div><div><dt>予約・犬連れの条件</dt><dd>各企画の開催時間は公式タイムテーブルで確認。園内店舗の犬同伴条件はイベント参加条件とは別です。</dd></div><div><dt>雨の日</dt><dd>雨天開催、荒天中止。</dd></div><div><dt>会場</dt><dd>メッツァビレッジ／埼玉県飯能市宮沢327-6</dd></div></dl><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>イベント入場無料でも、園内のすべての施設や体験が無料になるわけではありません。屋外で過ごす時間と、犬と一緒に休める場所を先に決めておきましょう。</p><small>準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・開催直前の確認</h2><p><a href=\"https://metsa-hanno.com/event/47252/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・会場の公式案内を見る ↗</a></p><p>情報確認：2026年9月23日。未確認事項は本文に明記しています。中止・変更や参加条件は、出発前にも当該回の公式案内をご確認ください。</p>",
+    "url": "https://metsa-hanno.com/event/47252/",
+    "editorialCheckedAt": "2026-09-23",
+    "verificationNote": "開催日・会場は公式で確認。未確認の料金・同伴条件は本文に記載。",
+    "sources": [
+      {
+        "label": "主催者・会場の公式開催案内",
+        "url": "https://metsa-hanno.com/event/47252/"
+      }
+    ]
+  },
+  {
+    "id": "aifes-ebetsu-2026",
+    "title": "動物愛護フェスティバル in えべつ2026",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-04",
+    "region": "hokkaido",
+    "prefecture": "北海道",
+    "place": "酪農学園大学",
+    "address": "北海道江別市文京台緑町582",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=酪農学園大学",
+    "image": "images/event/aifes-ebetsu-2026.png",
+    "description": "酪農学園大学が主催する動物愛護の催し。2026年度の案内では、大学の犬を題材にしたスタンプラリーの準備も紹介されています。",
+    "content": "<p>酪農学園大学が主催する動物愛護の催し。2026年度の案内では、大学の犬を題材にしたスタンプラリーの準備も紹介されています。</p><h2>開催情報と参加条件</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>最新の公式プログラムを確認</dd></div><div><dt>料金</dt><dd>料金・個別企画の申込条件は最新の公式プログラムを確認。</dd></div><div><dt>予約・犬連れの条件</dt><dd>愛犬同伴で利用できる区域・企画、証明書の要否は未確認です。犬連れで向かう前に主催者へ確認してください。</dd></div><div><dt>雨の日</dt><dd>屋外企画の実施・荒天時対応は主催者の最新案内を確認。</dd></div><div><dt>会場</dt><dd>酪農学園大学／北海道江別市文京台緑町582</dd></div></dl><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>動物愛護のイベントであることと、愛犬がすべての企画に同伴できることは別です。大学内の見学・体験ごとに犬連れ参加の条件を確認しましょう。</p><small>準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・開催直前の確認</h2><p><a href=\"https://aifes-ebetsu.rakuno.ac.jp/1076.html\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・会場の公式案内を見る ↗</a></p><p>情報確認：2026年9月23日。未確認事項は本文に明記しています。中止・変更や参加条件は、出発前にも当該回の公式案内をご確認ください。</p>",
+    "url": "https://aifes-ebetsu.rakuno.ac.jp/1076.html",
+    "editorialCheckedAt": "2026-09-23",
+    "verificationNote": "開催日・会場は公式で確認。未確認の料金・同伴条件は本文に記載。",
+    "sources": [
+      {
+        "label": "主催者・会場の公式開催案内",
+        "url": "https://aifes-ebetsu.rakuno.ac.jp/1076.html"
+      }
+    ]
+  },
+  {
+    "id": "osaka-aigo-tsurumi-2026",
+    "title": "大阪動物愛護フェスティバル2026 in 鶴見緑地",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "region": "kansai",
+    "prefecture": "大阪府",
+    "place": "花博記念公園鶴見緑地・パーゴラ広場",
+    "address": "大阪府大阪市鶴見区緑地公園",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=花博記念公園鶴見緑地・パーゴラ広場",
+    "image": "images/event/osaka-aigo-tsurumi-2026.png",
+    "description": "大阪府が開催を案内する動物愛護のイベント。鶴見緑地の会場で、人と動物との暮らしを考える一日として予定されています。",
+    "content": "<p>大阪府が開催を案内する動物愛護のイベント。鶴見緑地の会場で、人と動物との暮らしを考える一日として予定されています。</p><h2>開催情報と参加条件</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>10:00〜16:00</dd></div><div><dt>料金</dt><dd>個別企画の料金・犬同伴条件は公式の追加案内を確認。</dd></div><div><dt>予約・犬連れの条件</dt><dd>観覧の事前申込みは不要。犬連れの参加範囲や必要な証明書は主催者へ確認してください。</dd></div><div><dt>雨の日</dt><dd>天候による実施判断は公式案内を確認。</dd></div><div><dt>会場</dt><dd>花博記念公園鶴見緑地・パーゴラ広場／大阪府大阪市鶴見区緑地公園</dd></div></dl><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>別日開催の中央公会堂での催しと混同しないよう、11月8日・鶴見緑地の会場を確認して出発を。駐車場の混雑も見込んで余裕を持った計画に。</p><small>準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・開催直前の確認</h2><p><a href=\"https://www.pref.osaka.lg.jp/moyo/o120140/000004.html\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・会場の公式案内を見る ↗</a></p><p>情報確認：2026年9月23日。未確認事項は本文に明記しています。中止・変更や参加条件は、出発前にも当該回の公式案内をご確認ください。</p>",
+    "url": "https://www.pref.osaka.lg.jp/moyo/o120140/000004.html",
+    "editorialCheckedAt": "2026-09-23",
+    "verificationNote": "開催日・会場は公式で確認。未確認の料金・同伴条件は本文に記載。",
+    "sources": [
+      {
+        "label": "主催者・会場の公式開催案内",
+        "url": "https://www.pref.osaka.lg.jp/moyo/o120140/000004.html"
+      }
+    ]
+  },
+  {
+    "id": "shiba-festival-osaka-autumn-2026",
+    "title": "柴犬フェスティバル2026 AUTUMN meets 大阪北港マリーナ",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-11-22",
+    "endDate": "2026-11-22",
+    "region": "kansai",
+    "prefecture": "大阪府",
+    "place": "大阪北港マリーナ",
+    "address": "大阪府大阪市此花区常吉2-13-18",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=大阪北港マリーナ",
+    "image": "images/event/shiba-festival-osaka-autumn-2026.png",
+    "description": "柴犬と柴犬ミックスのための交流イベント。犬用品の買い物、競技、撮影などを目的に、参加したい企画を選んで計画できます。",
+    "content": "<p>柴犬と柴犬ミックスのための交流イベント。犬用品の買い物、競技、撮影などを目的に、参加したい企画を選んで計画できます。</p><h2>開催情報と参加条件</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>9:00〜16:00（開会式9:50）</dd></div><div><dt>料金</dt><dd>前売：大人2,200円・子ども1,100円・犬880円。当日：大人3,000円・子ども2,000円・犬2,000円。3歳以下無料。区分と個別企画の別料金は公式を確認。</dd></div><div><dt>予約・犬連れの条件</dt><dd>対象犬・利用規約・チケットの注意事項を確認して購入。競技等の個別エントリーの有無も確認してください。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。</dd></div><div><dt>会場</dt><dd>大阪北港マリーナ／大阪府大阪市此花区常吉2-13-18</dd></div></dl><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>海辺の会場なので、気温だけでなく風の予報も見て準備を。撮影・競技・買い物を詰め込みすぎず、犬が人混みから離れて休む時間を残しましょう。</p><small>準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・開催直前の確認</h2><p><a href=\"https://shibainu-festival.com/event/2026-11-22/date/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・会場の公式案内を見る ↗</a></p><p>情報確認：2026年9月23日。未確認事項は本文に明記しています。中止・変更や参加条件は、出発前にも当該回の公式案内をご確認ください。</p>",
+    "url": "https://shibainu-festival.com/event/2026-11-22/date/",
+    "editorialCheckedAt": "2026-09-23",
+    "verificationNote": "開催日・会場は公式で確認。未確認の料金・同伴条件は本文に記載。",
+    "sources": [
+      {
+        "label": "主催者・会場の公式開催案内",
+        "url": "https://shibainu-festival.com/event/2026-11-22/date/"
+      }
+    ]
+  },
+  {
+    "id": "wanwonder-kasugai-202611",
+    "title": "わんワンダーフェス・春日井会場",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-11-08",
+    "endDate": "2026-11-08",
+    "region": "chubu",
+    "prefecture": "愛知県",
+    "place": "名古屋ハウジングセンター春日井会場",
+    "address": "愛知県春日井市西山町2-8-1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=名古屋ハウジングセンター春日井会場",
+    "image": "images/event/wanwonder-kasugai-202611.png",
+    "description": "KIMIMOが案内する春日井でのわんワンダーフェス。動物愛護をテーマにした催しを、愛知のおでかけ候補としてチェックしたい一日です。",
+    "content": "<p>KIMIMOが案内する春日井でのわんワンダーフェス。動物愛護をテーマにした催しを、愛知のおでかけ候補としてチェックしたい一日です。</p><h2>開催情報と参加条件</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>10:00〜16:00</dd></div><div><dt>料金</dt><dd>入場料・有料企画は当該回の追加案内を確認。</dd></div><div><dt>予約・犬連れの条件</dt><dd>犬同伴の持ち物・申込みが必要な企画は主催者の最新案内を確認。</dd></div><div><dt>雨の日</dt><dd>雨天・荒天時の扱いは追加案内を確認。</dd></div><div><dt>会場</dt><dd>名古屋ハウジングセンター春日井会場／愛知県春日井市西山町2-8-1</dd></div></dl><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>開催日と会場は確認済みですが、出店者や犬の利用条件は追加発表待ちの項目があります。過去回の条件をそのまま当てはめずに、今回の案内を確認しましょう。</p><small>準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・開催直前の確認</h2><p><a href=\"https://kimimo.jp/news/news-5995/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・会場の公式案内を見る ↗</a></p><p>情報確認：2026年9月23日。未確認事項は本文に明記しています。中止・変更や参加条件は、出発前にも当該回の公式案内をご確認ください。</p>",
+    "url": "https://kimimo.jp/news/news-5995/",
+    "editorialCheckedAt": "2026-09-23",
+    "verificationNote": "開催日・会場は公式で確認。未確認の料金・同伴条件は本文に記載。",
+    "sources": [
+      {
+        "label": "主催者・会場の公式開催案内",
+        "url": "https://kimimo.jp/news/news-5995/"
+      }
+    ]
+  },
+  {
+    "id": "wanwonder-slow-toki-202612",
+    "title": "わんワンダーフェスSLOW・イオンモール土岐",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-06",
+    "region": "chubu",
+    "prefecture": "岐阜県",
+    "place": "イオンモール土岐",
+    "address": "岐阜県土岐市土岐津町土岐口1372-1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=イオンモール土岐",
+    "image": "images/event/wanwonder-slow-toki-202612.png",
+    "description": "12月の土岐で開催予定のわんワンダーフェスSLOW。冬のおでかけ候補として、主催者からの企画・参加条件の続報を待ちたいイベントです。",
+    "content": "<p>12月の土岐で開催予定のわんワンダーフェスSLOW。冬のおでかけ候補として、主催者からの企画・参加条件の続報を待ちたいイベントです。</p><h2>開催情報と参加条件</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>10:00〜16:00</dd></div><div><dt>料金</dt><dd>イベント料金・個別企画は最新の公式案内を確認。</dd></div><div><dt>予約・犬連れの条件</dt><dd>同時開催のクリスマステラスパーティーは招待者限定。一般来場で参加できる企画と分けて確認してください。</dd></div><div><dt>雨の日</dt><dd>雨天・荒天時の扱いは追加案内を確認。</dd></div><div><dt>会場</dt><dd>イオンモール土岐／岐阜県土岐市土岐津町土岐口1372-1</dd></div></dl><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>屋外イベントの犬同伴可と、モール館内の同伴可は別です。人の食事やトイレのときも犬と一緒に過ごせる動線かを、訪問前に施設へ確認しておきましょう。</p><small>準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・開催直前の確認</h2><p><a href=\"https://kimimo.jp/news/news-5998/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・会場の公式案内を見る ↗</a></p><p>情報確認：2026年9月23日。未確認事項は本文に明記しています。中止・変更や参加条件は、出発前にも当該回の公式案内をご確認ください。</p>",
+    "url": "https://kimimo.jp/news/news-5998/",
+    "editorialCheckedAt": "2026-09-23",
+    "verificationNote": "開催日・会場は公式で確認。未確認の料金・同伴条件は本文に記載。",
+    "sources": [
+      {
+        "label": "主催者・会場の公式開催案内",
+        "url": "https://kimimo.jp/news/news-5998/"
+      }
+    ]
+  },
+  {
+    "id": "aigo-fukuoka-2026",
+    "title": "2026動物愛護フェスティバルふくおか",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-07",
+    "region": "kyushu",
+    "prefecture": "福岡県",
+    "place": "県営天神中央公園・西中洲エリア",
+    "address": "福岡県福岡市中央区西中洲",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=県営天神中央公園・西中洲エリア",
+    "image": "images/event/aigo-fukuoka-2026.png",
+    "description": "動物愛護トークショー、検疫探知犬のステージ、ペット健康相談や体験コーナーを予定する催し。福岡県などによる実行委員会が主催します。",
+    "content": "<p>動物愛護トークショー、検疫探知犬のステージ、ペット健康相談や体験コーナーを予定する催し。福岡県などによる実行委員会が主催します。</p><h2>開催情報と参加条件</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>10:45〜15:00</dd></div><div><dt>料金</dt><dd>入場無料。個別企画の受付や参加条件は当日の案内を確認。</dd></div><div><dt>予約・犬連れの条件</dt><dd>愛犬の同伴範囲・持参書類の条件は掲載案内では未確認。犬連れで来場する場合は主催者へ事前確認してください。</dd></div><div><dt>雨の日</dt><dd>雨天・荒天時の開催判断は直前の公式案内を確認。</dd></div><div><dt>会場</dt><dd>県営天神中央公園・西中洲エリア／福岡県福岡市中央区西中洲</dd></div></dl><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>犬に関するイベントでも、すべての体験が愛犬同伴で参加できるとは限りません。会場周辺の駐車場と、犬連れで使える食事・トイレの動線を別に確認して計画しましょう。</p><small>準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・開催直前の確認</h2><p><a href=\"https://www.pref.fukuoka.lg.jp/contents/hoeiseipetr9.html\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・会場の公式案内を見る ↗</a></p><p>情報確認：2026年9月23日。未確認事項は本文に明記しています。中止・変更や参加条件は、出発前にも当該回の公式案内をご確認ください。</p>",
+    "url": "https://www.pref.fukuoka.lg.jp/contents/hoeiseipetr9.html",
+    "editorialCheckedAt": "2026-09-23",
+    "verificationNote": "開催日・会場は公式で確認。未確認の料金・同伴条件は本文に記載。",
+    "sources": [
+      {
+        "label": "主催者・会場の公式開催案内",
+        "url": "https://www.pref.fukuoka.lg.jp/contents/hoeiseipetr9.html"
       }
     ]
   }
