@@ -1038,5 +1038,60 @@ const calendarEvents = [
         "url": "https://www.pref.fukuoka.lg.jp/contents/hoeiseipetr9.html"
       }
     ]
-  }
+  },
+  {
+  "id": "halloween-dog-party-yokohama-2026",
+  "title": "ハロウィンドッグパーティー｜BAY WALK MARKET 2026",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-12",
+  "region": "kanto",
+  "prefecture": "神奈川県",
+  "place": "横浜赤レンガ倉庫・MARINE & WALK YOKOHAMAエリア",
+  "address": "神奈川県横浜市中区新港（横浜赤レンガ倉庫周辺）",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=横浜赤レンガ倉庫",
+  "image": "images/event/halloween-dog-party-yokohama-2026.png",
+  "description": "10月9〜12日、横浜の海辺でハロウィンのおでかけ。ドッグマーケットと特設ランを楽しむ4日間。11日夜の花火情報も確認を。",
+  "content": "<p>海辺のお散歩に、ハロウィン気分を少し。「BAY WALK MARKET 2026」内のハロウィンドッグパーティーが、横浜赤レンガ倉庫とMARINE &amp; WALK YOKOHAMAのエリアで開催されます。</p><h2>開催情報</h2><dl class=\"event-practical-info\"><div><dt>日程・時間</dt><dd>2026年10月9日（金）〜12日（月・祝）、10:00〜18:00。</dd></div><div><dt>料金</dt><dd>入場無料。飲食・物販・ドッグラン等は別料金。</dd></div><div><dt>雨天時</dt><dd>荒天中止。出発前に公式の開催判断を確認してください。</dd></div></dl><h2>買い物とランを楽しむ</h2><p>ドッグマーケットは110店舗以上。「おばけのドッグラン」は10:00〜18:00（最終受付17:30）、人1名500円・犬1頭500円（税込）。予約不要ですが、混雑時は入場制限があります。接種証明などの利用細則は公式の続報を確認してください。</p><h2>11日の帰る時間に注意</h2><p>10月11日（日）19:00〜19:05は、大さん橋で花火が予定されています。音が苦手な子は、夕方以降に周辺で過ごす予定も含め、早めに離れる計画を。</p><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>衣装は動きやすさを優先し、着るのを嫌がるなら普段着のままで。水と器、排泄用品、休憩用のマットを持って、買い物の合間にひと息つける時間を残したいですね。食事をする店の犬同伴条件や、駐車場からの移動ルートも事前に確認を。</p><small>未訪問のイベント紹介です。表紙は編集部のイメージイラストで、実際の会場配置を示すものではありません。</small></aside><h2>公式情報</h2><p><a href=\"https://www.yokohama-akarenga.jp/event/baywalk-market/\" target=\"_blank\" rel=\"noopener noreferrer\">横浜赤レンガ倉庫・開催案内 ↗</a></p><p>情報確認：2026年9月25日。日時・料金・利用条件は変更の場合があります。出発前に公式の最新情報をご確認ください。</p>",
+  "url": "https://www.yokohama-akarenga.jp/event/baywalk-market/",
+  "editorialCheckedAt": "2026-09-25",
+  "verificationNote": "開催日・時間・料金・荒天中止・周辺花火は施設公式で確認。ランの利用細則は公式続報を確認。",
+  "sources": [
+    {
+      "label": "横浜赤レンガ倉庫公式・BAY WALK MARKET 2026",
+      "url": "https://www.yokohama-akarenga.jp/event/baywalk-market/"
+    }
+  ]
+},
+{
+  "id": "petemofes-makuhari-2026",
+  "title": "ペテモフェス2026",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-07",
+  "endDate": "2026-11-08",
+  "region": "kanto",
+  "prefecture": "千葉県",
+  "place": "豊砂公園・イオンモール幕張新都心ほか",
+  "address": "千葉県千葉市美浜区豊砂1-12（豊砂公園）",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E7%A0%82%E5%85%AC%E5%9C%92%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%E7%BE%8E%E6%B5%9C%E5%8C%BA%E8%B1%8A%E7%A0%821-12",
+  "image": "images/event/petemofes-makuhari-2026.png",
+  "description": "11月7日・8日、幕張で愛犬と楽しむ2日間。豊砂公園・イオンモール幕張新都心などで開催予定の、入場無料のペットイベントです。",
+  "content": "<p>秋の幕張で、愛犬と一緒にイベントを楽しむ週末。イオンペットが主催する「ペテモフェス2026」が、11月7日・8日に開催予定です。会場は豊砂公園、イオンモール幕張新都心、市道豊砂701号線の広場。入場無料で、おでかけの候補に入れやすい2日間です。</p>\n<h2>開催情報</h2><dl class=\"event-practical-info\"><div><dt>日程・時間</dt><dd>2026年11月7日（土）・8日（日）9:00〜16:00</dd></div><div><dt>会場</dt><dd>豊砂公園（千葉県千葉市美浜区豊砂1-12）、イオンモール幕張新都心、市道豊砂701号線の広場。幕張メッセではありません。</dd></div><div><dt>料金</dt><dd>入場無料。買い物・飲食・個別企画の費用は、それぞれの案内をご確認ください。</dd></div><div><dt>主催</dt><dd>イオンペット株式会社</dd></div><div><dt>予約・犬同伴条件</dt><dd>ペットと楽しめるイベントとして案内されています。事前申込みの有無、接種証明書、リード・カート・マナーウェア等の細則は、確認した開催発表では未確認です。参加する企画ごとの条件も公式案内で確認してください。</dd></div><div><dt>雨天時</dt><dd>確認した開催発表では雨天・荒天時の扱いは未確認です。出発前に公式サイト・公式SNSの最新案内を確認してください。</dd></div></dl>\n<h2>犬連れで行く前に、確認しておきたいこと</h2><p>会場が複数あるため、行きたい企画の場所を先に見ておくと回りやすくなります。出展ブースやステージの内容・時間は公式の最新発表で確認を。混雑が苦手な子なら、予定を詰め込みすぎず、会場から離れて休める時間も残しておきたいところです。</p>\n<p>イベントに犬と参加できることと、モール内のすべての店舗・飲食店に犬と入れることは別です。食事をするお店、館内の同伴可能ルート、カートやキャリーバッグで全身を覆う必要があるかを、施設・店舗の案内で確認してから出かけましょう。</p>\n<p>車で行く場合は、利用する駐車場の料金・営業時間と、会場まで犬と移動できるルートも確認を。イベント専用駐車場や駐車料金の優待は、今回確認した開催発表では案内を確認できていません。</p>\n<aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>お留守番が難しい子とのおでかけなら、人の食事やトイレの時間も含めて「犬とどう過ごすか」を先に考えておくと安心。水と器、排泄用品、タオルを準備して、当日の気温・風・雨予報に合わせて持ち物を調整したいですね。</p><small>準備のヒントです。参加体験談ではありません。表紙は編集部によるイメージイラストで、実際の会場配置や出店内容を示すものではありません。</small></aside>\n<h2>公式情報・開催直前の確認</h2><p><a href=\"https://www.aeonpet.com/petemofes/\" target=\"_blank\" rel=\"noopener noreferrer\">ペテモフェス2026 公式サイト ↗</a></p><p><a href=\"https://prtimes.jp/main/html/rd/p/000006047.000007505.html\" target=\"_blank\" rel=\"noopener noreferrer\">主催者の開催発表（2026年8月31日）↗</a></p><p>情報確認：2026年9月23日。開催日時・会場・入場無料は主催者の開催発表に基づきます。未確認事項は本文に明記しています。最新の開催判断・企画・犬同伴条件は公式でご確認ください。</p>",
+  "url": "https://www.aeonpet.com/petemofes/",
+  "editorialCheckedAt": "2026-09-23",
+  "verificationNote": "日時・会場・入場無料は主催者の開催発表で確認。犬同伴の細則・雨天時の扱いは最新の公式案内を確認。",
+  "sources": [
+    {
+      "label": "ペテモフェス2026公式サイト",
+      "url": "https://www.aeonpet.com/petemofes/"
+    },
+    {
+      "label": "イオン株式会社・イオンペットの開催発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000006047.000007505.html"
+    }
+  ]
+},
+
 ];
