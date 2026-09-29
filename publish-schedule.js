@@ -9,7 +9,7 @@
    queue記事の date / datetime は自動で公開日に更新されるので、
    新規予約記事では日付を手入力しなくてもOKです。
 
-   BLOG  : Tuesday 10:00 JST  (start 2026-09-08)
+   BLOG  : Tuesday 10:00 JST  (start 2026-10-06)
    GUIDE : Thursday 10:00 JST (start 2026-09-10)
    COMIC : Sunday 10:00 JST   (start 2026-09-06)
 
@@ -17,7 +17,7 @@
 ================================================== */
 
 const SUI_TO_ON_PUBLISH_SCHEDULE = {
-  blog:  "2026-09-08T10:00:00+09:00",
+  blog:  "2026-10-06T10:00:00+09:00",
   guide: "2026-09-10T10:00:00+09:00",
   comic: "2026-09-06T10:00:00+09:00"
 };
