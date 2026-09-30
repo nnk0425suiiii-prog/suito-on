@@ -74,6 +74,8 @@ async function assetResponse(request, env) {
 export default {
   async fetch(request, env) {
     const url=new URL(request.url);
+    const outing=await respondOuting(request,env,url);
+    if(outing)return outing;
     const share=resolveShare(url);
     if(!share)return env.ASSETS.fetch(request);
     if(!['GET','HEAD'].includes(request.method))return new Response('Method Not Allowed',{status:405,headers:{Allow:'GET, HEAD'}});
@@ -90,3 +92,38 @@ export default {
     return new Response(request.method==='HEAD'?null:html,{status:share.missing?404:200,headers});
   }
 };
+
+// OUTING uses one HTML template. Old article URLs keep working via redirects.
+async function respondOuting(request,env,url) {
+  const route=url.pathname.replace(/^\//,'').replace(/\/$/,'').replace(/\.html$/,'');
+  const features=CONTENT.outing||[];
+  const legacy=features.find(f=>f.id===route);
+  if(!legacy&&route!=='outing-article')return null;
+  if(!['GET','HEAD'].includes(request.method))return new Response('Method Not Allowed',{status:405,headers:{Allow:'GET, HEAD'}});
+  if(legacy){
+    const target=new URL('/outing-article',url.origin);
+    target.search=url.search;target.searchParams.set('id',legacy.id);
+    return new Response(null,{status:301,headers:{Location:target.href}});
+  }
+  const id=url.searchParams.get('id');
+  const item=features.find(f=>f.id===id);
+  const assetURL=new URL('/outing-article.html',url.origin);
+  const assetHeaders=new Headers(request.headers);
+  for(const name of ['if-none-match','if-modified-since','range','if-range'])assetHeaders.delete(name);
+  const response=await assetResponse(new Request(assetURL,{headers:assetHeaders}),env);
+  if(!response.ok)return response;
+  const source=await response.text();
+  // A mismatched deployment must not return a successful empty article.
+  if(!source.includes('<!-- OUTING_CONTENT_START -->'))return new Response('OUTING template unavailable',{status:503});
+  let html=source.replace(/<!-- OUTING_CONTENT_START -->[\s\S]*?<!-- OUTING_CONTENT_END -->/,()=>OutingRender.article(item,CONTENT.outingPlaces||[],features));
+  if(item)html=html.replace('id="outingArticle"',`id="outingArticle" data-rendered-id="${escapeHTML(id)}"`);
+  html=rewriteSharingHTML(html,item?{
+    item,title:`${plain(item.title)} | ${SITE_NAME}`,description:plain(item.description),
+    canonical:OutingRender.canonical(id),image:new URL(item.image,SITE_ORIGIN).href
+  }:{missing:true});
+  const headers=new Headers(response.headers);
+  headers.set('content-type','text/html; charset=utf-8');headers.set('cache-control','no-store');
+  headers.delete('etag');headers.delete('content-length');headers.delete('content-encoding');
+  if(!item)headers.set('x-robots-tag','noindex, follow');
+  return new Response(request.method==='HEAD'?null:html,{status:item?200:404,headers});
+}
