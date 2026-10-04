@@ -1,5 +1,19 @@
 /* BLOG DATA — 本文はcontent内に記載。予約記事はqueue: true。 */
 const blogPosts = [
+{
+  "id": "aburatsubo-first-trip",
+  "title": "ふたりのいびきが、帰り道のBGM。すいとおん、初めてのお泊まり旅。",
+  "date": "2026.10.06",
+  "datetime": "2026-10-06",
+  "category": "おでかけ",
+  "categoryId": "outing",
+  "image": "blog/images/aburatsubo-first-trip-roof-run.jpg",
+  "lead": "すいとおんにとって、初めてのおうち以外での一泊。三浦・油壺で遊んで、海辺を歩いて、少しそわそわした夜を越えて。帰り道は、ふたりのいびきがBGMでした。",
+  "queue": true,
+  "publishDate": "2026-10-06T10:00:00+09:00",
+  "content": "<p>すいとおんを連れて、初めての旅行へ行ってきました！<br>行き先は、神奈川県三浦市の油壺。<br>泊まったのは「DokiDoggie 油壺globe」です。</p>\n<p>ふたりにとって、初めての外泊。<br>分離不安のこともあるし、知らない場所でちゃんと過ごせるかな、夜は眠れるかな……と、楽しみと心配を一緒に車へ積んで出発しました。</p>\n<h2>到着するまで、主は汗汗。</h2>\n<p>家からは、車で片道2時間かからないくらい。<br>初めてのお泊まりなので、うちから行きやすい距離もありがたかったです。</p>\n<p>ただ、旅行は台風の後。<br>向かう途中には、土砂災害の影響で通行止めになっている道もあって、主は汗汗しながらの運転でした。<br>それでも、無事に到着。まずはひと安心……！</p>\n<figure><img src=\"blog/images/aburatsubo-first-trip-family-mosaic.jpg\" alt=\"ルーフドッグランでの記念写真\" loading=\"lazy\"><figcaption>ルーフドッグランでの記念写真</figcaption></figure>\n<h2>ルーフと芝生。ふたりの好きが、ふたつ。</h2>\n<p>今回遊んだのは、ルーフドッグランと芝のドッグラン。<br>シルバーウィークが終わった後に行ったこともあって、私たちが利用した時間はほぼ貸切状態でした。</p>\n<p>芝が大好きなふたりは、のびのび。<br>走ったり、匂いを嗅いだり、ちょっと休んだり。<br>主があれこれ心配していても、ふたりはちゃんと楽しみを見つけてくれるんだなあ。笑</p>\n<figure><img src=\"blog/images/aburatsubo-first-trip-grass-sui.jpg\" alt=\"芝生のドッグランでくつろぐすい\" loading=\"lazy\"><figcaption>芝生のドッグランでくつろぐすい</figcaption></figure>\n<figure><img src=\"blog/images/aburatsubo-first-trip-grass-on.jpg\" alt=\"芝生の上のおん\" loading=\"lazy\"><figcaption>芝生の上のおん</figcaption></figure>\n<h2>海を見て、ゆっくりお散歩。</h2>\n<p>日中は海の方にも足を延ばして、お散歩してきました。<br>予定をぎゅうぎゅうに詰めるより、ふたりと歩いて、景色を見て、のんびり。<br>初めての旅行は、そんな時間がちょうどよかった気がします。</p>\n<figure><img src=\"blog/images/aburatsubo-first-trip-seaside.jpg\" alt=\"海を眺めながらのお散歩\" loading=\"lazy\"><figcaption>海を眺めながらのお散歩</figcaption></figure>\n<h2>旅先のごはんでも、いつものふたり。</h2>\n<p>夜ごはんには、ワンちゃん用のプレートもあったので注文してみました！<br>せっかくだし、旅先のごはんも楽しんでほしいなあと思ったのですが……。</p>\n<p>もちろん、すいは食べず。笑<br>一方、おんはもりもり食べてくれました。</p>\n<p>場所が変わっても、ごはんへの反応はいつものふたり。<br>こういうところにも、それぞれの性格が出ますね。</p>\n<figure><img src=\"blog/images/aburatsubo-first-trip-dog-dinner.jpg\" alt=\"夜ごはんのワンちゃんプレートとすいとおん\" loading=\"lazy\"><figcaption>夜ごはんのワンちゃんプレートとすいとおん</figcaption></figure>\n<figure><img src=\"blog/images/aburatsubo-first-trip-room.jpg\" alt=\"ホテルのお部屋で過ごすふたり\" loading=\"lazy\"><figcaption>ホテルのお部屋で過ごすふたり</figcaption></figure>\n<h2>夜中の「ここ、どこ？」と、コンビニまでの小さなドライブ。</h2>\n<p>心配だった、初めての夜。<br>24時になる前に、一度ふたりとも目が覚めてしまいました。<br>寝ぼけながら「ここ、どこ？」となっているように見えて、なんだか落ち着かない様子。</p>\n<p>いったんふたりと車に乗って、近くのコンビニまで行くことに。<br>おやつだけ買ってホテルへ戻り、お部屋で少し遊んでから、もう一度おやすみなさい。</p>\n<p>夜中もちょこちょこ起きていたと思うけれど、朝6時まではなんとか。<br>ぐっすり、とはいかなかったかもしれないけれど、ちゃんと一泊できました。</p>\n<p>分離不安の心配があった主には、それがうれしかったです。<br>ふたりと一緒に、初めてのお泊まりをひとつ経験できたね。</p>\n<figure><img src=\"blog/images/aburatsubo-first-trip-room-mosaic.jpg\" alt=\"お部屋で一緒に過ごす時間\" loading=\"lazy\"><figcaption>お部屋で一緒に過ごす時間</figcaption></figure>\n<h2>帰り道のBGMは、ふたりのいびき。</h2>\n<p>朝ごはんを食べて、ドッグランでもう少しだけ遊んでから帰宅。<br>車に戻ると、ふたりは爆睡でした。</p>\n<figure><img src=\"blog/images/aburatsubo-first-trip-morning-run.jpg\" alt=\"ルーフドッグランで過ごすふたり\" loading=\"lazy\"><figcaption>ルーフドッグランで過ごすふたり</figcaption></figure>\n<p>やっと、自分たちの匂いがするいつもの場所に戻って安心したのかな。<br>初めての場所で遊んで、泊まって、きっとふたりなりに頑張っていたんだと思います。</p>\n<p>主は、ふたりのいびきをBGMに家へ帰りました。笑</p>\n<figure><img src=\"blog/images/aburatsubo-first-trip-car-sleep.jpg\" alt=\"帰りの車で休むすいとおん\" loading=\"lazy\"><figcaption>帰りの車で休むすいとおん</figcaption></figure>\n<p>遊ぶ時間も、夜中のドライブも、帰りの寝顔も。<br>すいとおんとの初めてのお泊まりは、全部まとめて忘れたくない思い出になりました。<br>また、ふたりのペースで旅行に行こうね。</p>\n<h2>今回泊まったところ</h2><p>DokiDoggie 油壺globe（神奈川県三浦市）<br><a href=\"https://www.dokidoggie.jp/index.php\" target=\"_blank\" rel=\"noopener noreferrer\">宿の公式サイトはこちら ↗</a></p><p><small>この記事は、すいとおん家が訪れた日の体験記です。混雑状況や食事の提供内容は、訪問日によって異なります。</small></p>",
+  "products": []
+},
   {
     "id": "first-blog",
     "title": "はじめてのブログ。",
@@ -4489,7 +4503,7 @@ const blogPosts = [
     "products": [],
     "date": "2026.10.06",
     "datetime": "2026-10-06",
-    "publishDate": "2026-10-06T10:00:00+09:00",
+    "publishDate": "2026-10-13T10:00:00+09:00",
   },
   {
     "id": "miyagase-shibafu-sanpo",
