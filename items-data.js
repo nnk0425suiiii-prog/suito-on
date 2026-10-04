@@ -103,5 +103,70 @@ const manualItems = [
     "image": "images/items/inopet-otecare.jpg",
     "price": "販売先で確認",
     "blogUrl": ""
+  },
+  {
+    "id": "moncheri-front-carrier",
+    "name": "monchéri 前抱きタイプ",
+    "addedDate": "2026-10-04",
+    "category": "おでかけ",
+    "categoryId": "outing",
+    "dog": "SUI",
+    "image": "images/items/moncheri-front-carrier.jpg",
+    "price": "販売先で確認",
+    "shopUrl": "https://moncheri.jp/products/mubg252706",
+    "blogUrl": "",
+    "recommendation": "【以前すいが使用／現在は手放しました】すごく使いやすく、私が使った中では腰への負担がいちばん少なく感じました。でも、すいの体長が伸びて窮屈そうに。体重だけでなく、体の収まり方も大切だと感じました。もっと大きいサイズがあればと思いつつ、手放しました。※写真・リンクは現在掲載されている商品の名入れ例です。 使用感は飼い主とすい・おんの個人的な体験です。"
+  },
+  {
+    "id": "moncheri-hammock-sling",
+    "name": "monchéri 2wayハンモック型メッシュ付きスリングバッグ",
+    "addedDate": "2026-10-04",
+    "category": "おでかけ",
+    "categoryId": "outing",
+    "dog": "SUI",
+    "image": "images/items/moncheri-hammock-sling.jpg",
+    "price": "販売先で確認",
+    "shopUrl": "https://moncheri.jp/products/muoh242433",
+    "blogUrl": "",
+    "recommendation": "【以前すいが使用／現在は手放しました】緑のハンモック型スリング。底板がなく体にフィットするタイプですが、すいはその形が苦手だったようで入りたがらず。すいを入れたときの私の肩への負担も大きく、成長によるサイズの変化もあって手放しました。 使用感は飼い主とすい・おんの個人的な体験です。"
+  },
+  {
+    "id": "moncheri-expanding-backpack",
+    "name": "monchéri 拡張パイピングリュックキャリー",
+    "addedDate": "2026-10-04",
+    "category": "おでかけ",
+    "categoryId": "outing",
+    "dog": "SUI",
+    "image": "images/items/moncheri-expanding-backpack.jpg",
+    "price": "販売先で確認",
+    "shopUrl": "https://moncheri.jp/products/mubg252825",
+    "blogUrl": "",
+    "recommendation": "【以前すいに使っていたもの／現在は手放しました】徒歩で持ち歩くには、わが家には大きくてかさばりました。私の顔が見えないのが嫌だったのか、すいも入りたがらず、使う場面を見つけられませんでした。 使用感は飼い主とすい・おんの個人的な体験です。"
+  },
+  {
+    "id": "biteme-comfy-ravioli",
+    "name": "BITE ME / COMFY RAVIOLI テンマイルバッグ",
+    "addedDate": "2026-10-04",
+    "category": "おでかけ",
+    "categoryId": "outing",
+    "dog": "ON",
+    "image": "images/items/biteme-comfy-ravioli.jpg",
+    "price": "販売先で確認",
+    "shopUrl": "https://pfirstec2.jp/SHOP/OS0455.html",
+    "blogUrl": "",
+    "recommendation": "【現在はおんの通院に使用】見た目に一目惚れ！ ただ、5kgを超えたすいにはうまくフィットせず、底の安定感も気になりました。腰を支えるサポートがなく、私には腰の負担を感じやすかったです。今はすいより軽いおんの通院用に。※5kgはわが家で負担を感じたときの体重で、商品の耐荷重・使用上限ではありません。写真は商品紹介用の着用イメージです。 使用感は飼い主とすい・おんの個人的な体験です。"
+  },
+  {
+    "id": "tomo-dual-bag",
+    "name": "TOMO DUAL BAG",
+    "addedDate": "2026-10-04",
+    "category": "おでかけ",
+    "categoryId": "outing",
+    "dog": "BOTH",
+    "image": "images/items/tomo-dual-bag.jpg",
+    "price": "販売先で確認",
+    "shopUrl": "https://guppies-pet.com/products/tomo-dual-bag",
+    "blogUrl": "",
+    "recommendation": "【現在使用中】通院やお散歩に持ち歩いています。すいはまだ歩きたいけど、おんはもう限界…そんなとき用に。笑 すいも入れるので、愛用しています❤︎ ※写真は商品紹介用の着用イメージです。 使用感は飼い主とすい・おんの個人的な体験です。"
   }
 ];
