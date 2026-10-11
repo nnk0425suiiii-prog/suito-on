@@ -180,6 +180,8 @@ else {
       product => {
 
 
+        const rakutenUrl = typeof getRakutenProductLink === "function" ? getRakutenProductLink(product.id) : "";
+
         const productCard =
           document.createElement(
             "div"
@@ -220,11 +222,11 @@ else {
 
 
             <a
-              href="${product.url}"
+              href="${rakutenUrl || product.url}"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="${rakutenUrl ? 'nofollow sponsored noopener' : 'noopener noreferrer'}"
             >
-              商品詳細を見る →
+              ${rakutenUrl ? "楽天で見る →" : "商品詳細を見る →"}
             </a>
 
           </div>
@@ -392,5 +394,11 @@ function setupArticleNavigation() {
 
 setupArticleNavigation();
 if (post && (typeof isContentPublished !== "function" || isContentPublished(post))) {
+  if (typeof getRakutenProductLink === "function") {
+    const hasStay = appendRakutenStayLink(post.id, document.getElementById("articleBody"));
+    if (hasStay || (post.products || []).some(product => getRakutenProductLink(product.id))) {
+      showRakutenDisclosure(document.getElementById("articleLead"));
+    }
+  }
   enhanceArticle(post, blogPosts, "article", "articleBody");
 }

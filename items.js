@@ -445,17 +445,19 @@ function displayItems(
          ITEM LINK
       ========================= */
 
+      const rakutenUrl = typeof getRakutenProductLink === "function" ? getRakutenProductLink(item.id) : "";
+
       const shopHTML =
         item.shopUrl
 
           ? `
             <a
-              href="${item.shopUrl}"
+              href="${rakutenUrl || item.shopUrl}"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="${rakutenUrl ? 'nofollow sponsored noopener' : 'noopener noreferrer'}"
               class="items-ref-shop-link"
             >
-              商品を見る
+              ${rakutenUrl ? "楽天で見る" : "商品を見る"}
               <span>↗</span>
             </a>
           `
@@ -547,7 +549,7 @@ function displayItems(
           <div class="item-open-body">
             <div class="items-ref-meta"><span class="items-ref-category">${item.category || "ITEM"}</span><span class="item-dog ${dogClass}">${item.dog || "BOTH"}</span></div>
             <h2>${item.name}</h2>
-            ${item.price ? `<p class="item-open-price">${item.price}</p>` : ""}
+            ${rakutenUrl ? `<p class="item-open-price">価格は楽天で確認</p>` : item.price ? `<p class="item-open-price">${item.price}</p>` : ""}
             <p class="item-open-note">${recommendation}</p>
             <div class="item-open-links">${blogHTML}${shopHTML}</div>
             ${likeHTML}
@@ -878,3 +880,9 @@ categoryFilterButtons.forEach(
 displayItems(
   allItems
 );
+
+// Disclosure remains visible while filtering the item list.
+if (typeof getRakutenProductLink === "function" && allItems.some(item => getRakutenProductLink(item.id))) {
+  showRakutenDisclosure(document.querySelector(".items-ref-description"));
+}
+
