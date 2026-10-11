@@ -11,3 +11,4 @@ preview-navigation.js
 *.py
 *.txt
 !robots.txt
+!ads.txt
