@@ -1,0 +1,18 @@
+.event-exhibitors{margin:0 0 48px;color:#48463f;line-height:1.85}
+.event-exhibitors h2{font-size:clamp(22px,4vw,28px);margin:0 0 12px}
+.event-exhibitors-intro{font-size:14px;margin:0 0 22px}
+.event-exhibitors-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-bottom:20px}
+.event-exhibitor-card{background:#f7f4ec;border:1px solid #e6dfd2;border-radius:18px;padding:22px;min-width:0}
+.event-exhibitor-card h3{font-size:19px;line-height:1.5;margin:4px 0 12px;overflow-wrap:anywhere}
+.event-exhibitor-card p{font-size:14px;margin:12px 0}
+.event-exhibitor-card .event-exhibitor-category{font-size:12px;color:#527f90;font-weight:700;margin:0}
+.event-exhibitor-tags{display:flex;flex-wrap:wrap;gap:6px;list-style:none;padding:0;margin:0 0 14px}
+.event-exhibitor-tags li{font-size:11px;line-height:1.6;padding:4px 9px;background:#e4eef0;border-radius:12px;color:#365e6c}
+.event-exhibitor-size{border-top:1px dashed #d3cfc4;padding-top:12px}
+.event-exhibitor-links{display:flex;flex-direction:column;gap:8px;margin-top:18px}
+.event-exhibitors a{color:#466e80;text-decoration:underline;text-underline-offset:4px;font-size:13px;overflow-wrap:anywhere}
+.event-exhibitors a:focus-visible{outline:2px solid #466e80;outline-offset:4px}
+.event-exhibitors-note{font-size:12px;color:#716e65;margin-top:16px}
+@media(max-width:680px){.event-exhibitors-grid{grid-template-columns:1fr}.event-exhibitor-card{padding:20px}}
+
+#eventExhibitorsTitle{scroll-margin-top:110px}
