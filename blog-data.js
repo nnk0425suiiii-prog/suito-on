@@ -1,6 +1,20 @@
 /* BLOG DATA — 本文はcontent内に記載。予約記事はqueue: true。 */
 const blogPosts = [
 {
+  "id": "yokohama-halloween-2026",
+  "title": "ドッグラン2時間、夜も1時間。すいとおんと横浜ハロウィンへ！",
+  "date": "2026.10.20",
+  "datetime": "2026-10-20",
+  "category": "おでかけ",
+  "categoryId": "outing",
+  "image": "blog/images/yokohama-halloween-halloween.jpeg",
+  "lead": "横浜赤レンガ倉庫のハロウィンイベントへ。お目当てのガムを買って、ドッグランに2時間！帰りは爆睡したのに、夜も1時間のお散歩。すいとおんの体力に驚いた一日です。",
+  "queue": true,
+  "publishDate": "2026-10-20T10:00:00+09:00",
+  "content": "<p>すいとおんと、横浜赤レンガ倉庫のハロウィンイベントへ行ってきました！</p>\n<p>お目当てのガムを買うこと。<br>そして、ふたりの大好きなドッグランで遊ぶこと。</p>\n<p>どちらも叶って、大満足のお出かけになりました。<br>……ただ、ふたりの体力には、今回もびっくりさせられることに。笑</p>\n<h2>行きの車では、「まだ着かないの？」の視線。</h2>\n<p>行きの車の中では、ふたりから「早くどこかに着かないかなあ」という目で見られていました。</p>\n<p>お外が大好きなすいとおん。<br>その視線を感じながら、横浜へ向かいます。</p>\n<h2>お目当てのガム、買えました！</h2>\n<p>今回のお楽しみのひとつだったガムも、無事に購入できました！<br>欲しかったものが買えると、それだけでも来てよかったなあ。</p>\n<figure><img src=\"blog/images/yokohama-halloween-chews.jpeg\" alt=\"イベントで購入したお目当てのガム\" loading=\"lazy\"><figcaption>今回のお目当て。ガムを買えて、私も満足。</figcaption></figure>\n<h2>大好きなドッグラン。気づけば2時間。</h2>\n<p>そして、すいとおんが大好きなドッグランへ。</p>\n<p>遊んで、少し休んで、また遊んで。<br>なんと、ドッグランには2時間も滞在していました！</p>\n<figure><img src=\"blog/images/yokohama-halloween-run.jpeg\" alt=\"ドッグランを歩くすいとおん\" loading=\"lazy\"><figcaption>ふたりで、ドッグランを満喫。</figcaption></figure>\n<p>楽しそうに過ごしているふたりを見ると、やっぱり連れてきてよかったなあと思います。</p>\n<figure><img src=\"blog/images/yokohama-halloween-rest.jpeg\" alt=\"芝生で並んで休むすいとおん\" loading=\"lazy\"><figcaption>芝生にぺたん。ひと休みも、ふたり並んで。</figcaption></figure><figure><img src=\"blog/images/yokohama-halloween-together.jpeg\" alt=\"足元に集まってひと休みするふたり\" loading=\"lazy\"><figcaption>私の足元にも集合。こういう時間も嬉しい。</figcaption></figure>\n<p>たっぷり遊べて、ふたりとも大満足。<br>ハロウィンの雰囲気も楽しめて、いいお出かけになりました。</p>\n<h2>帰りは爆睡。渋滞中の主、大助かり。</h2>\n<p>行きは「まだかな？」とこちらを見ていたふたりですが、帰りの車では爆睡。</p>\n<figure><img src=\"blog/images/yokohama-halloween-sleep.jpeg\" alt=\"帰りの車のベッドで眠るすいとおん\" loading=\"lazy\"><figcaption>帰り道は、ふたりともぐっすり。</figcaption></figure>\n<p>帰りはちょっとした渋滞に巻き込まれていたので、疲れて寝てくれて、とても助かりました。</p>\n<p>あれだけ遊んだもんね。<br>今日は、さすがにゆっくりするかな……と思ったのですが。</p>\n<h2>しっかり回復して、夜も1時間のお散歩。</h2>\n<p>車でぐっすり眠ったふたり。<br>その睡眠で、しっかり回復したようです。</p>\n<p>夜も、もちろん1時間お散歩しました。笑</p>\n<p>ドッグランに2時間。帰りは爆睡。<br>そして夜には、また1時間のお散歩。</p>\n<p>その無限の体力は、いったいどこから来るのか……。</p>\n<p>でも、たくさん遊んで、よく寝て、また元気に歩いてくれるのは嬉しいこと。<br>これからもふたりのペースで、楽しいお出かけを増やしていこうね。</p>\n<p>すいとおんとの、横浜ハロウィンのお出かけでした！</p>",
+  "products": []
+},
+{
   "id": "202609-monthly-recap",
   "title": "雨ばかりの9月も、ふたりとなら。すいとおん、成長の1ヶ月。",
   "date": "2026.10.13",
@@ -4517,7 +4531,7 @@ const blogPosts = [
     "products": [],
     "date": "2026.10.06",
     "datetime": "2026-10-06",
-    "publishDate": "2026-10-20T10:00:00+09:00",
+    "publishDate": "2026-10-27T10:00:00+09:00",
   },
   {
     "id": "miyagase-shibafu-sanpo",
