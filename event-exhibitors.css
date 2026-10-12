@@ -16,3 +16,12 @@
 @media(max-width:680px){.event-exhibitors-grid{grid-template-columns:1fr}.event-exhibitor-card{padding:20px}}
 
 #eventExhibitorsTitle{scroll-margin-top:110px}
+.event-exhibitors-controls{display:grid;grid-template-columns:1.4fr 1fr;gap:12px;margin:20px 0 10px}
+.event-exhibitors-controls label{font-size:12px;font-weight:700;display:grid;gap:6px;min-width:0}
+.event-exhibitors-controls input,.event-exhibitors-controls select{box-sizing:border-box;width:100%;min-width:0;border:1px solid #ccc7bc;border-radius:10px;padding:12px;background:#fff;color:#48463f;font:inherit;font-size:16px}
+.event-exhibitors-help,.event-exhibitors-count{font-size:12px;color:#716e65}
+.event-exhibitors-more{display:block;margin:0 auto 24px;border:1px solid #9bafb4;border-radius:24px;padding:10px 26px;background:#e4eef0;color:#365e6c;font:inherit;cursor:pointer}
+.event-exhibitors-more[hidden]{display:none}
+.event-exhibitors-pending{padding:16px 20px;border-radius:14px;background:#f7f4ec;font-size:14px}
+.event-exhibitors :is(button,input,select):focus-visible{outline:2px solid #466e80;outline-offset:3px}
+@media(max-width:520px){.event-exhibitors-controls{grid-template-columns:1fr}}
