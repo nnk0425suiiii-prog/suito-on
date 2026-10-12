@@ -1,6 +1,20 @@
 /* BLOG DATA — 本文はcontent内に記載。予約記事はqueue: true。 */
 const blogPosts = [
 {
+  "id": "202609-monthly-recap",
+  "title": "雨ばかりの9月も、ふたりとなら。すいとおん、成長の1ヶ月。",
+  "date": "2026.10.13",
+  "datetime": "2026-10-13",
+  "category": "日常",
+  "categoryId": "daily",
+  "image": "blog/images/september-2026-cover.jpeg",
+  "lead": "雨の多かった9月。ノーズワークと新しいカッパ、ドッグランのお友達、そして初めてのお泊まり。お外大好きなすいとおんと過ごした、大切な1ヶ月を振り返ります。",
+  "queue": true,
+  "publishDate": "2026-10-13T10:00:00+09:00",
+  "content": "<p>とにかく、雨の多かった9月！</p>\n<p>お散歩・お外大好きモンスターのすいとおんには、なかなか思うように遊べない、もどかしい1ヶ月でした……。</p>\n<p>それでも、写真を見返してみると。<br>おうちでのノーズワーク、新しいカッパ、ドッグランのお友達。<br>そして、ふたりにとって初めてのお泊まり！</p>\n<p>雨に悩まされながらも、いろんなことに挑戦した9月。<br>ふたりの成長を見逃したくない、大切な1ヶ月になりました。</p>\n<h2>お外大好きモンスター、雨と相談する毎日。</h2>\n<p>お散歩に行きたい。お外で遊びたい。<br>でも、また雨……。</p>\n<p>そんな日が多くて、どうしたらふたりが楽しく過ごせるかな、と考えていた気がします。<br>お外に出られた日の、草をくんくんする姿を見るだけでも、やっぱりこの時間が大好きなんだなあ。</p>\n<div style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px\"><figure style=\"margin:0\"><img src=\"blog/images/september-2026-sui-grass.jpeg\" alt=\"草の中でこちらを見るすい\" loading=\"lazy\"><figcaption>草の中でも、いつものすい。</figcaption></figure><figure style=\"margin:0\"><img src=\"blog/images/september-2026-on-grass.jpeg\" alt=\"草の中でこちらを見るおん\" loading=\"lazy\"><figcaption>おんも、お外が大好き。</figcaption></figure></div>\n<h2>おうちではノーズワーク。お散歩には新しいカッパ。</h2>\n<p>お外で思いきり遊べない日は、おうちでノーズワーク。<br>にんじんのおもちゃを囲むふたりを見ながら、雨の日にも楽しめることを、少しずつ増やしていきました。</p>\n<figure><img src=\"blog/images/september-2026-nosework.jpeg\" alt=\"にんじんのノーズワークのおもちゃを囲むすいとおん\" loading=\"lazy\"><figcaption>雨の日のお楽しみ。ふたりでにんじん畑をチェック。</figcaption></figure>\n<p>そして、雨の日のお散歩のために、カッパも新調！<br>お天気と相談しながら、行けるときにはお外へ。</p>\n<p>カッパを着ても、気になるにおいはいつも通り。<br>並んでくんくんしている後ろ姿が、なんだかかわいくて。笑</p>\n<div style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px\"><figure style=\"margin:0\"><img src=\"blog/images/september-2026-raincoats.jpeg\" alt=\"青と黄色のカッパを着てお散歩するすいとおん\" loading=\"lazy\"><figcaption>カッパを着て、お散歩へ。</figcaption></figure><figure style=\"margin:0\"><img src=\"blog/images/september-2026-rain-walk.jpeg\" alt=\"カッパ姿で並んで草のにおいを嗅ぐふたり\" loading=\"lazy\"><figcaption>ふたり並んで、くんくん。</figcaption></figure></div>\n<h2>楽しそうなふたりを見るのが、私の楽しみ。</h2>\n<p>ドッグランでは、たくさんのお友達に遊んでもらいました。</p>\n<p>ふたりが楽しそうに遊んでいるのを見ていると、こっちまで嬉しくなる。<br>「連れてきてよかったなあ」と思うのは、いつもこういう瞬間です。</p>\n<div style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px\"><figure style=\"margin:0\"><img src=\"blog/images/september-2026-on-ball.jpeg\" alt=\"ドッグランでボールを見つめるおん\" loading=\"lazy\"><figcaption>ボールが気になるおん。</figcaption></figure><figure style=\"margin:0\"><img src=\"blog/images/september-2026-sui-roll.jpeg\" alt=\"ドッグランの人工芝にごろんと寝転ぶすい\" loading=\"lazy\"><figcaption>すいは、ごろん。楽しみ方もそれぞれ。</figcaption></figure></div>\n<p>遊んでくれたお友達、ありがとう。<br>一緒に歩いたり、ご挨拶したり。そんな時間も、ふたりの9月の大切な思い出です。</p>\n<figure><img src=\"blog/images/september-2026-friends.jpeg\" alt=\"ゴールデンのお友達と一緒に歩くすいとおん\" loading=\"lazy\"><figcaption>お友達と一緒のお散歩も、嬉しい時間。</figcaption></figure>\n<h2>9月の大きな初挑戦。ふたりで初めてのお泊まり！</h2>\n<p>そして何より、9月の大きな出来事は、すいとおんの初めてのお泊まり。</p>\n<p>初めての場所、いつもと違う環境。<br>私もどきどきしたけれど、ふたりはふたりのペースで、楽しみを見つけてくれました。</p>\n<div style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px\"><figure style=\"margin:0\"><img src=\"blog/images/september-2026-first-trip.jpeg\" alt=\"人工芝の上で顔を寄せて遊ぶすいとおん\" loading=\"lazy\"><figcaption>新しい場所でも、ふたりで遊ぶ。</figcaption></figure><figure style=\"margin:0\"><img src=\"blog/images/september-2026-seaside.jpeg\" alt=\"海の見える道をお散歩するすいとおん\" loading=\"lazy\"><figcaption>海のそばのお散歩も思い出に。</figcaption></figure></div>\n<p>遠出をするたびに、新しい場所や環境に馴染んで遊んでくれるふたり。<br>その姿に、何度も「来てよかった」と思わせてもらっています。</p>\n<p>一緒に楽しんでくれて、ありがとう。<br>これからも、ふたりの「初めて」をそばで見ていきたいな。</p>\n<p>お泊まりの詳しいお話は、<a href=\"article.html?id=aburatsubo-first-trip\">「ふたりのいびきが、帰り道のBGM。すいとおん、初めてのお泊まり旅。」</a>に残しています。</p>\n<h2>これからも、ストレスフリーに、自由に、楽しく。</h2>\n<p>たくさん遊ぶ日もあれば、おうちでのんびりする日も。<br>ふたりがふたりらしく過ごせる時間を、大切にしていきたいです。</p>\n<figure><img src=\"blog/images/september-2026-rest.jpeg\" alt=\"人工芝の上で寄り添って休むすいとおん\" loading=\"lazy\"><figcaption>遊んだあとは、並んでひと休み。</figcaption></figure><div style=\"display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px\"><figure style=\"margin:0\"><img src=\"blog/images/september-2026-sui-home.jpeg\" alt=\"頭に布をのせて床でくつろぐすい\" loading=\"lazy\"><figcaption>おうちでは、こんなすいも。</figcaption></figure><figure style=\"margin:0\"><img src=\"blog/images/september-2026-on-sleep.jpeg\" alt=\"前足を投げ出して眠るおん\" loading=\"lazy\"><figcaption>おんの寝顔を見て、私もひと息。</figcaption></figure></div>\n<p>雨ばかりだったなあ、と思っていた9月。<br>でも振り返ると、新しい挑戦も、嬉しい出会いも、ふたりの成長も詰まっていました。</p>\n<p>これからも、ストレスフリーに、自由に、楽しく！<br>ふたりのペースで、いろんな景色を見に行こうね。</p>\n<p>10月も、すいとおんをよろしくお願いします。</p>",
+  "products": []
+},
+{
   "id": "aburatsubo-first-trip",
   "title": "ふたりのいびきが、帰り道のBGM。すいとおん、初めてのお泊まり旅。",
   "date": "2026.10.06",
@@ -4503,7 +4517,7 @@ const blogPosts = [
     "products": [],
     "date": "2026.10.06",
     "datetime": "2026-10-06",
-    "publishDate": "2026-10-13T10:00:00+09:00",
+    "publishDate": "2026-10-20T10:00:00+09:00",
   },
   {
     "id": "miyagase-shibafu-sanpo",
