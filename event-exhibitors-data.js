@@ -12649,52 +12649,40 @@ const eventExhibitorsData = {
       "checkedAt": "2026-10-12",
       "attendanceNote": "9月19日のみ"
     },
-    "sotodays-dog-wear-kurumi": {
-      "name": "dog wear kurumi",
-      "category": "犬用品",
-      "description": "ニット素材の手作り犬服を扱うブランド。",
+    "jwf2026-mandarine": {
+      "sourceUrl": "https://www.instagram.com/p/DeBEcCGD8TC/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の出店日は主催者・店舗へご確認ください。",
+      "name": "MANDARINE BROTHERS",
+      "category": "犬服・おでかけ用品",
+      "description": "犬服やキャリーバッグ、おもちゃなどを扱うブランド。主催者の出展紹介ではウェアなどをイベント価格で販売する案内があります。",
       "tags": [
-        "小型犬向け案内あり"
+        "小型犬向け案内あり",
+        "大型犬向け案内あり"
       ],
       "sizes": [
-        "small"
+        "small",
+        "large"
       ],
-      "sizeNote": "小型犬用の洋服の案内があります。商品ごとの寸法は店舗へご確認ください。",
-      "url": "https://ratelevent.jp/exhibitor/dog-wear-kurumi/",
-      "linkLabel": "主催者の店舗紹介",
-      "sourceUrl": "https://ratelevent.jp/sotodays/",
-      "attendanceNote": "10月24日・25日（公式掲載時点）",
-      "checkedAt": "2026-10-13"
+      "sizeNote": "公式のスキンタイトスーツ紹介では小型犬〜大型犬向けの11サイズを案内。当日の販売サイズ・在庫は別途ご確認ください。",
+      "url": "https://mandarinebrothers.shop/",
+      "linkLabel": "公式サイト",
+      "sizeSourceUrl": "https://www.mandarinebrothers.com/blog/2025/09/12/134056"
     },
-    "sotodays-noradog": {
-      "name": "NORADOG",
-      "category": "犬用品",
-      "description": "韓国発のハーネス・リードなどを扱うブランド。",
+    "jwf2026-now-fountain": {
+      "sourceUrl": "https://www.instagram.com/p/DeBEcCGD8TC/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の出店日は主催者・店舗へご確認ください。",
+      "name": "Now&Fountain for pets",
+      "category": "本革の犬具",
+      "description": "本革を使い、落ち着いた装いに合わせやすいデザインを提案する犬具ブランド。主催者の投稿で出展が紹介されています。",
       "tags": [
         "サイズ・対象要確認"
       ],
       "sizes": [],
-      "sizeNote": "サイズや対象年齢、当日の取扱商品は店舗へご確認ください。",
-      "url": "https://ratelevent.jp/exhibitor/noradog/",
-      "linkLabel": "主催者の店舗紹介",
-      "sourceUrl": "https://ratelevent.jp/sotodays/",
-      "attendanceNote": "10月24日・25日（公式掲載時点）",
-      "checkedAt": "2026-10-13"
-    },
-    "sotodays-wan-site": {
-      "name": "wan-site",
-      "category": "フード・おやつ",
-      "description": "鴨や鶏などを使った犬用おやつを扱うお店。",
-      "tags": [
-        "サイズ・対象要確認"
-      ],
-      "sizes": [],
-      "sizeNote": "サイズや対象年齢、当日の取扱商品は店舗へご確認ください。",
-      "url": "https://ratelevent.jp/exhibitor/wan-site/",
-      "linkLabel": "主催者の店舗紹介",
-      "sourceUrl": "https://ratelevent.jp/sotodays/",
-      "attendanceNote": "10月24日・25日（公式掲載時点）",
-      "checkedAt": "2026-10-13"
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとの寸法と当日の取扱サイズを店舗へご確認ください。",
+      "url": "https://www.instagram.com/nandf.design/",
+      "linkLabel": "公式Instagram"
     }
   },
   "events": {
@@ -13664,11 +13652,14 @@ const eventExhibitorsData = {
       "note": "2026年9月22・23日の公式出店者紹介をもとに掲載。開催終了後の記録です。"
     },
     "japan-wanko-festa-autumn-2026": {
-      "brandIds": [],
-      "sourceUrl": "https://japan-wanko-festa.com/",
-      "checkedAt": "2026-10-12",
-      "status": "unverified",
-      "note": "この開催回の店舗別情報は確認中です。出展の有無・最新の店舗一覧は主催者の案内をご確認ください。"
+      "brandIds": [
+        "jwf2026-mandarine",
+        "jwf2026-now-fountain"
+      ],
+      "sourceUrl": "https://www.instagram.com/p/DeBEcCGD8TC/",
+      "checkedAt": "2026-10-13",
+      "status": "verified",
+      "note": "主催者Instagramの出展紹介から確認できた2ブランドを掲載。全出展者一覧ではありません。追加発表は公式Instagramをご確認ください。"
     },
     "wanterrace-yokohama-bayside-2026-autumn": {
       "brandIds": [
@@ -14273,15 +14264,12 @@ const eventExhibitorsData = {
       "status": "unverified",
       "note": "この開催回の店舗別情報は確認中です。出展の有無・最新の店舗一覧は主催者の案内をご確認ください。"
     },
-    "inu-sotodays-hiratsuka-20261024": {
-      "brandIds": [
-        "sotodays-dog-wear-kurumi",
-        "sotodays-noradog",
-        "sotodays-wan-site"
-      ],
-      "sourceUrl": "https://ratelevent.jp/sotodays/",
+    "tokyo-wanwan-halloween-2026": {
+      "brandIds": [],
+      "sourceUrl": "https://www.instagram.com/tokyo_wanwan_event/",
       "checkedAt": "2026-10-13",
-      "note": "公式出店一覧から3店舗をピックアップ。全出店者と追加情報は下の主催者ページで確認できます。"
+      "status": "unverified",
+      "note": "会場公式は2日間合計約70〜90店舗と案内しています。店舗別の出展情報は未確認のため、主催者の最新紹介をご確認ください。"
     }
   }
 };

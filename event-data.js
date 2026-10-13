@@ -1,33 +1,33 @@
 /* EVENT DATA — 既存データを保持し、2026-09-23に13件追加 */
 const calendarEvents = [
 {
-  "id": "inu-sotodays-hiratsuka-20261024",
-  "title": "いぬsotodays 2026｜ジ アウトレット湘南平塚",
+  "id": "tokyo-wanwan-halloween-2026",
+  "title": "東京わんわんハロウィン2026",
   "type": "event",
   "status": "scheduled",
-  "startDate": "2026-10-24",
-  "endDate": "2026-10-25",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-18",
   "region": "kanto",
   "prefecture": "神奈川県",
   "place": "ジ アウトレット湘南平塚 C駐車場",
   "address": "神奈川県平塚市大神8-1-1",
   "mapUrl": "https://www.google.com/maps/search/?api=1&query=ジアウトレット湘南平塚",
   "image": "",
-  "description": "犬用品やおやつのマルシェ、キッチンカーを楽しめる2日間。入場無料で、大型犬も参加できます。",
-  "url": "https://ratelevent.jp/sotodays/",
+  "description": "湘南平塚で犬のおやつ・洋服・グッズのマーケット。ハワイアンフードフェスも同時開催する、入場無料のハロウィンイベント。",
+  "url": "https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5747",
   "editorialCheckedAt": "2026-10-13",
-  "verificationNote": "主催者・会場公式で確認。リードの細則に差があるため通常のリードを推奨。",
+  "verificationNote": "会場公式の当該開催回で確認。犬同伴の細則は主催者へ確認。",
   "sources": [
     {
-      "label": "主催者公式",
-      "url": "https://ratelevent.jp/sotodays/"
+      "label": "会場公式・開催案内",
+      "url": "https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5747"
     },
     {
-      "label": "会場公式",
-      "url": "https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5737?t=event_news"
+      "label": "主催者Instagram",
+      "url": "https://www.instagram.com/tokyo_wanwan_event/"
     }
   ],
-  "content": "<p>愛犬と買い物や屋外のひとときを楽しむ「いぬsotodays」。犬用品・フードの販売に加え、防災体験やステージ企画が案内されています。</p><h2>日時・料金</h2><p>2026年10月24日（土）・25日（日）、両日10:00〜16:00。C駐車場で開催。入場無料・予約不要ですが、一部コンテンツは有料です。</p><h2>犬連れの条件</h2><p>会場公式はワクチン接種済みの犬に限ると案内しています。排泄物は持ち帰りましょう。主催者は大型犬の参加、カート・スリング利用も可能としています。ドッグランはありません。</p><p>伸縮リードは会場側がロックして使用可、主催者側が使用を遠慮するよう案内しているため、通常のリードを持参してください。施設内の各店舗への同伴条件はイベントとは別に確認を。</p><h2>アクセス・天候</h2><p>平塚駅・本厚木駅からバスで「ツインシティ大神」下車。施設駐車場は無料です。混雑を見込んで余裕を持って出発しましょう。小雨決行・荒天中止の案内ですが、当日の変更は公式で確認してください。</p><h2>おでかけメモ</h2><p>飲み水、排泄物用の袋、休憩用マットを準備して、買い物の合間にも犬のペースで休憩を。商品のサイズや当日の在庫は各店に確認すると安心です。</p><h2>公式情報</h2><ul><li><a href=\"https://ratelevent.jp/sotodays/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・開催概要と出店者一覧</a></li><li><a href=\"https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5737?t=event_news\" target=\"_blank\" rel=\"noopener noreferrer\">会場の開催案内</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月13日。内容・開催可否は出発前に公式情報をご確認ください。</p>"
+  "content": "<p>ジ アウトレット湘南平塚で、愛犬とハロウィン気分のお買い物を楽しむ2日間。「湘南Hawaiian Food Festival2026」も同時開催されます。</p><h2>日時・料金・会場</h2><p>2026年10月17日（土）・18日（日）、11:00〜16:00。会場はジ アウトレット湘南平塚のC駐車場。入場無料です。</p><h2>どんなイベント？</h2><p>犬のおやつや洋服、グッズを扱うマーケットが中心。会場公式では2日間合計約70〜90店舗と案内されています。ハロウィンの撮影スポットや無料抽選会も予定されています。</p><h2>犬連れで行く前に</h2><p>ワクチン証明書、カート、リードなどの参加条件や、各企画の受付方法は主催者の最新案内で確認してください。イベントへの同伴と、アウトレット各店舗への入店条件は別に確認を。</p><h2>アクセスと雨の日</h2><p>会場所在地は神奈川県平塚市大神8-1-1。C駐車場のイベント区画へ向かってください。交通手段・駐車場入口は施設公式のアクセス案内で確認を。天候によって予告なく中断・中止になる場合があります。</p><h2>おでかけメモ</h2><p>混雑するマーケットでは、買い物の合間に水分補給と休憩を。服やハーネスを探すなら、普段使うサイズや胴回りを控えておくと店舗で相談しやすくなります。</p><h2>公式情報</h2><ul><li><a href=\"https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5747\" target=\"_blank\" rel=\"noopener noreferrer\">会場公式・開催案内</a></li><li><a href=\"https://www.instagram.com/tokyo_wanwan_event/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者Instagram</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月13日。最新の開催状況は公式情報をご確認ください。</p>"
 },
 /* 2026-10-11 追加分 */
 {
@@ -983,34 +983,38 @@ const calendarEvents = [
     ]
   },
   {
-    "id": "japan-wanko-festa-autumn-2026",
-    "startDate": "2026-11-27",
-    "endDate": "2026-11-29",
-    "type": "event",
-    "status": "scheduled",
-    "title": "ジャパンわんこフェスタ2026 秋",
-    "region": "kanto",
-    "prefecture": "東京都",
-    "place": "会場は公式情報を確認（再確認中）",
-    "address": "",
-    "image": "images/event/sui-on-japan-wanko-festa-autumn-2026.jpg",
-    "mapUrl": "",
-    "url": "https://japan-wanko-festa.com/",
-    "content": "\n<p class=\"event-editorial-note\">会場情報を再確認中です。主催者の発表ではお台場ですが、公式サイトの次回開催表示に別会場の記載が見られます。予約や移動の手配前に主催者へ確認してください。</p>\n<p>犬用品の買い物やフードを楽しむ、秋のジャパンわんこフェスタ。主催者の発表では11月27日〜29日の三日間、お台場での開催が案内されています。</p>\n<h2>このイベントの楽しみ方</h2>\n<p>主催者発表には、犬向けの買い物や飲食を楽しめる企画が紹介されています。出店者や体験の詳細は秋開催の案内で確認しましょう。春・初夏の出店情報や会場マップとは分けて見るのがポイントです。</p>\n<h2>時間・料金・参加の前に</h2>\n<dl class=\"event-practical-info\">\n<div><dt>開催時間</dt><dd>10:00〜17:00（主催者発表）</dd></div>\n<div><dt>料金</dt><dd>入場無料（主催者発表）。買い物・飲食等は別途。</dd></div>\n<div><dt>雨の日</dt><dd>屋外開催。雨天・荒天時の扱いは秋開催の最新案内を確認。</dd></div>\n<div><dt>犬連れの条件</dt><dd>入場条件、リード・カートのルール、証明書の要否は秋開催の公式案内で確認してください。</dd></div>\n</dl>\n<h2>会場への行き方</h2>\n<p>発表時の会場はお台場セントラル広場及びプロムナード。公式サイトの次回開催表記と発表内容に差があるため、会場確定後に交通手段を決めてください。</p>\n<aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>広い会場を回る計画では、気になるお店を絞り、途中で犬が休める時間を取ると無理なく楽しめます。</p><small>編集部からの準備のヒントです。参加体験談ではありません。</small></aside>\n<h2>情報元・最新のお知らせ</h2>\n<ul class=\"event-source-links\">\n<li><a href=\"https://prtimes.jp/main/html/rd/p/000000102.000093750.html\" target=\"_blank\" rel=\"noopener noreferrer\">主催者発表・秋開催の概要 ↗</a></li>\n<li><a href=\"https://japan-wanko-festa.com/\" target=\"_blank\" rel=\"noopener noreferrer\">ジャパンわんこフェスタ公式サイト ↗</a></li>\n</ul>\n<p class=\"event-source-date\">情報整理：2026年9月17日。未確認の項目は本文に明記しています。開催済みの情報は当該回の案内で、次回開催を保証するものではありません。</p>\n",
-    "description": "犬用品の買い物やフードを楽しむ、秋のジャパンわんこフェスタ。主催者の発表では11月27日〜29日の三日間、お台場での開催が案内されています。",
-    "editorialCheckedAt": "2026-09-17",
-    "verificationNote": "会場情報を再確認中です。主催者の発表ではお台場ですが、公式サイトの次回開催表示に別会場の記載が見られます。予約や移動の手配前に主催者へ確認してください。",
-    "sources": [
-      {
-        "label": "主催者発表・秋開催の概要",
-        "url": "https://prtimes.jp/main/html/rd/p/000000102.000093750.html"
-      },
-      {
-        "label": "ジャパンわんこフェスタ公式サイト",
-        "url": "https://japan-wanko-festa.com/"
-      }
-    ]
-  },
+  "id": "japan-wanko-festa-autumn-2026",
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-29",
+  "type": "event",
+  "status": "scheduled",
+  "title": "ジャパンわんこフェスタ2026 秋",
+  "region": "kanto",
+  "prefecture": "東京都",
+  "place": "お台場セントラル広場及びプロムナード",
+  "address": "東京都江東区青海1丁目1",
+  "image": "images/event/sui-on-japan-wanko-festa-autumn-2026.jpg",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=お台場セントラル広場",
+  "url": "https://japan-wanko-festa.com/",
+  "content": "\n<p class=\"event-editorial-note\">2026年10月の主催者Instagramで、お台場セントラル広場及びプロムナードでの開催を再確認しました。</p>\n<p>犬用品の買い物やフードを楽しむ、秋のジャパンわんこフェスタ。主催者の発表では11月27日〜29日の三日間、お台場での開催が案内されています。</p>\n<h2>このイベントの楽しみ方</h2>\n<p>主催者発表には、犬向けの買い物や飲食を楽しめる企画が紹介されています。出店者や体験の詳細は秋開催の案内で確認しましょう。春・初夏の出店情報や会場マップとは分けて見るのがポイントです。</p>\n<h2>時間・料金・参加の前に</h2>\n<dl class=\"event-practical-info\">\n<div><dt>開催時間</dt><dd>10:00〜17:00（主催者発表）</dd></div>\n<div><dt>料金</dt><dd>入場無料（主催者発表）。買い物・飲食等は別途。</dd></div>\n<div><dt>雨の日</dt><dd>屋外開催。雨天・荒天時の扱いは秋開催の最新案内を確認。</dd></div>\n<div><dt>犬連れの条件</dt><dd>入場条件、リード・カートのルール、証明書の要否は秋開催の公式案内で確認してください。</dd></div>\n</dl>\n<h2>会場への行き方</h2>\n<p>会場はお台場セントラル広場及びプロムナード（東京都江東区青海1丁目1）。当日の入場口や駐車場の案内は主催者の最新情報をご確認ください。</p>\n<aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>広い会場を回る計画では、気になるお店を絞り、途中で犬が休める時間を取ると無理なく楽しめます。</p><small>編集部からの準備のヒントです。参加体験談ではありません。</small></aside>\n<h2>情報元・最新のお知らせ</h2>\n<ul class=\"event-source-links\">\n<li><a href=\"https://prtimes.jp/main/html/rd/p/000000102.000093750.html\" target=\"_blank\" rel=\"noopener noreferrer\">主催者発表・秋開催の概要 ↗</a></li>\n<li><a href=\"https://japan-wanko-festa.com/\" target=\"_blank\" rel=\"noopener noreferrer\">ジャパンわんこフェスタ公式サイト ↗</a></li>\n<li><a href=\"https://www.instagram.com/p/DeBEcCGD8TC/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者Instagram・開催情報と出展紹介</a></li></ul>\n<p class=\"event-source-date\">情報更新：2026年10月13日。未確認の項目は本文に明記しています。開催済みの情報は当該回の案内で、次回開催を保証するものではありません。</p>\n",
+  "description": "犬用品の買い物やフードを楽しむ、秋のジャパンわんこフェスタ。主催者の発表では11月27日〜29日の三日間、お台場での開催が案内されています。",
+  "editorialCheckedAt": "2026-10-13",
+  "verificationNote": "2026年10月の主催者Instagramで、お台場会場・日時・入場無料を再確認。",
+  "sources": [
+    {
+      "label": "主催者発表・秋開催の概要",
+      "url": "https://prtimes.jp/main/html/rd/p/000000102.000093750.html"
+    },
+    {
+      "label": "ジャパンわんこフェスタ公式サイト",
+      "url": "https://japan-wanko-festa.com/"
+    },
+    {
+      "label": "主催者Instagram・開催情報と出展紹介",
+      "url": "https://www.instagram.com/p/DeBEcCGD8TC/"
+    }
+  ]
+},
   {
     "id": "wanterrace-yokohama-bayside-2026-autumn",
     "startDate": "2026-09-27",
