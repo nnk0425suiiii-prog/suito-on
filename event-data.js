@@ -1,5 +1,34 @@
 /* EVENT DATA — 既存データを保持し、2026-09-23に13件追加 */
 const calendarEvents = [
+{
+  "id": "inu-sotodays-hiratsuka-20261024",
+  "title": "いぬsotodays 2026｜ジ アウトレット湘南平塚",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-25",
+  "region": "kanto",
+  "prefecture": "神奈川県",
+  "place": "ジ アウトレット湘南平塚 C駐車場",
+  "address": "神奈川県平塚市大神8-1-1",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=ジアウトレット湘南平塚",
+  "image": "",
+  "description": "犬用品やおやつのマルシェ、キッチンカーを楽しめる2日間。入場無料で、大型犬も参加できます。",
+  "url": "https://ratelevent.jp/sotodays/",
+  "editorialCheckedAt": "2026-10-13",
+  "verificationNote": "主催者・会場公式で確認。リードの細則に差があるため通常のリードを推奨。",
+  "sources": [
+    {
+      "label": "主催者公式",
+      "url": "https://ratelevent.jp/sotodays/"
+    },
+    {
+      "label": "会場公式",
+      "url": "https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5737?t=event_news"
+    }
+  ],
+  "content": "<p>愛犬と買い物や屋外のひとときを楽しむ「いぬsotodays」。犬用品・フードの販売に加え、防災体験やステージ企画が案内されています。</p><h2>日時・料金</h2><p>2026年10月24日（土）・25日（日）、両日10:00〜16:00。C駐車場で開催。入場無料・予約不要ですが、一部コンテンツは有料です。</p><h2>犬連れの条件</h2><p>会場公式はワクチン接種済みの犬に限ると案内しています。排泄物は持ち帰りましょう。主催者は大型犬の参加、カート・スリング利用も可能としています。ドッグランはありません。</p><p>伸縮リードは会場側がロックして使用可、主催者側が使用を遠慮するよう案内しているため、通常のリードを持参してください。施設内の各店舗への同伴条件はイベントとは別に確認を。</p><h2>アクセス・天候</h2><p>平塚駅・本厚木駅からバスで「ツインシティ大神」下車。施設駐車場は無料です。混雑を見込んで余裕を持って出発しましょう。小雨決行・荒天中止の案内ですが、当日の変更は公式で確認してください。</p><h2>おでかけメモ</h2><p>飲み水、排泄物用の袋、休憩用マットを準備して、買い物の合間にも犬のペースで休憩を。商品のサイズや当日の在庫は各店に確認すると安心です。</p><h2>公式情報</h2><ul><li><a href=\"https://ratelevent.jp/sotodays/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・開催概要と出店者一覧</a></li><li><a href=\"https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5737?t=event_news\" target=\"_blank\" rel=\"noopener noreferrer\">会場の開催案内</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月13日。内容・開催可否は出発前に公式情報をご確認ください。</p>"
+},
 /* 2026-10-11 追加分 */
 {
   "id": "chihuahua-expo-2026-11-22",

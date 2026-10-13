@@ -12648,6 +12648,53 @@ const eventExhibitorsData = {
       "sourceUrl": "https://warabee.jp/warabee-listnotices/%E3%80%90%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%8F%82%E5%8A%A0%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%919-19%E5%9C%9F%E3%80%8C%E3%81%84%E3%81%AC%E3%81%AE%E5%A4%9C%E3%81%BE%E3%81%A4/",
       "checkedAt": "2026-10-12",
       "attendanceNote": "9月19日のみ"
+    },
+    "sotodays-dog-wear-kurumi": {
+      "name": "dog wear kurumi",
+      "category": "犬用品",
+      "description": "ニット素材の手作り犬服を扱うブランド。",
+      "tags": [
+        "小型犬向け案内あり"
+      ],
+      "sizes": [
+        "small"
+      ],
+      "sizeNote": "小型犬用の洋服の案内があります。商品ごとの寸法は店舗へご確認ください。",
+      "url": "https://ratelevent.jp/exhibitor/dog-wear-kurumi/",
+      "linkLabel": "主催者の店舗紹介",
+      "sourceUrl": "https://ratelevent.jp/sotodays/",
+      "attendanceNote": "10月24日・25日（公式掲載時点）",
+      "checkedAt": "2026-10-13"
+    },
+    "sotodays-noradog": {
+      "name": "NORADOG",
+      "category": "犬用品",
+      "description": "韓国発のハーネス・リードなどを扱うブランド。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "サイズや対象年齢、当日の取扱商品は店舗へご確認ください。",
+      "url": "https://ratelevent.jp/exhibitor/noradog/",
+      "linkLabel": "主催者の店舗紹介",
+      "sourceUrl": "https://ratelevent.jp/sotodays/",
+      "attendanceNote": "10月24日・25日（公式掲載時点）",
+      "checkedAt": "2026-10-13"
+    },
+    "sotodays-wan-site": {
+      "name": "wan-site",
+      "category": "フード・おやつ",
+      "description": "鴨や鶏などを使った犬用おやつを扱うお店。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "サイズや対象年齢、当日の取扱商品は店舗へご確認ください。",
+      "url": "https://ratelevent.jp/exhibitor/wan-site/",
+      "linkLabel": "主催者の店舗紹介",
+      "sourceUrl": "https://ratelevent.jp/sotodays/",
+      "attendanceNote": "10月24日・25日（公式掲載時点）",
+      "checkedAt": "2026-10-13"
     }
   },
   "events": {
@@ -14225,6 +14272,16 @@ const eventExhibitorsData = {
       "checkedAt": "2026-10-12",
       "status": "unverified",
       "note": "この開催回の店舗別情報は確認中です。出展の有無・最新の店舗一覧は主催者の案内をご確認ください。"
+    },
+    "inu-sotodays-hiratsuka-20261024": {
+      "brandIds": [
+        "sotodays-dog-wear-kurumi",
+        "sotodays-noradog",
+        "sotodays-wan-site"
+      ],
+      "sourceUrl": "https://ratelevent.jp/sotodays/",
+      "checkedAt": "2026-10-13",
+      "note": "公式出店一覧から3店舗をピックアップ。全出店者と追加情報は下の主催者ページで確認できます。"
     }
   }
 };
