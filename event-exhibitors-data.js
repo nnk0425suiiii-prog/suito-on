@@ -12683,6 +12683,357 @@ const eventExhibitorsData = {
       "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとの寸法と当日の取扱サイズを店舗へご確認ください。",
       "url": "https://www.instagram.com/nandf.design/",
       "linkLabel": "公式Instagram"
+    },
+    "jwf2026-08fab5f16b": {
+      "name": "Do One Good / Adoption Park Board",
+      "category": "保護犬の紹介",
+      "description": "保護犬の情報をポスターやウェブで紹介するブース。犬が来場する譲渡会ではなく、ポスター展示での案内です。",
+      "sizes": [],
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとのサイズ・対象年齢・当日の取扱いは店舗へご確認ください。",
+      "url": "https://www.doonegood.jp/",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DebprhxD4yF/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-c7dc023b5d": {
+      "name": "PET’s ADVANCE / mimi merry",
+      "category": "犬の靴・ドレス",
+      "description": "犬用シューズとドレスの合同出展。犬の靴の相談や試着が案内されています。",
+      "sizes": [],
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとのサイズ・対象年齢・当日の取扱いは店舗へご確認ください。",
+      "url": "https://www.instagram.com/petsadvance/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Deay0iXjzjB/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-c6ab503898": {
+      "name": "はなうたガーデン -伊東-",
+      "category": "ペットと家族の供養",
+      "description": "家族とペットが一緒に眠れるガーデン葬墓園を紹介するブースです。",
+      "sizes": [],
+      "tags": [
+        "犬のサイズ区分なし"
+      ],
+      "sizeNote": "犬のサイズで選ぶ商品ではありません。サービスの内容・条件は公式案内をご確認ください。",
+      "url": "https://www.instagram.com/hanautagardenito_official/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Deay0iXjzjB/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-7c92d3933b": {
+      "name": "BAREFOO",
+      "category": "飼い主向けシューズ",
+      "description": "薄く柔らかいソールのシューズを扱うブランド。愛犬との散歩にも使える飼い主向けの靴です。",
+      "sizes": [],
+      "tags": [
+        "犬のサイズ区分なし"
+      ],
+      "sizeNote": "犬のサイズで選ぶ商品ではありません。サービスの内容・条件は公式案内をご確認ください。",
+      "url": "https://www.instagram.com/barefoo.jp/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Deay0iXjzjB/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-fb5061e332": {
+      "name": "ニッスイ PAWSOME DELI",
+      "category": "フード・おやつ",
+      "description": "小分けで使える冷凍の犬用フード。会場で無料試食を予定しています。",
+      "sizes": [],
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとのサイズ・対象年齢・当日の取扱いは店舗へご確認ください。",
+      "url": "https://www.instagram.com/petfood_pawsomedeli/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeZE5tGD62l/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-6cda80906e": {
+      "name": "EZOG北海道",
+      "category": "フード・おやつ",
+      "description": "エゾ鹿を使った犬用ジャーキーを扱うお店。水分を含む生ジャーキーが紹介されています。",
+      "sizes": [],
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとのサイズ・対象年齢・当日の取扱いは店舗へご確認ください。",
+      "url": "https://www.instagram.com/ezog_hokkaido/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeZE5tGD62l/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-3982369694": {
+      "name": "PETHROOM",
+      "category": "ケア用品",
+      "description": "韓国発のペットケアブランド。シャンプーなど日常のお手入れ用品を紹介し、イベント価格での販売も案内しています。",
+      "sizes": [],
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとのサイズ・対象年齢・当日の取扱いは店舗へご確認ください。",
+      "url": "https://www.instagram.com/pethroom_jp/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeYN-Eqj6gf/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-54ff35df07": {
+      "name": "every frecious PRイベント",
+      "category": "住まい・ウォーターサーバー",
+      "description": "水道水を注ぐ浄水型ウォーターサーバーのPRブース。定額制サービスが案内されています。",
+      "sizes": [],
+      "tags": [
+        "犬のサイズ区分なし"
+      ],
+      "sizeNote": "犬のサイズで選ぶ商品ではありません。サービスの内容・条件は公式案内をご確認ください。",
+      "url": "https://every.frecious.jp/",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DeYN-Eqj6gf/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-4a6b64d2e9": {
+      "name": "LILY PET WORLD / JAM FACTORY",
+      "category": "リード・犬服・雑貨",
+      "description": "ハンズフリーリード、イヤーシュシュ、犬服、スヌード、カフェマットなどの合同ブースです。",
+      "sizes": [
+        "large"
+      ],
+      "tags": [
+        "大型犬向け案内あり"
+      ],
+      "sizeNote": "主催者の紹介に、JAM FACTORYの超大型犬までの洋服の案内があります。個々の商品・サイズは店舗へご確認ください。",
+      "url": "https://www.instagram.com/jamfactory2022/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeWgJBqjxU-/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-eb9c32113a": {
+      "name": "Casa Pawe",
+      "category": "首輪・リード・バッグ",
+      "description": "首輪やリード、おでかけバッグを扱うドッグライフスタイルブランドです。",
+      "sizes": [],
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとのサイズ・対象年齢・当日の取扱いは店舗へご確認ください。",
+      "url": "https://www.instagram.com/casapawe_official/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeWgJBqjxU-/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-48dafe2813": {
+      "name": "推しペットカード",
+      "category": "飼い主向けサービス",
+      "description": "ペットの写真でデザインできるクレジットカードの紹介ブース。契約条件はサービス公式でご確認ください。",
+      "sizes": [],
+      "tags": [
+        "犬のサイズ区分なし"
+      ],
+      "sizeNote": "犬のサイズで選ぶ商品ではありません。サービスの内容・条件は公式案内をご確認ください。",
+      "url": "https://www.instagram.com/nudge_oshipetcard/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeVruXQj51h/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-eb9c3e12b4": {
+      "name": "ネスカフェ ドルチェ グスト",
+      "category": "飼い主向けコーヒー",
+      "description": "カプセル式コーヒーマシンと定期便の紹介ブース。試飲が案内されています。",
+      "sizes": [],
+      "tags": [
+        "犬のサイズ区分なし"
+      ],
+      "sizeNote": "犬のサイズで選ぶ商品ではありません。サービスの内容・条件は公式案内をご確認ください。",
+      "url": "https://www.instagram.com/nescafe.dolcegusto.jp/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeVruXQj51h/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-15c6c503af": {
+      "name": "わんにゃんぬ〜る",
+      "category": "口腔ケア用品",
+      "description": "犬猫用の歯磨きサプリメントを販売するブース。主催者の紹介では無料のお口チェックも案内されています。",
+      "sizes": [],
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとのサイズ・対象年齢・当日の取扱いは店舗へご確認ください。",
+      "url": "https://www.instagram.com/wan_nyan2022/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeVruXQj51h/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-b56a2553b8": {
+      "name": "日本ペットフード株式会社",
+      "category": "フード・おやつ",
+      "description": "お湯で戻して与えるフリーズドライの犬用フード「ピュアキューブ」が紹介されています。",
+      "sizes": [],
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとのサイズ・対象年齢・当日の取扱いは店舗へご確認ください。",
+      "url": "https://www.instagram.com/nipponpetfood_official/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeT7RlBj9po/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-81af4bbbed": {
+      "name": "ヴォイス株式会社",
+      "category": "フード・ペット用品",
+      "description": "ドッグフード「BODY BALANCE」など、ペットとの暮らしを支える製品を紹介するブースです。",
+      "sizes": [],
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとのサイズ・対象年齢・当日の取扱いは店舗へご確認ください。",
+      "url": "https://www.instagram.com/voicepet_official/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeT7RlBj9po/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-4b8cbd6c53": {
+      "name": "株式会社田中箸店",
+      "category": "飼い主向け雑貨",
+      "description": "犬のイラスト入りのお箸や犬モチーフの箸置きを販売する、飼い主向けの雑貨ブースです。",
+      "sizes": [],
+      "tags": [
+        "犬のサイズ区分なし"
+      ],
+      "sizeNote": "犬のサイズで選ぶ商品ではありません。サービスの内容・条件は公式案内をご確認ください。",
+      "url": "https://www.instagram.com/tanaka_hashiten/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeTB0NXD8jJ/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-16b21054e0": {
+      "name": "Oisix",
+      "category": "飼い主向け食品宅配",
+      "description": "ミールキットや家庭向けの食品宅配サービスを紹介するブースです。犬用フードの紹介ではありません。",
+      "sizes": [],
+      "tags": [
+        "犬のサイズ区分なし"
+      ],
+      "sizeNote": "犬のサイズで選ぶ商品ではありません。サービスの内容・条件は公式案内をご確認ください。",
+      "url": "https://www.instagram.com/oisix/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeTB0NXD8jJ/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-9a873cd02c": {
+      "name": "LIFELIKE",
+      "category": "犬服・帽子",
+      "description": "犬服や帽子などの秋冬用品を扱うブランド。イベント価格での販売が案内されています。",
+      "sizes": [],
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとのサイズ・対象年齢・当日の取扱いは店舗へご確認ください。",
+      "url": "https://www.instagram.com/lifelike_dog/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeRIzBAj_S5/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-5379b94ed3": {
+      "name": "Chum’Nme",
+      "category": "アプリ・撮影ブース",
+      "description": "ペットとの暮らしを記録・交流するアプリの紹介。犬服や無料フォトブースも案内されています。",
+      "sizes": [],
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとのサイズ・対象年齢・当日の取扱いは店舗へご確認ください。",
+      "url": "https://www.instagram.com/chum.nme_japan/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeRIzBAj_S5/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-ebb17f53af": {
+      "name": "☆BYJ",
+      "category": "首輪・リード",
+      "description": "色柄のある首輪やリードなど、お散歩用品を扱うブランドです。",
+      "sizes": [
+        "small",
+        "large"
+      ],
+      "tags": [
+        "小型犬向け案内あり",
+        "大型犬向け案内あり"
+      ],
+      "sizeNote": "主催者の紹介で超小型犬〜超大型犬向けと案内されています。商品ごとの寸法・強度・適応範囲は店舗へご確認ください。",
+      "url": "https://www.instagram.com/byj.petgoods/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeRIzBAj_S5/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-e2f0a3904e": {
+      "name": "dfang（ディパン）",
+      "category": "マット・住まい用品",
+      "description": "ペット用マットやリュック、フェンスを扱うブランド。マットのイベント価格での販売が案内されています。",
+      "sizes": [],
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとのサイズ・対象年齢・当日の取扱いは店舗へご確認ください。",
+      "url": "https://www.instagram.com/dfang_jp_official/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeQfmywjztj/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-74cb1d3904": {
+      "name": "FUJIMI",
+      "category": "飼い主向けプロテイン",
+      "description": "パーソナライズを提案するビューティーケアブランド。人向けプロテインの試飲会が紹介されています。",
+      "sizes": [],
+      "tags": [
+        "犬のサイズ区分なし"
+      ],
+      "sizeNote": "犬のサイズで選ぶ商品ではありません。サービスの内容・条件は公式案内をご確認ください。",
+      "url": "https://www.instagram.com/fujimi_official/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeQfmywjztj/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "jwf2026-5d5a255851": {
+      "name": "ビルバック",
+      "category": "フード・口腔ケア",
+      "description": "動物用製品のメーカー。主催者の紹介では犬猫用フード「HPM」が案内されています。",
+      "sizes": [],
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品ごとのサイズ・対象年齢・当日の取扱いは店舗へご確認ください。",
+      "url": "https://www.instagram.com/virbac_japan/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/DeQfmywjztj/",
+      "checkedAt": "2026-10-13",
+      "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
     }
   },
   "events": {
@@ -13654,12 +14005,35 @@ const eventExhibitorsData = {
     "japan-wanko-festa-autumn-2026": {
       "brandIds": [
         "jwf2026-mandarine",
-        "jwf2026-now-fountain"
+        "jwf2026-now-fountain",
+        "jwf2026-08fab5f16b",
+        "jwf2026-c7dc023b5d",
+        "jwf2026-c6ab503898",
+        "jwf2026-7c92d3933b",
+        "jwf2026-fb5061e332",
+        "jwf2026-6cda80906e",
+        "jwf2026-3982369694",
+        "jwf2026-54ff35df07",
+        "jwf2026-4a6b64d2e9",
+        "jwf2026-eb9c32113a",
+        "jwf2026-48dafe2813",
+        "jwf2026-eb9c3e12b4",
+        "jwf2026-15c6c503af",
+        "jwf2026-b56a2553b8",
+        "jwf2026-81af4bbbed",
+        "jwf2026-4b8cbd6c53",
+        "jwf2026-16b21054e0",
+        "jwf2026-9a873cd02c",
+        "jwf2026-5379b94ed3",
+        "jwf2026-ebb17f53af",
+        "jwf2026-e2f0a3904e",
+        "jwf2026-74cb1d3904",
+        "jwf2026-5d5a255851"
       ],
-      "sourceUrl": "https://www.instagram.com/p/DeBEcCGD8TC/",
+      "sourceUrl": "https://www.instagram.com/flaffy.fes/",
       "checkedAt": "2026-10-13",
       "status": "verified",
-      "note": "主催者Instagramの出展紹介から確認できた2ブランドを掲載。全出展者一覧ではありません。追加発表は公式Instagramをご確認ください。"
+      "note": "主催者Instagramで確認した25ブースを掲載（合同出展は1件として表示）。犬用品に加え、飼い主向け商品・サービスの紹介も含みます。全出展者一覧ではありません。追加発表は公式Instagramへ。"
     },
     "wanterrace-yokohama-bayside-2026-autumn": {
       "brandIds": [
