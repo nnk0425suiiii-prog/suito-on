@@ -1,5 +1,553 @@
 /* Edit records here. */
 const outingPlaces = [
+/* Instagram掲載施設の追加：2026-10-14 */
+{
+  "id": "omo7-osaka",
+  "name": "OMO7大阪 by 星野リゾート",
+  "area": "大阪市・浪速区",
+  "prefecture": "大阪",
+  "kind": "stay",
+  "tags": [
+    "犬同伴客室"
+  ],
+  "intro": "愛犬同伴の専用客室を用意。大阪観光と、ホテルでのんびりする時間を組み合わせたい人に。",
+  "price": "宿泊日・客室・食事条件で変動。犬の追加料金を含む総額を予約画面で確認。",
+  "registration": "中型犬まで・2頭まで。対象のドッグフレンドリールームを予約。",
+  "time": "チェックイン・アウトは予約するプランで確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "中型犬まで・2頭まで。対象のドッグフレンドリールームを予約。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://hoshinoresorts.com/ja/hotels/omo7osaka/sp/dog-stay/"
+    ]
+  ],
+  "bedNote": "要確認（人用ベッド・添い寝）。犬用ベッドの用意は、人用ベッドでの添い寝可を意味しません。予約する客室について宿に確認してください。",
+  "bed": null,
+  "runNote": "ドッグランの有無・利用条件は宿へ確認。",
+  "soloNote": "1名宿泊の可否・料金は予約するプランで確認。"
+},
+{
+  "id": "hilton-osaka",
+  "name": "ヒルトン大阪",
+  "area": "大阪市・北区",
+  "prefecture": "大阪",
+  "kind": "stay",
+  "tags": [
+    "犬同伴客室"
+  ],
+  "intro": "犬同伴の専用プランを用意。駅周辺で用事や観光がある日の、街なかステイ候補。",
+  "price": "宿泊日・客室・食事条件で変動。犬の追加料金を含む総額を予約画面で確認。",
+  "registration": "2頭合計10kg以下。対象プランは2026年12月30日までの案内。",
+  "time": "チェックイン・アウトは予約するプランで確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "犬だけを客室に残すことはできません。館内の移動は全身が入るキャリーを使用し、レストラン・カフェ・バーは犬同伴不可。食事中の過ごし方も予約前に相談してください。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://osaka.hiltonjapan.co.jp/plans/rooms/10393"
+    ],
+    [
+      "公式・利用条件",
+      "https://osaka.hiltonjapan.co.jp/pdf/rooms/pet-room-term-and-condition-jp.pdf"
+    ]
+  ],
+  "bedNote": "要確認（人用ベッド・添い寝）。犬用ベッドの用意は、人用ベッドでの添い寝可を意味しません。予約する客室について宿に確認してください。",
+  "bed": null,
+  "runNote": "ドッグランの有無・利用条件は宿へ確認。",
+  "soloNote": "1名宿泊の可否・料金は予約するプランで確認。"
+},
+{
+  "id": "canopy-osaka",
+  "name": "キャノピー by ヒルトン 大阪梅田",
+  "area": "大阪市・北区",
+  "prefecture": "大阪",
+  "kind": "stay",
+  "tags": [
+    "犬同伴客室"
+  ],
+  "intro": "うめきた公園周辺の散歩と合わせたいホテル。愛犬と泊まれる専用プランを用意。",
+  "price": "宿泊日・客室・食事条件で変動。犬の追加料金を含む総額を予約画面で確認。",
+  "registration": "2頭合計15kgまで。館内の移動方法・同伴エリアを確認。",
+  "time": "チェックイン・アウトは予約するプランで確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "共用部の移動は閉じられるキャリーを使用。1階カフェ Bean there, UMEDA は犬同伴の案内があります。犬だけでの留守番は原則不可。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://canopy-osaka.hiltonjapan.co.jp/plans/rooms/10563"
+    ],
+    [
+      "公式・利用条件",
+      "https://canopy-osaka.hiltonjapan.co.jp/pdf/room/Terms_and_Conditions_for_Guests_Staying_with_Dogs.pdf"
+    ]
+  ],
+  "bedNote": "要確認（人用ベッド・添い寝）。犬用ベッドの用意は、人用ベッドでの添い寝可を意味しません。予約する客室について宿に確認してください。",
+  "bed": null,
+  "runNote": "ドッグランの有無・利用条件は宿へ確認。",
+  "soloNote": "1名宿泊の可否・料金は予約するプランで確認。"
+},
+{
+  "id": "del-shinsaibashi",
+  "name": "DEL style 大阪心斎橋 by Daiwa Roynet Hotel",
+  "area": "大阪市・中央区",
+  "prefecture": "大阪",
+  "kind": "stay",
+  "tags": [
+    "犬同伴客室"
+  ],
+  "intro": "犬同伴の専用客室はフローリング仕様。街歩きの拠点として選びたいホテル。",
+  "price": "宿泊日・客室・食事条件で変動。犬の追加料金を含む総額を予約画面で確認。",
+  "registration": "10kg以下・1頭、生後6か月以上。犬同伴客室を指定。",
+  "time": "チェックイン・アウトは予約するプランで確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "人用ベッドと浴室は犬の利用不可。客室内ではマナーパンツを着用。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://www.daiwaroynet.jp/withdog_shinsaibashi/"
+    ],
+    [
+      "公式・利用条件",
+      "https://www.daiwaroynet.jp/datas/files/2025/08/28/72355a12aa9439d45bc4a24a796456de82764abc.pdf"
+    ],
+    [
+      "公式・利用条件",
+      "https://www.daiwaroynet.jp/datas/files/2025/08/28/9d40ca7aaa83e942b7c252e618a651b3a8e3ae48.pdf"
+    ],
+    [
+      "公式・利用条件",
+      "https://www.daiwaroynet.jp/files/pdf/agreement.pdf"
+    ]
+  ],
+  "bedNote": "人用ベッドNG",
+  "bed": false,
+  "runNote": "ドッグランの有無・利用条件は宿へ確認。",
+  "soloNote": "1名宿泊の可否・料金は予約するプランで確認。"
+},
+{
+  "id": "moxy-osaka",
+  "name": "モクシー大阪梅田",
+  "area": "大阪市・福島区",
+  "prefecture": "大阪",
+  "kind": "stay",
+  "tags": [
+    "犬同伴客室"
+  ],
+  "intro": "ドッグラバー向けの宿泊プランを展開。カジュアルなホテル時間を楽しみたい人に。",
+  "price": "宿泊日・客室・食事条件で変動。犬の追加料金を含む総額を予約画面で確認。",
+  "registration": "15kg以下・1頭。",
+  "time": "チェックイン・アウトは予約するプランで確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "15kg以下・1頭。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://www.marriott.com/ja/hotels/osaoo-moxy-osaka-umeda/overview/"
+    ]
+  ],
+  "bedNote": "要確認（人用ベッド・添い寝）。犬用ベッドの用意は、人用ベッドでの添い寝可を意味しません。予約する客室について宿に確認してください。",
+  "bed": null,
+  "runNote": "ドッグランの有無・利用条件は宿へ確認。",
+  "soloNote": "1名宿泊の可否・料金は予約するプランで確認。"
+},
+{
+  "id": "imano-osaka",
+  "name": "IMANO OSAKA SHINSAIBASHI HOSTEL",
+  "area": "大阪市・西区",
+  "prefecture": "大阪",
+  "kind": "stay",
+  "tags": [
+    "犬同伴客室"
+  ],
+  "intro": "犬と泊まれる個室の年末年始プランを案内。大阪の街歩きと合わせたい滞在先。",
+  "price": "宿泊日・客室・食事条件で変動。犬の追加料金を含む総額を予約画面で確認。",
+  "registration": "対象期間：2026/12/26〜2027/1/3。犬同伴プランを予約。",
+  "time": "チェックイン・アウトは予約するプランで確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "対象期間：2026/12/26〜2027/1/3。犬同伴プランを予約。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://imano.jp/osaka/%f0%9f%90%be%e3%80%90%e5%85%ac%e5%bc%8f%e3%82%b5%e3%82%a4%e3%83%88%e9%99%90%e5%ae%9a%e3%80%91%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e3%83%89%e3%83%83%e3%82%b0%e3%83%95%e3%83%ac%e3%83%b3%e3%83%89/"
+    ]
+  ],
+  "bedNote": "要確認（人用ベッド・添い寝）。犬用ベッドの用意は、人用ベッドでの添い寝可を意味しません。予約する客室について宿に確認してください。",
+  "bed": null,
+  "runNote": "ドッグランの有無・利用条件は宿へ確認。",
+  "soloNote": "1名宿泊の可否・料金は予約するプランで確認。"
+},
+{
+  "id": "3oclock-tennoji",
+  "name": "HOTEL 3 O’CLOCK TENNOJI",
+  "area": "大阪市・天王寺区",
+  "prefecture": "大阪",
+  "kind": "stay",
+  "tags": [
+    "犬同伴客室"
+  ],
+  "intro": "「わんわんCity Stay」プランを用意。街のおでかけと合わせて検討したい小さなホテル。",
+  "price": "宿泊日・客室・食事条件で変動。犬の追加料金を含む総額を予約画面で確認。",
+  "registration": "犬同伴プランを指定。体格・頭数を確認。",
+  "time": "チェックイン・アウトは予約するプランで確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "専用駐車場はありません。車の場合は周辺のコインパーキングを確認してください。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://hotel-3oclock.com/faq.html"
+    ]
+  ],
+  "bedNote": "要確認（人用ベッド・添い寝）。犬用ベッドの用意は、人用ベッドでの添い寝可を意味しません。予約する客室について宿に確認してください。",
+  "bed": null,
+  "runNote": "ドッグランの有無・利用条件は宿へ確認。",
+  "soloNote": "1名宿泊の可否・料金は予約するプランで確認。"
+},
+{
+  "id": "fushioukaku",
+  "name": "伏尾温泉 不死王閣",
+  "area": "池田市・伏尾町",
+  "prefecture": "大阪",
+  "kind": "stay",
+  "tags": [
+    "犬同伴客室"
+  ],
+  "intro": "愛犬同伴客室に、露天風呂付きのタイプも。街なかのホテルとは違う休日を過ごしたい人に。",
+  "price": "宿泊日・客室・食事条件で変動。犬の追加料金を含む総額を予約画面で確認。",
+  "registration": "小型犬・2頭まで。犬同伴可能な客室を指定して予約。",
+  "time": "チェックイン・アウトは予約するプランで確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "人の寝具の上・中は利用不可で、就寝時はケージ。犬は客室を中心に過ごし、共用施設には入れません。建物内はキャリーで移動します。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://www.fushioukaku.co.jp/room/with-pet.html"
+    ],
+    [
+      "公式・利用条件",
+      "https://www.fushioukaku.co.jp/room/pdf/agreement-form.pdf"
+    ]
+  ],
+  "bedNote": "人用ベッドNG／就寝時はケージ",
+  "bed": false,
+  "runNote": "ドッグランの有無・利用条件は宿へ確認。",
+  "soloNote": "1名宿泊の可否・料金は予約するプランで確認。"
+},
+{
+  "id": "w-osaka",
+  "name": "W大阪",
+  "area": "大阪市・中央区",
+  "prefecture": "大阪",
+  "kind": "stay",
+  "tags": [
+    "犬同伴客室"
+  ],
+  "intro": "ペット同伴に対応するライフスタイルホテル。心斎橋エリアで、特別な一泊を探す候補に。",
+  "price": "宿泊日・客室・食事条件で変動。犬の追加料金を含む総額を予約画面で確認。",
+  "registration": "18kg以下・2頭まで。対象客室・追加料金を予約時に確認。",
+  "time": "チェックイン・アウトは予約するプランで確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "18kg以下・2頭まで。対象客室・追加料金を予約時に確認。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://www.marriott.com/en-us/hotels/osaow-w-osaka/overview/"
+    ]
+  ],
+  "bedNote": "要確認（人用ベッド・添い寝）。犬用ベッドの用意は、人用ベッドでの添い寝可を意味しません。予約する客室について宿に確認してください。",
+  "bed": null,
+  "runNote": "ドッグランの有無・利用条件は宿へ確認。",
+  "soloNote": "1名宿泊の可否・料金は予約するプランで確認。"
+},
+{
+  "id": "marble-beach",
+  "name": "URBAN CAMP HOTEL Marble Beach",
+  "area": "泉南市",
+  "prefecture": "大阪",
+  "kind": "stay",
+  "tags": [
+    "犬同伴客室"
+  ],
+  "intro": "プライベートパティオ付きの独立型客室。海辺の景色やBBQと合わせて楽しみたい宿。",
+  "price": "宿泊日・客室・食事条件で変動。犬の追加料金を含む総額を予約画面で確認。",
+  "registration": "ペット同伴可能と表示された客室のみ。体格・頭数を確認。",
+  "time": "チェックイン・アウトは予約するプランで確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "ペット同伴可能と表示された客室のみ。体格・頭数を確認。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://digiq.jp/bbq/marblebeach/rooms/"
+    ]
+  ],
+  "bedNote": "要確認（人用ベッド・添い寝）。犬用ベッドの用意は、人用ベッドでの添い寝可を意味しません。予約する客室について宿に確認してください。",
+  "bed": null,
+  "runNote": "ドッグランの有無・利用条件は宿へ確認。",
+  "soloNote": "1名宿泊の可否・料金は予約するプランで確認。"
+},
+{
+  "id": "inoforest",
+  "name": "イーノの森 Dog Garden",
+  "area": "東京・江東区",
+  "prefecture": "東京",
+  "kind": "play",
+  "tags": [
+    "ドッグラン",
+    "屋外"
+  ],
+  "intro": "夢の島エリアにあるドッグラン。街のおでかけに、思いきり走る時間を加えたい日に。",
+  "price": "人・犬の料金や駐車料金は、公式の最新利用案内で確認。",
+  "registration": "利用登録・予防接種証明など、初回の必要書類を確認。",
+  "time": "営業日・利用時間・貸切予定は公式案内で確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "通常利用は事前予約不要ですが、来場者のLINEデジタル会員登録が必要。貸切は別途WEB予約。イベントによる休場も営業カレンダーで確認してください。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://inoforest-dog.com/dogrun/"
+    ]
+  ],
+  "dogrun": true
+},
+{
+  "id": "shinyokohama-run",
+  "name": "新横浜公園ドッグラン",
+  "area": "神奈川・横浜市港北区",
+  "prefecture": "神奈川",
+  "kind": "play",
+  "tags": [
+    "ドッグラン",
+    "屋外"
+  ],
+  "intro": "公園内の天然芝ドッグラン。小型犬・中大型犬のエリアを分けて利用できます。",
+  "price": "人・犬の料金や駐車料金は、公式の最新利用案内で確認。",
+  "registration": "登録制。営業日と天候による休場は当日の案内を確認。",
+  "time": "営業日・利用時間・貸切予定は公式案内で確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "登録制。小型犬と中大型犬のエリアがあります。雨の後などの休場・再開状況を出発前に確認してください。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://www.shinyoko-dogrun.com/about/index.html"
+    ]
+  ],
+  "dogrun": true
+},
+{
+  "id": "dogpark-satte",
+  "name": "ドッグパーク幸手",
+  "area": "埼玉・幸手市",
+  "prefecture": "埼玉",
+  "kind": "play",
+  "tags": [
+    "ドッグラン",
+    "屋外"
+  ],
+  "intro": "小型犬・中大型犬向けのエリアを備えるラン。貸切エリアもあり、遊び方で選べます。",
+  "price": "人・犬の料金や駐車料金は、公式の最新利用案内で確認。",
+  "registration": "今回は日帰りランとして紹介。貸切枠は別途予約条件を確認。",
+  "time": "営業日・利用時間・貸切予定は公式案内で確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "小型犬・中大型犬・貸切のエリアを案内。土日祝は時間帯別の利用で、次の時間帯をまたぐ場合は追加料金に注意。屋内施設「ドッグランズウェル」とは別会場です。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://dpsatte.jimdofree.com/"
+    ]
+  ],
+  "dogrun": true
+},
+{
+  "id": "senbonmatsu-run",
+  "name": "那須千本松牧場 ドッグパーク",
+  "area": "栃木・那須塩原市",
+  "prefecture": "栃木",
+  "kind": "play",
+  "tags": [
+    "ドッグラン",
+    "屋外"
+  ],
+  "intro": "天然芝のドッグパーク。那須方面のおでかけに、愛犬が走れる寄り道を。",
+  "price": "人・犬の料金や駐車料金は、公式の最新利用案内で確認。",
+  "registration": "牧場入場とドッグパーク利用は別。料金・受付条件を確認。",
+  "time": "営業日・利用時間・貸切予定は公式案内で確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "牧場の入場・駐車場は無料、ドッグパークは有料。共用エリアは原則リード着用で、相性などの条件を満たす場合に外せます。伸縮式・5m以上のリードは不可。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://www.senbonmatsu.com/dogpark/"
+    ]
+  ],
+  "dogrun": true
+},
+{
+  "id": "meiken-bokujou",
+  "name": "世界の名犬牧場",
+  "area": "群馬・前橋市",
+  "prefecture": "群馬",
+  "kind": "play",
+  "tags": [
+    "ドッグラン",
+    "屋外"
+  ],
+  "intro": "犬のサイズなどに合わせたエリアを用意。赤城山のふもとで、愛犬と過ごす一日に。",
+  "price": "人・犬の料金や駐車料金は、公式の最新利用案内で確認。",
+  "registration": "人・犬の入場料と必要書類を確認。プールは営業期間に注意。",
+  "time": "営業日・利用時間・貸切予定は公式案内で確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "人と犬の入場料が必要で、入場後のラン利用に追加料金はありません。小型犬・中大型犬・初心者向けエリアを案内。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://www.meiken-bokujou.com/dogrun/"
+    ]
+  ],
+  "dogrun": true
+},
+{
+  "id": "tsukuba-wanwan",
+  "name": "つくばわんわんランド",
+  "area": "茨城・つくば市",
+  "prefecture": "茨城",
+  "kind": "play",
+  "tags": [
+    "ドッグラン",
+    "屋外"
+  ],
+  "intro": "愛犬を連れて入園し、ドッグランで遊べる施設。園内では犬同伴できる場所を守って散策。",
+  "price": "人・犬の料金や駐車料金は、公式の最新利用案内で確認。",
+  "registration": "学校の授業などで貸切になる場合あり。利用可能時間を確認。",
+  "time": "営業日・利用時間・貸切予定は公式案内で確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "犬の入園は無料、人の入園料は別途必要です。ふれあいエリアなど犬同伴不可の場所があります。ランが授業で貸切になる場合もあります。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://wanwan-land.co.jp/dogpark/"
+    ]
+  ],
+  "dogrun": true
+},
+{
+  "id": "motherfarm-run",
+  "name": "マザー牧場 ドッグラン",
+  "area": "千葉・富津市",
+  "prefecture": "千葉",
+  "kind": "play",
+  "tags": [
+    "ドッグラン",
+    "屋外"
+  ],
+  "intro": "愛犬と入場できる牧場のドッグラン。広い園内の散歩と組み合わせて楽しみたい場所。",
+  "price": "人・犬の料金や駐車料金は、公式の最新利用案内で確認。",
+  "registration": "犬の入場料あり。動物ふれあい・屋内など同伴不可エリアに注意。",
+  "time": "営業日・利用時間・貸切予定は公式案内で確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "人・犬の入場料と駐車料金は別途必要。ランの追加利用料はありません。伸縮リードは使用不可。飲食は犬同伴可能な屋外席などを選びます。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://www.motherfarm.co.jp/service/pet/"
+    ],
+    [
+      "公式・利用条件",
+      "https://www.motherfarm.co.jp/service/pdf/attraction.pdf"
+    ],
+    [
+      "公式・利用条件",
+      "https://www.motherfarm.co.jp/service/pet/pdf/dogrunguide.pdf"
+    ]
+  ],
+  "dogrun": true
+},
+{
+  "id": "narita-yume-run",
+  "name": "成田ゆめ牧場 ドッグガーデン",
+  "area": "千葉・成田市",
+  "prefecture": "千葉",
+  "kind": "play",
+  "tags": [
+    "ドッグラン",
+    "屋外"
+  ],
+  "intro": "傾斜や木陰のあるドッグガーデン。牧場の休日に、愛犬が走る時間をつくりたい人に。",
+  "price": "人・犬の料金や駐車料金は、公式の最新利用案内で確認。",
+  "registration": "人と犬の入場料、予防接種証明などの持参条件を確認。",
+  "time": "営業日・利用時間・貸切予定は公式案内で確認。",
+  "documents": "予防接種証明書・同意書など、必要な持ち物と受入条件を公式案内で確認。",
+  "note": "人・犬の入場料、駐車料金を確認。狂犬病・3種以上の混合ワクチンの有効な証明書などが必要です。犬同伴可能な屋内フードホールもあります。",
+  "checked": "2026-10-14",
+  "visited": false,
+  "free": false,
+  "sources": [
+    [
+      "公式・施設と利用案内",
+      "https://www.yumebokujo.com/doggarden.html"
+    ],
+    [
+      "公式・利用条件",
+      "https://www.yumebokujo.com/wp/wp-content/uploads/2019/11/20230416_dogrunriyokiyaku.pdf"
+    ],
+    [
+      "公式・利用条件",
+      "https://www.yumebokujo.com/wp/wp-content/uploads/2019/11/maikurobaburu_goannnai.pdf"
+    ]
+  ],
+  "dogrun": true
+},
+
 /* Instagram掲載施設の追加：2026-10-12 */
 {
   "id": "stay-otowanomori",

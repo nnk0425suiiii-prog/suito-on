@@ -1,5 +1,25 @@
 /* OUTING: add articles here; all articles share outing-article.html. */
 const outingFeatures = [
+/* Instagram掲載施設の追加：2026-10-14 */
+{
+  "id": "outing-kanto-day-dogruns",
+  "title": "日帰りで遊ぼう、関東ドッグラン10選。",
+  "description": "インスタ掲載の関東のドッグラン10施設。屋内・屋外、サイズ別エリア、初回登録や持ち物を確認。",
+  "label": "KANTO / DOG RUN",
+  "date": "2026-10-14",
+  "image": "images/outing/feature-kanto-day-dogruns-20261014.webp",
+  "content": "<p>インスタで紹介した関東の日帰りドッグランをまとめました。屋内で遊べる場所も、牧場散歩と組み合わせられる場所も。初回登録や証明書を確認してから出発しましょう。</p><p>掲載施設は未訪問の候補です。情報確認：2026年10月14日。営業状況・料金・受入条件は各公式の最新案内を確認してください。</p><section class=\"outing-article-block\"><h2>01｜緑の中で、のびのび。</h2>{{place:inoforest}}<p>通常利用は事前予約不要ですが、来場者のLINEデジタル会員登録が必要。貸切は別途WEB予約。イベントによる休場も営業カレンダーで確認してください。</p></section><section class=\"outing-article-block\"><h2>02｜広さや屋根で、遊び場を選ぼう。</h2>{{place:wonderful-village}}<p>人と犬の入園料、必要な証明書を確認して出発。</p></section><section class=\"outing-article-block\"><h2>03｜雨の日にも、屋内で運動。</h2>{{place:wancott}}<p>初回登録・利用枠・予防接種証明を確認。貸切は別途相談。</p></section><section class=\"outing-article-block\"><h2>04｜天然芝で、気持ちよく走ろう。</h2>{{place:shinyokohama-run}}<p>登録制。小型犬と中大型犬のエリアがあります。雨の後などの休場・再開状況を出発前に確認してください。</p></section><section class=\"outing-article-block\"><h2>05｜サイズに合わせて遊べる場所。</h2>{{place:dogpark-satte}}<p>小型犬・中大型犬・貸切のエリアを案内。土日祝は時間帯別の利用で、次の時間帯をまたぐ場合は追加料金に注意。屋内施設「ドッグランズウェル」とは別会場です。</p></section><section class=\"outing-article-block\"><h2>06｜牧場散歩に、ランの時間も。</h2>{{place:senbonmatsu-run}}<p>牧場の入場・駐車場は無料、ドッグパークは有料。共用エリアは原則リード着用で、相性などの条件を満たす場合に外せます。伸縮式・5m以上のリードは不可。</p></section><section class=\"outing-article-block\"><h2>07｜広い芝生で、休日を満喫。</h2>{{place:meiken-bokujou}}<p>人と犬の入場料が必要で、入場後のラン利用に追加料金はありません。小型犬・中大型犬・初心者向けエリアを案内。</p></section><section class=\"outing-article-block\"><h2>08｜筑波山を眺める、天然芝ラン。</h2>{{place:tsukuba-wanwan}}<p>犬の入園は無料、人の入園料は別途必要です。ふれあいエリアなど犬同伴不可の場所があります。ランが授業で貸切になる場合もあります。</p></section><section class=\"outing-article-block\"><h2>09｜牧場の景色と、ランを一緒に。</h2>{{place:motherfarm-run}}<p>人・犬の入場料と駐車料金は別途必要。ランの追加利用料はありません。伸縮リードは使用不可。飲食は犬同伴可能な屋外席などを選びます。</p></section><section class=\"outing-article-block\"><h2>10｜自然の起伏も、遊びのひとつ。</h2>{{place:narita-yume-run}}<p>人・犬の入場料、駐車料金を確認。狂犬病・3種以上の混合ワクチンの有効な証明書などが必要です。犬同伴可能な屋内フードホールもあります。</p></section><p>表紙はすいとおん。編集部のイラストです。実際の施設・設備を描いた写真ではありません。</p>"
+},
+{
+  "id": "outing-osaka-stays",
+  "title": "愛犬と泊まる、大阪の宿10選。",
+  "description": "インスタ掲載の大阪の宿10軒。犬同伴プラン、体格・頭数、人用ベッドと添い寝の条件を確認。",
+  "label": "OSAKA / STAY",
+  "date": "2026-10-14",
+  "image": "images/outing/feature-osaka-stays-20261014.webp",
+  "content": "<p>インスタで紹介した大阪の宿を、予約前に確認したい条件と一緒にまとめました。街なかのホテルから温泉旅館、海辺のヴィラまで。犬同伴は専用客室・プランが対象です。</p><p>掲載施設は未訪問の候補です。情報確認：2026年10月14日。営業状況・料金・受入条件は各公式の最新案内を確認してください。</p><p>ベッド・添い寝の可否を各宿に記載しています。「要確認」の宿は添い寝可として紹介していません。</p><section class=\"outing-article-block\"><h2>01｜街歩きも、ホテルの庭時間も。</h2>{{place:omo7-osaka}}<p>中型犬まで・2頭まで。対象のドッグフレンドリールームを予約。</p></section><section class=\"outing-article-block\"><h2>02｜梅田を拠点に、愛犬と一泊。</h2>{{place:hilton-osaka}}<p>犬だけを客室に残すことはできません。館内の移動は全身が入るキャリーを使用し、レストラン・カフェ・バーは犬同伴不可。食事中の過ごし方も予約前に相談してください。</p></section><section class=\"outing-article-block\"><h2>03｜うめきたの散歩を、旅の日課に。</h2>{{place:canopy-osaka}}<p>共用部の移動は閉じられるキャリーを使用。1階カフェ Bean there, UMEDA は犬同伴の案内があります。犬だけでの留守番は原則不可。</p></section><section class=\"outing-article-block\"><h2>04｜小さな愛犬と、心斎橋ステイ。</h2>{{place:del-shinsaibashi}}<p>人用ベッドと浴室は犬の利用不可。客室内ではマナーパンツを着用。</p></section><section class=\"outing-article-block\"><h2>05｜気軽な雰囲気で、大阪の街へ。</h2>{{place:moxy-osaka}}<p>15kg以下・1頭。</p></section><section class=\"outing-article-block\"><h2>06｜堀江で過ごす、愛犬との年末年始。</h2>{{place:imano-osaka}}<p>対象期間：2026/12/26〜2027/1/3。犬同伴プランを予約。</p></section><section class=\"outing-article-block\"><h2>07｜天王寺駅近くで、愛犬と滞在。</h2>{{place:3oclock-tennoji}}<p>専用駐車場はありません。車の場合は周辺のコインパーキングを確認してください。</p></section><section class=\"outing-article-block\"><h2>08｜大阪で、愛犬と温泉旅館へ。</h2>{{place:fushioukaku}}<p>人の寝具の上・中は利用不可で、就寝時はケージ。犬は客室を中心に過ごし、共用施設には入れません。建物内はキャリーで移動します。</p></section><section class=\"outing-article-block\"><h2>09｜デザインも楽しむ、ごほうび泊。</h2>{{place:w-osaka}}<p>18kg以下・2頭まで。対象客室・追加料金を予約時に確認。</p></section><section class=\"outing-article-block\"><h2>10｜海辺で過ごす、ヴィラの休日。</h2>{{place:marble-beach}}<p>ペット同伴可能と表示された客室のみ。体格・頭数を確認。</p></section><p>表紙はすいとおん。編集部のイラストです。実際の施設・設備を描いた写真ではありません。</p>"
+},
+
 /* Instagram掲載施設の追加：2026-10-12 */
 {
   "id": "outing-stay-tokyo-instagram",
