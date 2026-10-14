@@ -12,7 +12,7 @@ const calendarEvents = [
   "place": "ジ アウトレット湘南平塚 C駐車場",
   "address": "神奈川県平塚市大神8-1-1",
   "mapUrl": "https://www.google.com/maps/search/?api=1&query=ジアウトレット湘南平塚",
-  "image": "",
+  "image": "images/event/tokyo-wanwan-halloween-2026-watercolor.webp",
   "description": "湘南平塚で犬のおやつ・洋服・グッズのマーケット。ハワイアンフードフェスも同時開催する、入場無料のハロウィンイベント。",
   "url": "https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5747",
   "editorialCheckedAt": "2026-10-13",
@@ -27,7 +27,7 @@ const calendarEvents = [
       "url": "https://www.instagram.com/tokyo_wanwan_event/"
     }
   ],
-  "content": "<p>ジ アウトレット湘南平塚で、愛犬とハロウィン気分のお買い物を楽しむ2日間。「湘南Hawaiian Food Festival2026」も同時開催されます。</p><h2>日時・料金・会場</h2><p>2026年10月17日（土）・18日（日）、11:00〜16:00。会場はジ アウトレット湘南平塚のC駐車場。入場無料です。</p><h2>どんなイベント？</h2><p>犬のおやつや洋服、グッズを扱うマーケットが中心。会場公式では2日間合計約70〜90店舗と案内されています。ハロウィンの撮影スポットや無料抽選会も予定されています。</p><h2>犬連れで行く前に</h2><p>ワクチン証明書、カート、リードなどの参加条件や、各企画の受付方法は主催者の最新案内で確認してください。イベントへの同伴と、アウトレット各店舗への入店条件は別に確認を。</p><h2>アクセスと雨の日</h2><p>会場所在地は神奈川県平塚市大神8-1-1。C駐車場のイベント区画へ向かってください。交通手段・駐車場入口は施設公式のアクセス案内で確認を。天候によって予告なく中断・中止になる場合があります。</p><h2>おでかけメモ</h2><p>混雑するマーケットでは、買い物の合間に水分補給と休憩を。服やハーネスを探すなら、普段使うサイズや胴回りを控えておくと店舗で相談しやすくなります。</p><h2>公式情報</h2><ul><li><a href=\"https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5747\" target=\"_blank\" rel=\"noopener noreferrer\">会場公式・開催案内</a></li><li><a href=\"https://www.instagram.com/tokyo_wanwan_event/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者Instagram</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月13日。最新の開催状況は公式情報をご確認ください。</p>"
+  "content": "<p>ジ アウトレット湘南平塚で、愛犬とハロウィン気分のお買い物を楽しむ2日間。「湘南Hawaiian Food Festival2026」も同時開催されます。</p><h2>日時・料金・会場</h2><p>2026年10月17日（土）・18日（日）、11:00〜16:00。会場はジ アウトレット湘南平塚のC駐車場。入場無料です。</p><h2>どんなイベント？</h2><p>犬のおやつや洋服、グッズを扱うマーケットが中心。会場公式では2日間合計約70〜90店舗と案内されています。ハロウィンの撮影スポットや無料抽選会も予定されています。</p><h2>犬連れで行く前に</h2><p>ワクチン証明書、カート、リードなどの参加条件や、各企画の受付方法は主催者の最新案内で確認してください。イベントへの同伴と、アウトレット各店舗への入店条件は別に確認を。</p><h2>アクセスと雨の日</h2><p>会場所在地は神奈川県平塚市大神8-1-1。C駐車場のイベント区画へ向かってください。交通手段・駐車場入口は施設公式のアクセス案内で確認を。天候によって予告なく中断・中止になる場合があります。</p><h2>おでかけメモ</h2><p>混雑するマーケットでは、買い物の合間に水分補給と休憩を。服やハーネスを探すなら、普段使うサイズや胴回りを控えておくと店舗で相談しやすくなります。</p><h2>公式情報</h2><ul><li><a href=\"https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5747\" target=\"_blank\" rel=\"noopener noreferrer\">会場公式・開催案内</a></li><li><a href=\"https://www.instagram.com/tokyo_wanwan_event/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者Instagram</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月13日。最新の開催状況は公式情報をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>"
 },
 /* 2026-10-11 追加分 */
 {
