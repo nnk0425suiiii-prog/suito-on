@@ -1,6 +1,6 @@
 /* 開催回ごとの公式確認情報。未確認を出展なしと扱わない。 */
 const eventExhibitorsData = {
-  "checkedAt": "2026-10-12",
+  "checkedAt": "2026-10-19",
   "brands": {
     "b-9ee6e734c257": {
       "name": "GALAXY GLAMPING DOG",
@@ -13034,6 +13034,724 @@ const eventExhibitorsData = {
       "sourceUrl": "https://www.instagram.com/p/DeQfmywjztj/",
       "checkedAt": "2026-10-13",
       "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
+    },
+    "b-930b8785d35b": {
+      "name": "犬のしつけ教室 coln.",
+      "category": "ライフサービス",
+      "description": "紹介されている取扱内容は、トレーニング・お散歩指導・トレーニング相談です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.coln-dog.com/",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://cavalier-festival.com/market/colndog/",
+      "checkedAt": "2026-10-19"
+    },
+    "b-fd813d7e3574": {
+      "name": "alivio haru haru",
+      "category": "ドッグアパレル・雑貨",
+      "description": "紹介されている取扱内容は、犬服・ネックウォーマー・名前入れ可能・リードです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://instagram.com/alivio_haru_haru?obrf=bWFlYTR5a3pmaWxn&utm_source=qr",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://cavalier-festival.com/market/alivio-haru-haru/",
+      "checkedAt": "2026-10-19"
+    },
+    "b-6338a2b20fe4": {
+      "name": "プランテージ / Bellwoods",
+      "category": "グルーミング・ケアアイテム",
+      "description": "紹介されている取扱内容は、ブラシ＆ケア用品・ブラッシング用品・ケア用品です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "体格別の対応は未確認。使用対象・毛質・お手入れ内容は店舗へご確認ください。",
+      "url": "https://plantage.thebase.in",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://pug-festival.com/market/plantage-bellwoods/",
+      "checkedAt": "2026-10-19"
+    },
+    "b-e0161b2297c7": {
+      "name": "SFA★STARS",
+      "category": "ドッグアパレル・雑貨",
+      "description": "紹介されている取扱内容は、リード・ケア用品です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://x.gd/1bwXg",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://pug-festival.com/market/sfa%e2%98%85stars/",
+      "checkedAt": "2026-10-19"
+    },
+    "b-9cadb520da23": {
+      "name": "ゆきちのぱぐぱぐショップ",
+      "category": "ドッグアパレル・雑貨",
+      "description": "紹介されている取扱内容は、文房具・鼻ぺちゃフィギュア・セミオーダー・雑貨です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.creema.jp/c/yukichii_Illustrator/item/onsale",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://pug-festival.com/market/yukichi-pugpugshop/",
+      "checkedAt": "2026-10-19"
+    },
+    "b-468296ca5bde": {
+      "name": "パグ沢屋",
+      "category": "ドッグアパレル・雑貨",
+      "description": "紹介されている取扱内容は、首輪・リード・パラコード・名前入りです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/pugrentaro/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://pug-festival.com/market/pugsawaya/",
+      "checkedAt": "2026-10-19"
+    },
+    "b-a03a21af061b": {
+      "name": "ぴいことちゃあのおへや",
+      "category": "ドッグアパレル・雑貨",
+      "description": "紹介されている取扱内容は、羊毛フェルト・イラスト・似顔絵・イラスト・羊毛フェルト作品です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://pug-festival.com/market/oheya/",
+      "checkedAt": "2026-10-19"
+    },
+    "b-d1eeb5771c3b": {
+      "name": "ペットアニバーサリー＆メモリアルグッズ専門店RainbowBridge",
+      "category": "犬服・身につけるもの",
+      "description": "紹介されている取扱内容は、ハーネス・首輪・犬服・雑貨です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e3%83%9a%e3%83%83%e3%83%88%e3%82%a2%e3%83%8b%e3%83%90%e3%83%bc%e3%82%b5%e3%83%aa%e3%83%bc%ef%bc%86%e3%83%a1%e3%83%a2%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%b0%e3%83%83%e3%82%ba%e5%b0%82%e9%96%80%e5%ba%97ra/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "1日[25日(日)]"
+    },
+    "b-e98a35b87385": {
+      "name": "wanco knit",
+      "category": "犬服・身につけるもの",
+      "description": "手編みの犬用ニットウェアや帽子、ハロウィン向けの小物を紹介しています。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/wanco-knit%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "1日[25日(日)]"
+    },
+    "b-38216217e4b4": {
+      "name": "想い出工房",
+      "category": "アート・雑貨",
+      "description": "動物や人物を木に描く、立体的な木製アートを制作するお店です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e6%83%b3%e3%81%84%e5%87%ba%e5%b7%a5%e6%88%bf%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-a2bc1e4f8e18": {
+      "name": "Ray’s Farm",
+      "category": "フード・おやつ",
+      "description": "紹介されている取扱内容は、おやつ・雑貨です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "犬の大きさ別の対応は未確認。商品の硬さ・大きさ・原材料・対象年齢をご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/rays-farm%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-601d648d472e": {
+      "name": "Kurumi no Obebe ＆ Hijiri+",
+      "category": "犬服・身につけるもの",
+      "description": "紹介されている取扱内容は、犬服・シャンプーです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/kurumi-no-obebe-%ef%bc%86-hijiri%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-1d4c09c1e4dd": {
+      "name": "nico’skitchen",
+      "category": "フード・おやつ",
+      "description": "紹介されている取扱内容は、おやつです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "犬の大きさ別の対応は未確認。商品の硬さ・大きさ・原材料・対象年齢をご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/nicoskitchen%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "1日[24日(土)]"
+    },
+    "b-b9cc89718108": {
+      "name": "わんこの服 niccotte",
+      "category": "犬服・身につけるもの",
+      "description": "紹介されている取扱内容は、犬服です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e3%82%8f%e3%82%93%e3%81%93%e3%81%ae%e6%9c%8d%e3%80%80niccotte%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "1日[24日(土)]"
+    },
+    "b-f99df4a9ce17": {
+      "name": "もんある",
+      "category": "出展ブース",
+      "description": "ペットとのコミュニケーションをテーマにしたサービスを案内しています。内容と料金は主催者の紹介でご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e3%82%82%e3%82%93%e3%81%82%e3%82%8b%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-fda3d5a35ce2": {
+      "name": "noinu & amo.jo.",
+      "category": "犬服・身につけるもの",
+      "description": "紹介されている取扱内容は、犬服です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/noinu-amo-jo-%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-0a7393b5c13c": {
+      "name": "∴故に",
+      "category": "アート・雑貨",
+      "description": "犬種をモチーフにした、樹脂粘土のクッキー型食品サンプルを制作。食べ物ではなく作品の販売です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e2%88%b4%e6%95%85%e3%81%ab%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-68b2dc4d8d4d": {
+      "name": "Pet_to_family",
+      "category": "グッズ・サービス",
+      "description": "紹介されている取扱内容は、バッグ・雑貨です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/pet_to_family%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-66db78b0fce0": {
+      "name": "WagZ",
+      "category": "フード・おやつ",
+      "description": "紹介されている取扱内容は、おやつです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "犬の大きさ別の対応は未確認。商品の硬さ・大きさ・原材料・対象年齢をご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/wagz%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-598db9a88f1f": {
+      "name": "DANNYCHURROS",
+      "category": "飼い主向け・飲食",
+      "description": "飲食の出店です。メニューは主催者の店舗紹介をご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "人向けの飲食です。犬用の商品かどうかは店舗でご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/dannychurros%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-b28b7b9b5883": {
+      "name": "KIRIYA NaturalDogfoods",
+      "category": "フード・おやつ",
+      "description": "紹介されている取扱内容は、おやつです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "犬の大きさ別の対応は未確認。商品の硬さ・大きさ・原材料・対象年齢をご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/kiriya-naturaldogfoods%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-dc25331daf68": {
+      "name": "わんのはな",
+      "category": "フード・おやつ",
+      "description": "紹介されている取扱内容は、おやつです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "犬の大きさ別の対応は未確認。商品の硬さ・大きさ・原材料・対象年齢をご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e3%82%8f%e3%82%93%e3%81%ae%e3%81%af%e3%81%aa%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-147e5af94010": {
+      "name": "umi coffee",
+      "category": "飼い主向け・飲食",
+      "description": "飲食の出店です。メニューは主催者の店舗紹介をご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "人向けの飲食です。犬用の商品かどうかは店舗でご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/umi-coffee%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "1日[24日(土)]"
+    },
+    "b-9e7d20d17c38": {
+      "name": "maskota",
+      "category": "フード・おやつ",
+      "description": "紹介されている取扱内容は、おやつ・雑貨です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "犬の大きさ別の対応は未確認。商品の硬さ・大きさ・原材料・対象年齢をご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/maskota%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-64c365990161": {
+      "name": "九州 美味鹿",
+      "category": "フード・おやつ",
+      "description": "紹介されている取扱内容は、ジャーキーです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "犬の大きさ別の対応は未確認。商品の硬さ・大きさ・原材料・対象年齢をご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e4%b9%9d%e5%b7%9e%e3%80%80%e7%be%8e%e5%91%b3%e9%b9%bf%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-4b355848d6d2": {
+      "name": "長門山恵賜工房",
+      "category": "フード・おやつ",
+      "description": "紹介されている取扱内容は、ジャーキー・鹿肉を使った商品です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "犬の大きさ別の対応は未確認。商品の硬さ・大きさ・原材料・対象年齢をご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e9%95%b7%e9%96%80%e5%b1%b1%e6%81%b5%e8%b3%9c%e5%b7%a5%e6%88%bf%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-c879c8dcc0f8": {
+      "name": "WAN LIFE",
+      "category": "犬服・身につけるもの",
+      "description": "紹介されている取扱内容は、犬服・刺繍アイテム・雑貨です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/wan-life%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-bcb930b6da84": {
+      "name": "縁豆",
+      "category": "飼い主向け・飲食",
+      "description": "飲食の出店です。メニューは主催者の店舗紹介をご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "人向けの飲食です。犬用の商品かどうかは店舗でご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e7%b8%81%e8%b1%86%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "1日[25日(日)]"
+    },
+    "b-e76955bb2507": {
+      "name": "CRAFT OCEAN",
+      "category": "出展ブース",
+      "description": "漁師が加工するイワシの商品を紹介しています。与え方や犬用の取扱範囲は店頭でご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/craft-ocean%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "1日[24日(土)]"
+    },
+    "b-125f105a2aa3": {
+      "name": "DELI CAR 青空",
+      "category": "飼い主向け・飲食",
+      "description": "飲食の出店です。メニューは主催者の店舗紹介をご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "人向けの飲食です。犬用の商品かどうかは店舗でご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/deli-car-%e9%9d%92%e7%a9%ba%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "1日[24日(土)]"
+    },
+    "b-f84106ee6a12": {
+      "name": "coirground japan®代理店（株）栗原ロックフィールド",
+      "category": "グッズ・サービス",
+      "description": "紹介されている取扱内容は、マット・床まわりです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/coirground-japan%e4%bb%a3%e7%90%86%e5%ba%97%ef%bc%88%e6%a0%aa%ef%bc%89%e6%a0%97%e5%8e%9f%e3%83%ad%e3%83%83%e3%82%af%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%89%e3%80%80-my-dog-16-2026%e5%b9%b4/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-9756b6b08ab0": {
+      "name": "BON TAIL",
+      "category": "犬服・身につけるもの",
+      "description": "紹介されている取扱内容は、犬服です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/bon-tail%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-4d2eb01b5b71": {
+      "name": "似顔絵ツリガネニンジン",
+      "category": "撮影・アート",
+      "description": "紹介されている取扱内容は、似顔絵・イラストです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e4%bc%bc%e9%a1%94%e7%b5%b5%e3%83%84%e3%83%aa%e3%82%ac%e3%83%8d%e3%83%8b%e3%83%b3%e3%82%b8%e3%83%b3%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-15b9a8c21981": {
+      "name": "こずポチ",
+      "category": "フード・おやつ",
+      "description": "鹿の角を使った犬用おやつや用品を販売。硬さや愛犬への適性は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "犬の大きさ別の対応は未確認。商品の硬さ・大きさ・原材料・対象年齢をご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e3%81%93%e3%81%9a%e3%83%9d%e3%83%81%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "1日[25日(日)]"
+    },
+    "b-5b7d7e569017": {
+      "name": "プピリットパロ",
+      "category": "飼い主向け・飲食",
+      "description": "生クリーム・果物などを使ったクレープを販売。飼い主さんの休憩向けの飲食店です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e3%83%97%e3%83%94%e3%83%aa%e3%83%83%e3%83%88%e3%83%91%e3%83%ad%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-e873526fa006": {
+      "name": "healthy cafe",
+      "category": "飼い主向け・飲食",
+      "description": "飲食の出店です。メニューは主催者の店舗紹介をご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "人向けの飲食です。犬用の商品かどうかは店舗でご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/healthy-cafe%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-9bed0a5d39bd": {
+      "name": "TOYPOY WORKSHOP",
+      "category": "撮影・アート",
+      "description": "紹介されている取扱内容は、似顔絵・イラストです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/toypoy-workshop%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-a285b759df12": {
+      "name": "29NiiQ",
+      "category": "フード・おやつ",
+      "description": "紹介されている取扱内容は、ジャーキーです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "犬の大きさ別の対応は未確認。商品の硬さ・大きさ・原材料・対象年齢をご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/29niiq%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-0a64f1e07406": {
+      "name": "ぐーるぐる",
+      "category": "フード・おやつ",
+      "description": "紹介されている取扱内容は、おやつです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "犬の大きさ別の対応は未確認。商品の硬さ・大きさ・原材料・対象年齢をご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e3%81%90%e3%83%bc%e3%82%8b%e3%81%90%e3%82%8b%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-5a7519e0c70c": {
+      "name": "犬服工房こはるびより",
+      "category": "犬服・身につけるもの",
+      "description": "手作りの犬服・スタイ・小物を販売。超小型犬から大型犬、ダックス・フレブル向けのサイズも案内しています。",
+      "tags": [
+        "小型犬向け案内あり",
+        "大型犬向け案内あり"
+      ],
+      "sizes": [
+        "small",
+        "large"
+      ],
+      "sizeNote": "大型犬向け商品の案内があります。商品ごとのサイズ・在庫は店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e7%8a%ac%e6%9c%8d%e5%b7%a5%e6%88%bf%e3%81%93%e3%81%af%e3%82%8b%e3%81%b3%e3%82%88%e3%82%8a%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-061797936a53": {
+      "name": "anmaro",
+      "category": "出展ブース",
+      "description": "出展が案内されているお店です。取扱商品の詳細は店舗紹介をご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/anmaro%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "1日[24日(土)]"
+    },
+    "b-fb13fb8c7a0d": {
+      "name": "jolipote",
+      "category": "フード・おやつ",
+      "description": "紹介されている取扱内容は、おやつです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "犬の大きさ別の対応は未確認。商品の硬さ・大きさ・原材料・対象年齢をご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/jolipote%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-20fd13e4bac7": {
+      "name": "ふぃっちゃ工房",
+      "category": "グッズ・サービス",
+      "description": "紹介されている取扱内容は、雑貨です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e3%81%b5%e3%81%83%e3%81%a3%e3%81%a1%e3%82%83%e5%b7%a5%e6%88%bf%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-d250060dfb79": {
+      "name": "のぐのぐ Shop Salty",
+      "category": "フード・おやつ",
+      "description": "紹介されている取扱内容は、ジャーキー・おやつです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "犬の大きさ別の対応は未確認。商品の硬さ・大きさ・原材料・対象年齢をご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e3%81%ae%e3%81%90%e3%81%ae%e3%81%90%e3%80%80shop-salty%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-1f6b54074a0f": {
+      "name": "株式会社エンゲージ",
+      "category": "グッズ・サービス",
+      "description": "紹介されている取扱内容は、住まい・電力サービスです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%a8%e3%83%b3%e3%82%b2%e3%83%bc%e3%82%b8%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-b4dc9e395272": {
+      "name": "七色のサカナ",
+      "category": "フード・おやつ",
+      "description": "紹介されている取扱内容は、ジャーキーです。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "犬の大きさ別の対応は未確認。商品の硬さ・大きさ・原材料・対象年齢をご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e4%b8%83%e8%89%b2%e3%81%ae%e3%82%b5%e3%82%ab%e3%83%8a%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "1日[24日(土)]"
+    },
+    "b-87908fa2d9d0": {
+      "name": "犬のしっぽ＆リボン",
+      "category": "犬服・身につけるもの",
+      "description": "紹介されている取扱内容は、犬服です。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://my-dog.me/%e7%8a%ac%e3%81%ae%e3%81%97%e3%81%a3%e3%81%bd%ef%bc%86%e3%83%aa%e3%83%9c%e3%83%b3%e3%80%80-my-dog-16-2026%e5%b9%b410%e6%9c%88-%e5%87%ba%e5%ba%97%e8%80%85%e7%b4%b9%e4%bb%8b/",
+      "checkedAt": "2026-10-19",
+      "attendanceNote": "2日間"
+    },
+    "b-0f74ea6214e2": {
+      "name": "ペテモブース",
+      "category": "ケア・体験・グッズ",
+      "description": "獣医師・愛玩動物看護師の健康相談、爪切りやブラッシング、写真を使った記念グッズなどを案内。予約・整理券が必要な企画があります。",
+      "tags": [
+        "小型犬向け案内あり"
+      ],
+      "sizes": [
+        "small"
+      ],
+      "sizeNote": "爪切り・ブラッシングとシャンプーマシン体験は小型犬が対象。16歳以上は利用不可の案内です。企画ごとに対象条件が異なります。",
+      "url": "https://www.aeonpet.com/",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.aeonpet.com/petemofes/",
+      "checkedAt": "2026-10-19"
     }
   },
   "events": {
@@ -13080,7 +13798,7 @@ const eventExhibitorsData = {
         "b-c1adf5a7411c"
       ],
       "sourceUrl": "https://chihuahua-expo.com/event/2026-11-22/market/",
-      "checkedAt": "2026-10-12",
+      "checkedAt": "2026-10-19",
       "status": "listed",
       "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
     },
@@ -13169,7 +13887,7 @@ const eventExhibitorsData = {
         "b-3225753dbdf8"
       ],
       "sourceUrl": "https://schnauzer-kingdom.com/event/2026-11-29/market/",
-      "checkedAt": "2026-10-12",
+      "checkedAt": "2026-10-19",
       "status": "listed",
       "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
     },
@@ -13258,7 +13976,7 @@ const eventExhibitorsData = {
         "b-daf6ff6b0e57"
       ],
       "sourceUrl": "https://dachshund-festival.com/event/2026-11-14/market/",
-      "checkedAt": "2026-10-12",
+      "checkedAt": "2026-10-19",
       "status": "listed",
       "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
     },
@@ -13327,7 +14045,7 @@ const eventExhibitorsData = {
         "b-b97c89efc7de"
       ],
       "sourceUrl": "https://pomeranian-festival.com/event/2026-11-23/market/",
-      "checkedAt": "2026-10-12",
+      "checkedAt": "2026-10-19",
       "status": "listed",
       "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
     },
@@ -13384,10 +14102,12 @@ const eventExhibitorsData = {
         "b-93b419c39a6e",
         "b-cba19533e731",
         "b-a119ab72c37d",
-        "b-68ba5aba5e59"
+        "b-68ba5aba5e59",
+        "b-930b8785d35b",
+        "b-fd813d7e3574"
       ],
       "sourceUrl": "https://cavalier-festival.com/event/2026-10-31/market/",
-      "checkedAt": "2026-10-12",
+      "checkedAt": "2026-10-19",
       "status": "listed",
       "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
     },
@@ -13500,10 +14220,15 @@ const eventExhibitorsData = {
         "b-63f44c6e164c",
         "b-1bb15902ff01",
         "b-cefdb36d4b3f",
-        "b-fac14fdca58f"
+        "b-fac14fdca58f",
+        "b-6338a2b20fe4",
+        "b-e0161b2297c7",
+        "b-9cadb520da23",
+        "b-468296ca5bde",
+        "b-a03a21af061b"
       ],
       "sourceUrl": "https://pug-festival.com/event/2026-11-01/market/",
-      "checkedAt": "2026-10-12",
+      "checkedAt": "2026-10-19",
       "status": "listed",
       "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
     },
@@ -13601,7 +14326,7 @@ const eventExhibitorsData = {
         "b-f238ea48e704"
       ],
       "sourceUrl": "https://reiwa-nihonken.com/event/2026-10-25/market/",
-      "checkedAt": "2026-10-12",
+      "checkedAt": "2026-10-19",
       "status": "listed",
       "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
     },
@@ -13632,7 +14357,7 @@ const eventExhibitorsData = {
         "b-f52525c2970d"
       ],
       "sourceUrl": "https://shihtzu-festival.com/event/2026-11-28/market/",
-      "checkedAt": "2026-10-12",
+      "checkedAt": "2026-10-19",
       "status": "listed",
       "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
     },
@@ -13663,11 +14388,52 @@ const eventExhibitorsData = {
       "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
     },
     "and-my-dog-mojiko-20261024": {
-      "brandIds": [],
-      "sourceUrl": "https://my-dog.me/",
-      "checkedAt": "2026-10-12",
-      "status": "unverified",
-      "note": "この開催回の店舗別情報は確認中です。出展の有無・最新の店舗一覧は主催者の案内をご確認ください。"
+      "brandIds": [
+        "b-d1eeb5771c3b",
+        "b-e98a35b87385",
+        "b-38216217e4b4",
+        "b-a2bc1e4f8e18",
+        "b-601d648d472e",
+        "b-1d4c09c1e4dd",
+        "b-b9cc89718108",
+        "b-f99df4a9ce17",
+        "b-fda3d5a35ce2",
+        "b-0a7393b5c13c",
+        "b-68b2dc4d8d4d",
+        "b-66db78b0fce0",
+        "b-598db9a88f1f",
+        "b-b28b7b9b5883",
+        "b-dc25331daf68",
+        "b-147e5af94010",
+        "b-9e7d20d17c38",
+        "b-64c365990161",
+        "b-4b355848d6d2",
+        "b-c879c8dcc0f8",
+        "b-bcb930b6da84",
+        "b-e76955bb2507",
+        "b-125f105a2aa3",
+        "b-f84106ee6a12",
+        "b-9756b6b08ab0",
+        "b-4d2eb01b5b71",
+        "b-15b9a8c21981",
+        "b-5b7d7e569017",
+        "b-e873526fa006",
+        "b-9bed0a5d39bd",
+        "b-a285b759df12",
+        "b-0a64f1e07406",
+        "b-5a7519e0c70c",
+        "b-061797936a53",
+        "b-fb13fb8c7a0d",
+        "b-20fd13e4bac7",
+        "b-d250060dfb79",
+        "b-1f6b54074a0f",
+        "b-b4dc9e395272",
+        "b-87908fa2d9d0"
+      ],
+      "sourceUrl": "https://my-dog.me/merchants/",
+      "checkedAt": "2026-10-19",
+      "status": "listed",
+      "note": "2026年10月24・25日の公式出店者紹介40件を掲載。合同出店は1件です。1日だけ出店するお店もあるので、各カードの出店日を確認してください。"
     },
     "kinu-wanwanwan-20261031": {
       "brandIds": [],
@@ -14632,11 +15398,13 @@ const eventExhibitorsData = {
       "note": "この開催回の店舗別情報は確認中です。出展の有無・最新の店舗一覧は主催者の案内をご確認ください。"
     },
     "petemofes-makuhari-2026": {
-      "brandIds": [],
+      "brandIds": [
+        "b-0f74ea6214e2"
+      ],
       "sourceUrl": "https://www.aeonpet.com/petemofes/",
-      "checkedAt": "2026-10-12",
-      "status": "unverified",
-      "note": "この開催回の店舗別情報は確認中です。出展の有無・最新の店舗一覧は主催者の案内をご確認ください。"
+      "checkedAt": "2026-10-19",
+      "status": "partial",
+      "note": "公式に内容が発表されたペテモブースを掲載。外部出展店舗の全一覧ではありません。企画の予約・整理券・対象条件は公式でご確認ください。"
     },
     "tokyo-wanwan-halloween-2026": {
       "brandIds": [],

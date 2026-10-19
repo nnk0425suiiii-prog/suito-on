@@ -69,13 +69,18 @@
         card.append(element('p', 'event-exhibitor-category', brand.category), element('h3', '', brand.name));
         const tags = element('ul', 'event-exhibitor-tags');
         for (const tag of brand.tags || []) tags.append(element('li', '', tag));
-        card.append(tags, element('p', '', brand.description), element('p', 'event-exhibitor-size', brand.sizeNote));
-        if (brand.attendanceNote) card.append(element('p', '', `出店日：${brand.attendanceNote}`));
+        card.append(tags, element('p', 'event-exhibitor-description', brand.description));
+        const details = element('details', 'event-exhibitor-details');
+        details.append(element('summary', '', 'サイズ・出店日・出典'), element('p', 'event-exhibitor-size', brand.sizeNote));
+        if (brand.attendanceNote) details.append(element('p', '', `出店日：${brand.attendanceNote}`));
         const links = element('div', 'event-exhibitor-links');
         const official = link(brand.linkLabel || '公式サイト', brand.url);
         const source = link('店舗紹介の出典', brand.profileSourceUrl || brand.sourceUrl);
         if (official) links.append(official);
-        if (source) links.append(source);
+        const photoSource = link('写真・店舗紹介を見る', brand.profileSourceUrl || brand.sourceUrl);
+        if (photoSource) links.append(photoSource);
+        if (source) details.append(source);
+        card.append(details);
         card.append(links);
         grid.append(card);
       }
@@ -95,5 +100,7 @@
   if (source) section.append(source);
   section.append(element('p', 'event-exhibitors-note',
     `確認日：${listing.checkedAt}。${brands.length ? '通常の取扱情報を含みます。当日の販売商品・サイズ・在庫・出店日は各店舗へご確認ください。' : ''}出展の変更は主催者の最新案内へ。`));
-  anchor.before(section);
+  // Give the shop board full page width, while keeping the article readable.
+  const layout = anchor.closest('.event-detail-layout');
+  if (layout) layout.before(section); else anchor.before(section);
 })();
