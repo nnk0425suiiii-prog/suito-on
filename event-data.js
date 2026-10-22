@@ -1,887 +1,854 @@
-/* Existing records preserved; Instagram content synced 2026-10-22. */
+/* EVENT DATA — 既存データを保持し、2026-09-23に13件追加 */
 const calendarEvents = [
-  {
-    "id": "tokyo-dogs-runway-20261024",
-    "title": "TOKYO DOGS’ RUNWAY",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-25",
-    "region": "kanto",
-    "prefecture": "東京都",
-    "place": "昭和記念公園 ゆめひろば（あけぼの口）",
-    "address": "東京都立川市緑町",
-    "description": "愛犬と歩くランウェイやドッグヨガ、お買い物を楽しむ2日間。",
-    "url": "https://tokyodogsrunway.com/",
-    "content": "<!-- instagram-update-20261022 --><h2>おでかけ前のメモ（10月22日確認）</h2><p>TOKYO outside Festival内のDOGゾーンで初開催。愛犬と歩くランウェイ、ドッグヨガや買い物を楽しめます。</p><p>ランウェイは24日12:30〜、25日12:00〜。参加は1,000円、撮影写真の購入は別料金です。</p><h2>日程・会場</h2><p>10/24（土）9:30〜16:00<br>10/25（日）9:30〜15:30<br>昭和記念公園 ゆめひろば（あけぼの口）</p><h2>料金・参加前の確認</h2><p>会場入場無料。ランウェイ1,000円、ドッグヨガ500円。参加枠・申込方法は公式へ。<br>出店・当日の予定は変更される場合があります。<br>告知画像の10:00〜18:00表記と会場公式の時間が異なるため、出発前に最新案内をご確認ください。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://tokyodogsrunway.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://tokyodogsrunway.com/</a></li><li><a href=\"https://prtimes.jp/main/html/rd/p/000000002.000189071.html\" target=\"_blank\" rel=\"noopener noreferrer\">https://prtimes.jp/main/html/rd/p/000000002.000189071.html</a></li><li><a href=\"https://outside-festa.com/tokyo-outside-festival-showa/\" target=\"_blank\" rel=\"noopener noreferrer\">https://outside-festa.com/tokyo-outside-festival-showa/</a></li></ul><p>公式告知画像と会場公式の時刻表記が異なるため、会場公式の9:30開場を記載しています。</p>",
-    "sources": [
-      {
-        "label": "開催案内・参考情報",
-        "url": "https://tokyodogsrunway.com/"
-      },
-      {
-        "label": "開催案内・参考情報",
-        "url": "https://prtimes.jp/main/html/rd/p/000000002.000189071.html"
-      },
-      {
-        "label": "開催案内・参考情報",
-        "url": "https://outside-festa.com/tokyo-outside-festival-showa/"
-      }
-    ],
-    "editorialCheckedAt": "2026-10-22",
-    "image": "images/instagram-sync/event-tokyo-dogs-runway-20261024.webp"
-  },
-  {
-    "id": "tokyo-wanwan-halloween-2026",
-    "title": "東京わんわんハロウィン2026",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-18",
-    "region": "kanto",
-    "prefecture": "神奈川県",
-    "place": "ジ アウトレット湘南平塚 C駐車場",
-    "address": "神奈川県平塚市大神8-1-1",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ジアウトレット湘南平塚",
-    "image": "images/event/tokyo-wanwan-halloween-2026-watercolor.webp",
-    "description": "湘南平塚で犬のおやつ・洋服・グッズのマーケット。ハワイアンフードフェスも同時開催する、入場無料のハロウィンイベント。",
-    "url": "https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5747",
-    "editorialCheckedAt": "2026-10-13",
-    "verificationNote": "会場公式の当該開催回で確認。犬同伴の細則は主催者へ確認。",
-    "sources": [
-      {
-        "label": "会場公式・開催案内",
-        "url": "https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5747"
-      },
-      {
-        "label": "主催者Instagram",
-        "url": "https://www.instagram.com/tokyo_wanwan_event/"
-      }
-    ],
-    "content": "<p>ジ アウトレット湘南平塚で、愛犬とハロウィン気分のお買い物を楽しむ2日間。「湘南Hawaiian Food Festival2026」も同時開催されます。</p><h2>日時・料金・会場</h2><p>2026年10月17日（土）・18日（日）、11:00〜16:00。会場はジ アウトレット湘南平塚のC駐車場。入場無料です。</p><h2>どんなイベント？</h2><p>犬のおやつや洋服、グッズを扱うマーケットが中心。会場公式では2日間合計約70〜90店舗と案内されています。ハロウィンの撮影スポットや無料抽選会も予定されています。</p><h2>犬連れで行く前に</h2><p>ワクチン証明書、カート、リードなどの参加条件や、各企画の受付方法は主催者の最新案内で確認してください。イベントへの同伴と、アウトレット各店舗への入店条件は別に確認を。</p><h2>アクセスと雨の日</h2><p>会場所在地は神奈川県平塚市大神8-1-1。C駐車場のイベント区画へ向かってください。交通手段・駐車場入口は施設公式のアクセス案内で確認を。天候によって予告なく中断・中止になる場合があります。</p><h2>おでかけメモ</h2><p>混雑するマーケットでは、買い物の合間に水分補給と休憩を。服やハーネスを探すなら、普段使うサイズや胴回りを控えておくと店舗で相談しやすくなります。</p><h2>公式情報</h2><ul><li><a href=\"https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5747\" target=\"_blank\" rel=\"noopener noreferrer\">会場公式・開催案内</a></li><li><a href=\"https://www.instagram.com/tokyo_wanwan_event/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者Instagram</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月13日。最新の開催状況は公式情報をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>"
-  },
-  {
-    "id": "chihuahua-expo-2026-11-22",
-    "title": "チワワEXPO 2026 AUTUMN meets イーノの森Dog Garden",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-11-22",
-    "endDate": "2026-11-22",
-    "region": "kanto",
-    "prefecture": "東京都",
-    "place": "イーノの森Dog Garden",
-    "address": "東京都江東区夢の島3-2-2",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%A4%A2%E3%81%AE%E5%B3%B63-2-2%20%E3%82%A4%E3%83%BC%E3%83%8E%E3%81%AE%E6%A3%AEDog%20Garden",
-    "image": "images/event/chihuahua-expo-2026-11-22-watercolor.webp",
-    "description": "イーノの森Dog Gardenで開催するチワワEXPO 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
-    "content": "<p>イーノの森Dog Gardenで開催するチワワEXPO 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-22</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車場付き大人1名券4,400円。販売状況は公式へ。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>新木場駅から徒歩約20分。会場内駐車場は原則「駐車場付きチケット」が必要。14時以降は空車時に案内される場合がありますが、事前予約や路上での順番待ちはできません。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://chihuahua-expo.com/event/2026-11-22/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://chihuahua-expo.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://chihuahua-expo.com/event/2026-11-22/data/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・この開催回の概要",
-        "url": "https://chihuahua-expo.com/event/2026-11-22/data/"
-      },
-      {
-        "label": "主催者・参加規約",
-        "url": "https://chihuahua-expo.com/rules/"
-      }
-    ]
-  },
-  {
-    "id": "schnauzer-kingdom-2026-10-18",
-    "title": "シュナウザーキングダム 2026 HALLOWEEN meets 大阪北港マリーナ",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-18",
-    "endDate": "2026-10-18",
-    "region": "kansai",
-    "prefecture": "大阪府",
-    "place": "大阪北港マリーナ",
-    "address": "大阪府大阪市此花区常吉2-13-18",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E5%B8%B8%E5%90%892-13-18%20%E5%A4%A7%E9%98%AA%E5%8C%97%E6%B8%AF%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A",
-    "image": "images/event/schnauzer-kingdom-2026-10-18-watercolor.webp",
-    "description": "大阪北港マリーナで開催するシュナウザーキングダム 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
-    "content": "<p>大阪北港マリーナで開催するシュナウザーキングダム 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-18</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>会場は大阪北港マリーナ。大阪駅・西九条駅から北港ヨットハーバー方面への市バス案内があります。車の場合はイベント当日の駐車場・料金・満車時の扱いを公式で確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://www.schnauzer-kingdom.com/event/2026-10-18/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://schnauzer-kingdom.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://www.schnauzer-kingdom.com/event/2026-10-18/data/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・この開催回の概要",
-        "url": "https://www.schnauzer-kingdom.com/event/2026-10-18/data/"
-      },
-      {
-        "label": "主催者・参加規約",
-        "url": "https://schnauzer-kingdom.com/rules/"
-      }
-    ]
-  },
-  {
-    "id": "schnauzer-kingdom-2026-11-29",
-    "title": "シュナウザーキングダム 2026 AUTUMN meets こもれび森のイバライド",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-11-29",
-    "endDate": "2026-11-29",
-    "region": "kanto",
-    "prefecture": "茨城県",
-    "place": "こもれび森のイバライド",
-    "address": "茨城県稲敷市上君山2060-1",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%E4%B8%8A%E5%90%9B%E5%B1%B12060-1%20%E3%81%93%E3%82%82%E3%82%8C%E3%81%B3%E6%A3%AE%E3%81%AE%E3%82%A4%E3%83%90%E3%83%A9%E3%82%A4%E3%83%89",
-    "image": "images/event/schnauzer-kingdom-2026-11-29-watercolor.webp",
-    "description": "こもれび森のイバライドで開催するシュナウザーキングダム 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
-    "content": "<p>こもれび森のイバライドで開催するシュナウザーキングダム 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-29</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>圏央道・稲敷ICから約10分、阿見東ICから約15分。公式案内の駐車料金は普通車1日800円。イベント券で園内も利用可能です。送迎バスで犬を運ぶ場合のキャリー条件は運行先に確認を。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://www.schnauzer-kingdom.com/event/2026-11-29/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://schnauzer-kingdom.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://www.schnauzer-kingdom.com/event/2026-11-29/data/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・この開催回の概要",
-        "url": "https://www.schnauzer-kingdom.com/event/2026-11-29/data/"
-      },
-      {
-        "label": "主催者・参加規約",
-        "url": "https://schnauzer-kingdom.com/rules/"
-      }
-    ]
-  },
-  {
-    "id": "dachshund-festival-2026-10-18",
-    "title": "ダックスフントフェスティバル 2026 HALLOWEEN meets こもれび森のイバライド",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-18",
-    "endDate": "2026-10-18",
-    "region": "kanto",
-    "prefecture": "茨城県",
-    "place": "こもれび森のイバライド",
-    "address": "茨城県稲敷市上君山2060-1",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%E4%B8%8A%E5%90%9B%E5%B1%B12060-1%20%E3%81%93%E3%82%82%E3%82%8C%E3%81%B3%E6%A3%AE%E3%81%AE%E3%82%A4%E3%83%90%E3%83%A9%E3%82%A4%E3%83%89",
-    "image": "images/event/dachshund-festival-2026-10-18-watercolor.webp",
-    "description": "こもれび森のイバライドで開催するダックスフントフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
-    "content": "<p>こもれび森のイバライドで開催するダックスフントフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-18</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>圏央道・稲敷ICから約10分、阿見東ICから約15分。公式案内の駐車料金は普通車1日800円。イベント券で園内も利用可能です。送迎バスで犬を運ぶ場合のキャリー条件は運行先に確認を。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://dachshund-festival.com/event/2026-10-18/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://dachshund-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://dachshund-festival.com/event/2026-10-18/data/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・この開催回の概要",
-        "url": "https://dachshund-festival.com/event/2026-10-18/data/"
-      },
-      {
-        "label": "主催者・参加規約",
-        "url": "https://dachshund-festival.com/rules/"
-      }
-    ]
-  },
-  {
-    "id": "dachshund-festival-2026-11-14",
-    "title": "ダックスフントフェスティバル 2026 AUTUMN meets 大阪北港マリーナ",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-11-14",
-    "endDate": "2026-11-14",
-    "region": "kansai",
-    "prefecture": "大阪府",
-    "place": "大阪北港マリーナ",
-    "address": "大阪府大阪市此花区常吉2-13-18",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E5%B8%B8%E5%90%892-13-18%20%E5%A4%A7%E9%98%AA%E5%8C%97%E6%B8%AF%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A",
-    "image": "images/event/dachshund-festival-2026-11-14-watercolor.webp",
-    "description": "大阪北港マリーナで開催するダックスフントフェスティバル 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
-    "content": "<p>大阪北港マリーナで開催するダックスフントフェスティバル 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-14</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>会場は大阪北港マリーナ。大阪駅・西九条駅から北港ヨットハーバー方面への市バス案内があります。車の場合はイベント当日の駐車場・料金・満車時の扱いを公式で確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://dachshund-festival.com/event/2026-11-14/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://dachshund-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://dachshund-festival.com/event/2026-11-14/data/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・この開催回の概要",
-        "url": "https://dachshund-festival.com/event/2026-11-14/data/"
-      },
-      {
-        "label": "主催者・参加規約",
-        "url": "https://dachshund-festival.com/rules/"
-      }
-    ]
-  },
-  {
-    "id": "pomeranian-festival-2026-10-17",
-    "title": "ポメラニアンフェスティバル 2026 HALLOWEEN meets こもれび森のイバライド",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-17",
-    "region": "kanto",
-    "prefecture": "茨城県",
-    "place": "こもれび森のイバライド",
-    "address": "茨城県稲敷市上君山2060-1",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%E4%B8%8A%E5%90%9B%E5%B1%B12060-1%20%E3%81%93%E3%82%82%E3%82%8C%E3%81%B3%E6%A3%AE%E3%81%AE%E3%82%A4%E3%83%90%E3%83%A9%E3%82%A4%E3%83%89",
-    "image": "images/event/pomeranian-festival-2026-10-17-watercolor.webp",
-    "description": "こもれび森のイバライドで開催するポメラニアンフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
-    "content": "<p>こもれび森のイバライドで開催するポメラニアンフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-17</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>圏央道・稲敷ICから約10分、阿見東ICから約15分。公式案内の駐車料金は普通車1日800円。イベント券で園内も利用可能です。送迎バスで犬を運ぶ場合のキャリー条件は運行先に確認を。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://pomeranian-festival.com/event/2026-10-17/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://pomeranian-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://pomeranian-festival.com/event/2026-10-17/data/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・この開催回の概要",
-        "url": "https://pomeranian-festival.com/event/2026-10-17/data/"
-      },
-      {
-        "label": "主催者・参加規約",
-        "url": "https://pomeranian-festival.com/rules/"
-      }
-    ]
-  },
-  {
-    "id": "pomeranian-festival-2026-11-23",
-    "title": "ポメラニアンフェスティバル 2026 AUTUMN meets 大阪北港マリーナ",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-11-23",
-    "endDate": "2026-11-23",
-    "region": "kansai",
-    "prefecture": "大阪府",
-    "place": "大阪北港マリーナ",
-    "address": "大阪府大阪市此花区常吉2-13-18",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E5%B8%B8%E5%90%892-13-18%20%E5%A4%A7%E9%98%AA%E5%8C%97%E6%B8%AF%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A",
-    "image": "images/event/pomeranian-festival-2026-11-23-watercolor.webp",
-    "description": "大阪北港マリーナで開催するポメラニアンフェスティバル 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
-    "content": "<p>大阪北港マリーナで開催するポメラニアンフェスティバル 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-23</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>会場は大阪北港マリーナ。大阪駅・西九条駅から北港ヨットハーバー方面への市バス案内があります。車の場合はイベント当日の駐車場・料金・満車時の扱いを公式で確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://pomeranian-festival.com/event/2026-11-23/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://pomeranian-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://pomeranian-festival.com/event/2026-11-23/data/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・この開催回の概要",
-        "url": "https://pomeranian-festival.com/event/2026-11-23/data/"
-      },
-      {
-        "label": "主催者・参加規約",
-        "url": "https://pomeranian-festival.com/rules/"
-      }
-    ]
-  },
-  {
-    "id": "shihtzu-festival-2026-10-17",
-    "title": "シーズーフェスティバル 2026 HALLOWEEN meets 大阪北港マリーナ",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-17",
-    "region": "kansai",
-    "prefecture": "大阪府",
-    "place": "大阪北港マリーナ",
-    "address": "大阪府大阪市此花区常吉2-13-18",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E5%B8%B8%E5%90%892-13-18%20%E5%A4%A7%E9%98%AA%E5%8C%97%E6%B8%AF%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A",
-    "image": "images/event/shihtzu-festival-2026-10-17-watercolor.webp",
-    "description": "大阪北港マリーナで開催するシーズーフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
-    "content": "<p>大阪北港マリーナで開催するシーズーフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-17</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>会場は大阪北港マリーナ。大阪駅・西九条駅から北港ヨットハーバー方面への市バス案内があります。車の場合はイベント当日の駐車場・料金・満車時の扱いを公式で確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://shihtzu-festival.com/event/2026-10-17/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://shihtzu-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://shihtzu-festival.com/event/2026-10-17/data/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・この開催回の概要",
-        "url": "https://shihtzu-festival.com/event/2026-10-17/data/"
-      },
-      {
-        "label": "主催者・参加規約",
-        "url": "https://shihtzu-festival.com/rules/"
-      }
-    ]
-  },
-  {
-    "id": "cavalier-festival-2026-10-31",
-    "title": "キャバリアフェスティバル 2026 HALLOWEEN meets 大阪北港マリーナ",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-31",
-    "endDate": "2026-10-31",
-    "region": "kansai",
-    "prefecture": "大阪府",
-    "place": "大阪北港マリーナ",
-    "address": "大阪府大阪市此花区常吉2-13-18",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E5%B8%B8%E5%90%892-13-18%20%E5%A4%A7%E9%98%AA%E5%8C%97%E6%B8%AF%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A",
-    "image": "images/event/cavalier-festival-2026-10-31-watercolor.webp",
-    "description": "大阪北港マリーナで開催するキャバリアフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
-    "content": "<p>大阪北港マリーナで開催するキャバリアフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-31</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>会場は大阪北港マリーナ。大阪駅・西九条駅から北港ヨットハーバー方面への市バス案内があります。車の場合はイベント当日の駐車場・料金・満車時の扱いを公式で確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://cavalier-festival.com/event/2026-10-31/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://cavalier-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p><!-- instagram-update-20261022 --><h2>おでかけ前のメモ（10月22日確認）</h2><p>グッズマーケット、D-1グランプリ、撮影会などを案内。キャバリア・Mixとの交流をテーマにした一日。</p><h2>日程・会場</h2><p>10/31／9:00〜16:00（開会9:50）<br>大阪北港マリーナ</p><h2>料金・参加条件</h2><p>前売：大人2,200円・犬880円。<br>当日：大人3,000円・犬2,000円。<br>対象犬種・Mix中心の催し。別犬種の参加条件、子ども料金、券の販売状況は公式へ。</p>",
-    "url": "https://cavalier-festival.com/event/2026-10-31/data/",
-    "editorialCheckedAt": "2026-10-22",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・この開催回の概要",
-        "url": "https://cavalier-festival.com/event/2026-10-31/data/"
-      },
-      {
-        "label": "主催者・参加規約",
-        "url": "https://cavalier-festival.com/rules/"
-      }
-    ]
-  },
-  {
-    "id": "corgi-festival-2026-10-24",
-    "title": "コーギーフェスティバル 2026 HALLOWEEN meets こもれび森のイバライド",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "region": "kanto",
-    "prefecture": "茨城県",
-    "place": "こもれび森のイバライド",
-    "address": "茨城県稲敷市上君山2060-1",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%E4%B8%8A%E5%90%9B%E5%B1%B12060-1%20%E3%81%93%E3%82%82%E3%82%8C%E3%81%B3%E6%A3%AE%E3%81%AE%E3%82%A4%E3%83%90%E3%83%A9%E3%82%A4%E3%83%89",
-    "image": "images/event/corgi-festival-2026-10-24-watercolor.webp",
-    "description": "こもれび森のイバライドで開催するコーギーフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
-    "content": "<p>こもれび森のイバライドで開催するコーギーフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-24</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>圏央道・稲敷ICから約10分、阿見東ICから約15分。公式案内の駐車料金は普通車1日800円。イベント券で園内も利用可能です。送迎バスで犬を運ぶ場合のキャリー条件は運行先に確認を。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://corgi-festival.com/event/2026-10-24/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://corgi-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p><!-- instagram-update-20261022 --><h2>おでかけ前のメモ（10月22日確認）</h2><p>コーギーグッズのマーケットやタイムレース、撮影会など。コーギー・Mixとの交流を楽しむイベント。</p><h2>日程・会場</h2><p>10/24／9:00〜16:00（開会9:50）<br>こもれび森のイバライド</p><h2>料金・参加条件</h2><p>前売：大人2,200円・犬880円。<br>当日：大人3,000円・犬2,000円。<br>対象犬種・Mix中心の催し。別犬種の参加条件、子ども料金、券の販売状況は公式へ。</p>",
-    "url": "https://corgi-festival.com/event/2026-10-24/data/",
-    "editorialCheckedAt": "2026-10-22",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・この開催回の概要",
-        "url": "https://corgi-festival.com/event/2026-10-24/data/"
-      },
-      {
-        "label": "主催者・参加規約",
-        "url": "https://corgi-festival.com/rules/"
-      }
-    ]
-  },
-  {
-    "id": "bichonfrise-festival-2026-10-12",
-    "title": "ビションフリーゼフェスティバル 2026 HALLOWEEN meets 大阪北港マリーナ",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-12",
-    "endDate": "2026-10-12",
-    "region": "kansai",
-    "prefecture": "大阪府",
-    "place": "大阪北港マリーナ",
-    "address": "大阪府大阪市此花区常吉2-13-18",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E5%B8%B8%E5%90%892-13-18%20%E5%A4%A7%E9%98%AA%E5%8C%97%E6%B8%AF%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A",
-    "image": "images/event/bichonfrise-festival-2026-10-12-watercolor.webp",
-    "description": "大阪北港マリーナで開催するビションフリーゼフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
-    "content": "<p>大阪北港マリーナで開催するビションフリーゼフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-12</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>会場は大阪北港マリーナ。大阪駅・西九条駅から北港ヨットハーバー方面への市バス案内があります。車の場合はイベント当日の駐車場・料金・満車時の扱いを公式で確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://bichonfrise-festival.com/event/2026-10-12/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://bichonfrise-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://bichonfrise-festival.com/event/2026-10-12/data/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・この開催回の概要",
-        "url": "https://bichonfrise-festival.com/event/2026-10-12/data/"
-      },
-      {
-        "label": "主催者・参加規約",
-        "url": "https://bichonfrise-festival.com/rules/"
-      }
-    ]
-  },
-  {
-    "id": "pug-festival-2026-11-01",
-    "title": "パグフェス 2026 AUTUMN meets イーノの森Dog Garden",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-11-01",
-    "endDate": "2026-11-01",
-    "region": "kanto",
-    "prefecture": "東京都",
-    "place": "イーノの森Dog Garden",
-    "address": "東京都江東区夢の島3-2-2",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%A4%A2%E3%81%AE%E5%B3%B63-2-2%20%E3%82%A4%E3%83%BC%E3%83%8E%E3%81%AE%E6%A3%AEDog%20Garden",
-    "image": "images/event/pug-festival-2026-11-01-watercolor.webp",
-    "description": "イーノの森Dog Gardenで開催するパグフェス 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
-    "content": "<p>イーノの森Dog Gardenで開催するパグフェス 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-01</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車場付き大人1名券4,400円。販売状況は公式へ。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>新木場駅から徒歩約20分。会場内駐車場は原則「駐車場付きチケット」が必要。14時以降は空車時に案内される場合がありますが、事前予約や路上での順番待ちはできません。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://pug-festival.com/event/2026-11-01/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://pug-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://pug-festival.com/event/2026-11-01/data/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・この開催回の概要",
-        "url": "https://pug-festival.com/event/2026-11-01/data/"
-      },
-      {
-        "label": "主催者・参加規約",
-        "url": "https://pug-festival.com/rules/"
-      }
-    ]
-  },
-  {
-    "id": "poodlefes-2026-10-18",
-    "title": "プードルフェスティバル 2026 HALLOWEEN meets イーノの森Dog Garden",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-18",
-    "endDate": "2026-10-18",
-    "region": "kanto",
-    "prefecture": "東京都",
-    "place": "イーノの森Dog Garden",
-    "address": "東京都江東区夢の島3-2-2",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%A4%A2%E3%81%AE%E5%B3%B63-2-2%20%E3%82%A4%E3%83%BC%E3%83%8E%E3%81%AE%E6%A3%AEDog%20Garden",
-    "image": "images/event/poodlefes-2026-10-18-watercolor.webp",
-    "description": "イーノの森Dog Gardenで開催するプードルフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
-    "content": "<p>イーノの森Dog Gardenで開催するプードルフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-18</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車場付き大人1名券4,400円。販売状況は公式へ。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>新木場駅から徒歩約20分。会場内駐車場は原則「駐車場付きチケット」が必要。14時以降は空車時に案内される場合がありますが、事前予約や路上での順番待ちはできません。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://poodlefes.com/event/2026-10-18/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://poodlefes.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://poodlefes.com/event/2026-10-18/data/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・この開催回の概要",
-        "url": "https://poodlefes.com/event/2026-10-18/data/"
-      },
-      {
-        "label": "主催者・参加規約",
-        "url": "https://poodlefes.com/rules/"
-      }
-    ]
-  },
-  {
-    "id": "reiwa-nihonken-2026-10-25",
-    "title": "令和日本犬博 2026 秋の陣 meets こもれび森のイバライド",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-25",
-    "endDate": "2026-10-25",
-    "region": "kanto",
-    "prefecture": "茨城県",
-    "place": "こもれび森のイバライド",
-    "address": "茨城県稲敷市上君山2060-1",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%E4%B8%8A%E5%90%9B%E5%B1%B12060-1%20%E3%81%93%E3%82%82%E3%82%8C%E3%81%B3%E6%A3%AE%E3%81%AE%E3%82%A4%E3%83%90%E3%83%A9%E3%82%A4%E3%83%89",
-    "image": "images/event/reiwa-nihonken-2026-10-25-watercolor.webp",
-    "description": "こもれび森のイバライドで開催する令和日本犬博 2026 秋の陣。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
-    "content": "<p>こもれび森のイバライドで開催する令和日本犬博 2026 秋の陣。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-25</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>圏央道・稲敷ICから約10分、阿見東ICから約15分。公式案内の駐車料金は普通車1日800円。イベント券で園内も利用可能です。送迎バスで犬を運ぶ場合のキャリー条件は運行先に確認を。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://reiwa-nihonken.com/event/2026-10-25/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://reiwa-nihonken.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p><!-- instagram-update-20261022 --><h2>おでかけ前のメモ（10月22日確認）</h2><p>日本犬グッズのマーケット、タイムレース、撮影会など。芝生のある会場で交流を楽しむ一日。</p><h2>日程・会場</h2><p>10/25／9:00〜16:00（開会9:50）<br>こもれび森のイバライド</p><h2>料金・参加条件</h2><p>前売：大人2,200円・犬880円。<br>当日：大人3,000円・犬2,000円。<br>対象犬種・Mix中心の催し。別犬種の参加条件、子ども料金、券の販売状況は公式へ。</p>",
-    "url": "https://reiwa-nihonken.com/event/2026-10-25/data/",
-    "editorialCheckedAt": "2026-10-22",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・この開催回の概要",
-        "url": "https://reiwa-nihonken.com/event/2026-10-25/data/"
-      },
-      {
-        "label": "主催者・参加規約",
-        "url": "https://reiwa-nihonken.com/rules/"
-      }
-    ]
-  },
-  {
-    "id": "shihtzu-tokyo-20261128",
-    "title": "シーズーフェスティバル2026 AUTUMN meets イーノの森Dog Garden",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-11-28",
-    "endDate": "2026-11-28",
-    "region": "kanto",
-    "prefecture": "東京都",
-    "place": "イーノの森Dog Garden",
-    "address": "東京都江東区夢の島3-2-2",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%A4%A2%E3%81%AE%E5%B3%B63-2-2%20%E3%82%A4%E3%83%BC%E3%83%8E%E3%81%AE%E6%A3%AEDog%20Garden",
-    "image": "images/event/shihtzu-tokyo-20261128-watercolor.webp",
-    "description": "イーノの森Dog Gardenで開催予定の犬種別イベント。開催日と会場が公式に案内されています。",
-    "content": "<p>イーノの森Dog Gardenで開催予定の犬種別イベント。開催日と会場が公式に案内されています。</p><h2>楽しみ方・参加前のポイント</h2><p>開催概要が追加される場合があります。別の日程の料金や開催時間を当てはめず、購入するチケットの開催日を確認しましょう。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-28</dd></div><div><dt>開催時間</dt><dd>詳細は当該回の公式案内で確認。</dd></div><div><dt>料金・申込み</dt><dd>チケット種別・料金・販売状況は当該回の販売ページへ。</dd></div><div><dt>雨の日</dt><dd>雨天・荒天時の扱いは当該回の公式発信を確認。</dd></div><div><dt>犬連れの条件</dt><dd>犬種・同居犬の参加条件、予防接種等は公式規約を確認。</dd></div></dl><h2>会場への行き方</h2><p>会場名を指定してルートを確認。駐車場の利用条件と犬を連れた館内・公共交通の移動方法も事前に確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://shihtzu-festival.com/event/2026-11-28/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://shihtzu-festival.com/event/2026-11-28/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "公式開催案内",
-        "url": "https://shihtzu-festival.com/event/2026-11-28/"
-      }
-    ]
-  },
-  {
-    "id": "corgi-osaka-20261115",
-    "title": "コーギーフェスティバル2026 AUTUMN meets 大阪北港マリーナ",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-11-15",
-    "endDate": "2026-11-15",
-    "region": "kansai",
-    "prefecture": "大阪府",
-    "place": "大阪北港マリーナ",
-    "address": "大阪府大阪市此花区常吉2-13-18",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E5%B8%B8%E5%90%892-13-18%20%E5%A4%A7%E9%98%AA%E5%8C%97%E6%B8%AF%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A",
-    "image": "images/event/corgi-osaka-20261115-watercolor.webp",
-    "description": "大阪北港マリーナで開催予定の犬種別イベント。開催日と会場が公式に案内されています。",
-    "content": "<p>大阪北港マリーナで開催予定の犬種別イベント。開催日と会場が公式に案内されています。</p><h2>楽しみ方・参加前のポイント</h2><p>開催概要が追加される場合があります。別の日程の料金や開催時間を当てはめず、購入するチケットの開催日を確認しましょう。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-15</dd></div><div><dt>開催時間</dt><dd>詳細は当該回の公式案内で確認。</dd></div><div><dt>料金・申込み</dt><dd>チケット種別・料金・販売状況は当該回の販売ページへ。</dd></div><div><dt>雨の日</dt><dd>雨天・荒天時の扱いは当該回の公式発信を確認。</dd></div><div><dt>犬連れの条件</dt><dd>犬種・同居犬の参加条件、予防接種等は公式規約を確認。</dd></div></dl><h2>会場への行き方</h2><p>会場名を指定してルートを確認。駐車場の利用条件と犬を連れた館内・公共交通の移動方法も事前に確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://corgi-festival.com/event/2026-11-15/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://corgi-festival.com/event/2026-11-15/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "公式開催案内",
-        "url": "https://corgi-festival.com/event/2026-11-15/"
-      }
-    ]
-  },
-  {
-    "id": "and-my-dog-mojiko-20261024",
-    "title": "＆My Dog ドッグマルシェ門司港2026秋",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-25",
-    "region": "kyushu",
-    "prefecture": "福岡県",
-    "place": "門司港レトロ親水広場",
-    "address": "福岡県北九州市門司区",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA%20%E9%96%80%E5%8F%B8%E6%B8%AF%E3%83%AC%E3%83%88%E3%83%AD%E8%A6%AA%E6%B0%B4%E5%BA%83%E5%A0%B4",
-    "image": "images/event/and-my-dog-mojiko-20261024-watercolor.webp",
-    "description": "門司港の海辺で、愛犬と一緒にマルシェを楽しむ2日間。入場無料で立ち寄れる犬連れイベントです。",
-    "content": "<p>門司港の海辺で、愛犬と一緒にマルシェを楽しむ2日間。入場無料で立ち寄れる犬連れイベントです。</p><h2>楽しみ方・参加前のポイント</h2><p>出店者紹介を確認してから回る順番を決めておくと、お買い物と海辺の休憩を組み合わせられます。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-24〜2026-10-25</dd></div><div><dt>開催時間</dt><dd>10:30〜16:00</dd></div><div><dt>料金・申込み</dt><dd>入場無料。買い物・飲食等は別途。</dd></div><div><dt>雨の日</dt><dd>雨天時の開催判断は公式の最新案内を確認。</dd></div><div><dt>犬連れの条件</dt><dd>リード必須。ロングリード・伸縮リードは禁止。他の犬におやつを与えない規定です。</dd></div></dl><h2>会場への行き方</h2><p>門司港レトロ親水広場へ。イベント専用駐車場の有無・近隣駐車場の料金は出発前に確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://my-dog.me/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・開催案内と出店者紹介 ↗</a></li><li><a href=\"https://my-dog.me/rule/\" target=\"_blank\" rel=\"noopener noreferrer\">来場ルール ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p><!-- instagram-update-20261022 --><h2>おでかけ前のメモ（10月22日確認）</h2><p>門司港レトロ親水広場で開かれる、入場無料のドッグマルシェ。出店日を確認して、お目当てのお店を探そう。</p><h2>日程・会場</h2><p>10/24–10/25／10:30〜16:00<br>門司港レトロ親水広場</p><h2>料金・参加条件</h2><p>入場無料。買い物・飲食等は別途。<br>リード必須。ロングリード・伸縮リードは禁止。他の犬におやつを与えない規定です。</p>",
-    "url": "https://my-dog.me/",
-    "editorialCheckedAt": "2026-10-22",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・開催案内と出店者紹介",
-        "url": "https://my-dog.me/"
-      },
-      {
-        "label": "来場ルール",
-        "url": "https://my-dog.me/rule/"
-      }
-    ]
-  },
-  {
-    "id": "kinu-wanwanwan-20261031",
-    "title": "ワンワンワンマルシェ／鬼怒グリーンパーク",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-31",
-    "endDate": "2026-11-01",
-    "region": "kanto",
-    "prefecture": "栃木県",
-    "place": "鬼怒グリーンパーク（開催区画は公式チラシ確認）",
-    "address": "",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%20%E9%AC%BC%E6%80%92%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%88%E9%96%8B%E5%82%AC%E5%8C%BA%E7%94%BB%E3%81%AF%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A9%E3%82%B7%E7%A2%BA%E8%AA%8D%EF%BC%89",
-    "image": "images/event/kinu-wanwanwan-20261031-watercolor.webp",
-    "description": "犬の撮影会、犬用品や雑貨、キッチンカーの出店が案内されている2日間のマルシェ。",
-    "content": "<p>犬の撮影会、犬用品や雑貨、キッチンカーの出店が案内されている2日間のマルシェ。</p><h2>楽しみ方・参加前のポイント</h2><p>犬用品だけでなく雑貨や飲食も楽しめる内容。撮影を希望する場合は、撮影会の受付方法を先に確認すると予定を立てやすくなります。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-31〜2026-11-01</dd></div><div><dt>開催時間</dt><dd>公式チラシで確認。</dd></div><div><dt>料金・申込み</dt><dd>入場・撮影会の料金と予約の要否は公式チラシで確認。</dd></div><div><dt>雨の日</dt><dd>天候による変更・中止は公園の案内を確認。</dd></div><div><dt>犬連れの条件</dt><dd>園内のリード規定と、撮影会・ラン利用の条件をそれぞれ確認。</dd></div></dl><h2>会場への行き方</h2><p>公園には宝積寺・白沢の地区があります。会場区画と駐車場を公式チラシで確認してから出発してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://kinugreenpark.jp/info_c/4310.html\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p><!-- instagram-update-20261022 --><h2>おでかけ前のメモ（10月22日確認）</h2><p>犬の撮影会、犬用品・雑貨の販売、キッチンカーを案内。撮影は先着順・有料。</p><h2>日程・会場</h2><p>10/31（土）〜11/1（日）／開催時間は公園へ確認。<br>鬼怒グリーンパーク ドッグラン（宝積寺86-1）</p><h2>料金・参加条件</h2><p>入場・撮影会の料金と予約の要否は公式チラシで確認。<br>鬼怒グリーンパークのドッグランで開催。雨天中止。撮影は先着順・有料。時間とラン利用条件は公園へ。</p>",
-    "url": "https://kinugreenpark.jp/info_c/4310.html",
-    "editorialCheckedAt": "2026-10-22",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "公式開催案内",
-        "url": "https://kinugreenpark.jp/info_c/4310.html"
-      },
-      {
-        "label": "開催案内・参考情報",
-        "url": "https://kinugreenpark.jp/wp-content/uploads/2026/02/DOC261008-20261008154131.pdf"
-      }
-    ]
-  },
-  {
-    "id": "wonderful-ikoma-20261031",
-    "title": "わんだふる生駒高原2026",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-31",
-    "endDate": "2026-11-01",
-    "region": "kyushu",
-    "prefecture": "宮崎県",
-    "place": "生駒高原",
-    "address": "宮崎県小林市",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%B0%8F%E6%9E%97%E5%B8%82%20%E7%94%9F%E9%A7%92%E9%AB%98%E5%8E%9F",
-    "image": "images/event/wonderful-ikoma-20261031-watercolor.webp",
-    "description": "生駒高原で、ハロウィンと犬の日を楽しむ2日間。ドッグマルシェと参加型の企画が案内されています。",
-    "content": "<p>生駒高原で、ハロウィンと犬の日を楽しむ2日間。ドッグマルシェと参加型の企画が案内されています。</p><h2>楽しみ方・参加前のポイント</h2><p>初日はハロウィンをテーマにした企画、2日目は犬の日にちなんだゲームなどを予定。マルシェはフード・犬用品・ウェアなど約50ブースの案内です。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-31〜2026-11-01</dd></div><div><dt>開催時間</dt><dd>10:00〜16:00</dd></div><div><dt>料金・申込み</dt><dd>前売券あり。券種・料金は公式の販売案内で確認。</dd></div><div><dt>雨の日</dt><dd>開催判断は主催者の直前案内を確認。</dd></div><div><dt>犬連れの条件</dt><dd>企画ごとのエントリー方法・同伴ルールを確認。</dd></div></dl><h2>会場への行き方</h2><p>生駒高原へ。車で来場する場合は施設の駐車場案内・交通規制を確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://www.wonderful-dogfes.com/miyazaki\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・生駒高原特設ページ ↗</a></li><li><a href=\"https://www.wonderful-dogfes.com/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・開催一覧 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p><!-- instagram-update-20261022 --><h2>おでかけ前のメモ（10月22日確認）</h2><p>10月31日はハロウィン企画、11月1日は犬の日にちなんだゲームなど。マルシェも楽しみに。</p><h2>日程・会場</h2><p>10/31–11/01／10:00〜16:00<br>生駒高原</p><h2>料金・参加条件</h2><p>前売券あり。券種・料金は公式の販売案内で確認。<br>企画ごとのエントリー方法・同伴ルールを確認。</p>",
-    "url": "https://www.wonderful-dogfes.com/miyazaki",
-    "editorialCheckedAt": "2026-10-22",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "主催者・生駒高原特設ページ",
-        "url": "https://www.wonderful-dogfes.com/miyazaki"
-      },
-      {
-        "label": "主催者・開催一覧",
-        "url": "https://www.wonderful-dogfes.com/"
-      }
-    ]
-  },
-  {
-    "id": "tokyo-dog-festival-20261024",
-    "title": "TOKYO DOG FESTIVAL 2026",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-24",
-    "region": "kanto",
-    "prefecture": "神奈川県",
-    "place": "さがみ湖MORI MORI",
-    "address": "神奈川県相模原市緑区若柳1634",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E7%B7%91%E5%8C%BA%E8%8B%A5%E6%9F%B31634%20%E3%81%95%E3%81%8C%E3%81%BF%E6%B9%96MORI%20MORI",
-    "image": "images/event/tokyo-dog-festival-20261024-watercolor.webp",
-    "description": "かけっこや迷路、ノーズワークなど、愛犬と一緒に参加する競技がそろう秋のイベント。",
-    "content": "<p>かけっこや迷路、ノーズワークなど、愛犬と一緒に参加する競技がそろう秋のイベント。</p><h2>楽しみ方・参加前のポイント</h2><p>ハロウィンのファッションコンテストは事前申込みのみ。競技で使う券の枚数が異なるので、やりたいものを選んで準備できます。</p><p>お手入れブースは爪切り・歯磨き・ブラッシングから1つ、1回500円の案内。大型犬は料金が異なる場合があります。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-24</dd></div><div><dt>開催時間</dt><dd>10:00〜16:00</dd></div><div><dt>料金・申込み</dt><dd>競技券：前売9枚1,800円、当日4枚1,000円。別途施設入園料・駐車料。前売販売は10月18日までの案内。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。</dd></div><div><dt>犬連れの条件</dt><dd>全犬種対象。アトラクションごとのサイズ・利用条件は別途確認。</dd></div></dl><h2>会場への行き方</h2><p>相模原ICから約15分。相模湖駅から路線バスの案内あり。犬のバス乗車条件は運行先へ確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://joker.co.jp/tdf/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p><!-- instagram-update-20261022 --><h2>おでかけ前のメモ（10月22日確認）</h2><p>全犬種対象。かけっこや迷路、ノーズワークなど、犬と挑戦する競技や買い物を楽しめます。</p><h2>日程・会場</h2><p>10/24／10:00〜16:00<br>さがみ湖MORI MORI</p><h2>料金・参加条件</h2><p>競技券：当日4枚1,000円。施設入園料・駐車料は別。前売販売は10/18で終了。<br>全犬種対象。アトラクションごとのサイズ・利用条件は別途確認。</p>",
-    "url": "https://joker.co.jp/tdf/index.html",
-    "editorialCheckedAt": "2026-10-22",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "公式開催案内",
-        "url": "https://joker.co.jp/tdf/index.html"
-      }
-    ]
-  },
-  {
-    "id": "fukuoka-city-animal-20261101",
-    "title": "どうぶつ愛護フェスティバル in ふくおか（福岡市）",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-11-01",
-    "endDate": "2026-11-01",
-    "region": "kyushu",
-    "prefecture": "福岡県",
-    "place": "須崎公園",
-    "address": "福岡県福岡市中央区天神5-2",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%A4%A9%E7%A5%9E5-2%20%E9%A0%88%E5%B4%8E%E5%85%AC%E5%9C%92",
-    "image": "images/event/fukuoka-city-animal-20261101-watercolor.webp",
-    "description": "飼育相談、保護動物の譲渡会、ペットの撮影などを通じ、動物との暮らしを考える催し。",
-    "content": "<p>飼育相談、保護動物の譲渡会、ペットの撮影などを通じ、動物との暮らしを考える催し。</p><h2>楽しみ方・参加前のポイント</h2><p>犬・猫・うさぎの譲渡会、適正飼育の相談、VRによる体験などの案内があります。譲渡が当日その場で決まるとは限らないため、参加条件は各団体へ確認してください。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-01</dd></div><div><dt>開催時間</dt><dd>10:30〜15:30</dd></div><div><dt>料金・申込み</dt><dd>企画別の条件は市の公式チラシへ。ペットの無料撮影会の案内あり。</dd></div><div><dt>雨の日</dt><dd>市の公式案内・イベント公式SNSで確認。</dd></div><div><dt>犬連れの条件</dt><dd>撮影・相談・譲渡会それぞれの受付条件を確認。</dd></div></dl><h2>会場への行き方</h2><p>須崎公園へ。市内の別会場で行われる動物愛護イベントと混同しないよう、日付と公園名を確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://www.city.fukuoka.lg.jp/hofuku/seikatsueisei/shisei/doubutsuaigo_festival_2026.html\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://www.city.fukuoka.lg.jp/hofuku/seikatsueisei/shisei/doubutsuaigo_festival_2026.html",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "公式開催案内",
-        "url": "https://www.city.fukuoka.lg.jp/hofuku/seikatsueisei/shisei/doubutsuaigo_festival_2026.html"
-      }
-    ]
-  },
-  {
-    "id": "hiroshima-shinrin-wanwan-20261122",
-    "title": "第1回ワンワンフェスト／広島市森林公園",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-11-22",
-    "endDate": "2026-11-22",
-    "region": "chugoku",
-    "prefecture": "広島県",
-    "place": "広島市森林公園 中央広場",
-    "address": "広島県広島市東区福田町字藤ヶ丸10173",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82%E6%9D%B1%E5%8C%BA%E7%A6%8F%E7%94%B0%E7%94%BA%E5%AD%97%E8%97%A4%E3%83%B6%E4%B8%B810173%20%E5%BA%83%E5%B3%B6%E5%B8%82%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%20%E4%B8%AD%E5%A4%AE%E5%BA%83%E5%A0%B4",
-    "image": "images/event/hiroshima-shinrin-wanwan-20261122-watercolor.webp",
-    "description": "ドッグガーデン利用者向けの催し。しつけ教室や犬用品などの企画が案内されています。",
-    "content": "<p>ドッグガーデン利用者向けの催し。しつけ教室や犬用品などの企画が案内されています。</p><p><strong>参加にはドッグガーデン登録と事前申込みが必要です。</strong></p><h2>楽しみ方・参加前のポイント</h2><p>公園のドッグガーデンを利用している家族向けです。申込前に登録状況を確認し、必要書類や参加する企画について公式の紹介・申込案内を読んでください。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-22</dd></div><div><dt>開催時間</dt><dd>10:00から。終了時刻は公式の申込案内へ。</dd></div><div><dt>料金・申込み</dt><dd>事前申込制。定員に達し次第締切。参加料は申込案内で確認。</dd></div><div><dt>雨の日</dt><dd>公園の最新案内を確認。</dd></div><div><dt>犬連れの条件</dt><dd>ドッグガーデンの登録者のみ参加可能。未登録のまま当日参加できるイベントではありません。</dd></div></dl><h2>会場への行き方</h2><p>広島市森林公園の中央広場へ。駐車料金・入園経路は公園公式で確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://midori-gr.com/shinrin/2026/10/05/%E7%AC%AC%EF%BC%91%E5%9B%9E%E3%83%AF%E3%83%B3%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%88/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://midori-gr.com/shinrin/2026/10/05/%E7%AC%AC%EF%BC%91%E5%9B%9E%E3%83%AF%E3%83%B3%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%88/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "参加にはドッグガーデン登録と事前申込みが必要です。",
-    "sources": [
-      {
-        "label": "公式開催案内",
-        "url": "https://midori-gr.com/shinrin/2026/10/05/%E7%AC%AC%EF%BC%91%E5%9B%9E%E3%83%AF%E3%83%B3%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%88/"
-      }
-    ]
-  },
-  {
-    "id": "higeinu-20261101",
-    "title": "髭犬祭2026（大人券完売・当日券なし）",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-11-01",
-    "endDate": "2026-11-01",
-    "region": "kanto",
-    "prefecture": "千葉県",
-    "place": "東京ドイツ村",
-    "address": "千葉県袖ケ浦市永吉419",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E8%A2%96%E3%82%B1%E6%B5%A6%E5%B8%82%E6%B0%B8%E5%90%89419%20%E6%9D%B1%E4%BA%AC%E3%83%89%E3%82%A4%E3%83%84%E6%9D%91",
-    "image": "images/event/higeinu-20261101-watercolor.webp",
-    "description": "シュナウザーの家族が集まる髭犬祭。マーケットや交流企画を予定。大人の入場券は完売しています。",
-    "content": "<p>シュナウザーの家族が集まる髭犬祭。マーケットや交流企画を予定。大人の入場券は完売しています。</p><p><strong>2026年10月11日確認時点で大人券完売。当日券もありません。</strong></p><h2>楽しみ方・参加前のポイント</h2><p>犬種グッズ・ウェア・おやつのマーケットや長寿犬の表彰などを予定。イベントの問合せは東京ドイツ村ではなく髭犬祭の窓口へ。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-01</dd></div><div><dt>開催時間</dt><dd>9:00〜15:30</dd></div><div><dt>料金・申込み</dt><dd>大人券完売。追加販売・当日券なし。購入済みの人向けに犬の券の申込みは継続。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。</dd></div><div><dt>犬連れの条件</dt><dd>通常の園内はカート・キャリー移動。歩けるのは今回の貸切エリア内。ワクチン等の参加規定・ラン用証明書も確認。</dd></div></dl><h2>会場への行き方</h2><p>姉崎袖ヶ浦ICから約5分。車両ごとのチケット購入・受付規定を確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://www.higeinumatsuri.com/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://www.higeinumatsuri.com/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "2026年10月11日確認時点で大人券完売。当日券もありません。",
-    "sources": [
-      {
-        "label": "公式開催案内",
-        "url": "https://www.higeinumatsuri.com/"
-      }
-    ]
-  },
-  {
-    "id": "inumatsuri-oyabe-20261114",
-    "title": "犬祭り in 三井アウトレットパーク 北陸小矢部",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-11-14",
-    "endDate": "2026-11-15",
-    "region": "chubu",
-    "prefecture": "富山県",
-    "place": "三井アウトレットパーク 北陸小矢部",
-    "address": "富山県小矢部市西中野972-1",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E5%B0%8F%E7%9F%A2%E9%83%A8%E5%B8%82%E8%A5%BF%E4%B8%AD%E9%87%8E972-1%20%E4%B8%89%E4%BA%95%E3%82%A2%E3%82%A6%E3%83%88%E3%83%AC%E3%83%83%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%20%E5%8C%97%E9%99%B8%E5%B0%8F%E7%9F%A2%E9%83%A8",
-    "image": "images/event/inumatsuri-oyabe-20261114-watercolor.webp",
-    "description": "北陸小矢部で開催予定の犬祭り。アウトレットのおでかけとあわせて、犬用品を見て回る候補です。",
-    "content": "<p>北陸小矢部で開催予定の犬祭り。アウトレットのおでかけとあわせて、犬用品を見て回る候補です。</p><h2>楽しみ方・参加前のポイント</h2><p>別会場の犬祭りテラスの時間・料金を、この開催回の条件として読み替えないようにしましょう。出店一覧が発表されたら、気になる用品の取扱店も確認できます。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-14〜2026-11-15</dd></div><div><dt>開催時間</dt><dd>当該会場の公式続報を確認。</dd></div><div><dt>料金・申込み</dt><dd>入場条件・料金は当該会場の公式案内で確認。</dd></div><div><dt>雨の日</dt><dd>雨天・荒天時の扱いは主催者の続報へ。</dd></div><div><dt>犬連れの条件</dt><dd>イベント参加と各店舗への犬同伴は別のルール。キャリーやカートの条件は施設・店舗ごとに確認。</dd></div></dl><h2>会場への行き方</h2><p>三井アウトレットパーク 北陸小矢部へ。イベント区画・駐車場入口は施設案内を確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://inumatsuri.com/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://inumatsuri.com/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "公式開催案内",
-        "url": "https://inumatsuri.com/"
-      }
-    ]
-  },
-  {
-    "id": "tango-dogrun-festa-20261107",
-    "title": "丹後王国ドッグランフェスタ",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-11-07",
-    "endDate": "2026-11-08",
-    "region": "kansai",
-    "prefecture": "京都府",
-    "place": "道の駅 丹後王国「食のみやこ」",
-    "address": "京都府京丹後市弥栄町鳥取123",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82%E5%BC%A5%E6%A0%84%E7%94%BA%E9%B3%A5%E5%8F%96123%20%E9%81%93%E3%81%AE%E9%A7%85%20%E4%B8%B9%E5%BE%8C%E7%8E%8B%E5%9B%BD%E3%80%8C%E9%A3%9F%E3%81%AE%E3%81%BF%E3%82%84%E3%81%93%E3%80%8D",
-    "image": "images/event/tango-dogrun-festa-20261107-watercolor.webp",
-    "description": "ドッグスポーツ体験、ショー、ウォークラリー、犬用品のマルシェが予定される2日間。",
-    "content": "<p>ドッグスポーツ体験、ショー、ウォークラリー、犬用品のマルシェが予定される2日間。</p><h2>楽しみ方・参加前のポイント</h2><p>ショッピングだけでなく、犬と一緒に体を動かす企画もあるイベント。キャリー・ハーネス・ウェアなどの取扱いが案内されていますが、対応サイズや在庫は各出店者へ確認してください。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-07〜2026-11-08</dd></div><div><dt>開催時間</dt><dd>当該回の公式続報で確認。</dd></div><div><dt>料金・申込み</dt><dd>体験・ドッグランの料金と申込条件は公式へ。</dd></div><div><dt>雨の日</dt><dd>天候により変更・中止の場合あり。</dd></div><div><dt>犬連れの条件</dt><dd>ランは小型犬用とフリーエリアあり。体験の参加条件と証明書の要否を事前確認。</dd></div></dl><h2>会場への行き方</h2><p>道の駅 丹後王国「食のみやこ」へ。イベント当日の駐車位置・受付を確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://www.kyotango.gr.jp/events/event/54606/\" target=\"_blank\" rel=\"noopener noreferrer\">京丹後市観光公社・開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://www.kyotango.gr.jp/events/event/54606/",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "京丹後市観光公社・開催案内",
-        "url": "https://www.kyotango.gr.jp/events/event/54606/"
-      }
-    ]
-  },
-  {
-    "id": "ashigara-wanwan-2026-10-17",
-    "title": "足柄わんわんフェスタ／10月開催",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-17",
-    "endDate": "2026-10-17",
-    "region": "chubu",
-    "prefecture": "静岡県",
-    "place": "EXPASA足柄（下り）東側屋外イベントスペース",
-    "address": "静岡県駿東郡小山町桑木",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%A7%BF%E6%9D%B1%E9%83%A1%E5%B0%8F%E5%B1%B1%E7%94%BA%E6%A1%91%E6%9C%A8%20EXPASA%E8%B6%B3%E6%9F%84%EF%BC%88%E4%B8%8B%E3%82%8A%EF%BC%89%E6%9D%B1%E5%81%B4%E5%B1%8B%E5%A4%96%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9",
-    "image": "images/event/ashigara-wanwan-2026-10-17-watercolor.webp",
-    "description": "サービスエリアで開催する犬用品のマルシェ。洋服、リード、雑貨、おやつなどの出店を予定。",
-    "content": "<p>サービスエリアで開催する犬用品のマルシェ。洋服、リード、雑貨、おやつなどの出店を予定。</p><h2>楽しみ方・参加前のポイント</h2><p>SAには小型犬用と全犬種用のドッグランがあります。マルシェの開催時間とランの利用条件は別に確認し、移動途中の休憩も取りながら楽しみましょう。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-17</dd></div><div><dt>開催時間</dt><dd>8:00〜15:00（変更の場合あり）</dd></div><div><dt>料金・申込み</dt><dd>買い物・飲食は別途。来場条件の最新案内は公式へ。</dd></div><div><dt>雨の日</dt><dd>雨天により中止となる場合あり。</dd></div><div><dt>犬連れの条件</dt><dd>リードを着用し、SA内の同伴可能範囲とランのルールを確認。</dd></div></dl><h2>会場への行き方</h2><p>必ず「下り」のEXPASA足柄を指定。上り側と取り違えないようルートを確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://sapa.c-nexco.co.jp/special?id=2252\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://sapa.c-nexco.co.jp/special?id=2252",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "公式開催案内",
-        "url": "https://sapa.c-nexco.co.jp/special?id=2252"
-      }
-    ]
-  },
-  {
-    "id": "ashigara-wanwan-2026-11-21",
-    "title": "足柄わんわんフェスタ／11月開催",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-11-21",
-    "endDate": "2026-11-21",
-    "region": "chubu",
-    "prefecture": "静岡県",
-    "place": "EXPASA足柄（下り）東側屋外イベントスペース",
-    "address": "静岡県駿東郡小山町桑木",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%A7%BF%E6%9D%B1%E9%83%A1%E5%B0%8F%E5%B1%B1%E7%94%BA%E6%A1%91%E6%9C%A8%20EXPASA%E8%B6%B3%E6%9F%84%EF%BC%88%E4%B8%8B%E3%82%8A%EF%BC%89%E6%9D%B1%E5%81%B4%E5%B1%8B%E5%A4%96%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9",
-    "image": "images/event/ashigara-wanwan-2026-11-21-watercolor.webp",
-    "description": "サービスエリアで開催する犬用品のマルシェ。洋服、リード、雑貨、おやつなどの出店を予定。",
-    "content": "<p>サービスエリアで開催する犬用品のマルシェ。洋服、リード、雑貨、おやつなどの出店を予定。</p><h2>楽しみ方・参加前のポイント</h2><p>SAには小型犬用と全犬種用のドッグランがあります。マルシェの開催時間とランの利用条件は別に確認し、移動途中の休憩も取りながら楽しみましょう。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-21</dd></div><div><dt>開催時間</dt><dd>8:00〜15:00（変更の場合あり）</dd></div><div><dt>料金・申込み</dt><dd>買い物・飲食は別途。来場条件の最新案内は公式へ。</dd></div><div><dt>雨の日</dt><dd>雨天により中止となる場合あり。</dd></div><div><dt>犬連れの条件</dt><dd>リードを着用し、SA内の同伴可能範囲とランのルールを確認。</dd></div></dl><h2>会場への行き方</h2><p>必ず「下り」のEXPASA足柄を指定。上り側と取り違えないようルートを確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://sapa.c-nexco.co.jp/special?id=2252\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://sapa.c-nexco.co.jp/special?id=2252",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "公式開催案内",
-        "url": "https://sapa.c-nexco.co.jp/special?id=2252"
-      }
-    ]
-  },
-  {
-    "id": "ashigara-wanwan-2027-03-20",
-    "title": "足柄わんわんフェスタ／3月開催",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2027-03-20",
-    "endDate": "2027-03-20",
-    "region": "chubu",
-    "prefecture": "静岡県",
-    "place": "EXPASA足柄（下り）東側屋外イベントスペース",
-    "address": "静岡県駿東郡小山町桑木",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%A7%BF%E6%9D%B1%E9%83%A1%E5%B0%8F%E5%B1%B1%E7%94%BA%E6%A1%91%E6%9C%A8%20EXPASA%E8%B6%B3%E6%9F%84%EF%BC%88%E4%B8%8B%E3%82%8A%EF%BC%89%E6%9D%B1%E5%81%B4%E5%B1%8B%E5%A4%96%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9",
-    "image": "images/event/ashigara-wanwan-2027-03-20-watercolor.webp",
-    "description": "サービスエリアで開催する犬用品のマルシェ。洋服、リード、雑貨、おやつなどの出店を予定。",
-    "content": "<p>サービスエリアで開催する犬用品のマルシェ。洋服、リード、雑貨、おやつなどの出店を予定。</p><h2>楽しみ方・参加前のポイント</h2><p>SAには小型犬用と全犬種用のドッグランがあります。マルシェの開催時間とランの利用条件は別に確認し、移動途中の休憩も取りながら楽しみましょう。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2027-03-20</dd></div><div><dt>開催時間</dt><dd>8:00〜15:00（変更の場合あり）</dd></div><div><dt>料金・申込み</dt><dd>買い物・飲食は別途。来場条件の最新案内は公式へ。</dd></div><div><dt>雨の日</dt><dd>雨天により中止となる場合あり。</dd></div><div><dt>犬連れの条件</dt><dd>リードを着用し、SA内の同伴可能範囲とランのルールを確認。</dd></div></dl><h2>会場への行き方</h2><p>必ず「下り」のEXPASA足柄を指定。上り側と取り違えないようルートを確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://sapa.c-nexco.co.jp/special?id=2252\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://sapa.c-nexco.co.jp/special?id=2252",
-    "editorialCheckedAt": "2026-10-11",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "公式開催案内",
-        "url": "https://sapa.c-nexco.co.jp/special?id=2252"
-      }
-    ]
-  },
-  {
-    "id": "frenchbulldog-live-20261024",
-    "title": "French Bulldog LIVE 2026",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-25",
-    "region": "chubu",
-    "prefecture": "山梨県",
-    "place": "山中湖交流プラザ きらら",
-    "address": "山梨県南都留郡山中湖村平野479-2",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8D%97%E9%83%BD%E7%95%99%E9%83%A1%E5%B1%B1%E4%B8%AD%E6%B9%96%E6%9D%91%E5%B9%B3%E9%87%8E479-2%20%E5%B1%B1%E4%B8%AD%E6%B9%96%E4%BA%A4%E6%B5%81%E3%83%97%E3%83%A9%E3%82%B6%20%E3%81%8D%E3%82%89%E3%82%89",
-    "image": "images/event/frenchbulldog-live-20261024-watercolor.webp",
-    "description": "フレンチブルドッグの家族が集まる2日間。初日は参加型企画、2日目は音楽を楽しむフェスの案内です。",
-    "content": "<p>フレンチブルドッグの家族が集まる2日間。初日は参加型企画、2日目は音楽を楽しむフェスの案内です。</p><h2>楽しみ方・参加前のポイント</h2><p>日ごとのコンテンツが異なるため、参加日から選ぶイベント。音が苦手な子はステージから距離を取り、休憩を入れる計画も立てておきましょう。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-24〜2026-10-25</dd></div><div><dt>開催時間</dt><dd>10:00〜16:00／9:00開場予定</dd></div><div><dt>料金・申込み</dt><dd>1日入場券1名5,400円、入場券1名＋駐車場1台7,400円など。2日券あり。販売状況・対象年齢等は公式へ。</dd></div><div><dt>雨の日</dt><dd>雨天決行。荒天時の変更は主催者の発信を確認。</dd></div><div><dt>犬連れの条件</dt><dd>同伴犬の参加条件・会場ルールをチケット購入前に確認。</dd></div></dl><h2>会場への行き方</h2><p>山中湖交流プラザ きららへ。車で参加する場合は駐車場を含む券を選び、券の有効日を確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://store.frenchbulldog.life/products/fblive-2026\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p><!-- instagram-update-20261022 --><h2>おでかけ前のメモ（10月22日確認）</h2><p>フレンチブルドッグの家族が集まる2日間。ショップと日ごとに変わるステージ企画を案内。</p><h2>日程・会場</h2><p>10/24–10/25／10:00〜16:00／9:00開場予定<br>山中湖交流プラザ きらら</p><h2>料金・参加条件</h2><p>前売販売ページに売り切れ表示（10/22確認）。当日券は販売中止の場合あり。来場前に主催者へ確認。<br>同伴犬の参加条件・会場ルールをチケット購入前に確認。</p>",
-    "url": "https://store.frenchbulldog.life/products/fblive-2026",
-    "editorialCheckedAt": "2026-10-22",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "公式開催案内",
-        "url": "https://store.frenchbulldog.life/products/fblive-2026"
-      }
-    ]
-  },
-  {
-    "id": "niigata-inu-neko-20261031",
-    "title": "にいがた犬の陣×猫の陣2026秋",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-31",
-    "endDate": "2026-11-01",
-    "region": "chubu",
-    "prefecture": "新潟県",
-    "place": "万代島多目的広場 大かま",
-    "address": "新潟県新潟市中央区万代島4-2",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%87%E4%BB%A3%E5%B3%B64-2%20%E4%B8%87%E4%BB%A3%E5%B3%B6%E5%A4%9A%E7%9B%AE%E7%9A%84%E5%BA%83%E5%A0%B4%20%E5%A4%A7%E3%81%8B%E3%81%BE",
-    "image": "images/event/niigata-inu-neko-20261031-watercolor.webp",
-    "description": "犬と猫の用品を探す秋のイベント。出展企業の公式告知で開催日・会場・料金が案内されています。",
-    "content": "<p>犬と猫の用品を探す秋のイベント。出展企業の公式告知で開催日・会場・料金が案内されています。</p><h2>楽しみ方・参加前のポイント</h2><p>会場を回る前に出店一覧をチェック。出展告知は日付・会場を確認する資料として参照しています。参加ルールの最終確認は主催者の案内で行ってください。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-31〜2026-11-01</dd></div><div><dt>開催時間</dt><dd>10月31日9:30〜17:00／11月1日9:30〜16:30</dd></div><div><dt>料金・申込み</dt><dd>入場350円（出展企業の公式告知）。対象年齢・再入場等は主催者へ確認。</dd></div><div><dt>雨の日</dt><dd>天候による変更は主催者の最新発信を確認。</dd></div><div><dt>犬連れの条件</dt><dd>犬同伴の入場条件、キャリー・証明書等は主催者の案内を確認。</dd></div></dl><h2>会場への行き方</h2><p>万代島多目的広場「大かま」へ。近隣駐車場の料金・空き状況は各駐車場で確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://morerich.net/archives/6859\" target=\"_blank\" rel=\"noopener noreferrer\">出展企業モアリッチ・当該回の出展告知 ↗</a></li><li><a href=\"https://www.instagram.com/inunekonojin/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式Instagram ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p><!-- instagram-update-20261022 --><h2>おでかけ前のメモ（10月22日確認）</h2><p>犬と猫の用品が集まるイベント。万代島多目的広場「大かま」で開催。出展企業の開催告知を参照しています。</p><h2>日程・会場</h2><p>10/31–11/01／10月31日9:30〜17:00／11月1日9:30〜16:30<br>万代島多目的広場 大かま</p><h2>料金・参加条件</h2><p>入場350円（出展企業の公式告知）。対象年齢・再入場等は主催者へ確認。<br>犬同伴の入場条件、キャリー・証明書等は主催者の案内を確認。</p>",
-    "url": "https://morerich.net/archives/6859",
-    "editorialCheckedAt": "2026-10-22",
-    "verificationNote": "",
-    "sources": [
-      {
-        "label": "出展企業モアリッチ・当該回の出展告知",
-        "url": "https://morerich.net/archives/6859"
-      },
-      {
-        "label": "主催者公式Instagram",
-        "url": "https://www.instagram.com/inunekonojin/"
-      }
-    ]
-  },
+{
+  "id": "tokyo-wanwan-halloween-2026",
+  "title": "東京わんわんハロウィン2026",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-18",
+  "region": "kanto",
+  "prefecture": "神奈川県",
+  "place": "ジ アウトレット湘南平塚 C駐車場",
+  "address": "神奈川県平塚市大神8-1-1",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=ジアウトレット湘南平塚",
+  "image": "images/event/tokyo-wanwan-halloween-2026-watercolor.webp",
+  "description": "湘南平塚で犬のおやつ・洋服・グッズのマーケット。ハワイアンフードフェスも同時開催する、入場無料のハロウィンイベント。",
+  "url": "https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5747",
+  "editorialCheckedAt": "2026-10-13",
+  "verificationNote": "会場公式の当該開催回で確認。犬同伴の細則は主催者へ確認。",
+  "sources": [
+    {
+      "label": "会場公式・開催案内",
+      "url": "https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5747"
+    },
+    {
+      "label": "主催者Instagram",
+      "url": "https://www.instagram.com/tokyo_wanwan_event/"
+    }
+  ],
+  "content": "<p>ジ アウトレット湘南平塚で、愛犬とハロウィン気分のお買い物を楽しむ2日間。「湘南Hawaiian Food Festival2026」も同時開催されます。</p><h2>日時・料金・会場</h2><p>2026年10月17日（土）・18日（日）、11:00〜16:00。会場はジ アウトレット湘南平塚のC駐車場。入場無料です。</p><h2>どんなイベント？</h2><p>犬のおやつや洋服、グッズを扱うマーケットが中心。会場公式では2日間合計約70〜90店舗と案内されています。ハロウィンの撮影スポットや無料抽選会も予定されています。</p><h2>犬連れで行く前に</h2><p>ワクチン証明書、カート、リードなどの参加条件や、各企画の受付方法は主催者の最新案内で確認してください。イベントへの同伴と、アウトレット各店舗への入店条件は別に確認を。</p><h2>アクセスと雨の日</h2><p>会場所在地は神奈川県平塚市大神8-1-1。C駐車場のイベント区画へ向かってください。交通手段・駐車場入口は施設公式のアクセス案内で確認を。天候によって予告なく中断・中止になる場合があります。</p><h2>おでかけメモ</h2><p>混雑するマーケットでは、買い物の合間に水分補給と休憩を。服やハーネスを探すなら、普段使うサイズや胴回りを控えておくと店舗で相談しやすくなります。</p><h2>公式情報</h2><ul><li><a href=\"https://the-outlets-shonan-hiratsuka.aeonmall.com/news/detail/5747\" target=\"_blank\" rel=\"noopener noreferrer\">会場公式・開催案内</a></li><li><a href=\"https://www.instagram.com/tokyo_wanwan_event/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者Instagram</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月13日。最新の開催状況は公式情報をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>"
+},
+/* 2026-10-11 追加分 */
+{
+  "id": "chihuahua-expo-2026-11-22",
+  "title": "チワワEXPO 2026 AUTUMN meets イーノの森Dog Garden",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-22",
+  "endDate": "2026-11-22",
+  "region": "kanto",
+  "prefecture": "東京都",
+  "place": "イーノの森Dog Garden",
+  "address": "東京都江東区夢の島3-2-2",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%A4%A2%E3%81%AE%E5%B3%B63-2-2%20%E3%82%A4%E3%83%BC%E3%83%8E%E3%81%AE%E6%A3%AEDog%20Garden",
+  "image": "images/event/chihuahua-expo-2026-11-22-watercolor.webp",
+  "description": "イーノの森Dog Gardenで開催するチワワEXPO 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
+  "content": "<p>イーノの森Dog Gardenで開催するチワワEXPO 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-22</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車場付き大人1名券4,400円。販売状況は公式へ。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>新木場駅から徒歩約20分。会場内駐車場は原則「駐車場付きチケット」が必要。14時以降は空車時に案内される場合がありますが、事前予約や路上での順番待ちはできません。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://chihuahua-expo.com/event/2026-11-22/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://chihuahua-expo.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://chihuahua-expo.com/event/2026-11-22/data/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・この開催回の概要",
+      "url": "https://chihuahua-expo.com/event/2026-11-22/data/"
+    },
+    {
+      "label": "主催者・参加規約",
+      "url": "https://chihuahua-expo.com/rules/"
+    }
+  ]
+},
+{
+  "id": "schnauzer-kingdom-2026-10-18",
+  "title": "シュナウザーキングダム 2026 HALLOWEEN meets 大阪北港マリーナ",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-18",
+  "endDate": "2026-10-18",
+  "region": "kansai",
+  "prefecture": "大阪府",
+  "place": "大阪北港マリーナ",
+  "address": "大阪府大阪市此花区常吉2-13-18",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E5%B8%B8%E5%90%892-13-18%20%E5%A4%A7%E9%98%AA%E5%8C%97%E6%B8%AF%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A",
+  "image": "images/event/schnauzer-kingdom-2026-10-18-watercolor.webp",
+  "description": "大阪北港マリーナで開催するシュナウザーキングダム 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
+  "content": "<p>大阪北港マリーナで開催するシュナウザーキングダム 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-18</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>会場は大阪北港マリーナ。大阪駅・西九条駅から北港ヨットハーバー方面への市バス案内があります。車の場合はイベント当日の駐車場・料金・満車時の扱いを公式で確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://www.schnauzer-kingdom.com/event/2026-10-18/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://schnauzer-kingdom.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://www.schnauzer-kingdom.com/event/2026-10-18/data/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・この開催回の概要",
+      "url": "https://www.schnauzer-kingdom.com/event/2026-10-18/data/"
+    },
+    {
+      "label": "主催者・参加規約",
+      "url": "https://schnauzer-kingdom.com/rules/"
+    }
+  ]
+},
+{
+  "id": "schnauzer-kingdom-2026-11-29",
+  "title": "シュナウザーキングダム 2026 AUTUMN meets こもれび森のイバライド",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-29",
+  "endDate": "2026-11-29",
+  "region": "kanto",
+  "prefecture": "茨城県",
+  "place": "こもれび森のイバライド",
+  "address": "茨城県稲敷市上君山2060-1",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%E4%B8%8A%E5%90%9B%E5%B1%B12060-1%20%E3%81%93%E3%82%82%E3%82%8C%E3%81%B3%E6%A3%AE%E3%81%AE%E3%82%A4%E3%83%90%E3%83%A9%E3%82%A4%E3%83%89",
+  "image": "images/event/schnauzer-kingdom-2026-11-29-watercolor.webp",
+  "description": "こもれび森のイバライドで開催するシュナウザーキングダム 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
+  "content": "<p>こもれび森のイバライドで開催するシュナウザーキングダム 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-29</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>圏央道・稲敷ICから約10分、阿見東ICから約15分。公式案内の駐車料金は普通車1日800円。イベント券で園内も利用可能です。送迎バスで犬を運ぶ場合のキャリー条件は運行先に確認を。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://www.schnauzer-kingdom.com/event/2026-11-29/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://schnauzer-kingdom.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://www.schnauzer-kingdom.com/event/2026-11-29/data/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・この開催回の概要",
+      "url": "https://www.schnauzer-kingdom.com/event/2026-11-29/data/"
+    },
+    {
+      "label": "主催者・参加規約",
+      "url": "https://schnauzer-kingdom.com/rules/"
+    }
+  ]
+},
+{
+  "id": "dachshund-festival-2026-10-18",
+  "title": "ダックスフントフェスティバル 2026 HALLOWEEN meets こもれび森のイバライド",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-18",
+  "endDate": "2026-10-18",
+  "region": "kanto",
+  "prefecture": "茨城県",
+  "place": "こもれび森のイバライド",
+  "address": "茨城県稲敷市上君山2060-1",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%E4%B8%8A%E5%90%9B%E5%B1%B12060-1%20%E3%81%93%E3%82%82%E3%82%8C%E3%81%B3%E6%A3%AE%E3%81%AE%E3%82%A4%E3%83%90%E3%83%A9%E3%82%A4%E3%83%89",
+  "image": "images/event/dachshund-festival-2026-10-18-watercolor.webp",
+  "description": "こもれび森のイバライドで開催するダックスフントフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
+  "content": "<p>こもれび森のイバライドで開催するダックスフントフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-18</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>圏央道・稲敷ICから約10分、阿見東ICから約15分。公式案内の駐車料金は普通車1日800円。イベント券で園内も利用可能です。送迎バスで犬を運ぶ場合のキャリー条件は運行先に確認を。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://dachshund-festival.com/event/2026-10-18/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://dachshund-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://dachshund-festival.com/event/2026-10-18/data/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・この開催回の概要",
+      "url": "https://dachshund-festival.com/event/2026-10-18/data/"
+    },
+    {
+      "label": "主催者・参加規約",
+      "url": "https://dachshund-festival.com/rules/"
+    }
+  ]
+},
+{
+  "id": "dachshund-festival-2026-11-14",
+  "title": "ダックスフントフェスティバル 2026 AUTUMN meets 大阪北港マリーナ",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-14",
+  "endDate": "2026-11-14",
+  "region": "kansai",
+  "prefecture": "大阪府",
+  "place": "大阪北港マリーナ",
+  "address": "大阪府大阪市此花区常吉2-13-18",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E5%B8%B8%E5%90%892-13-18%20%E5%A4%A7%E9%98%AA%E5%8C%97%E6%B8%AF%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A",
+  "image": "images/event/dachshund-festival-2026-11-14-watercolor.webp",
+  "description": "大阪北港マリーナで開催するダックスフントフェスティバル 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
+  "content": "<p>大阪北港マリーナで開催するダックスフントフェスティバル 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-14</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>会場は大阪北港マリーナ。大阪駅・西九条駅から北港ヨットハーバー方面への市バス案内があります。車の場合はイベント当日の駐車場・料金・満車時の扱いを公式で確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://dachshund-festival.com/event/2026-11-14/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://dachshund-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://dachshund-festival.com/event/2026-11-14/data/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・この開催回の概要",
+      "url": "https://dachshund-festival.com/event/2026-11-14/data/"
+    },
+    {
+      "label": "主催者・参加規約",
+      "url": "https://dachshund-festival.com/rules/"
+    }
+  ]
+},
+{
+  "id": "pomeranian-festival-2026-10-17",
+  "title": "ポメラニアンフェスティバル 2026 HALLOWEEN meets こもれび森のイバライド",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-17",
+  "region": "kanto",
+  "prefecture": "茨城県",
+  "place": "こもれび森のイバライド",
+  "address": "茨城県稲敷市上君山2060-1",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%E4%B8%8A%E5%90%9B%E5%B1%B12060-1%20%E3%81%93%E3%82%82%E3%82%8C%E3%81%B3%E6%A3%AE%E3%81%AE%E3%82%A4%E3%83%90%E3%83%A9%E3%82%A4%E3%83%89",
+  "image": "images/event/pomeranian-festival-2026-10-17-watercolor.webp",
+  "description": "こもれび森のイバライドで開催するポメラニアンフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
+  "content": "<p>こもれび森のイバライドで開催するポメラニアンフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-17</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>圏央道・稲敷ICから約10分、阿見東ICから約15分。公式案内の駐車料金は普通車1日800円。イベント券で園内も利用可能です。送迎バスで犬を運ぶ場合のキャリー条件は運行先に確認を。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://pomeranian-festival.com/event/2026-10-17/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://pomeranian-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://pomeranian-festival.com/event/2026-10-17/data/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・この開催回の概要",
+      "url": "https://pomeranian-festival.com/event/2026-10-17/data/"
+    },
+    {
+      "label": "主催者・参加規約",
+      "url": "https://pomeranian-festival.com/rules/"
+    }
+  ]
+},
+{
+  "id": "pomeranian-festival-2026-11-23",
+  "title": "ポメラニアンフェスティバル 2026 AUTUMN meets 大阪北港マリーナ",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-23",
+  "region": "kansai",
+  "prefecture": "大阪府",
+  "place": "大阪北港マリーナ",
+  "address": "大阪府大阪市此花区常吉2-13-18",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E5%B8%B8%E5%90%892-13-18%20%E5%A4%A7%E9%98%AA%E5%8C%97%E6%B8%AF%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A",
+  "image": "images/event/pomeranian-festival-2026-11-23-watercolor.webp",
+  "description": "大阪北港マリーナで開催するポメラニアンフェスティバル 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
+  "content": "<p>大阪北港マリーナで開催するポメラニアンフェスティバル 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-23</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>会場は大阪北港マリーナ。大阪駅・西九条駅から北港ヨットハーバー方面への市バス案内があります。車の場合はイベント当日の駐車場・料金・満車時の扱いを公式で確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://pomeranian-festival.com/event/2026-11-23/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://pomeranian-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://pomeranian-festival.com/event/2026-11-23/data/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・この開催回の概要",
+      "url": "https://pomeranian-festival.com/event/2026-11-23/data/"
+    },
+    {
+      "label": "主催者・参加規約",
+      "url": "https://pomeranian-festival.com/rules/"
+    }
+  ]
+},
+{
+  "id": "shihtzu-festival-2026-10-17",
+  "title": "シーズーフェスティバル 2026 HALLOWEEN meets 大阪北港マリーナ",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-17",
+  "region": "kansai",
+  "prefecture": "大阪府",
+  "place": "大阪北港マリーナ",
+  "address": "大阪府大阪市此花区常吉2-13-18",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E5%B8%B8%E5%90%892-13-18%20%E5%A4%A7%E9%98%AA%E5%8C%97%E6%B8%AF%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A",
+  "image": "images/event/shihtzu-festival-2026-10-17-watercolor.webp",
+  "description": "大阪北港マリーナで開催するシーズーフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
+  "content": "<p>大阪北港マリーナで開催するシーズーフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-17</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>会場は大阪北港マリーナ。大阪駅・西九条駅から北港ヨットハーバー方面への市バス案内があります。車の場合はイベント当日の駐車場・料金・満車時の扱いを公式で確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://shihtzu-festival.com/event/2026-10-17/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://shihtzu-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://shihtzu-festival.com/event/2026-10-17/data/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・この開催回の概要",
+      "url": "https://shihtzu-festival.com/event/2026-10-17/data/"
+    },
+    {
+      "label": "主催者・参加規約",
+      "url": "https://shihtzu-festival.com/rules/"
+    }
+  ]
+},
+{
+  "id": "cavalier-festival-2026-10-31",
+  "title": "キャバリアフェスティバル 2026 HALLOWEEN meets 大阪北港マリーナ",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-31",
+  "endDate": "2026-10-31",
+  "region": "kansai",
+  "prefecture": "大阪府",
+  "place": "大阪北港マリーナ",
+  "address": "大阪府大阪市此花区常吉2-13-18",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E5%B8%B8%E5%90%892-13-18%20%E5%A4%A7%E9%98%AA%E5%8C%97%E6%B8%AF%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A",
+  "image": "images/event/cavalier-festival-2026-10-31-watercolor.webp",
+  "description": "大阪北港マリーナで開催するキャバリアフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
+  "content": "<p>大阪北港マリーナで開催するキャバリアフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-31</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>会場は大阪北港マリーナ。大阪駅・西九条駅から北港ヨットハーバー方面への市バス案内があります。車の場合はイベント当日の駐車場・料金・満車時の扱いを公式で確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://cavalier-festival.com/event/2026-10-31/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://cavalier-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://cavalier-festival.com/event/2026-10-31/data/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・この開催回の概要",
+      "url": "https://cavalier-festival.com/event/2026-10-31/data/"
+    },
+    {
+      "label": "主催者・参加規約",
+      "url": "https://cavalier-festival.com/rules/"
+    }
+  ]
+},
+{
+  "id": "corgi-festival-2026-10-24",
+  "title": "コーギーフェスティバル 2026 HALLOWEEN meets こもれび森のイバライド",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-24",
+  "region": "kanto",
+  "prefecture": "茨城県",
+  "place": "こもれび森のイバライド",
+  "address": "茨城県稲敷市上君山2060-1",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%E4%B8%8A%E5%90%9B%E5%B1%B12060-1%20%E3%81%93%E3%82%82%E3%82%8C%E3%81%B3%E6%A3%AE%E3%81%AE%E3%82%A4%E3%83%90%E3%83%A9%E3%82%A4%E3%83%89",
+  "image": "images/event/corgi-festival-2026-10-24-watercolor.webp",
+  "description": "こもれび森のイバライドで開催するコーギーフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
+  "content": "<p>こもれび森のイバライドで開催するコーギーフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-24</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>圏央道・稲敷ICから約10分、阿見東ICから約15分。公式案内の駐車料金は普通車1日800円。イベント券で園内も利用可能です。送迎バスで犬を運ぶ場合のキャリー条件は運行先に確認を。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://corgi-festival.com/event/2026-10-24/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://corgi-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://corgi-festival.com/event/2026-10-24/data/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・この開催回の概要",
+      "url": "https://corgi-festival.com/event/2026-10-24/data/"
+    },
+    {
+      "label": "主催者・参加規約",
+      "url": "https://corgi-festival.com/rules/"
+    }
+  ]
+},
+{
+  "id": "bichonfrise-festival-2026-10-12",
+  "title": "ビションフリーゼフェスティバル 2026 HALLOWEEN meets 大阪北港マリーナ",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-12",
+  "region": "kansai",
+  "prefecture": "大阪府",
+  "place": "大阪北港マリーナ",
+  "address": "大阪府大阪市此花区常吉2-13-18",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E5%B8%B8%E5%90%892-13-18%20%E5%A4%A7%E9%98%AA%E5%8C%97%E6%B8%AF%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A",
+  "image": "images/event/bichonfrise-festival-2026-10-12-watercolor.webp",
+  "description": "大阪北港マリーナで開催するビションフリーゼフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
+  "content": "<p>大阪北港マリーナで開催するビションフリーゼフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-12</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>会場は大阪北港マリーナ。大阪駅・西九条駅から北港ヨットハーバー方面への市バス案内があります。車の場合はイベント当日の駐車場・料金・満車時の扱いを公式で確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://bichonfrise-festival.com/event/2026-10-12/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://bichonfrise-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://bichonfrise-festival.com/event/2026-10-12/data/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・この開催回の概要",
+      "url": "https://bichonfrise-festival.com/event/2026-10-12/data/"
+    },
+    {
+      "label": "主催者・参加規約",
+      "url": "https://bichonfrise-festival.com/rules/"
+    }
+  ]
+},
+{
+  "id": "pug-festival-2026-11-01",
+  "title": "パグフェス 2026 AUTUMN meets イーノの森Dog Garden",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-01",
+  "endDate": "2026-11-01",
+  "region": "kanto",
+  "prefecture": "東京都",
+  "place": "イーノの森Dog Garden",
+  "address": "東京都江東区夢の島3-2-2",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%A4%A2%E3%81%AE%E5%B3%B63-2-2%20%E3%82%A4%E3%83%BC%E3%83%8E%E3%81%AE%E6%A3%AEDog%20Garden",
+  "image": "images/event/pug-festival-2026-11-01-watercolor.webp",
+  "description": "イーノの森Dog Gardenで開催するパグフェス 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
+  "content": "<p>イーノの森Dog Gardenで開催するパグフェス 2026 AUTUMN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-01</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車場付き大人1名券4,400円。販売状況は公式へ。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>新木場駅から徒歩約20分。会場内駐車場は原則「駐車場付きチケット」が必要。14時以降は空車時に案内される場合がありますが、事前予約や路上での順番待ちはできません。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://pug-festival.com/event/2026-11-01/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://pug-festival.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://pug-festival.com/event/2026-11-01/data/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・この開催回の概要",
+      "url": "https://pug-festival.com/event/2026-11-01/data/"
+    },
+    {
+      "label": "主催者・参加規約",
+      "url": "https://pug-festival.com/rules/"
+    }
+  ]
+},
+{
+  "id": "poodlefes-2026-10-18",
+  "title": "プードルフェスティバル 2026 HALLOWEEN meets イーノの森Dog Garden",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-18",
+  "endDate": "2026-10-18",
+  "region": "kanto",
+  "prefecture": "東京都",
+  "place": "イーノの森Dog Garden",
+  "address": "東京都江東区夢の島3-2-2",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%A4%A2%E3%81%AE%E5%B3%B63-2-2%20%E3%82%A4%E3%83%BC%E3%83%8E%E3%81%AE%E6%A3%AEDog%20Garden",
+  "image": "images/event/poodlefes-2026-10-18-watercolor.webp",
+  "description": "イーノの森Dog Gardenで開催するプードルフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
+  "content": "<p>イーノの森Dog Gardenで開催するプードルフェスティバル 2026 HALLOWEEN。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-18</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車場付き大人1名券4,400円。販売状況は公式へ。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>新木場駅から徒歩約20分。会場内駐車場は原則「駐車場付きチケット」が必要。14時以降は空車時に案内される場合がありますが、事前予約や路上での順番待ちはできません。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://poodlefes.com/event/2026-10-18/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://poodlefes.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://poodlefes.com/event/2026-10-18/data/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・この開催回の概要",
+      "url": "https://poodlefes.com/event/2026-10-18/data/"
+    },
+    {
+      "label": "主催者・参加規約",
+      "url": "https://poodlefes.com/rules/"
+    }
+  ]
+},
+{
+  "id": "reiwa-nihonken-2026-10-25",
+  "title": "令和日本犬博 2026 秋の陣 meets こもれび森のイバライド",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-25",
+  "endDate": "2026-10-25",
+  "region": "kanto",
+  "prefecture": "茨城県",
+  "place": "こもれび森のイバライド",
+  "address": "茨城県稲敷市上君山2060-1",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%E4%B8%8A%E5%90%9B%E5%B1%B12060-1%20%E3%81%93%E3%82%82%E3%82%8C%E3%81%B3%E6%A3%AE%E3%81%AE%E3%82%A4%E3%83%90%E3%83%A9%E3%82%A4%E3%83%89",
+  "image": "images/event/reiwa-nihonken-2026-10-25-watercolor.webp",
+  "description": "こもれび森のイバライドで開催する令和日本犬博 2026 秋の陣。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。",
+  "content": "<p>こもれび森のイバライドで開催する令和日本犬博 2026 秋の陣。犬種にちなんだグッズ探しや、飼い主同士の交流を楽しむ一日です。</p><h2>楽しみ方・参加前のポイント</h2><p>マーケットを見て回る時間と休憩の時間を分けておくと、犬のペースで過ごせます。競技や撮影の受付・参加費は、入場券とは別に確認してください。</p><p>出店商品のサイズは店ごとに異なります。大型犬用・多頭用の用品を探す場合は、出店一覧から各店の取扱サイズと当日の在庫を確認するのがおすすめです。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-25</dd></div><div><dt>開催時間</dt><dd>9:00〜16:00（開会9:50）</dd></div><div><dt>料金・申込み</dt><dd>前売：大人2,200円、小学生以下1,100円、犬880円。3歳以下無料。当日：大人3,000円、小学生以下2,000円、犬2,000円。駐車料金は別途確認。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。中止のお知らせは出発前に公式で確認。</dd></div><div><dt>犬連れの条件</dt><dd>対象犬種・Mixを中心とする催しです。同居犬や別犬種の参加、予防接種・ヒート中の制限は公式の参加規約を確認してください。</dd></div></dl><h2>会場への行き方</h2><p>圏央道・稲敷ICから約10分、阿見東ICから約15分。公式案内の駐車料金は普通車1日800円。イベント券で園内も利用可能です。送迎バスで犬を運ぶ場合のキャリー条件は運行先に確認を。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://reiwa-nihonken.com/event/2026-10-25/data/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・この開催回の概要 ↗</a></li><li><a href=\"https://reiwa-nihonken.com/rules/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・参加規約 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://reiwa-nihonken.com/event/2026-10-25/data/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・この開催回の概要",
+      "url": "https://reiwa-nihonken.com/event/2026-10-25/data/"
+    },
+    {
+      "label": "主催者・参加規約",
+      "url": "https://reiwa-nihonken.com/rules/"
+    }
+  ]
+},
+{
+  "id": "shihtzu-tokyo-20261128",
+  "title": "シーズーフェスティバル2026 AUTUMN meets イーノの森Dog Garden",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-28",
+  "endDate": "2026-11-28",
+  "region": "kanto",
+  "prefecture": "東京都",
+  "place": "イーノの森Dog Garden",
+  "address": "東京都江東区夢の島3-2-2",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%A4%A2%E3%81%AE%E5%B3%B63-2-2%20%E3%82%A4%E3%83%BC%E3%83%8E%E3%81%AE%E6%A3%AEDog%20Garden",
+  "image": "images/event/shihtzu-tokyo-20261128-watercolor.webp",
+  "description": "イーノの森Dog Gardenで開催予定の犬種別イベント。開催日と会場が公式に案内されています。",
+  "content": "<p>イーノの森Dog Gardenで開催予定の犬種別イベント。開催日と会場が公式に案内されています。</p><h2>楽しみ方・参加前のポイント</h2><p>開催概要が追加される場合があります。別の日程の料金や開催時間を当てはめず、購入するチケットの開催日を確認しましょう。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-28</dd></div><div><dt>開催時間</dt><dd>詳細は当該回の公式案内で確認。</dd></div><div><dt>料金・申込み</dt><dd>チケット種別・料金・販売状況は当該回の販売ページへ。</dd></div><div><dt>雨の日</dt><dd>雨天・荒天時の扱いは当該回の公式発信を確認。</dd></div><div><dt>犬連れの条件</dt><dd>犬種・同居犬の参加条件、予防接種等は公式規約を確認。</dd></div></dl><h2>会場への行き方</h2><p>会場名を指定してルートを確認。駐車場の利用条件と犬を連れた館内・公共交通の移動方法も事前に確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://shihtzu-festival.com/event/2026-11-28/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://shihtzu-festival.com/event/2026-11-28/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "公式開催案内",
+      "url": "https://shihtzu-festival.com/event/2026-11-28/"
+    }
+  ]
+},
+{
+  "id": "corgi-osaka-20261115",
+  "title": "コーギーフェスティバル2026 AUTUMN meets 大阪北港マリーナ",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-15",
+  "endDate": "2026-11-15",
+  "region": "kansai",
+  "prefecture": "大阪府",
+  "place": "大阪北港マリーナ",
+  "address": "大阪府大阪市此花区常吉2-13-18",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E5%B8%B8%E5%90%892-13-18%20%E5%A4%A7%E9%98%AA%E5%8C%97%E6%B8%AF%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A",
+  "image": "images/event/corgi-osaka-20261115-watercolor.webp",
+  "description": "大阪北港マリーナで開催予定の犬種別イベント。開催日と会場が公式に案内されています。",
+  "content": "<p>大阪北港マリーナで開催予定の犬種別イベント。開催日と会場が公式に案内されています。</p><h2>楽しみ方・参加前のポイント</h2><p>開催概要が追加される場合があります。別の日程の料金や開催時間を当てはめず、購入するチケットの開催日を確認しましょう。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-15</dd></div><div><dt>開催時間</dt><dd>詳細は当該回の公式案内で確認。</dd></div><div><dt>料金・申込み</dt><dd>チケット種別・料金・販売状況は当該回の販売ページへ。</dd></div><div><dt>雨の日</dt><dd>雨天・荒天時の扱いは当該回の公式発信を確認。</dd></div><div><dt>犬連れの条件</dt><dd>犬種・同居犬の参加条件、予防接種等は公式規約を確認。</dd></div></dl><h2>会場への行き方</h2><p>会場名を指定してルートを確認。駐車場の利用条件と犬を連れた館内・公共交通の移動方法も事前に確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://corgi-festival.com/event/2026-11-15/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://corgi-festival.com/event/2026-11-15/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "公式開催案内",
+      "url": "https://corgi-festival.com/event/2026-11-15/"
+    }
+  ]
+},
+{
+  "id": "and-my-dog-mojiko-20261024",
+  "title": "＆My Dog ドッグマルシェ門司港2026秋",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-25",
+  "region": "kyushu",
+  "prefecture": "福岡県",
+  "place": "門司港レトロ親水広場",
+  "address": "福岡県北九州市門司区",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E9%96%80%E5%8F%B8%E5%8C%BA%20%E9%96%80%E5%8F%B8%E6%B8%AF%E3%83%AC%E3%83%88%E3%83%AD%E8%A6%AA%E6%B0%B4%E5%BA%83%E5%A0%B4",
+  "image": "images/event/and-my-dog-mojiko-20261024-watercolor.webp",
+  "description": "門司港の海辺で、愛犬と一緒にマルシェを楽しむ2日間。入場無料で立ち寄れる犬連れイベントです。",
+  "content": "<p>門司港の海辺で、愛犬と一緒にマルシェを楽しむ2日間。入場無料で立ち寄れる犬連れイベントです。</p><h2>楽しみ方・参加前のポイント</h2><p>出店者紹介を確認してから回る順番を決めておくと、お買い物と海辺の休憩を組み合わせられます。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-24〜2026-10-25</dd></div><div><dt>開催時間</dt><dd>10:30〜16:00</dd></div><div><dt>料金・申込み</dt><dd>入場無料。買い物・飲食等は別途。</dd></div><div><dt>雨の日</dt><dd>雨天時の開催判断は公式の最新案内を確認。</dd></div><div><dt>犬連れの条件</dt><dd>リード必須。ロングリード・伸縮リードは禁止。他の犬におやつを与えない規定です。</dd></div></dl><h2>会場への行き方</h2><p>門司港レトロ親水広場へ。イベント専用駐車場の有無・近隣駐車場の料金は出発前に確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://my-dog.me/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・開催案内と出店者紹介 ↗</a></li><li><a href=\"https://my-dog.me/rule/\" target=\"_blank\" rel=\"noopener noreferrer\">来場ルール ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://my-dog.me/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・開催案内と出店者紹介",
+      "url": "https://my-dog.me/"
+    },
+    {
+      "label": "来場ルール",
+      "url": "https://my-dog.me/rule/"
+    }
+  ]
+},
+{
+  "id": "kinu-wanwanwan-20261031",
+  "title": "ワンワンワンマルシェ／鬼怒グリーンパーク",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-01",
+  "region": "kanto",
+  "prefecture": "栃木県",
+  "place": "鬼怒グリーンパーク（開催区画は公式チラシ確認）",
+  "address": "",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%20%E9%AC%BC%E6%80%92%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%88%E9%96%8B%E5%82%AC%E5%8C%BA%E7%94%BB%E3%81%AF%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A9%E3%82%B7%E7%A2%BA%E8%AA%8D%EF%BC%89",
+  "image": "images/event/kinu-wanwanwan-20261031-watercolor.webp",
+  "description": "犬の撮影会、犬用品や雑貨、キッチンカーの出店が案内されている2日間のマルシェ。",
+  "content": "<p>犬の撮影会、犬用品や雑貨、キッチンカーの出店が案内されている2日間のマルシェ。</p><h2>楽しみ方・参加前のポイント</h2><p>犬用品だけでなく雑貨や飲食も楽しめる内容。撮影を希望する場合は、撮影会の受付方法を先に確認すると予定を立てやすくなります。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-31〜2026-11-01</dd></div><div><dt>開催時間</dt><dd>公式チラシで確認。</dd></div><div><dt>料金・申込み</dt><dd>入場・撮影会の料金と予約の要否は公式チラシで確認。</dd></div><div><dt>雨の日</dt><dd>天候による変更・中止は公園の案内を確認。</dd></div><div><dt>犬連れの条件</dt><dd>園内のリード規定と、撮影会・ラン利用の条件をそれぞれ確認。</dd></div></dl><h2>会場への行き方</h2><p>公園には宝積寺・白沢の地区があります。会場区画と駐車場を公式チラシで確認してから出発してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://kinugreenpark.jp/info_c/4310.html\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://kinugreenpark.jp/info_c/4310.html",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "公式開催案内",
+      "url": "https://kinugreenpark.jp/info_c/4310.html"
+    }
+  ]
+},
+{
+  "id": "wonderful-ikoma-20261031",
+  "title": "わんだふる生駒高原2026",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-01",
+  "region": "kyushu",
+  "prefecture": "宮崎県",
+  "place": "生駒高原",
+  "address": "宮崎県小林市",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%B0%8F%E6%9E%97%E5%B8%82%20%E7%94%9F%E9%A7%92%E9%AB%98%E5%8E%9F",
+  "image": "images/event/wonderful-ikoma-20261031-watercolor.webp",
+  "description": "生駒高原で、ハロウィンと犬の日を楽しむ2日間。ドッグマルシェと参加型の企画が案内されています。",
+  "content": "<p>生駒高原で、ハロウィンと犬の日を楽しむ2日間。ドッグマルシェと参加型の企画が案内されています。</p><h2>楽しみ方・参加前のポイント</h2><p>初日はハロウィンをテーマにした企画、2日目は犬の日にちなんだゲームなどを予定。マルシェはフード・犬用品・ウェアなど約50ブースの案内です。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-31〜2026-11-01</dd></div><div><dt>開催時間</dt><dd>10:00〜16:00</dd></div><div><dt>料金・申込み</dt><dd>前売券あり。券種・料金は公式の販売案内で確認。</dd></div><div><dt>雨の日</dt><dd>開催判断は主催者の直前案内を確認。</dd></div><div><dt>犬連れの条件</dt><dd>企画ごとのエントリー方法・同伴ルールを確認。</dd></div></dl><h2>会場への行き方</h2><p>生駒高原へ。車で来場する場合は施設の駐車場案内・交通規制を確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://www.wonderful-dogfes.com/miyazaki\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・生駒高原特設ページ ↗</a></li><li><a href=\"https://www.wonderful-dogfes.com/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者・開催一覧 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://www.wonderful-dogfes.com/miyazaki",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "主催者・生駒高原特設ページ",
+      "url": "https://www.wonderful-dogfes.com/miyazaki"
+    },
+    {
+      "label": "主催者・開催一覧",
+      "url": "https://www.wonderful-dogfes.com/"
+    }
+  ]
+},
+{
+  "id": "tokyo-dog-festival-20261024",
+  "title": "TOKYO DOG FESTIVAL 2026",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-24",
+  "region": "kanto",
+  "prefecture": "神奈川県",
+  "place": "さがみ湖MORI MORI",
+  "address": "神奈川県相模原市緑区若柳1634",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E7%B7%91%E5%8C%BA%E8%8B%A5%E6%9F%B31634%20%E3%81%95%E3%81%8C%E3%81%BF%E6%B9%96MORI%20MORI",
+  "image": "images/event/tokyo-dog-festival-20261024-watercolor.webp",
+  "description": "かけっこや迷路、ノーズワークなど、愛犬と一緒に参加する競技がそろう秋のイベント。",
+  "content": "<p>かけっこや迷路、ノーズワークなど、愛犬と一緒に参加する競技がそろう秋のイベント。</p><h2>楽しみ方・参加前のポイント</h2><p>ハロウィンのファッションコンテストは事前申込みのみ。競技で使う券の枚数が異なるので、やりたいものを選んで準備できます。</p><p>お手入れブースは爪切り・歯磨き・ブラッシングから1つ、1回500円の案内。大型犬は料金が異なる場合があります。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-24</dd></div><div><dt>開催時間</dt><dd>10:00〜16:00</dd></div><div><dt>料金・申込み</dt><dd>競技券：前売9枚1,800円、当日4枚1,000円。別途施設入園料・駐車料。前売販売は10月18日までの案内。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。</dd></div><div><dt>犬連れの条件</dt><dd>全犬種対象。アトラクションごとのサイズ・利用条件は別途確認。</dd></div></dl><h2>会場への行き方</h2><p>相模原ICから約15分。相模湖駅から路線バスの案内あり。犬のバス乗車条件は運行先へ確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://joker.co.jp/tdf/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://joker.co.jp/tdf/index.html",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "公式開催案内",
+      "url": "https://joker.co.jp/tdf/index.html"
+    }
+  ]
+},
+{
+  "id": "fukuoka-city-animal-20261101",
+  "title": "どうぶつ愛護フェスティバル in ふくおか（福岡市）",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-01",
+  "endDate": "2026-11-01",
+  "region": "kyushu",
+  "prefecture": "福岡県",
+  "place": "須崎公園",
+  "address": "福岡県福岡市中央区天神5-2",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%A4%A9%E7%A5%9E5-2%20%E9%A0%88%E5%B4%8E%E5%85%AC%E5%9C%92",
+  "image": "images/event/fukuoka-city-animal-20261101-watercolor.webp",
+  "description": "飼育相談、保護動物の譲渡会、ペットの撮影などを通じ、動物との暮らしを考える催し。",
+  "content": "<p>飼育相談、保護動物の譲渡会、ペットの撮影などを通じ、動物との暮らしを考える催し。</p><h2>楽しみ方・参加前のポイント</h2><p>犬・猫・うさぎの譲渡会、適正飼育の相談、VRによる体験などの案内があります。譲渡が当日その場で決まるとは限らないため、参加条件は各団体へ確認してください。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-01</dd></div><div><dt>開催時間</dt><dd>10:30〜15:30</dd></div><div><dt>料金・申込み</dt><dd>企画別の条件は市の公式チラシへ。ペットの無料撮影会の案内あり。</dd></div><div><dt>雨の日</dt><dd>市の公式案内・イベント公式SNSで確認。</dd></div><div><dt>犬連れの条件</dt><dd>撮影・相談・譲渡会それぞれの受付条件を確認。</dd></div></dl><h2>会場への行き方</h2><p>須崎公園へ。市内の別会場で行われる動物愛護イベントと混同しないよう、日付と公園名を確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://www.city.fukuoka.lg.jp/hofuku/seikatsueisei/shisei/doubutsuaigo_festival_2026.html\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://www.city.fukuoka.lg.jp/hofuku/seikatsueisei/shisei/doubutsuaigo_festival_2026.html",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "公式開催案内",
+      "url": "https://www.city.fukuoka.lg.jp/hofuku/seikatsueisei/shisei/doubutsuaigo_festival_2026.html"
+    }
+  ]
+},
+{
+  "id": "hiroshima-shinrin-wanwan-20261122",
+  "title": "第1回ワンワンフェスト／広島市森林公園",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-22",
+  "endDate": "2026-11-22",
+  "region": "chugoku",
+  "prefecture": "広島県",
+  "place": "広島市森林公園 中央広場",
+  "address": "広島県広島市東区福田町字藤ヶ丸10173",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82%E6%9D%B1%E5%8C%BA%E7%A6%8F%E7%94%B0%E7%94%BA%E5%AD%97%E8%97%A4%E3%83%B6%E4%B8%B810173%20%E5%BA%83%E5%B3%B6%E5%B8%82%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%20%E4%B8%AD%E5%A4%AE%E5%BA%83%E5%A0%B4",
+  "image": "images/event/hiroshima-shinrin-wanwan-20261122-watercolor.webp",
+  "description": "ドッグガーデン利用者向けの催し。しつけ教室や犬用品などの企画が案内されています。",
+  "content": "<p>ドッグガーデン利用者向けの催し。しつけ教室や犬用品などの企画が案内されています。</p><p><strong>参加にはドッグガーデン登録と事前申込みが必要です。</strong></p><h2>楽しみ方・参加前のポイント</h2><p>公園のドッグガーデンを利用している家族向けです。申込前に登録状況を確認し、必要書類や参加する企画について公式の紹介・申込案内を読んでください。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-22</dd></div><div><dt>開催時間</dt><dd>10:00から。終了時刻は公式の申込案内へ。</dd></div><div><dt>料金・申込み</dt><dd>事前申込制。定員に達し次第締切。参加料は申込案内で確認。</dd></div><div><dt>雨の日</dt><dd>公園の最新案内を確認。</dd></div><div><dt>犬連れの条件</dt><dd>ドッグガーデンの登録者のみ参加可能。未登録のまま当日参加できるイベントではありません。</dd></div></dl><h2>会場への行き方</h2><p>広島市森林公園の中央広場へ。駐車料金・入園経路は公園公式で確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://midori-gr.com/shinrin/2026/10/05/%E7%AC%AC%EF%BC%91%E5%9B%9E%E3%83%AF%E3%83%B3%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%88/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://midori-gr.com/shinrin/2026/10/05/%E7%AC%AC%EF%BC%91%E5%9B%9E%E3%83%AF%E3%83%B3%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%88/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "参加にはドッグガーデン登録と事前申込みが必要です。",
+  "sources": [
+    {
+      "label": "公式開催案内",
+      "url": "https://midori-gr.com/shinrin/2026/10/05/%E7%AC%AC%EF%BC%91%E5%9B%9E%E3%83%AF%E3%83%B3%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%88/"
+    }
+  ]
+},
+{
+  "id": "higeinu-20261101",
+  "title": "髭犬祭2026（大人券完売・当日券なし）",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-01",
+  "endDate": "2026-11-01",
+  "region": "kanto",
+  "prefecture": "千葉県",
+  "place": "東京ドイツ村",
+  "address": "千葉県袖ケ浦市永吉419",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E8%A2%96%E3%82%B1%E6%B5%A6%E5%B8%82%E6%B0%B8%E5%90%89419%20%E6%9D%B1%E4%BA%AC%E3%83%89%E3%82%A4%E3%83%84%E6%9D%91",
+  "image": "images/event/higeinu-20261101-watercolor.webp",
+  "description": "シュナウザーの家族が集まる髭犬祭。マーケットや交流企画を予定。大人の入場券は完売しています。",
+  "content": "<p>シュナウザーの家族が集まる髭犬祭。マーケットや交流企画を予定。大人の入場券は完売しています。</p><p><strong>2026年10月11日確認時点で大人券完売。当日券もありません。</strong></p><h2>楽しみ方・参加前のポイント</h2><p>犬種グッズ・ウェア・おやつのマーケットや長寿犬の表彰などを予定。イベントの問合せは東京ドイツ村ではなく髭犬祭の窓口へ。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-01</dd></div><div><dt>開催時間</dt><dd>9:00〜15:30</dd></div><div><dt>料金・申込み</dt><dd>大人券完売。追加販売・当日券なし。購入済みの人向けに犬の券の申込みは継続。</dd></div><div><dt>雨の日</dt><dd>雨天決行・荒天中止。</dd></div><div><dt>犬連れの条件</dt><dd>通常の園内はカート・キャリー移動。歩けるのは今回の貸切エリア内。ワクチン等の参加規定・ラン用証明書も確認。</dd></div></dl><h2>会場への行き方</h2><p>姉崎袖ヶ浦ICから約5分。車両ごとのチケット購入・受付規定を確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://www.higeinumatsuri.com/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://www.higeinumatsuri.com/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "2026年10月11日確認時点で大人券完売。当日券もありません。",
+  "sources": [
+    {
+      "label": "公式開催案内",
+      "url": "https://www.higeinumatsuri.com/"
+    }
+  ]
+},
+{
+  "id": "inumatsuri-oyabe-20261114",
+  "title": "犬祭り in 三井アウトレットパーク 北陸小矢部",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-14",
+  "endDate": "2026-11-15",
+  "region": "chubu",
+  "prefecture": "富山県",
+  "place": "三井アウトレットパーク 北陸小矢部",
+  "address": "富山県小矢部市西中野972-1",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E5%B0%8F%E7%9F%A2%E9%83%A8%E5%B8%82%E8%A5%BF%E4%B8%AD%E9%87%8E972-1%20%E4%B8%89%E4%BA%95%E3%82%A2%E3%82%A6%E3%83%88%E3%83%AC%E3%83%83%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%20%E5%8C%97%E9%99%B8%E5%B0%8F%E7%9F%A2%E9%83%A8",
+  "image": "images/event/inumatsuri-oyabe-20261114-watercolor.webp",
+  "description": "北陸小矢部で開催予定の犬祭り。アウトレットのおでかけとあわせて、犬用品を見て回る候補です。",
+  "content": "<p>北陸小矢部で開催予定の犬祭り。アウトレットのおでかけとあわせて、犬用品を見て回る候補です。</p><h2>楽しみ方・参加前のポイント</h2><p>別会場の犬祭りテラスの時間・料金を、この開催回の条件として読み替えないようにしましょう。出店一覧が発表されたら、気になる用品の取扱店も確認できます。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-14〜2026-11-15</dd></div><div><dt>開催時間</dt><dd>当該会場の公式続報を確認。</dd></div><div><dt>料金・申込み</dt><dd>入場条件・料金は当該会場の公式案内で確認。</dd></div><div><dt>雨の日</dt><dd>雨天・荒天時の扱いは主催者の続報へ。</dd></div><div><dt>犬連れの条件</dt><dd>イベント参加と各店舗への犬同伴は別のルール。キャリーやカートの条件は施設・店舗ごとに確認。</dd></div></dl><h2>会場への行き方</h2><p>三井アウトレットパーク 北陸小矢部へ。イベント区画・駐車場入口は施設案内を確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://inumatsuri.com/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://inumatsuri.com/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "公式開催案内",
+      "url": "https://inumatsuri.com/"
+    }
+  ]
+},
+{
+  "id": "tango-dogrun-festa-20261107",
+  "title": "丹後王国ドッグランフェスタ",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-07",
+  "endDate": "2026-11-08",
+  "region": "kansai",
+  "prefecture": "京都府",
+  "place": "道の駅 丹後王国「食のみやこ」",
+  "address": "京都府京丹後市弥栄町鳥取123",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82%E5%BC%A5%E6%A0%84%E7%94%BA%E9%B3%A5%E5%8F%96123%20%E9%81%93%E3%81%AE%E9%A7%85%20%E4%B8%B9%E5%BE%8C%E7%8E%8B%E5%9B%BD%E3%80%8C%E9%A3%9F%E3%81%AE%E3%81%BF%E3%82%84%E3%81%93%E3%80%8D",
+  "image": "images/event/tango-dogrun-festa-20261107-watercolor.webp",
+  "description": "ドッグスポーツ体験、ショー、ウォークラリー、犬用品のマルシェが予定される2日間。",
+  "content": "<p>ドッグスポーツ体験、ショー、ウォークラリー、犬用品のマルシェが予定される2日間。</p><h2>楽しみ方・参加前のポイント</h2><p>ショッピングだけでなく、犬と一緒に体を動かす企画もあるイベント。キャリー・ハーネス・ウェアなどの取扱いが案内されていますが、対応サイズや在庫は各出店者へ確認してください。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-07〜2026-11-08</dd></div><div><dt>開催時間</dt><dd>当該回の公式続報で確認。</dd></div><div><dt>料金・申込み</dt><dd>体験・ドッグランの料金と申込条件は公式へ。</dd></div><div><dt>雨の日</dt><dd>天候により変更・中止の場合あり。</dd></div><div><dt>犬連れの条件</dt><dd>ランは小型犬用とフリーエリアあり。体験の参加条件と証明書の要否を事前確認。</dd></div></dl><h2>会場への行き方</h2><p>道の駅 丹後王国「食のみやこ」へ。イベント当日の駐車位置・受付を確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://www.kyotango.gr.jp/events/event/54606/\" target=\"_blank\" rel=\"noopener noreferrer\">京丹後市観光公社・開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://www.kyotango.gr.jp/events/event/54606/",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "京丹後市観光公社・開催案内",
+      "url": "https://www.kyotango.gr.jp/events/event/54606/"
+    }
+  ]
+},
+{
+  "id": "ashigara-wanwan-2026-10-17",
+  "title": "足柄わんわんフェスタ／10月開催",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-17",
+  "region": "chubu",
+  "prefecture": "静岡県",
+  "place": "EXPASA足柄（下り）東側屋外イベントスペース",
+  "address": "静岡県駿東郡小山町桑木",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%A7%BF%E6%9D%B1%E9%83%A1%E5%B0%8F%E5%B1%B1%E7%94%BA%E6%A1%91%E6%9C%A8%20EXPASA%E8%B6%B3%E6%9F%84%EF%BC%88%E4%B8%8B%E3%82%8A%EF%BC%89%E6%9D%B1%E5%81%B4%E5%B1%8B%E5%A4%96%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9",
+  "image": "images/event/ashigara-wanwan-2026-10-17-watercolor.webp",
+  "description": "サービスエリアで開催する犬用品のマルシェ。洋服、リード、雑貨、おやつなどの出店を予定。",
+  "content": "<p>サービスエリアで開催する犬用品のマルシェ。洋服、リード、雑貨、おやつなどの出店を予定。</p><h2>楽しみ方・参加前のポイント</h2><p>SAには小型犬用と全犬種用のドッグランがあります。マルシェの開催時間とランの利用条件は別に確認し、移動途中の休憩も取りながら楽しみましょう。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-17</dd></div><div><dt>開催時間</dt><dd>8:00〜15:00（変更の場合あり）</dd></div><div><dt>料金・申込み</dt><dd>買い物・飲食は別途。来場条件の最新案内は公式へ。</dd></div><div><dt>雨の日</dt><dd>雨天により中止となる場合あり。</dd></div><div><dt>犬連れの条件</dt><dd>リードを着用し、SA内の同伴可能範囲とランのルールを確認。</dd></div></dl><h2>会場への行き方</h2><p>必ず「下り」のEXPASA足柄を指定。上り側と取り違えないようルートを確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://sapa.c-nexco.co.jp/special?id=2252\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://sapa.c-nexco.co.jp/special?id=2252",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "公式開催案内",
+      "url": "https://sapa.c-nexco.co.jp/special?id=2252"
+    }
+  ]
+},
+{
+  "id": "ashigara-wanwan-2026-11-21",
+  "title": "足柄わんわんフェスタ／11月開催",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-21",
+  "endDate": "2026-11-21",
+  "region": "chubu",
+  "prefecture": "静岡県",
+  "place": "EXPASA足柄（下り）東側屋外イベントスペース",
+  "address": "静岡県駿東郡小山町桑木",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%A7%BF%E6%9D%B1%E9%83%A1%E5%B0%8F%E5%B1%B1%E7%94%BA%E6%A1%91%E6%9C%A8%20EXPASA%E8%B6%B3%E6%9F%84%EF%BC%88%E4%B8%8B%E3%82%8A%EF%BC%89%E6%9D%B1%E5%81%B4%E5%B1%8B%E5%A4%96%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9",
+  "image": "images/event/ashigara-wanwan-2026-11-21-watercolor.webp",
+  "description": "サービスエリアで開催する犬用品のマルシェ。洋服、リード、雑貨、おやつなどの出店を予定。",
+  "content": "<p>サービスエリアで開催する犬用品のマルシェ。洋服、リード、雑貨、おやつなどの出店を予定。</p><h2>楽しみ方・参加前のポイント</h2><p>SAには小型犬用と全犬種用のドッグランがあります。マルシェの開催時間とランの利用条件は別に確認し、移動途中の休憩も取りながら楽しみましょう。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-21</dd></div><div><dt>開催時間</dt><dd>8:00〜15:00（変更の場合あり）</dd></div><div><dt>料金・申込み</dt><dd>買い物・飲食は別途。来場条件の最新案内は公式へ。</dd></div><div><dt>雨の日</dt><dd>雨天により中止となる場合あり。</dd></div><div><dt>犬連れの条件</dt><dd>リードを着用し、SA内の同伴可能範囲とランのルールを確認。</dd></div></dl><h2>会場への行き方</h2><p>必ず「下り」のEXPASA足柄を指定。上り側と取り違えないようルートを確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://sapa.c-nexco.co.jp/special?id=2252\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://sapa.c-nexco.co.jp/special?id=2252",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "公式開催案内",
+      "url": "https://sapa.c-nexco.co.jp/special?id=2252"
+    }
+  ]
+},
+{
+  "id": "ashigara-wanwan-2027-03-20",
+  "title": "足柄わんわんフェスタ／3月開催",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2027-03-20",
+  "endDate": "2027-03-20",
+  "region": "chubu",
+  "prefecture": "静岡県",
+  "place": "EXPASA足柄（下り）東側屋外イベントスペース",
+  "address": "静岡県駿東郡小山町桑木",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E9%A7%BF%E6%9D%B1%E9%83%A1%E5%B0%8F%E5%B1%B1%E7%94%BA%E6%A1%91%E6%9C%A8%20EXPASA%E8%B6%B3%E6%9F%84%EF%BC%88%E4%B8%8B%E3%82%8A%EF%BC%89%E6%9D%B1%E5%81%B4%E5%B1%8B%E5%A4%96%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9",
+  "image": "images/event/ashigara-wanwan-2027-03-20-watercolor.webp",
+  "description": "サービスエリアで開催する犬用品のマルシェ。洋服、リード、雑貨、おやつなどの出店を予定。",
+  "content": "<p>サービスエリアで開催する犬用品のマルシェ。洋服、リード、雑貨、おやつなどの出店を予定。</p><h2>楽しみ方・参加前のポイント</h2><p>SAには小型犬用と全犬種用のドッグランがあります。マルシェの開催時間とランの利用条件は別に確認し、移動途中の休憩も取りながら楽しみましょう。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2027-03-20</dd></div><div><dt>開催時間</dt><dd>8:00〜15:00（変更の場合あり）</dd></div><div><dt>料金・申込み</dt><dd>買い物・飲食は別途。来場条件の最新案内は公式へ。</dd></div><div><dt>雨の日</dt><dd>雨天により中止となる場合あり。</dd></div><div><dt>犬連れの条件</dt><dd>リードを着用し、SA内の同伴可能範囲とランのルールを確認。</dd></div></dl><h2>会場への行き方</h2><p>必ず「下り」のEXPASA足柄を指定。上り側と取り違えないようルートを確認してください。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://sapa.c-nexco.co.jp/special?id=2252\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://sapa.c-nexco.co.jp/special?id=2252",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "公式開催案内",
+      "url": "https://sapa.c-nexco.co.jp/special?id=2252"
+    }
+  ]
+},
+{
+  "id": "frenchbulldog-live-20261024",
+  "title": "French Bulldog LIVE 2026",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-25",
+  "region": "chubu",
+  "prefecture": "山梨県",
+  "place": "山中湖交流プラザ きらら",
+  "address": "山梨県南都留郡山中湖村平野479-2",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8D%97%E9%83%BD%E7%95%99%E9%83%A1%E5%B1%B1%E4%B8%AD%E6%B9%96%E6%9D%91%E5%B9%B3%E9%87%8E479-2%20%E5%B1%B1%E4%B8%AD%E6%B9%96%E4%BA%A4%E6%B5%81%E3%83%97%E3%83%A9%E3%82%B6%20%E3%81%8D%E3%82%89%E3%82%89",
+  "image": "images/event/frenchbulldog-live-20261024-watercolor.webp",
+  "description": "フレンチブルドッグの家族が集まる2日間。初日は参加型企画、2日目は音楽を楽しむフェスの案内です。",
+  "content": "<p>フレンチブルドッグの家族が集まる2日間。初日は参加型企画、2日目は音楽を楽しむフェスの案内です。</p><h2>楽しみ方・参加前のポイント</h2><p>日ごとのコンテンツが異なるため、参加日から選ぶイベント。音が苦手な子はステージから距離を取り、休憩を入れる計画も立てておきましょう。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-24〜2026-10-25</dd></div><div><dt>開催時間</dt><dd>10:00〜16:00／9:00開場予定</dd></div><div><dt>料金・申込み</dt><dd>1日入場券1名5,400円、入場券1名＋駐車場1台7,400円など。2日券あり。販売状況・対象年齢等は公式へ。</dd></div><div><dt>雨の日</dt><dd>雨天決行。荒天時の変更は主催者の発信を確認。</dd></div><div><dt>犬連れの条件</dt><dd>同伴犬の参加条件・会場ルールをチケット購入前に確認。</dd></div></dl><h2>会場への行き方</h2><p>山中湖交流プラザ きららへ。車で参加する場合は駐車場を含む券を選び、券の有効日を確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://store.frenchbulldog.life/products/fblive-2026\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://store.frenchbulldog.life/products/fblive-2026",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "公式開催案内",
+      "url": "https://store.frenchbulldog.life/products/fblive-2026"
+    }
+  ]
+},
+{
+  "id": "niigata-inu-neko-20261031",
+  "title": "にいがた犬の陣×猫の陣2026秋",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-01",
+  "region": "chubu",
+  "prefecture": "新潟県",
+  "place": "万代島多目的広場 大かま",
+  "address": "新潟県新潟市中央区万代島4-2",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%87%E4%BB%A3%E5%B3%B64-2%20%E4%B8%87%E4%BB%A3%E5%B3%B6%E5%A4%9A%E7%9B%AE%E7%9A%84%E5%BA%83%E5%A0%B4%20%E5%A4%A7%E3%81%8B%E3%81%BE",
+  "image": "images/event/niigata-inu-neko-20261031-watercolor.webp",
+  "description": "犬と猫の用品を探す秋のイベント。出展企業の公式告知で開催日・会場・料金が案内されています。",
+  "content": "<p>犬と猫の用品を探す秋のイベント。出展企業の公式告知で開催日・会場・料金が案内されています。</p><h2>楽しみ方・参加前のポイント</h2><p>会場を回る前に出店一覧をチェック。出展告知は日付・会場を確認する資料として参照しています。参加ルールの最終確認は主催者の案内で行ってください。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-10-31〜2026-11-01</dd></div><div><dt>開催時間</dt><dd>10月31日9:30〜17:00／11月1日9:30〜16:30</dd></div><div><dt>料金・申込み</dt><dd>入場350円（出展企業の公式告知）。対象年齢・再入場等は主催者へ確認。</dd></div><div><dt>雨の日</dt><dd>天候による変更は主催者の最新発信を確認。</dd></div><div><dt>犬連れの条件</dt><dd>犬同伴の入場条件、キャリー・証明書等は主催者の案内を確認。</dd></div></dl><h2>会場への行き方</h2><p>万代島多目的広場「大かま」へ。近隣駐車場の料金・空き状況は各駐車場で確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://morerich.net/archives/6859\" target=\"_blank\" rel=\"noopener noreferrer\">出展企業モアリッチ・当該回の出展告知 ↗</a></li><li><a href=\"https://www.instagram.com/inunekonojin/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式Instagram ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
+  "url": "https://morerich.net/archives/6859",
+  "editorialCheckedAt": "2026-10-11",
+  "verificationNote": "",
+  "sources": [
+    {
+      "label": "出展企業モアリッチ・当該回の出展告知",
+      "url": "https://morerich.net/archives/6859"
+    },
+    {
+      "label": "主催者公式Instagram",
+      "url": "https://www.instagram.com/inunekonojin/"
+    }
+  ]
+},
+/* 以下、既存データを保持 */
   {
     "id": "tokyowanwansumeerfestival2026",
     "title": "東京わんわん夏まつり2026",
@@ -1016,38 +983,38 @@ const calendarEvents = [
     ]
   },
   {
-    "id": "japan-wanko-festa-autumn-2026",
-    "startDate": "2026-11-27",
-    "endDate": "2026-11-29",
-    "type": "event",
-    "status": "scheduled",
-    "title": "ジャパンわんこフェスタ2026 秋",
-    "region": "kanto",
-    "prefecture": "東京都",
-    "place": "お台場セントラル広場及びプロムナード",
-    "address": "東京都江東区青海1丁目1",
-    "image": "images/event/sui-on-japan-wanko-festa-autumn-2026.jpg",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=お台場セントラル広場",
-    "url": "https://japan-wanko-festa.com/",
-    "content": "\n<p class=\"event-editorial-note\">2026年10月の主催者Instagramで、お台場セントラル広場及びプロムナードでの開催を再確認しました。</p>\n<p>犬用品の買い物やフードを楽しむ、秋のジャパンわんこフェスタ。主催者の発表では11月27日〜29日の三日間、お台場での開催が案内されています。</p>\n<h2>このイベントの楽しみ方</h2>\n<p>主催者発表には、犬向けの買い物や飲食を楽しめる企画が紹介されています。出店者や体験の詳細は秋開催の案内で確認しましょう。春・初夏の出店情報や会場マップとは分けて見るのがポイントです。</p>\n<h2>時間・料金・参加の前に</h2>\n<dl class=\"event-practical-info\">\n<div><dt>開催時間</dt><dd>10:00〜17:00（主催者発表）</dd></div>\n<div><dt>料金</dt><dd>入場無料（主催者発表）。買い物・飲食等は別途。</dd></div>\n<div><dt>雨の日</dt><dd>屋外開催。雨天・荒天時の扱いは秋開催の最新案内を確認。</dd></div>\n<div><dt>犬連れの条件</dt><dd>入場条件、リード・カートのルール、証明書の要否は秋開催の公式案内で確認してください。</dd></div>\n</dl>\n<h2>会場への行き方</h2>\n<p>会場はお台場セントラル広場及びプロムナード（東京都江東区青海1丁目1）。当日の入場口や駐車場の案内は主催者の最新情報をご確認ください。</p>\n<aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>広い会場を回る計画では、気になるお店を絞り、途中で犬が休める時間を取ると無理なく楽しめます。</p><small>編集部からの準備のヒントです。参加体験談ではありません。</small></aside>\n<h2>情報元・最新のお知らせ</h2>\n<ul class=\"event-source-links\">\n<li><a href=\"https://prtimes.jp/main/html/rd/p/000000102.000093750.html\" target=\"_blank\" rel=\"noopener noreferrer\">主催者発表・秋開催の概要 ↗</a></li>\n<li><a href=\"https://japan-wanko-festa.com/\" target=\"_blank\" rel=\"noopener noreferrer\">ジャパンわんこフェスタ公式サイト ↗</a></li>\n<li><a href=\"https://www.instagram.com/p/DeBEcCGD8TC/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者Instagram・開催情報と出展紹介</a></li></ul>\n<p class=\"event-source-date\">情報更新：2026年10月13日。未確認の項目は本文に明記しています。開催済みの情報は当該回の案内で、次回開催を保証するものではありません。</p>\n",
-    "description": "犬用品の買い物やフードを楽しむ、秋のジャパンわんこフェスタ。主催者の発表では11月27日〜29日の三日間、お台場での開催が案内されています。",
-    "editorialCheckedAt": "2026-10-13",
-    "verificationNote": "2026年10月の主催者Instagramで、お台場会場・日時・入場無料を再確認。",
-    "sources": [
-      {
-        "label": "主催者発表・秋開催の概要",
-        "url": "https://prtimes.jp/main/html/rd/p/000000102.000093750.html"
-      },
-      {
-        "label": "ジャパンわんこフェスタ公式サイト",
-        "url": "https://japan-wanko-festa.com/"
-      },
-      {
-        "label": "主催者Instagram・開催情報と出展紹介",
-        "url": "https://www.instagram.com/p/DeBEcCGD8TC/"
-      }
-    ]
-  },
+  "id": "japan-wanko-festa-autumn-2026",
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-29",
+  "type": "event",
+  "status": "scheduled",
+  "title": "ジャパンわんこフェスタ2026 秋",
+  "region": "kanto",
+  "prefecture": "東京都",
+  "place": "お台場セントラル広場及びプロムナード",
+  "address": "東京都江東区青海1丁目1",
+  "image": "images/event/sui-on-japan-wanko-festa-autumn-2026.jpg",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=お台場セントラル広場",
+  "url": "https://japan-wanko-festa.com/",
+  "content": "\n<p class=\"event-editorial-note\">2026年10月の主催者Instagramで、お台場セントラル広場及びプロムナードでの開催を再確認しました。</p>\n<p>犬用品の買い物やフードを楽しむ、秋のジャパンわんこフェスタ。主催者の発表では11月27日〜29日の三日間、お台場での開催が案内されています。</p>\n<h2>このイベントの楽しみ方</h2>\n<p>主催者発表には、犬向けの買い物や飲食を楽しめる企画が紹介されています。出店者や体験の詳細は秋開催の案内で確認しましょう。春・初夏の出店情報や会場マップとは分けて見るのがポイントです。</p>\n<h2>時間・料金・参加の前に</h2>\n<dl class=\"event-practical-info\">\n<div><dt>開催時間</dt><dd>10:00〜17:00（主催者発表）</dd></div>\n<div><dt>料金</dt><dd>入場無料（主催者発表）。買い物・飲食等は別途。</dd></div>\n<div><dt>雨の日</dt><dd>屋外開催。雨天・荒天時の扱いは秋開催の最新案内を確認。</dd></div>\n<div><dt>犬連れの条件</dt><dd>入場条件、リード・カートのルール、証明書の要否は秋開催の公式案内で確認してください。</dd></div>\n</dl>\n<h2>会場への行き方</h2>\n<p>会場はお台場セントラル広場及びプロムナード（東京都江東区青海1丁目1）。当日の入場口や駐車場の案内は主催者の最新情報をご確認ください。</p>\n<aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>広い会場を回る計画では、気になるお店を絞り、途中で犬が休める時間を取ると無理なく楽しめます。</p><small>編集部からの準備のヒントです。参加体験談ではありません。</small></aside>\n<h2>情報元・最新のお知らせ</h2>\n<ul class=\"event-source-links\">\n<li><a href=\"https://prtimes.jp/main/html/rd/p/000000102.000093750.html\" target=\"_blank\" rel=\"noopener noreferrer\">主催者発表・秋開催の概要 ↗</a></li>\n<li><a href=\"https://japan-wanko-festa.com/\" target=\"_blank\" rel=\"noopener noreferrer\">ジャパンわんこフェスタ公式サイト ↗</a></li>\n<li><a href=\"https://www.instagram.com/p/DeBEcCGD8TC/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者Instagram・開催情報と出展紹介</a></li></ul>\n<p class=\"event-source-date\">情報更新：2026年10月13日。未確認の項目は本文に明記しています。開催済みの情報は当該回の案内で、次回開催を保証するものではありません。</p>\n",
+  "description": "犬用品の買い物やフードを楽しむ、秋のジャパンわんこフェスタ。主催者の発表では11月27日〜29日の三日間、お台場での開催が案内されています。",
+  "editorialCheckedAt": "2026-10-13",
+  "verificationNote": "2026年10月の主催者Instagramで、お台場会場・日時・入場無料を再確認。",
+  "sources": [
+    {
+      "label": "主催者発表・秋開催の概要",
+      "url": "https://prtimes.jp/main/html/rd/p/000000102.000093750.html"
+    },
+    {
+      "label": "ジャパンわんこフェスタ公式サイト",
+      "url": "https://japan-wanko-festa.com/"
+    },
+    {
+      "label": "主催者Instagram・開催情報と出展紹介",
+      "url": "https://www.instagram.com/p/DeBEcCGD8TC/"
+    }
+  ]
+},
   {
     "id": "wanterrace-yokohama-bayside-2026-autumn",
     "startDate": "2026-09-27",
@@ -1560,9 +1527,9 @@ const calendarEvents = [
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA%E3%81%BF%E3%81%AA%E3%81%A8%E3%81%BF%E3%82%89%E3%81%84%20%E8%87%A8%E6%B8%AF%E3%83%91%E3%83%BC%E3%82%AF",
     "image": "images/event/yokohama-gogo-autumn-2026.png",
     "description": "横浜の海沿いで、ドッグランやマーケットを楽しめる秋のイベント。日によって終了時間が違います。",
-    "content": "<p>横浜の海沿いで、ドッグランやマーケットを楽しめる秋のイベント。日によって終了時間が違います。</p><h2>このイベントの楽しみ方</h2><p>天然芝のラン、50mレース、体験エリア、マルシェを案内。ハロウィンの仮装やファッション企画も予定されています。</p><h2>時間・料金・参加の前に</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>10月31日10:00〜17:00／11月1日10:00〜16:00</dd></div><div><dt>料金</dt><dd>入場無料。有料コンテンツ・飲食・物販は別途。</dd></div><div><dt>犬連れの条件</dt><dd>ラン・レースの接種証明や参加区分は各企画の規約を確認。会場全体の入場条件と同じとは限りません。</dd></div><div><dt>申込み・受付</dt><dd>事前予約が必要な体験があります。公式サイト・SNSから希望の企画の受付を確認してください。</dd></div></dl><h2>アクセス・雨の日</h2><p>臨港パークで屋外開催。イベント専用駐車場の有無・料金、荒天時の変更は主催者へ確認を。</p><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>海沿いで風が気になる日は、休憩時の敷物や体を拭くタオルを。レースへ出る日は買い物の予定を詰め込みすぎずに。</p><small>編集部からの準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・最新のお知らせ</h2><ul class=\"event-source-links\"><li><a href=\"https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw12276\" target=\"_blank\" rel=\"noopener noreferrer\">横浜公式観光サイト・当該回 ↗</a></li><li><a href=\"https://www.yokohama55fes.com/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式 ↗</a></li></ul><p class=\"event-source-date\">情報整理：2026年9月20日。未確認事項は本文に明記。日時や受付状況は出発前に公式情報で再確認してください。サムネイルは編集部のイメージイラストです。</p><!-- instagram-update-20261022 --><h2>おでかけ前のメモ（10月22日確認）</h2><p>天然芝のラン、50mレース、体験企画とマルシェ。ハロウィンの仮装・ファッション企画も予定。</p><h2>日程・会場</h2><p>10/31–11/01／10月31日10:00〜17:00／11月1日10:00〜16:00<br>臨港パーク</p><h2>料金・参加条件</h2><p>入場無料。有料コンテンツ・飲食・物販は別途。<br>ラン・レースの接種証明や参加区分は各企画の規約を確認。会場全体の入場条件と同じとは限りません。</p>",
+    "content": "<p>横浜の海沿いで、ドッグランやマーケットを楽しめる秋のイベント。日によって終了時間が違います。</p><h2>このイベントの楽しみ方</h2><p>天然芝のラン、50mレース、体験エリア、マルシェを案内。ハロウィンの仮装やファッション企画も予定されています。</p><h2>時間・料金・参加の前に</h2><dl class=\"event-practical-info\"><div><dt>開催時間</dt><dd>10月31日10:00〜17:00／11月1日10:00〜16:00</dd></div><div><dt>料金</dt><dd>入場無料。有料コンテンツ・飲食・物販は別途。</dd></div><div><dt>犬連れの条件</dt><dd>ラン・レースの接種証明や参加区分は各企画の規約を確認。会場全体の入場条件と同じとは限りません。</dd></div><div><dt>申込み・受付</dt><dd>事前予約が必要な体験があります。公式サイト・SNSから希望の企画の受付を確認してください。</dd></div></dl><h2>アクセス・雨の日</h2><p>臨港パークで屋外開催。イベント専用駐車場の有無・料金、荒天時の変更は主催者へ確認を。</p><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>海沿いで風が気になる日は、休憩時の敷物や体を拭くタオルを。レースへ出る日は買い物の予定を詰め込みすぎずに。</p><small>編集部からの準備のヒントです。参加体験談ではありません。</small></aside><h2>情報元・最新のお知らせ</h2><ul class=\"event-source-links\"><li><a href=\"https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw12276\" target=\"_blank\" rel=\"noopener noreferrer\">横浜公式観光サイト・当該回 ↗</a></li><li><a href=\"https://www.yokohama55fes.com/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式 ↗</a></li></ul><p class=\"event-source-date\">情報整理：2026年9月20日。未確認事項は本文に明記。日時や受付状況は出発前に公式情報で再確認してください。サムネイルは編集部のイメージイラストです。</p>",
     "url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw12276",
-    "editorialCheckedAt": "2026-10-22",
+    "editorialCheckedAt": "2026-09-20",
     "verificationNote": "開催日・会場を公式案内で確認。未確認の料金・参加条件は本文に明記。",
     "sources": [
       {
@@ -1572,10 +1539,6 @@ const calendarEvents = [
       {
         "label": "主催者公式",
         "url": "https://www.yokohama55fes.com/"
-      },
-      {
-        "label": "開催案内・参考情報",
-        "url": "https://www.yokohama55fes.com/2026-autumn/"
       }
     ]
   },
@@ -1930,57 +1893,58 @@ const calendarEvents = [
     ]
   },
   {
-    "id": "halloween-dog-party-yokohama-2026",
-    "title": "ハロウィンドッグパーティー｜BAY WALK MARKET 2026",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-10-09",
-    "endDate": "2026-10-12",
-    "region": "kanto",
-    "prefecture": "神奈川県",
-    "place": "横浜赤レンガ倉庫・MARINE & WALK YOKOHAMAエリア",
-    "address": "神奈川県横浜市中区新港（横浜赤レンガ倉庫周辺）",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=横浜赤レンガ倉庫",
-    "image": "images/event/halloween-dog-party-yokohama-2026.png",
-    "description": "10月9〜12日、横浜の海辺でハロウィンのおでかけ。ドッグマーケットと特設ランを楽しむ4日間。11日夜の花火情報も確認を。",
-    "content": "<p>海辺のお散歩に、ハロウィン気分を少し。「BAY WALK MARKET 2026」内のハロウィンドッグパーティーが、横浜赤レンガ倉庫とMARINE &amp; WALK YOKOHAMAのエリアで開催されます。</p><h2>開催情報</h2><dl class=\"event-practical-info\"><div><dt>日程・時間</dt><dd>2026年10月9日（金）〜12日（月・祝）、10:00〜18:00。</dd></div><div><dt>料金</dt><dd>入場無料。飲食・物販・ドッグラン等は別料金。</dd></div><div><dt>雨天時</dt><dd>荒天中止。出発前に公式の開催判断を確認してください。</dd></div></dl><h2>買い物とランを楽しむ</h2><p>ドッグマーケットは110店舗以上。「おばけのドッグラン」は10:00〜18:00（最終受付17:30）、人1名500円・犬1頭500円（税込）。予約不要ですが、混雑時は入場制限があります。接種証明などの利用細則は公式の続報を確認してください。</p><h2>11日の帰る時間に注意</h2><p>10月11日（日）19:00〜19:05は、大さん橋で花火が予定されています。音が苦手な子は、夕方以降に周辺で過ごす予定も含め、早めに離れる計画を。</p><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>衣装は動きやすさを優先し、着るのを嫌がるなら普段着のままで。水と器、排泄用品、休憩用のマットを持って、買い物の合間にひと息つける時間を残したいですね。食事をする店の犬同伴条件や、駐車場からの移動ルートも事前に確認を。</p><small>未訪問のイベント紹介です。表紙は編集部のイメージイラストで、実際の会場配置を示すものではありません。</small></aside><h2>公式情報</h2><p><a href=\"https://www.yokohama-akarenga.jp/event/baywalk-market/\" target=\"_blank\" rel=\"noopener noreferrer\">横浜赤レンガ倉庫・開催案内 ↗</a></p><p>情報確認：2026年9月25日。日時・料金・利用条件は変更の場合があります。出発前に公式の最新情報をご確認ください。</p>",
-    "url": "https://www.yokohama-akarenga.jp/event/baywalk-market/",
-    "editorialCheckedAt": "2026-09-25",
-    "verificationNote": "開催日・時間・料金・荒天中止・周辺花火は施設公式で確認。ランの利用細則は公式続報を確認。",
-    "sources": [
-      {
-        "label": "横浜赤レンガ倉庫公式・BAY WALK MARKET 2026",
-        "url": "https://www.yokohama-akarenga.jp/event/baywalk-market/"
-      }
-    ]
-  },
-  {
-    "id": "petemofes-makuhari-2026",
-    "title": "ペテモフェス2026",
-    "type": "event",
-    "status": "scheduled",
-    "startDate": "2026-11-07",
-    "endDate": "2026-11-08",
-    "region": "kanto",
-    "prefecture": "千葉県",
-    "place": "豊砂公園・イオンモール幕張新都心ほか",
-    "address": "千葉県千葉市美浜区豊砂1-12（豊砂公園）",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E7%A0%82%E5%85%AC%E5%9C%92%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%E7%BE%8E%E6%B5%9C%E5%8C%BA%E8%B1%8A%E7%A0%821-12",
-    "image": "images/event/petemofes-makuhari-2026.png",
-    "description": "11月7日・8日、幕張で愛犬と楽しむ2日間。豊砂公園・イオンモール幕張新都心などで開催予定の、入場無料のペットイベントです。",
-    "content": "<p>秋の幕張で、愛犬と一緒にイベントを楽しむ週末。イオンペットが主催する「ペテモフェス2026」が、11月7日・8日に開催予定です。会場は豊砂公園、イオンモール幕張新都心、市道豊砂701号線の広場。入場無料で、おでかけの候補に入れやすい2日間です。</p>\n<h2>開催情報</h2><dl class=\"event-practical-info\"><div><dt>日程・時間</dt><dd>2026年11月7日（土）・8日（日）9:00〜16:00</dd></div><div><dt>会場</dt><dd>豊砂公園（千葉県千葉市美浜区豊砂1-12）、イオンモール幕張新都心、市道豊砂701号線の広場。幕張メッセではありません。</dd></div><div><dt>料金</dt><dd>入場無料。買い物・飲食・個別企画の費用は、それぞれの案内をご確認ください。</dd></div><div><dt>主催</dt><dd>イオンペット株式会社</dd></div><div><dt>予約・犬同伴条件</dt><dd>ペットと楽しめるイベントとして案内されています。事前申込みの有無、接種証明書、リード・カート・マナーウェア等の細則は、確認した開催発表では未確認です。参加する企画ごとの条件も公式案内で確認してください。</dd></div><div><dt>雨天時</dt><dd>確認した開催発表では雨天・荒天時の扱いは未確認です。出発前に公式サイト・公式SNSの最新案内を確認してください。</dd></div></dl>\n<h2>犬連れで行く前に、確認しておきたいこと</h2><p>会場が複数あるため、行きたい企画の場所を先に見ておくと回りやすくなります。出展ブースやステージの内容・時間は公式の最新発表で確認を。混雑が苦手な子なら、予定を詰め込みすぎず、会場から離れて休める時間も残しておきたいところです。</p>\n<p>イベントに犬と参加できることと、モール内のすべての店舗・飲食店に犬と入れることは別です。食事をするお店、館内の同伴可能ルート、カートやキャリーバッグで全身を覆う必要があるかを、施設・店舗の案内で確認してから出かけましょう。</p>\n<p>車で行く場合は、利用する駐車場の料金・営業時間と、会場まで犬と移動できるルートも確認を。イベント専用駐車場や駐車料金の優待は、今回確認した開催発表では案内を確認できていません。</p>\n<aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>お留守番が難しい子とのおでかけなら、人の食事やトイレの時間も含めて「犬とどう過ごすか」を先に考えておくと安心。水と器、排泄用品、タオルを準備して、当日の気温・風・雨予報に合わせて持ち物を調整したいですね。</p><small>準備のヒントです。参加体験談ではありません。表紙は編集部によるイメージイラストで、実際の会場配置や出店内容を示すものではありません。</small></aside>\n<h2>公式情報・開催直前の確認</h2><p><a href=\"https://www.aeonpet.com/petemofes/\" target=\"_blank\" rel=\"noopener noreferrer\">ペテモフェス2026 公式サイト ↗</a></p><p><a href=\"https://prtimes.jp/main/html/rd/p/000006047.000007505.html\" target=\"_blank\" rel=\"noopener noreferrer\">主催者の開催発表（2026年8月31日）↗</a></p><p>情報確認：2026年9月23日。開催日時・会場・入場無料は主催者の開催発表に基づきます。未確認事項は本文に明記しています。最新の開催判断・企画・犬同伴条件は公式でご確認ください。</p>",
-    "url": "https://www.aeonpet.com/petemofes/",
-    "editorialCheckedAt": "2026-09-23",
-    "verificationNote": "日時・会場・入場無料は主催者の開催発表で確認。犬同伴の細則・雨天時の扱いは最新の公式案内を確認。",
-    "sources": [
-      {
-        "label": "ペテモフェス2026公式サイト",
-        "url": "https://www.aeonpet.com/petemofes/"
-      },
-      {
-        "label": "イオン株式会社・イオンペットの開催発表",
-        "url": "https://prtimes.jp/main/html/rd/p/000006047.000007505.html"
-      }
-    ]
-  }
+  "id": "halloween-dog-party-yokohama-2026",
+  "title": "ハロウィンドッグパーティー｜BAY WALK MARKET 2026",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-10-09",
+  "endDate": "2026-10-12",
+  "region": "kanto",
+  "prefecture": "神奈川県",
+  "place": "横浜赤レンガ倉庫・MARINE & WALK YOKOHAMAエリア",
+  "address": "神奈川県横浜市中区新港（横浜赤レンガ倉庫周辺）",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=横浜赤レンガ倉庫",
+  "image": "images/event/halloween-dog-party-yokohama-2026.png",
+  "description": "10月9〜12日、横浜の海辺でハロウィンのおでかけ。ドッグマーケットと特設ランを楽しむ4日間。11日夜の花火情報も確認を。",
+  "content": "<p>海辺のお散歩に、ハロウィン気分を少し。「BAY WALK MARKET 2026」内のハロウィンドッグパーティーが、横浜赤レンガ倉庫とMARINE &amp; WALK YOKOHAMAのエリアで開催されます。</p><h2>開催情報</h2><dl class=\"event-practical-info\"><div><dt>日程・時間</dt><dd>2026年10月9日（金）〜12日（月・祝）、10:00〜18:00。</dd></div><div><dt>料金</dt><dd>入場無料。飲食・物販・ドッグラン等は別料金。</dd></div><div><dt>雨天時</dt><dd>荒天中止。出発前に公式の開催判断を確認してください。</dd></div></dl><h2>買い物とランを楽しむ</h2><p>ドッグマーケットは110店舗以上。「おばけのドッグラン」は10:00〜18:00（最終受付17:30）、人1名500円・犬1頭500円（税込）。予約不要ですが、混雑時は入場制限があります。接種証明などの利用細則は公式の続報を確認してください。</p><h2>11日の帰る時間に注意</h2><p>10月11日（日）19:00〜19:05は、大さん橋で花火が予定されています。音が苦手な子は、夕方以降に周辺で過ごす予定も含め、早めに離れる計画を。</p><aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>衣装は動きやすさを優先し、着るのを嫌がるなら普段着のままで。水と器、排泄用品、休憩用のマットを持って、買い物の合間にひと息つける時間を残したいですね。食事をする店の犬同伴条件や、駐車場からの移動ルートも事前に確認を。</p><small>未訪問のイベント紹介です。表紙は編集部のイメージイラストで、実際の会場配置を示すものではありません。</small></aside><h2>公式情報</h2><p><a href=\"https://www.yokohama-akarenga.jp/event/baywalk-market/\" target=\"_blank\" rel=\"noopener noreferrer\">横浜赤レンガ倉庫・開催案内 ↗</a></p><p>情報確認：2026年9月25日。日時・料金・利用条件は変更の場合があります。出発前に公式の最新情報をご確認ください。</p>",
+  "url": "https://www.yokohama-akarenga.jp/event/baywalk-market/",
+  "editorialCheckedAt": "2026-09-25",
+  "verificationNote": "開催日・時間・料金・荒天中止・周辺花火は施設公式で確認。ランの利用細則は公式続報を確認。",
+  "sources": [
+    {
+      "label": "横浜赤レンガ倉庫公式・BAY WALK MARKET 2026",
+      "url": "https://www.yokohama-akarenga.jp/event/baywalk-market/"
+    }
+  ]
+},
+{
+  "id": "petemofes-makuhari-2026",
+  "title": "ペテモフェス2026",
+  "type": "event",
+  "status": "scheduled",
+  "startDate": "2026-11-07",
+  "endDate": "2026-11-08",
+  "region": "kanto",
+  "prefecture": "千葉県",
+  "place": "豊砂公園・イオンモール幕張新都心ほか",
+  "address": "千葉県千葉市美浜区豊砂1-12（豊砂公園）",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E7%A0%82%E5%85%AC%E5%9C%92%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%E7%BE%8E%E6%B5%9C%E5%8C%BA%E8%B1%8A%E7%A0%821-12",
+  "image": "images/event/petemofes-makuhari-2026.png",
+  "description": "11月7日・8日、幕張で愛犬と楽しむ2日間。豊砂公園・イオンモール幕張新都心などで開催予定の、入場無料のペットイベントです。",
+  "content": "<p>秋の幕張で、愛犬と一緒にイベントを楽しむ週末。イオンペットが主催する「ペテモフェス2026」が、11月7日・8日に開催予定です。会場は豊砂公園、イオンモール幕張新都心、市道豊砂701号線の広場。入場無料で、おでかけの候補に入れやすい2日間です。</p>\n<h2>開催情報</h2><dl class=\"event-practical-info\"><div><dt>日程・時間</dt><dd>2026年11月7日（土）・8日（日）9:00〜16:00</dd></div><div><dt>会場</dt><dd>豊砂公園（千葉県千葉市美浜区豊砂1-12）、イオンモール幕張新都心、市道豊砂701号線の広場。幕張メッセではありません。</dd></div><div><dt>料金</dt><dd>入場無料。買い物・飲食・個別企画の費用は、それぞれの案内をご確認ください。</dd></div><div><dt>主催</dt><dd>イオンペット株式会社</dd></div><div><dt>予約・犬同伴条件</dt><dd>ペットと楽しめるイベントとして案内されています。事前申込みの有無、接種証明書、リード・カート・マナーウェア等の細則は、確認した開催発表では未確認です。参加する企画ごとの条件も公式案内で確認してください。</dd></div><div><dt>雨天時</dt><dd>確認した開催発表では雨天・荒天時の扱いは未確認です。出発前に公式サイト・公式SNSの最新案内を確認してください。</dd></div></dl>\n<h2>犬連れで行く前に、確認しておきたいこと</h2><p>会場が複数あるため、行きたい企画の場所を先に見ておくと回りやすくなります。出展ブースやステージの内容・時間は公式の最新発表で確認を。混雑が苦手な子なら、予定を詰め込みすぎず、会場から離れて休める時間も残しておきたいところです。</p>\n<p>イベントに犬と参加できることと、モール内のすべての店舗・飲食店に犬と入れることは別です。食事をするお店、館内の同伴可能ルート、カートやキャリーバッグで全身を覆う必要があるかを、施設・店舗の案内で確認してから出かけましょう。</p>\n<p>車で行く場合は、利用する駐車場の料金・営業時間と、会場まで犬と移動できるルートも確認を。イベント専用駐車場や駐車料金の優待は、今回確認した開催発表では案内を確認できていません。</p>\n<aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>お留守番が難しい子とのおでかけなら、人の食事やトイレの時間も含めて「犬とどう過ごすか」を先に考えておくと安心。水と器、排泄用品、タオルを準備して、当日の気温・風・雨予報に合わせて持ち物を調整したいですね。</p><small>準備のヒントです。参加体験談ではありません。表紙は編集部によるイメージイラストで、実際の会場配置や出店内容を示すものではありません。</small></aside>\n<h2>公式情報・開催直前の確認</h2><p><a href=\"https://www.aeonpet.com/petemofes/\" target=\"_blank\" rel=\"noopener noreferrer\">ペテモフェス2026 公式サイト ↗</a></p><p><a href=\"https://prtimes.jp/main/html/rd/p/000006047.000007505.html\" target=\"_blank\" rel=\"noopener noreferrer\">主催者の開催発表（2026年8月31日）↗</a></p><p>情報確認：2026年9月23日。開催日時・会場・入場無料は主催者の開催発表に基づきます。未確認事項は本文に明記しています。最新の開催判断・企画・犬同伴条件は公式でご確認ください。</p>",
+  "url": "https://www.aeonpet.com/petemofes/",
+  "editorialCheckedAt": "2026-09-23",
+  "verificationNote": "日時・会場・入場無料は主催者の開催発表で確認。犬同伴の細則・雨天時の扱いは最新の公式案内を確認。",
+  "sources": [
+    {
+      "label": "ペテモフェス2026公式サイト",
+      "url": "https://www.aeonpet.com/petemofes/"
+    },
+    {
+      "label": "イオン株式会社・イオンペットの開催発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000006047.000007505.html"
+    }
+  ]
+},
+
 ];
