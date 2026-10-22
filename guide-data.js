@@ -1,5 +1,203 @@
-/* GUIDE DATA — 既存記事を保持。追加10本は毎週木曜10時公開。 */
+/* Existing guides preserved; item notes added 2026-10-22. */
 const guidePosts = [
+  {
+    "id": "item-note-brand-b10",
+    "title": "MiaCara",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-brand-b10.webp",
+    "lead": "Barcaなど、家具と合わせて選びたくなるベッドを展開。愛犬の寝姿勢に合うサイズも忘れずに。",
+    "content": "<p class=\"guide-source-credit\">写真：ブランド公式・取扱店</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>Barcaなど、家具と合わせて選びたくなるベッドを展開。愛犬の寝姿勢に合うサイズも忘れずに。</p><h2>選ぶ前のメモ</h2><p>サイズ・在庫・日本への配送条件は商品ごとに確認。</p><h2>購入先について</h2><p>仕様・在庫・送料・日本への配送可否は、公式または掲載取扱店へ。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://miacara.com/en/\" target=\"_blank\" rel=\"noopener noreferrer\">https://miacara.com/en/</a></li></ul>"
+  },
+  {
+    "id": "item-note-brand-b09",
+    "title": "CLOUD7",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-brand-b09.webp",
+    "lead": "Dublin 2.0 Dusty Mint。シンプルな色と形が気になる一着。背丈だけでなく、胸回りも確認したい。",
+    "content": "<p class=\"guide-source-credit\">写真：ブランド公式・取扱店</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>Dublin 2.0 Dusty Mint。シンプルな色と形が気になる一着。背丈だけでなく、胸回りも確認したい。</p><h2>選ぶ前のメモ</h2><p>サイズ・在庫・日本への配送条件は商品ごとに確認。</p><h2>購入先について</h2><p>仕様・在庫・送料・日本への配送可否は、公式または掲載取扱店へ。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://cloud7.de/en/\" target=\"_blank\" rel=\"noopener noreferrer\">https://cloud7.de/en/</a></li></ul>"
+  },
+  {
+    "id": "item-note-brand-b08",
+    "title": "maxbone",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-brand-b08.webp",
+    "lead": "落ち着いたカラーの散歩用品。リードやポーチを合わせる楽しさも、毎日使う道具を選ぶポイントに。",
+    "content": "<p class=\"guide-source-credit\">写真：ブランド公式・取扱店</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>落ち着いたカラーの散歩用品。リードやポーチを合わせる楽しさも、毎日使う道具を選ぶポイントに。</p><h2>選ぶ前のメモ</h2><p>サイズ・在庫・日本への配送条件は商品ごとに確認。</p><h2>購入先について</h2><p>仕様・在庫・送料・日本への配送可否は、公式または掲載取扱店へ。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://www.maxbone.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.maxbone.com/</a></li></ul>"
+  },
+  {
+    "id": "item-note-brand-b07",
+    "title": "MONCHOUCHOU",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-brand-b07.webp",
+    "lead": "Sunny Bonbon Carrierのpetit Check。普段の服に合わせる感覚で、バッグの色や柄も楽しみたくなる。",
+    "content": "<p class=\"guide-source-credit\">写真：ブランド公式・取扱店</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>Sunny Bonbon Carrierのpetit Check。普段の服に合わせる感覚で、バッグの色や柄も楽しみたくなる。</p><h2>選ぶ前のメモ</h2><p>サイズ・在庫・日本への配送条件は商品ごとに確認。</p><h2>購入先について</h2><p>仕様・在庫・送料・日本への配送可否は、公式または掲載取扱店へ。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://en.monchouchou.co.kr/\" target=\"_blank\" rel=\"noopener noreferrer\">https://en.monchouchou.co.kr/</a></li></ul>"
+  },
+  {
+    "id": "item-note-brand-b06",
+    "title": "HOWLPOT",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-brand-b06.webp",
+    "lead": "ブランドの代表的なハウス「HOWLY」。寝る場所も、部屋のインテリアとして色や形を選びたい人に気になる存在。",
+    "content": "<p class=\"guide-source-credit\">写真：ブランド公式・取扱店</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>ブランドの代表的なハウス「HOWLY」。寝る場所も、部屋のインテリアとして色や形を選びたい人に気になる存在。</p><h2>選ぶ前のメモ</h2><p>サイズ・在庫・日本への配送条件は商品ごとに確認。</p><h2>購入先について</h2><p>仕様・在庫・送料・日本への配送可否は、公式または掲載取扱店へ。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://www.howlpot.com/107\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.howlpot.com/107</a></li><li><a href=\"https://www.howlpot.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.howlpot.com/</a></li></ul>"
+  },
+  {
+    "id": "item-note-brand-b05",
+    "title": "GASU",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-brand-b05.webp",
+    "lead": "Neon Cobaltなど、色の組み合わせが印象的なアウターを展開。全身のシルエットまで見て選びたくなる。",
+    "content": "<p class=\"guide-source-credit\">写真：ブランド公式・取扱店</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>Neon Cobaltなど、色の組み合わせが印象的なアウターを展開。全身のシルエットまで見て選びたくなる。</p><h2>選ぶ前のメモ</h2><p>サイズ・在庫・日本への配送条件は商品ごとに確認。</p><h2>購入先について</h2><p>仕様・在庫・送料・日本への配送可否は、公式または掲載取扱店へ。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://www.gasu.store/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.gasu.store/</a></li></ul>"
+  },
+  {
+    "id": "item-note-brand-b03",
+    "title": "tailpalette",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-brand-b03.webp",
+    "lead": "TP Pouch Painting Mat 2.0は、ストライプやドットの配色が印象的。Pink系のカラーも気になるアイテム。",
+    "content": "<p class=\"guide-source-credit\">写真：ブランド公式・取扱店</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>TP Pouch Painting Mat 2.0は、ストライプやドットの配色が印象的。Pink系のカラーも気になるアイテム。</p><h2>選ぶ前のメモ</h2><p>サイズ・在庫・日本への配送条件は商品ごとに確認。</p><h2>購入先について</h2><p>仕様・在庫・送料・日本への配送可否は、公式または掲載取扱店へ。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://tailpalette.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://tailpalette.com/</a></li></ul>"
+  },
+  {
+    "id": "item-note-brand-b02",
+    "title": "MUNGMOONG",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-brand-b02.webp",
+    "lead": "Little Dorothyのドット柄プルオーバー。クリームとネイビーで印象が変わるので、毛色との組み合わせも考えたくなる。",
+    "content": "<p class=\"guide-source-credit\">写真：ブランド公式・取扱店</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>Little Dorothyのドット柄プルオーバー。クリームとネイビーで印象が変わるので、毛色との組み合わせも考えたくなる。</p><h2>選ぶ前のメモ</h2><p>サイズ・在庫・日本への配送条件は商品ごとに確認。</p><h2>購入先について</h2><p>仕様・在庫・送料・日本への配送可否は、公式または掲載取扱店へ。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://mungmoong.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://mungmoong.com/</a></li></ul>"
+  },
+  {
+    "id": "item-note-brand-b01",
+    "title": "MONGLIEBE",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-brand-b01.webp",
+    "lead": "すっきりした色使いのウインドブレーカー。写真で気になった一着を、商品ページでもう少し詳しく。",
+    "content": "<p class=\"guide-source-credit\">写真：ブランド公式・取扱店</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>すっきりした色使いのウインドブレーカー。写真で気になった一着を、商品ページでもう少し詳しく。</p><h2>選ぶ前のメモ</h2><p>サイズ・在庫・日本への配送条件は商品ごとに確認。</p><h2>購入先について</h2><p>仕様・在庫・送料・日本への配送可否は、公式または掲載取扱店へ。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://mongliebe.com/product/detail.html?product_no=57\" target=\"_blank\" rel=\"noopener noreferrer\">https://mongliebe.com/product/detail.html?product_no=57</a></li></ul>"
+  },
+  {
+    "id": "item-note-i09",
+    "title": "Sleepypod｜Mobile Pet Bed",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-i09.webp",
+    "lead": "丸いベッドにメッシュのドームを取り付けると、キャリーになるMobile Pet Bed。普段の居場所と移動用を兼ねる発想です。",
+    "content": "<p class=\"guide-source-credit\">写真：Sleepypod 公式</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>丸いベッドにメッシュのドームを取り付けると、キャリーになるMobile Pet Bed。普段の居場所と移動用を兼ねる発想です。</p><p>ドームと内側の寝具は取り外し可能。車での固定用ストラップを備え、内側の寝具は洗濯できます。</p><figure><img src=\"images/instagram-sync/item-note-i09-detail.webp\" alt=\"写真：Sleepypod 公式\" loading=\"lazy\" style=\"width:100%;max-height:600px;object-fit:contain\"><figcaption>写真：Sleepypod 公式</figcaption></figure><h2>サイズの目安</h2><p>本体は直径約43×高さ34cm、内寸は直径約38×高さ29cm。公式推奨は15lb以下（約6.8kg）。体重だけでなく、自然な姿勢で入れるかも確認。</p><h2>車で使うときは</h2><p>車のシートベルトを用いた指定の固定方法に従ってください。ベッドとして置くだけでは固定されません。使い始める前に、家で入る練習をしておこう。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://sleepypod.com/products/sleepypod\" target=\"_blank\" rel=\"noopener noreferrer\">https://sleepypod.com/products/sleepypod</a></li></ul>"
+  },
+  {
+    "id": "item-note-i08",
+    "title": "Fable｜The Puffin Game",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-i08.webp",
+    "lead": "丸みのあるフォルムのThe Puffin Game。ドライフードを入れて、犬が動かしながら取り出すタイプのトイです。",
+    "content": "<p class=\"guide-source-credit\">写真：Fable 公式</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>丸みのあるフォルムのThe Puffin Game。ドライフードを入れて、犬が動かしながら取り出すタイプのトイです。</p><p>内部の開口部を回して、出やすさを調節できます。最初は大きい開口部から、愛犬の反応を見ながら。</p><figure><img src=\"images/instagram-sync/item-note-i08-detail.webp\" alt=\"写真：Fable 公式\" loading=\"lazy\" style=\"width:100%;max-height:600px;object-fit:contain\"><figcaption>写真：Fable 公式</figcaption></figure><h2>中まで洗える構造</h2><p>上部を外して内部を手洗いでき、公式では食洗機上段・低温設定にも対応。フードの粒によって容量や出方が変わります。</p><h2>噛むための玩具ではないよ</h2><p>強く噛むためのトイではありません。夢中になってかじり始めたら一度止めて確認。見守れる時間に、いつものフードの一部を使って遊んでね。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://fablepets.com/products/the-game\" target=\"_blank\" rel=\"noopener noreferrer\">https://fablepets.com/products/the-game</a></li></ul>"
+  },
+  {
+    "id": "item-note-i07",
+    "title": "West Paw｜Toppl",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-i07.webp",
+    "lead": "Topplは、フードやおやつを中に入れて使うトイ。内側の突起に食べ物を入れ、取り出す遊びを楽しめます。",
+    "content": "<p class=\"guide-source-credit\">写真：West Paw 公式</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>Topplは、フードやおやつを中に入れて使うトイ。内側の突起に食べ物を入れ、取り出す遊びを楽しめます。</p><p>開口部が広いカップのような形。愛犬が慣れてきたら、対応する別サイズと組み合わせる使い方も。</p><figure><img src=\"images/instagram-sync/item-note-i07-detail.webp\" alt=\"写真：West Paw 公式\" loading=\"lazy\" style=\"width:100%;max-height:600px;object-fit:contain\"><figcaption>写真：West Paw 公式</figcaption></figure><h2>サイズを選ぶ</h2><p>Small・Large・XLを展開。公式寸法は約6×8×8cm／9×10×9cm／10×12×12cm。口の大きさに合うものを選んでね。</p><h2>お手入れと使い方</h2><p>食洗機は上段で使用可能。入れる食べ物は普段の食事量の一部として調整。壊れない玩具ではないので、見守れる時間に使い、傷みがあれば交換を。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://www.westpaw.com/products/toppl-treat-toy\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.westpaw.com/products/toppl-treat-toy</a></li></ul>"
+  },
+  {
+    "id": "item-note-i06",
+    "title": "FuzzYard｜Ducktor - Dog Toy",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-i06.webp",
+    "lead": "お医者さん姿のアヒルのぬいぐるみ、Ducktor。FuzzYardらしい遊び心のあるデザインです。",
+    "content": "<p class=\"guide-source-credit\">写真：FuzzYard 公式</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>お医者さん姿のアヒルのぬいぐるみ、Ducktor。FuzzYardらしい遊び心のあるデザインです。</p><p>中にスクイーカーが入っていて、押すと音が鳴るタイプ。見た目だけでなく、愛犬の好きな遊び方で選びたい。</p><figure><img src=\"images/instagram-sync/item-note-i06-detail.webp\" alt=\"写真：FuzzYard 公式\" loading=\"lazy\" style=\"width:100%;max-height:600px;object-fit:contain\"><figcaption>写真：FuzzYard 公式</figcaption></figure><h2>大きさ・素材</h2><p>公式寸法は16×15×17cm。表地・詰め物はポリエステル。小さな口でくわえやすいか、おもちゃの大きさをイメージしてね。</p><h2>遊んだあとのメモ</h2><p>冷水・弱い洗濯コースで洗える仕様。漂白・乾燥機は不可。噛み壊す子は特に見守り、破れや中材が出たら使用をやめてください。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://fuzzyard.com/products/ducktor-dog-toy\" target=\"_blank\" rel=\"noopener noreferrer\">https://fuzzyard.com/products/ducktor-dog-toy</a></li></ul>"
+  },
+  {
+    "id": "item-note-i05",
+    "title": "Hurtta｜Mudventure Dog Coat",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-i05.webp",
+    "lead": "HurttaのMudventure Dog Coatは、薄手で裏地のないシェルタイプ。保温よりも、雨や泥への対策を考えたい日の候補。",
+    "content": "<p class=\"guide-source-credit\">写真：Hurtta 公式</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>HurttaのMudventure Dog Coatは、薄手で裏地のないシェルタイプ。保温よりも、雨や泥への対策を考えたい日の候補。</p><p>防水膜と縫い目のテープ処理を採用。首まわり・胴・背丈を調節でき、ハーネス用の開口部もあります。</p><figure><img src=\"images/instagram-sync/item-note-i05-detail.webp\" alt=\"写真：Hurtta 公式\" loading=\"lazy\" style=\"width:100%;max-height:600px;object-fit:contain\"><figcaption>写真：Hurtta 公式</figcaption></figure><h2>採寸してから選ぼう</h2><p>公式掲載サイズは25〜65。背丈を基本に、胸まわり・首まわりもサイズ表と照合。後ろ脚のループやベルトの位置も装着時に確認。</p><h2>季節に合わせた使い方</h2><p>裏地なしのため、防寒着として選ぶなら別途検討を。表地は再生ポリエステル100%。お手入れは商品に付属する洗濯表示に沿ってね。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://hurtta.com/en-gb/products/mudventure-coat-eco\" target=\"_blank\" rel=\"noopener noreferrer\">https://hurtta.com/en-gb/products/mudventure-coat-eco</a></li></ul>"
+  },
+  {
+    "id": "item-note-i04",
+    "title": "Zee.Dog｜Hands-Free Leash / Deep Blue",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-i04.webp",
+    "lead": "肩掛け、腰巻き、手持ちに切り替えられるHands-Free Leash。Deep Blueのすっきりした色が気になる。",
+    "content": "<p class=\"guide-source-credit\">写真：Zee.Dog 公式</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>肩掛け、腰巻き、手持ちに切り替えられるHands-Free Leash。Deep Blueのすっきりした色が気になる。</p><p>スライダーで長さを調節する構造。体に掛ける分だけ、愛犬までのリードの長さは短くなります。</p><figure><img src=\"images/instagram-sync/item-note-i04-detail.webp\" alt=\"写真：Zee.Dog 公式\" loading=\"lazy\" style=\"width:100%;max-height:600px;object-fit:contain\"><figcaption>写真：Zee.Dog 公式</figcaption></figure><h2>長さの考え方</h2><p>海外公式の全長表記は7.8ft（約2.38m）。肩や腰に回す長さを差し引いて、歩くときの距離を確認。混雑した道では短く持てる使い方を。</p><h2>購入先の仕様を確認</h2><p>海外公式掲載モデルを紹介しています。国内販売品の適応体重・仕様も購入店で確認。引っ張り方と飼い主の体格に合わせ、装着と長さを室内で試してね。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://www.zeedog.com/products/deep-blue-hands-free-leash\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.zeedog.com/products/deep-blue-hands-free-leash</a></li></ul>"
+  },
+  {
+    "id": "item-note-i03",
+    "title": "ALPHAICON｜ダブルフルドッグガード / AMBER",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-i03.webp",
+    "lead": "ALPHAICONのダブルフルドッグガード。AMBERの配色と、脚までカバーする形が特徴です。",
+    "content": "<p class=\"guide-source-credit\">写真：ALPHAICON 公式</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>ALPHAICONのダブルフルドッグガード。AMBERの配色と、脚までカバーする形が特徴です。</p><p>公式の機能表記は耐久撥水加工・ストレッチ・リフレクター。撥水と完全防水は別なので、用途に合わせて選びたい一着。</p><figure><img src=\"images/instagram-sync/item-note-i03-detail.webp\" alt=\"写真：ALPHAICON 公式\" loading=\"lazy\" style=\"width:100%;max-height:600px;object-fit:contain\"><figcaption>写真：ALPHAICON 公式</figcaption></figure><h2>サイズと価格の目安</h2><p>掲載価格は12,540〜22,440円（税込・サイズ別／10月22日確認）。犬種名だけで選ばず、公式サイズ表に沿って採寸。色・サイズごとの在庫も確認してね。</p><h2>着用・洗濯のポイント</h2><p>男の子は公式案内に沿って股部分のカットが必要。洗濯は30℃以下の弱水流、ネット使用。柔軟剤・漂白剤・乾燥機は使わず、お手入れ表示を確認。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://alphaicon.com/products/w-full-dog-guard-amber\" target=\"_blank\" rel=\"noopener noreferrer\">https://alphaicon.com/products/w-full-dog-guard-amber</a></li></ul>"
+  },
+  {
+    "id": "item-note-i02",
+    "title": "iCANDOR｜Dumpling Bag / Lettuce Green",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-i02.webp",
+    "lead": "丸みのある形とキルティングがかわいいDumpling Bag。Lettuce Greenは、お散歩コーデの差し色に。",
+    "content": "<p class=\"guide-source-credit\">写真：iCANDOR 公式</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>丸みのある形とキルティングがかわいいDumpling Bag。Lettuce Greenは、お散歩コーデの差し色に。</p><p>公式表示の本体重量は340g。長さ調節できる肩ひもに加え、小物用のポケットも付いています。</p><figure><img src=\"images/instagram-sync/item-note-i02-detail.webp\" alt=\"写真：iCANDOR 公式\" loading=\"lazy\" style=\"width:100%;max-height:600px;object-fit:contain\"><figcaption>写真：iCANDOR 公式</figcaption></figure><h2>バッグのつくり</h2><p>表地・裏地はナイロン100%、中綿はポリエステル100%。肩のポケットと、前・横のファスナーポケットで小物を分けられます。</p><h2>小さなバッグだから、採寸を</h2><p>体重だけで決めず、体長・胸幅と入った姿勢を確認。適応体重や飛び出し対策は購入店へ。公共交通機関で使えるかは、各社の規定も確認してね。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://icandorstore.com/products/dumpling-bag_lettuce-green\" target=\"_blank\" rel=\"noopener noreferrer\">https://icandorstore.com/products/dumpling-bag_lettuce-green</a></li></ul>"
+  },
+  {
+    "id": "item-note-i01",
+    "title": "HOZI｜Workjacket",
+    "date": "2026.10.22",
+    "datetime": "2026-10-22",
+    "category": "アイテム・ブランド",
+    "categoryId": "items",
+    "image": "images/instagram-sync/item-note-i01.webp",
+    "lead": "キャンバス生地とスウェード調生地の切り替え。コーデュロイの襟やポケットが印象的な犬用ジャケット。",
+    "content": "<p class=\"guide-source-credit\">写真：HOZI 国内正規代理店</p><p>公式・取扱店の掲載情報から紹介する、気になるアイテム・ブランド。使用レビューではありません。</p><p>キャンバス生地とスウェード調生地の切り替え。コーデュロイの襟やポケットが印象的な犬用ジャケット。</p><p>紹介写真はHOZIのWorkjacket。ベージュとカーキの、落ち着いた色合わせが気になります。</p><figure><img src=\"images/instagram-sync/item-note-i01-detail.webp\" alt=\"写真：HOZI 国内正規代理店\" loading=\"lazy\" style=\"width:100%;max-height:600px;object-fit:contain\"><figcaption>写真：HOZI 国内正規代理店</figcaption></figure><h2>着る季節で、組み合わせを</h2><p>公式では春〜秋は1枚、冬はインナーに重ねる使い方を案内。重ね着する場合は、内側の服も含めたゆとりを確認。</p><h2>選ぶ前に</h2><p>紹介元はLサイズの商品ページ。サイズ表で胸まわり・着丈を確認してね。素材はポリエステル・コットン・牛皮。乾燥機は使用不可。</p><h2>公式・参考情報</h2><ul><li><a href=\"https://ec.hozi.jp/items/96302208\" target=\"_blank\" rel=\"noopener noreferrer\">https://ec.hozi.jp/items/96302208</a></li></ul>"
+  },
   {
     "id": "summer-walk-time",
     "title": "夏のお散歩、何時ごろがいい？",
@@ -185,4 +383,3 @@ const guidePosts = [
     "content": "<p>すいとおんは、ふたりともアニコムに加入しています。選んだ理由と、加入前に比べておきたい項目を、わが家の経験から整理します。</p><h2>わが家で大きかったのは、精算のしやすさ</h2><p>保険を選ぶとき、私が条件にしていたのは窓口精算できることでした。すいはお腹が弱く、何度も病院にかかることがあるので、受診のたびに助かっていると感じています。これはわが家の体験で、すべての犬に同じ選び方をすすめるものではありません。</p><h2>窓口精算なら、どの病院でも使える？</h2><p>対応病院や契約・診療内容によって利用条件があります。かかりつけが対応しているか、保険証など何を提示するか、使えない場合の請求方法も確認します。窓口精算が使えることと、その診療が補償対象になることは別です。</p><h2>割合だけでなく、上限と対象を見る</h2><p>通院・入院・手術のどこが対象か、日額や年間の上限、利用日数・回数、対象外の治療や病気を確認します。加入前からの症状の扱い、待機期間、免責金額の有無も商品ごとに照合。似た商品名でも条件が同じとは限りません。</p><h2>毎月の保険料と、受診時の負担を分ける</h2><p>わが家のすいでは、受診時の自己負担が千円以下のこともあり、普段の受診では高くても二千円ほどだったという実感があります。ただし、診療内容・請求額・契約条件で変わる個別の経験です。同じ金額になる保証や、今後の治療費の上限を示すものではありません。</p><h2>「必要？」は、備え方を比べて考える</h2><p>保険に入る場合も、対象外の費用や保険料は必要です。貯蓄で備える場合も含め、急な支出にどこまで対応できるかを家族で考えます。見積もりは同じ年齢・条件で比較し、更新時の保険料や継続条件まで確認してから選びたいですね。</p><h2>相談前に書いておく5項目</h2><p>①かかりつけの対応状況 ②通院も備えたいか ③自己負担に充てられる予算 ④現在の症状と受診歴 ⑤補償上限・除外条件。この記事では個別の商品や補償割合を比較評価していません。契約内容は保険証・約款・保険会社の説明で確認してください。</p><div class=\"guide-note\"><strong>参考情報</strong><ul><li><a href=\"https://www.anicom-sompo.co.jp/lp/family_features_agency/\" target=\"_blank\" rel=\"noopener noreferrer\">アニコム損保：どうぶつ健保の案内</a></li></ul><p>確認日：2026年9月23日。一般的な学びのための編集記事です。健康・行動の個別の困りごとは獣医師などの専門家へご相談ください。</p></div>"
   }
 ];
-if (typeof applyWeeklyPublishQueue === "function") { applyWeeklyPublishQueue(guidePosts, "guide"); }
