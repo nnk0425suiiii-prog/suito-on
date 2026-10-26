@@ -544,7 +544,7 @@ function displayItems(
 
       article.innerHTML = `
         <div class="item-open-card">
-          <div class="item-open-photo">${item.dog === "未使用" && item.image ? `<a href="${item.image}" target="_blank" rel="noopener" aria-label="${item.name}の投稿画像を大きく見る">${imageHTML}</a>` : imageHTML}${newHTML}</div>
+          <div class="item-open-photo">${item.dog === "未使用" && item.image ? `<a href="${rakutenUrl || item.shopUrl}" target="_blank" rel="${rakutenUrl ? 'nofollow sponsored noopener' : 'noopener noreferrer'}" aria-label="${item.name}の商品ページを見る">${imageHTML}</a>` : imageHTML}${newHTML}</div>
           <div class="item-open-body">
             <div class="items-ref-meta"><span class="items-ref-category">${item.category || "ITEM"}</span><span class="item-dog ${dogClass}">${item.dog === "未使用" ? "未使用・候補" : (item.dog || "BOTH")}</span></div>
             <h2>${item.name}</h2>
