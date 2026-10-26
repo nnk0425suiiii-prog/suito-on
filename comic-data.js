@@ -29,7 +29,7 @@ const comicSeriesData = [
     "id": "socialization",
     "name": "社会化期編",
     "description": "抱っこでのお出かけから、猫の先輩との暮らし、お散歩、ドッグランへ。すいの世界が少しずつ広がるお話。",
-    "thumbnail": "images/comic/sui-on-socialization-001-v2.png",
+    "thumbnail": "images/comic/comic-socialization-thumb-v2.png",
     "finalEpisodeId": 18,
     "comingSoon": false
   }
