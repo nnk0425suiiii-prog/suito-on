@@ -1,6 +1,6 @@
 /* 開催回ごとの公式確認情報。未確認を出展なしと扱わない。 */
 const eventExhibitorsData = {
-  "checkedAt": "2026-10-19",
+  "checkedAt": "2026-10-31",
   "brands": {
     "b-9ee6e734c257": {
       "name": "GALAXY GLAMPING DOG",
@@ -13034,8 +13034,6 @@ const eventExhibitorsData = {
       "sourceUrl": "https://www.instagram.com/p/DeQfmywjztj/",
       "checkedAt": "2026-10-13",
       "attendanceNote": "個別の日程は主催者・店舗にご確認ください。"
-<<<<<<< HEAD
-=======
     },
     "b-930b8785d35b": {
       "name": "犬のしつけ教室 coln.",
@@ -13754,7 +13752,2421 @@ const eventExhibitorsData = {
       "linkLabel": "公式サイト",
       "sourceUrl": "https://www.aeonpet.com/petemofes/",
       "checkedAt": "2026-10-19"
->>>>>>> 69dae82caa65835aadc68c872bd5ff088f4dfefe
+    },
+    "gogo2026-646352c3f020": {
+      "name": "マーキュリードッグ＆キャット",
+      "category": "フード・おやつ",
+      "description": "おやつ、ヤギミルク、ケア用品。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ1.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ1.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-ce5b81223d57": {
+      "name": "九州産若鶏ジャパンペットケア",
+      "category": "フード・おやつ",
+      "description": "若鶏のレトルトフード、馬肉おやつ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ1.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ1.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-67988ce8d00a": {
+      "name": "ポポ・チュール",
+      "category": "服・アクセサリー",
+      "description": "犬用チョーカー、お揃いアクセサリー。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ1.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ1.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-3eaf18cf1042": {
+      "name": "ルビ・ヨシムラ＆フーカドッグ",
+      "category": "お散歩・おでかけ",
+      "description": "スリング、ハーネス、2頭引きリード。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ1.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ1.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-aee8b6578fc1": {
+      "name": "きたむら式ペット整体",
+      "category": "ライフサービス",
+      "description": "ペット整体の紹介。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ2.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ2.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-bfe3e6a4477d": {
+      "name": "横浜Rallyペットシッター",
+      "category": "ライフサービス",
+      "description": "横浜を中心とした訪問型ペットシッター。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ2.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ2.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-b10e8e8d3b78": {
+      "name": "AZERIA",
+      "category": "お散歩・おでかけ",
+      "description": "ハーネス、ウェア、おもちゃ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ2.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ2.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-500a5efb79f4": {
+      "name": "NMN Good / モアリッチ",
+      "category": "ケア・サプリ",
+      "description": "NMN Goodの紹介。用途・使用方法は店舗へ確認。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ2.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ2.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-5fd895e1ada7": {
+      "name": "ヴォイス株式会社",
+      "category": "フード・おやつ",
+      "description": "ペットの食事や運動に関する商品紹介。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ3.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ3.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-31786dc64a3e": {
+      "name": "PET's ADVANCE",
+      "category": "お散歩・おでかけ",
+      "description": "犬用の靴。会場で試着の案内あり。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ3.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ3.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-d2ffba948bf5": {
+      "name": "まるぞう",
+      "category": "フード・おやつ",
+      "description": "手作りの犬用おやつ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ3.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ3.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-cb7478f7c9bc": {
+      "name": "株式会社TRUMP LOUVREDO事業部",
+      "category": "ケア用品",
+      "description": "ペット用ドライヤーの体験・販売。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ3.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ3.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-0848fb503e5d": {
+      "name": "L&B+Heart アニマルコミュニケーション",
+      "category": "ライフサービス",
+      "description": "アニマルコミュニケーション体験。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ4.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ4.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-20cb8716f961": {
+      "name": "PARA-DIANA",
+      "category": "お散歩・おでかけ",
+      "description": "パラコードの首輪・リード、お揃い小物。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ4.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ4.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-11a9d9faa451": {
+      "name": "KANNA ARCÄNA for DOG",
+      "category": "服・アクセサリー",
+      "description": "リボンやレースを使ったドッグウェア。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ4.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ4.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-d8244574b4a8": {
+      "name": "ベニソンドッグ",
+      "category": "フード・おやつ",
+      "description": "エゾシカ、クロコダイルなどのおやつ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ4.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ4.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-8e31bb7aa6aa": {
+      "name": "宮古島レジンアートKaito",
+      "category": "雑貨・オーダー",
+      "description": "名入れカートプレート、キーホルダー。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ5.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ5.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-1461a5d621ae": {
+      "name": "KeepClean",
+      "category": "ケア用品",
+      "description": "ペット用のお掃除スプレー。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ5.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ5.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-2a90034f2e6c": {
+      "name": "Maris",
+      "category": "雑貨・オーダー",
+      "description": "犬種モチーフのイラスト雑貨。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ5.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ5.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-b12170612995": {
+      "name": "Auau",
+      "category": "服・アクセサリー",
+      "description": "犬用リボン、スタイ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ5.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ5.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-0ef9a02e7ade": {
+      "name": "ZOIC / HAB from 株式会社ハートランド",
+      "category": "ケア用品",
+      "description": "シャンプー、サーモンオイル、フリーズドライトリーツ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ6.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ6.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-3bf52df6b3fd": {
+      "name": "ミスローズ",
+      "category": "服・アクセサリー",
+      "description": "ケアマット、アクセサリー、写真撮影コーナー。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ6.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ6.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-cef4d4e3c978": {
+      "name": "VITALIQUE",
+      "category": "ケア・サプリ",
+      "description": "5-ALAサプリメントの紹介。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ6.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ6.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-9008bf4ca8b3": {
+      "name": "WANSPAPA",
+      "category": "お散歩・おでかけ",
+      "description": "犬用うんち袋。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ6.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ6.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-0665a9c1d887": {
+      "name": "生協の宅配 パルシステム",
+      "category": "飼い主向けサービス",
+      "description": "食材宅配の紹介、試飲。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ7.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ7.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-5604814682f7": {
+      "name": "発酵ドッグカフェ Con ti, Para ti",
+      "category": "フード・おやつ",
+      "description": "米こうじを使った発酵スイーツなど。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ7.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ7.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-6b5f61d59a64": {
+      "name": "dogwear kurumi",
+      "category": "服・アクセサリー",
+      "description": "ハンドメイドの犬服、冬物アウター。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ7.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ7.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-a530380d2db4": {
+      "name": "Casa Pawe",
+      "category": "お散歩・おでかけ",
+      "description": "首輪、リード、バッグ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ8.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ8.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-b2dfb71205a0": {
+      "name": "やさしいペットフード Groobee",
+      "category": "フード・おやつ",
+      "description": "魚や鶏を使った手作りの犬用ごはん。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ8.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ8.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-963ccfeb37b1": {
+      "name": "AVVERA",
+      "category": "暮らしの用品",
+      "description": "オーガニックコットンのペット用品。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ8.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ8.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-98b22c23bb41": {
+      "name": "for Fluffys’",
+      "category": "フード・おやつ",
+      "description": "犬用オーダーケーキ、お菓子。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ8.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ8.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-3bfc16a2bcbd": {
+      "name": "ウィルインターナショナル",
+      "category": "フード・おやつ",
+      "description": "The Paw Grocerのフリーズドライおやつ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ9.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ9.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-f6d70bcf1754": {
+      "name": "BernArt82",
+      "category": "雑貨・オーダー",
+      "description": "犬種モチーフのアパレルやグッズ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ9.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ9.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-b9055ab15653": {
+      "name": "attacher〈アタシェ〉",
+      "category": "雑貨・オーダー",
+      "description": "愛犬をモチーフにした木の象嵌アート。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ9.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ9.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-ec89854451d9": {
+      "name": "西伊豆ジビエフード",
+      "category": "フード・おやつ",
+      "description": "西伊豆の鹿を使ったペット用おやつ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ9.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ9.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-2a0a888213a3": {
+      "name": "日本ペットアロマホームケア協会",
+      "category": "ケア用品",
+      "description": "肉球クリームやアロマクラフト作りの体験。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ10.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ10.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-bfe2199bfdcb": {
+      "name": "MOSCO",
+      "category": "服・アクセサリー",
+      "description": "柄物の犬服。試着、大型犬向けの案内あり。",
+      "tags": [],
+      "sizes": [
+        "large"
+      ],
+      "sizeNote": "公式出店紹介に対応サイズの案内あり。商品ごとの寸法・適合は店舗へ確認してください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ10.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ10.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-7e25f2e94914": {
+      "name": "BIOGANCE（INO株式会社）",
+      "category": "ケア用品",
+      "description": "シャンプー、ケア用品、おやつ、フード。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ10.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ10.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-07ad5cca19f6": {
+      "name": "ドッグフード工房",
+      "category": "フード・おやつ",
+      "description": "ドッグフードの紹介。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ10.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ10.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-fcc502d8a945": {
+      "name": "コンビ株式会社（コムペット）",
+      "category": "お散歩・おでかけ",
+      "description": "ブランドストア限定品などの紹介・体験。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ11.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ11.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-9a632f1b1150": {
+      "name": "VISIONS",
+      "category": "フード・おやつ",
+      "description": "オリジナルフード、ケア用品、食事の相談。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ11.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ11.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-6a5b29bb1b69": {
+      "name": "WANCOOK natural food",
+      "category": "フード・おやつ",
+      "description": "犬用の食事商品の紹介・販売。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ11.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ11.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-d418a6955652": {
+      "name": "RETONA HAKONE（リトナ箱根）",
+      "category": "宿・旅行",
+      "description": "箱根のドッグフレンドリーホテルの紹介。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ11.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ11.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-1d1c23534f6f": {
+      "name": "Chum'Nme",
+      "category": "ライフサービス",
+      "description": "ペット向けSNSアプリ、フォトブース、服・グッズ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ12.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ12.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-9fea9e0a2230": {
+      "name": "ブルすけのおみせ by lumica",
+      "category": "フード・おやつ",
+      "description": "オイル製品「スプレッチ」の紹介。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ12.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ12.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-ad46077ac74f": {
+      "name": "Rayorstudio",
+      "category": "雑貨・オーダー",
+      "description": "名入れアイテムなどのオリジナルグッズ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ12.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ12.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-b9a8d717bcd7": {
+      "name": "SUN BULL",
+      "category": "フード・おやつ",
+      "description": "鶏のもみじ、ささみのおやつ。小型犬から大型犬向けの案内あり。",
+      "tags": [],
+      "sizes": [
+        "small",
+        "large"
+      ],
+      "sizeNote": "公式出店紹介に対応サイズの案内あり。商品ごとの寸法・適合は店舗へ確認してください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ12.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ12.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-a1d25d8b750a": {
+      "name": "株式会社ラグラマー",
+      "category": "服・アクセサリー",
+      "description": "犬服ブランド「グラマーイズム」の紹介。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ13.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ13.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-a33239681d38": {
+      "name": "RAWFOOD PRO'S Diara",
+      "category": "フード・おやつ",
+      "description": "馬肉ペットフード。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ13.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ13.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-5476363b16fb": {
+      "name": "大和薬品株式会社",
+      "category": "ケア・サプリ",
+      "description": "サプリメント「大和元気」の紹介。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ13.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ13.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-95f40d440edd": {
+      "name": "モリトソラ箱根",
+      "category": "宿・旅行",
+      "description": "プライベートドッグヴィラの紹介。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ13.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ13.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-ba5309d59355": {
+      "name": "ipaw",
+      "category": "フード・おやつ",
+      "description": "ターキーを使ったおやつ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ14.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ14.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-7a5fb6feeac3": {
+      "name": "OGK技研（buddiQ）",
+      "category": "お散歩・おでかけ",
+      "description": "移動に関わるペット用品の紹介。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ14.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ14.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-ab114abcf2a9": {
+      "name": "株式会社ペティーナ",
+      "category": "ケア用品",
+      "description": "フィルム型口腔ケア「ペティオーラ」の紹介。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ14.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ14.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-27d692ab6d85": {
+      "name": "petsear",
+      "category": "ケア用品",
+      "description": "ペット用イヤーマフ。複数サイズを案内。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ14.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ14.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-310e4545911b": {
+      "name": "LILY PET WORLD",
+      "category": "お散歩・おでかけ",
+      "description": "ハンズフリーリード。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ15.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ15.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-68d6152c1d97": {
+      "name": "XAXA（ザザ）信州犬猫おやつと服飾雑貨",
+      "category": "フード・おやつ",
+      "description": "鹿肉・乳酸菌おやつ、犬服、リード。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ15.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ15.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-1b313855f096": {
+      "name": "株式会社ベリー",
+      "category": "服・アクセサリー",
+      "description": "レインコートなどの犬服。小型犬から超大型犬向けの案内あり。",
+      "tags": [],
+      "sizes": [
+        "small",
+        "large"
+      ],
+      "sizeNote": "公式出店紹介に対応サイズの案内あり。商品ごとの寸法・適合は店舗へ確認してください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ15.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ15.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-1e3b9270ad1a": {
+      "name": "Pet Goods Factory MOFU MOFU",
+      "category": "雑貨・オーダー",
+      "description": "愛犬の写真を使ったオリジナルグッズ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ15.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ15.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-ed4bfb32906b": {
+      "name": "DADWAYPET",
+      "category": "フード・おやつ",
+      "description": "国産牛皮ガム、スティックなどのおやつ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ16.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ16.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-ebac5273da2f": {
+      "name": "1st Dog Cafe",
+      "category": "お散歩・おでかけ",
+      "description": "Hakusanゼロハーネスなど。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ16.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ16.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-bf565b9e910d": {
+      "name": "テラケアブラシのブランシュ",
+      "category": "ケア用品",
+      "description": "ブラシ、ケアグッズ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ16.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ16.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-e9be25d8362b": {
+      "name": "Dr.WANDEL",
+      "category": "ケア用品",
+      "description": "犬用デンタルジェル、スティック。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ16.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ16.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-f7a309f8d737": {
+      "name": "オクトドッグ",
+      "category": "フード・おやつ",
+      "description": "マグロ、エゾ鹿、鶏などのフード・おやつ、ZEAL製品。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ17.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ17.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-0ab0ea0b3840": {
+      "name": "信州さくらファクトリー",
+      "category": "フード・おやつ",
+      "description": "犬用おやつ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ17.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ17.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-01a13c3a0099": {
+      "name": "dogwear ozy",
+      "category": "服・アクセサリー",
+      "description": "小型犬から大型犬までのハンドメイド犬服。",
+      "tags": [],
+      "sizes": [
+        "small",
+        "large"
+      ],
+      "sizeNote": "公式出店紹介に対応サイズの案内あり。商品ごとの寸法・適合は店舗へ確認してください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ17.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ17.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-7afbc64e3a0b": {
+      "name": "WAN VOYAGE",
+      "category": "服・アクセサリー",
+      "description": "犬服。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ17.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ17.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-4e6d2ff89d2b": {
+      "name": "J’s Kitchen from FUJI",
+      "category": "フード・おやつ",
+      "description": "鹿、地どり、川魚のごはん、ボーンブロス。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ18.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ18.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-da427397a1a4": {
+      "name": "Hannah",
+      "category": "服・アクセサリー",
+      "description": "ドッグファッション。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ18.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ18.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-6411e06b43c8": {
+      "name": "LIFELIKE",
+      "category": "出展ブース",
+      "description": "イベント販売。詳しい品ぞろえは会場で確認。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ18.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ18.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-342aea277994": {
+      "name": "GEWALK",
+      "category": "お散歩・おでかけ",
+      "description": "ウェア、ハーネス、リード。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ18.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ18.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-d0096857d562": {
+      "name": "蝦夷鹿と薬草専門店 DaEZO",
+      "category": "フード・おやつ",
+      "description": "蝦夷鹿、薬草などを使った犬猫用の食事。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ19.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ19.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-1fcdb5e6f850": {
+      "name": "Nanala＊",
+      "category": "服・アクセサリー",
+      "description": "デニムを使ったアイテム、バイザーキャップ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ19.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ19.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-2fdd565f4fa2": {
+      "name": "ミネターズドッグフード",
+      "category": "フード・おやつ",
+      "description": "ドッグフード、サプリメント。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ19.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ19.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-a2ba60d442b7": {
+      "name": "日本ペットフード株式会社",
+      "category": "フード・おやつ",
+      "description": "「コンボ・ピュアキューブ」の紹介。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ19.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ19.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-0312287099d0": {
+      "name": "首輪とおやつの専門店Diange",
+      "category": "お散歩・おでかけ",
+      "description": "パラシュートコード製の首輪、おやつ。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ20.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ20.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-e603b4b1a808": {
+      "name": "DEVAN",
+      "category": "雑貨・オーダー",
+      "description": "オリジナル商品、会場での名入れ刺繍。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ20.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ20.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-46314450147c": {
+      "name": "TIALOHA Hawaii",
+      "category": "服・アクセサリー",
+      "description": "冬の新作の案内。公式紹介では11月1日からの発表と記載。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ20.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ20.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "gogo2026-490106551643": {
+      "name": "にくきゅうスタンプイベント",
+      "category": "体験・撮影",
+      "description": "肉球スタンプと写真を組み合わせる体験。",
+      "tags": [],
+      "sizes": [],
+      "sizeNote": "商品ごとのサイズ・対象は店舗へご確認ください。",
+      "url": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ20.jpg",
+      "linkLabel": "公式の出店紹介",
+      "sourceUrl": "https://yokohama55fes.com/wp-content/uploads/2026/10/ゴーゴーマルシェ20.jpg",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-d127a0f4b48b": {
+      "name": "IDOG＆ICAT",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-6c9374cf18bb": {
+      "name": "AZUR PLUS",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-b174511f1634": {
+      "name": "ene☆",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-ad1bbbf7a009": {
+      "name": "HpooL Wanqusia",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-268faebd6f74": {
+      "name": "Kimily",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-5a41b05599fe": {
+      "name": "京都犬服着物TreeHouse",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-8d129450c8ce": {
+      "name": "SANCTUARY",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-abd63a0ae90d": {
+      "name": "SPIRAL-style",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-62b3ba95246e": {
+      "name": "刺繍とドレスのお店♡DPRS",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-ead403658da2": {
+      "name": "Three Frenchies",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-6a0d85b1adda": {
+      "name": "2e deuxieme cale",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-1fcdb5e6f850": {
+      "name": "Nanala＊",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-f0c8119b554c": {
+      "name": "mymore",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-567f517afb80": {
+      "name": "BUDDY86",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-0439621638f6": {
+      "name": "(株)Beache",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-6ff6ec3f6aec": {
+      "name": "bomivillage",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-b2b52b9a572b": {
+      "name": "LEVE",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-7afbc64e3a0b": {
+      "name": "WAN VOYAGE",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-52e0abacf31a": {
+      "name": "Wanhome",
+      "category": "犬服",
+      "description": "公式の「犬服」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "犬服"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-2b658ba6cf4b": {
+      "name": "inushoku",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-67b19fdc40ad": {
+      "name": "ESSEUNA",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-7f83c90d1984": {
+      "name": "EZOG",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-c09801ab4c44": {
+      "name": "NQP Lab",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-4840caf636ec": {
+      "name": "お犬様の逸品",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-96781ea26728": {
+      "name": "金虎～鰹犬・おさかな～",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-98a3c4578360": {
+      "name": "きゃな、ヤギチー",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-71310f3668e8": {
+      "name": "京丹波自然工房",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-0312287099d0": {
+      "name": "首輪とおやつの専門店Diange",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-84ec99f00ffb": {
+      "name": "ケイエムティ",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-ce8d6463e0ce": {
+      "name": "k'sBASE",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-30cf7884f2c4": {
+      "name": "XAXA：信州のこだわりおやつと服飾雑貨",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-528b8d0cf25a": {
+      "name": "ちゃろっく",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-afe7ff1c7788": {
+      "name": "手作り犬ごはん M.dog studio",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-14ed459e0d83": {
+      "name": "TREATS FACTORY",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-f4668617ece8": {
+      "name": "ナチュラル　フォレスト",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-56fccc5ce0a2": {
+      "name": "ぶりとろ.com",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-347fb1c75dd1": {
+      "name": "PURELUXE",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-d5ddac867656": {
+      "name": "ペット家ヨシナガ",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-d042111952e0": {
+      "name": "pochi sweets",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-ec1e4b456392": {
+      "name": "maro-coco（マロココおやつとごはん）",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-88987f19ddc6": {
+      "name": "Musubi",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-e187a28c7eaa": {
+      "name": "wacca delice with HP",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-129124a8e3e2": {
+      "name": "wan-site",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-37afaef7c148": {
+      "name": "わんのはな",
+      "category": "フード",
+      "description": "公式の「フード」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "フード"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-619b3a5f52c2": {
+      "name": "Anicor",
+      "category": "首輪・リード・ハーネス",
+      "description": "公式の「首輪・リード・ハーネス」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "首輪・リード・ハーネス"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-ec752d244de2": {
+      "name": "革首輪工房 with Dogs",
+      "category": "首輪・リード・ハーネス",
+      "description": "公式の「首輪・リード・ハーネス」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "首輪・リード・ハーネス"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-b26d3987a84c": {
+      "name": "Canis Familiaris Laboratory",
+      "category": "首輪・リード・ハーネス",
+      "description": "公式の「首輪・リード・ハーネス」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "首輪・リード・ハーネス"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-26e41d6d54d1": {
+      "name": "GOLDENMAMA",
+      "category": "首輪・リード・ハーネス",
+      "description": "公式の「首輪・リード・ハーネス」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "首輪・リード・ハーネス"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-6fd2bcbbdad8": {
+      "name": "Chien",
+      "category": "首輪・リード・ハーネス",
+      "description": "公式の「首輪・リード・ハーネス」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "首輪・リード・ハーネス"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-fa46caf9ec46": {
+      "name": "Dearest Paracord",
+      "category": "首輪・リード・ハーネス",
+      "description": "公式の「首輪・リード・ハーネス」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "首輪・リード・ハーネス"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-0bff701b61e2": {
+      "name": "dog goods shop D×2",
+      "category": "首輪・リード・ハーネス",
+      "description": "公式の「首輪・リード・ハーネス」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "首輪・リード・ハーネス"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-6391556ec7f8": {
+      "name": "NICOLE DOG",
+      "category": "首輪・リード・ハーネス",
+      "description": "公式の「首輪・リード・ハーネス」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "首輪・リード・ハーネス"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-ab3409b2a75c": {
+      "name": "B CRANE",
+      "category": "首輪・リード・ハーネス",
+      "description": "公式の「首輪・リード・ハーネス」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "首輪・リード・ハーネス"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-2dfdbdefa0b2": {
+      "name": "brindle",
+      "category": "首輪・リード・ハーネス",
+      "description": "公式の「首輪・リード・ハーネス」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "首輪・リード・ハーネス"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-9f794ed3c4bb": {
+      "name": "LEVEL.",
+      "category": "首輪・リード・ハーネス",
+      "description": "公式の「首輪・リード・ハーネス」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "首輪・リード・ハーネス"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-d8687f4a1439": {
+      "name": "Nu-i",
+      "category": "バッグ・スリング",
+      "description": "公式の「バッグ・スリング」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "バッグ・スリング"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-77a70c25004d": {
+      "name": "Half Beans",
+      "category": "バッグ・スリング",
+      "description": "公式の「バッグ・スリング」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "バッグ・スリング"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-2aad25c115af": {
+      "name": "ピッコロカーネ by P.C.Trading",
+      "category": "バッグ・スリング",
+      "description": "公式の「バッグ・スリング」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "バッグ・スリング"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-bc7186e92235": {
+      "name": "maronco（スリング専門店）",
+      "category": "バッグ・スリング",
+      "description": "公式の「バッグ・スリング」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "バッグ・スリング"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-4a8559e6818d": {
+      "name": "RY・Petit",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-bf023c38e0f1": {
+      "name": "espr. w/flowers for DOG",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-4d8beba338cd": {
+      "name": "オメカシペット",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-1717fb996d18": {
+      "name": "Ocean resin art And you",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-435513156746": {
+      "name": "カモシカnet",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-33a2eaa8c67b": {
+      "name": "GEBC craft",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-b2ca001212bf": {
+      "name": "SHOPわんぷらす",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-46314450147c": {
+      "name": "TIALOHA Hawaii",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-25edc1abb8e3": {
+      "name": "蓼科　茶花茶花",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-153d92ae1927": {
+      "name": "DEAR",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-3ccbd368b661": {
+      "name": "tomaco",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-e700a578d2a4": {
+      "name": "ハナマルワン",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-61184322631b": {
+      "name": "89.met",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-ace8643a9da4": {
+      "name": "bull three",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-9d8d5db87361": {
+      "name": "lealea:)",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-0f3afa98ecc4": {
+      "name": "ひまわんギャラリー",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-7217477082a4": {
+      "name": "Y.works",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-47f21a592bd3": {
+      "name": "WAF",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-83db984d0481": {
+      "name": "わんの家Ohana",
+      "category": "雑貨・小物",
+      "description": "公式の「雑貨・小物」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "雑貨・小物"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-14a2b93efa1e": {
+      "name": "いぬのココロ",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-eba38e8079ff": {
+      "name": "M's AMAR",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-e684f855ca96": {
+      "name": "ウォーターサーバーランド",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-5a4e1cf83b4a": {
+      "name": "萩原農場 スイカ研究室",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-ea7aa045537f": {
+      "name": "CAMBY",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-fc398bca9015": {
+      "name": "しっぽのこころ(動物愛護団体)",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-93a747b5f448": {
+      "name": "スウェーデン式ドッグマッサージJJ",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-c8a33dca817b": {
+      "name": "つるかめ印のわんにゃんコーム",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-56829a6543d3": {
+      "name": "TPG富山国際ペットビジネス学院",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-a0cc37c7aea4": {
+      "name": "トシノコーヒーwithペッツトンカチ",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-a7d9ea4c3c89": {
+      "name": "pet no?",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-e27e007841f7": {
+      "name": "Minaru Factory",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-66dc76840f61": {
+      "name": "三井ホーム北新越（株）",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-500a5efb79f4": {
+      "name": "NMN Good / モアリッチ",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-0b90658152c1": {
+      "name": "ドッグフォトグラファー　ヨシダヒロコ",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-ef7b48a84923": {
+      "name": "WAFONA",
+      "category": "その他",
+      "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "その他"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-779479d791da": {
+      "name": "お団子カフェ",
+      "category": "キッチンカー",
+      "description": "公式の「キッチンカー」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "キッチンカー"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-d403fc72c571": {
+      "name": "CANDYMAN",
+      "category": "キッチンカー",
+      "description": "公式の「キッチンカー」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "キッチンカー"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-ad020785f49c": {
+      "name": "けんさんのかすてらぼ～る",
+      "category": "キッチンカー",
+      "description": "公式の「キッチンカー」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "キッチンカー"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-87416d828ed2": {
+      "name": "KOMO'S KITCHEN",
+      "category": "キッチンカー",
+      "description": "公式の「キッチンカー」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "キッチンカー"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-607d23e979bf": {
+      "name": "炭火焼肉 蓮　foodtrack nicck",
+      "category": "キッチンカー",
+      "description": "公式の「キッチンカー」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "キッチンカー"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-bcdf4ce27c59": {
+      "name": "たこ焼　くろ舟",
+      "category": "キッチンカー",
+      "description": "公式の「キッチンカー」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "キッチンカー"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "inumatsuri-oyabe-20261114-85d53e7e9836": {
+      "name": "メルハバカフェ",
+      "category": "キッチンカー",
+      "description": "公式の「キッチンカー」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
+      "tags": [
+        "キッチンカー"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://inumatsuri.com/12877/",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31"
+    },
+    "japan-wanko-festa-autumn-2026-dogtree": {
+      "name": "DOGTREE",
+      "category": "フード・おやつ",
+      "description": "犬のおやつ・フードのブランド。公式が11月27日・29日の出店を案内。28日の出店はこの告知では確認できません。",
+      "tags": [
+        "フード・おやつ"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://www.dogtree.jp/news/event2026",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://www.dogtree.jp/news/event2026",
+      "checkedAt": "2026-10-31"
+    },
+    "animal-baton-osaka-20261121-dogtree": {
+      "name": "DOGTREE",
+      "category": "フード・おやつ",
+      "description": "犬のおやつ・フード。公式が11月21日・22日の出店を告知。",
+      "tags": [
+        "フード・おやつ"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://www.dogtree.jp/news/event2026",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://www.dogtree.jp/news/event2026",
+      "checkedAt": "2026-10-31"
+    },
+    "animal-baton-osaka-20261121-shizento": {
+      "name": "シゼント",
+      "category": "フード・おやつ",
+      "description": "犬猫用サプリを扱うブランド。公式が11月21日・22日の出展を告知。",
+      "tags": [
+        "フード・おやつ"
+      ],
+      "sizes": [],
+      "sizeNote": "対象サイズ・商品仕様は店舗へご確認ください。",
+      "url": "https://www.shizen-to.com/event",
+      "linkLabel": "公式の出店案内",
+      "sourceUrl": "https://www.shizen-to.com/event",
+      "checkedAt": "2026-10-31"
     }
   },
   "events": {
@@ -14546,11 +16958,113 @@ const eventExhibitorsData = {
       "note": "公式の髭犬マーケットに掲載されている店舗を紹介しています。"
     },
     "inumatsuri-oyabe-20261114": {
-      "brandIds": [],
-      "sourceUrl": "https://inumatsuri.com/",
-      "checkedAt": "2026-10-12",
-      "status": "unverified",
-      "note": "この開催回の店舗別情報は確認中です。出展の有無・最新の店舗一覧は主催者の案内をご確認ください。"
+      "brandIds": [
+        "inumatsuri-oyabe-20261114-d127a0f4b48b",
+        "inumatsuri-oyabe-20261114-6c9374cf18bb",
+        "inumatsuri-oyabe-20261114-b174511f1634",
+        "inumatsuri-oyabe-20261114-ad1bbbf7a009",
+        "inumatsuri-oyabe-20261114-268faebd6f74",
+        "inumatsuri-oyabe-20261114-5a41b05599fe",
+        "inumatsuri-oyabe-20261114-8d129450c8ce",
+        "inumatsuri-oyabe-20261114-abd63a0ae90d",
+        "inumatsuri-oyabe-20261114-62b3ba95246e",
+        "inumatsuri-oyabe-20261114-ead403658da2",
+        "inumatsuri-oyabe-20261114-6a0d85b1adda",
+        "inumatsuri-oyabe-20261114-1fcdb5e6f850",
+        "inumatsuri-oyabe-20261114-f0c8119b554c",
+        "inumatsuri-oyabe-20261114-567f517afb80",
+        "inumatsuri-oyabe-20261114-0439621638f6",
+        "inumatsuri-oyabe-20261114-6ff6ec3f6aec",
+        "inumatsuri-oyabe-20261114-b2b52b9a572b",
+        "inumatsuri-oyabe-20261114-7afbc64e3a0b",
+        "inumatsuri-oyabe-20261114-52e0abacf31a",
+        "inumatsuri-oyabe-20261114-2b658ba6cf4b",
+        "inumatsuri-oyabe-20261114-67b19fdc40ad",
+        "inumatsuri-oyabe-20261114-7f83c90d1984",
+        "inumatsuri-oyabe-20261114-c09801ab4c44",
+        "inumatsuri-oyabe-20261114-4840caf636ec",
+        "inumatsuri-oyabe-20261114-96781ea26728",
+        "inumatsuri-oyabe-20261114-98a3c4578360",
+        "inumatsuri-oyabe-20261114-71310f3668e8",
+        "inumatsuri-oyabe-20261114-0312287099d0",
+        "inumatsuri-oyabe-20261114-84ec99f00ffb",
+        "inumatsuri-oyabe-20261114-ce8d6463e0ce",
+        "inumatsuri-oyabe-20261114-30cf7884f2c4",
+        "inumatsuri-oyabe-20261114-528b8d0cf25a",
+        "inumatsuri-oyabe-20261114-afe7ff1c7788",
+        "inumatsuri-oyabe-20261114-14ed459e0d83",
+        "inumatsuri-oyabe-20261114-f4668617ece8",
+        "inumatsuri-oyabe-20261114-56fccc5ce0a2",
+        "inumatsuri-oyabe-20261114-347fb1c75dd1",
+        "inumatsuri-oyabe-20261114-d5ddac867656",
+        "inumatsuri-oyabe-20261114-d042111952e0",
+        "inumatsuri-oyabe-20261114-ec1e4b456392",
+        "inumatsuri-oyabe-20261114-88987f19ddc6",
+        "inumatsuri-oyabe-20261114-e187a28c7eaa",
+        "inumatsuri-oyabe-20261114-129124a8e3e2",
+        "inumatsuri-oyabe-20261114-37afaef7c148",
+        "inumatsuri-oyabe-20261114-619b3a5f52c2",
+        "inumatsuri-oyabe-20261114-ec752d244de2",
+        "inumatsuri-oyabe-20261114-b26d3987a84c",
+        "inumatsuri-oyabe-20261114-26e41d6d54d1",
+        "inumatsuri-oyabe-20261114-6fd2bcbbdad8",
+        "inumatsuri-oyabe-20261114-fa46caf9ec46",
+        "inumatsuri-oyabe-20261114-0bff701b61e2",
+        "inumatsuri-oyabe-20261114-6391556ec7f8",
+        "inumatsuri-oyabe-20261114-ab3409b2a75c",
+        "inumatsuri-oyabe-20261114-2dfdbdefa0b2",
+        "inumatsuri-oyabe-20261114-9f794ed3c4bb",
+        "inumatsuri-oyabe-20261114-d8687f4a1439",
+        "inumatsuri-oyabe-20261114-77a70c25004d",
+        "inumatsuri-oyabe-20261114-2aad25c115af",
+        "inumatsuri-oyabe-20261114-bc7186e92235",
+        "inumatsuri-oyabe-20261114-4a8559e6818d",
+        "inumatsuri-oyabe-20261114-bf023c38e0f1",
+        "inumatsuri-oyabe-20261114-4d8beba338cd",
+        "inumatsuri-oyabe-20261114-1717fb996d18",
+        "inumatsuri-oyabe-20261114-435513156746",
+        "inumatsuri-oyabe-20261114-33a2eaa8c67b",
+        "inumatsuri-oyabe-20261114-b2ca001212bf",
+        "inumatsuri-oyabe-20261114-46314450147c",
+        "inumatsuri-oyabe-20261114-25edc1abb8e3",
+        "inumatsuri-oyabe-20261114-153d92ae1927",
+        "inumatsuri-oyabe-20261114-3ccbd368b661",
+        "inumatsuri-oyabe-20261114-e700a578d2a4",
+        "inumatsuri-oyabe-20261114-61184322631b",
+        "inumatsuri-oyabe-20261114-ace8643a9da4",
+        "inumatsuri-oyabe-20261114-9d8d5db87361",
+        "inumatsuri-oyabe-20261114-0f3afa98ecc4",
+        "inumatsuri-oyabe-20261114-7217477082a4",
+        "inumatsuri-oyabe-20261114-47f21a592bd3",
+        "inumatsuri-oyabe-20261114-83db984d0481",
+        "inumatsuri-oyabe-20261114-14a2b93efa1e",
+        "inumatsuri-oyabe-20261114-eba38e8079ff",
+        "inumatsuri-oyabe-20261114-e684f855ca96",
+        "inumatsuri-oyabe-20261114-5a4e1cf83b4a",
+        "inumatsuri-oyabe-20261114-ea7aa045537f",
+        "inumatsuri-oyabe-20261114-fc398bca9015",
+        "inumatsuri-oyabe-20261114-93a747b5f448",
+        "inumatsuri-oyabe-20261114-c8a33dca817b",
+        "inumatsuri-oyabe-20261114-56829a6543d3",
+        "inumatsuri-oyabe-20261114-a0cc37c7aea4",
+        "inumatsuri-oyabe-20261114-a7d9ea4c3c89",
+        "inumatsuri-oyabe-20261114-e27e007841f7",
+        "inumatsuri-oyabe-20261114-66dc76840f61",
+        "inumatsuri-oyabe-20261114-500a5efb79f4",
+        "inumatsuri-oyabe-20261114-0b90658152c1",
+        "inumatsuri-oyabe-20261114-ef7b48a84923",
+        "inumatsuri-oyabe-20261114-779479d791da",
+        "inumatsuri-oyabe-20261114-d403fc72c571",
+        "inumatsuri-oyabe-20261114-ad020785f49c",
+        "inumatsuri-oyabe-20261114-87416d828ed2",
+        "inumatsuri-oyabe-20261114-607d23e979bf",
+        "inumatsuri-oyabe-20261114-bcdf4ce27c59",
+        "inumatsuri-oyabe-20261114-85d53e7e9836"
+      ],
+      "sourceUrl": "https://inumatsuri.com/12877/",
+      "checkedAt": "2026-10-31",
+      "status": "listed",
+      "note": "10月26日公開の公式ショップリストから101件を掲載。公式分類・出店日を記載しています。約130ブースという開催規模とは別の、確認できた店舗紹介件数です。追加・変更は公式をご確認ください。"
     },
     "tango-dogrun-festa-20261107": {
       "brandIds": [],
@@ -14797,12 +17311,13 @@ const eventExhibitorsData = {
         "jwf2026-ebb17f53af",
         "jwf2026-e2f0a3904e",
         "jwf2026-74cb1d3904",
-        "jwf2026-5d5a255851"
+        "jwf2026-5d5a255851",
+        "japan-wanko-festa-autumn-2026-dogtree"
       ],
       "sourceUrl": "https://www.instagram.com/flaffy.fes/",
-      "checkedAt": "2026-10-13",
+      "checkedAt": "2026-10-31",
       "status": "verified",
-      "note": "主催者Instagramで確認した25ブースを掲載（合同出展は1件として表示）。犬用品に加え、飼い主向け商品・サービスの紹介も含みます。全出展者一覧ではありません。追加発表は公式Instagramへ。"
+      "note": "従来確認の25ブースにDOGTREEの公式出店告知を追加。全店舗一覧ではありません。出店日は各紹介をご確認ください。"
     },
     "wanterrace-yokohama-bayside-2026-autumn": {
       "brandIds": [
@@ -15232,12 +17747,90 @@ const eventExhibitorsData = {
     },
     "yokohama-gogo-autumn-2026": {
       "brandIds": [
-        "b-9ce4cf79c4a7"
+        "gogo2026-646352c3f020",
+        "gogo2026-ce5b81223d57",
+        "gogo2026-67988ce8d00a",
+        "gogo2026-3eaf18cf1042",
+        "gogo2026-aee8b6578fc1",
+        "gogo2026-bfe3e6a4477d",
+        "gogo2026-b10e8e8d3b78",
+        "gogo2026-500a5efb79f4",
+        "gogo2026-5fd895e1ada7",
+        "gogo2026-31786dc64a3e",
+        "gogo2026-d2ffba948bf5",
+        "gogo2026-cb7478f7c9bc",
+        "gogo2026-0848fb503e5d",
+        "gogo2026-20cb8716f961",
+        "gogo2026-11a9d9faa451",
+        "gogo2026-d8244574b4a8",
+        "gogo2026-8e31bb7aa6aa",
+        "gogo2026-1461a5d621ae",
+        "gogo2026-2a90034f2e6c",
+        "gogo2026-b12170612995",
+        "gogo2026-0ef9a02e7ade",
+        "gogo2026-3bf52df6b3fd",
+        "gogo2026-cef4d4e3c978",
+        "gogo2026-9008bf4ca8b3",
+        "gogo2026-0665a9c1d887",
+        "gogo2026-5604814682f7",
+        "gogo2026-6b5f61d59a64",
+        "gogo2026-a530380d2db4",
+        "gogo2026-b2dfb71205a0",
+        "gogo2026-963ccfeb37b1",
+        "gogo2026-98b22c23bb41",
+        "gogo2026-3bfc16a2bcbd",
+        "gogo2026-f6d70bcf1754",
+        "gogo2026-b9055ab15653",
+        "gogo2026-ec89854451d9",
+        "gogo2026-2a0a888213a3",
+        "gogo2026-bfe2199bfdcb",
+        "gogo2026-7e25f2e94914",
+        "gogo2026-07ad5cca19f6",
+        "gogo2026-fcc502d8a945",
+        "gogo2026-9a632f1b1150",
+        "gogo2026-6a5b29bb1b69",
+        "gogo2026-d418a6955652",
+        "gogo2026-1d1c23534f6f",
+        "gogo2026-9fea9e0a2230",
+        "gogo2026-ad46077ac74f",
+        "gogo2026-b9a8d717bcd7",
+        "gogo2026-a1d25d8b750a",
+        "gogo2026-a33239681d38",
+        "gogo2026-5476363b16fb",
+        "gogo2026-95f40d440edd",
+        "gogo2026-ba5309d59355",
+        "gogo2026-7a5fb6feeac3",
+        "gogo2026-ab114abcf2a9",
+        "gogo2026-27d692ab6d85",
+        "gogo2026-310e4545911b",
+        "gogo2026-68d6152c1d97",
+        "gogo2026-1b313855f096",
+        "gogo2026-1e3b9270ad1a",
+        "gogo2026-ed4bfb32906b",
+        "gogo2026-ebac5273da2f",
+        "gogo2026-bf565b9e910d",
+        "gogo2026-e9be25d8362b",
+        "gogo2026-f7a309f8d737",
+        "gogo2026-0ab0ea0b3840",
+        "gogo2026-01a13c3a0099",
+        "gogo2026-7afbc64e3a0b",
+        "gogo2026-4e6d2ff89d2b",
+        "gogo2026-da427397a1a4",
+        "gogo2026-6411e06b43c8",
+        "gogo2026-342aea277994",
+        "gogo2026-d0096857d562",
+        "gogo2026-1fcdb5e6f850",
+        "gogo2026-2fdd565f4fa2",
+        "gogo2026-a2ba60d442b7",
+        "gogo2026-0312287099d0",
+        "gogo2026-e603b4b1a808",
+        "gogo2026-46314450147c",
+        "gogo2026-490106551643"
       ],
-      "sourceUrl": "https://morerich.net/archives/6855",
-      "checkedAt": "2026-10-12",
-      "status": "partial",
-      "note": "店舗自身の公式出店告知で確認できたお店を掲載しています。イベントの全出展店舗ではありません。"
+      "sourceUrl": "https://yokohama55fes.com/event/yokohama-gogo-dog-fes-autumn-2026/",
+      "checkedAt": "2026-10-31",
+      "status": "listed",
+      "note": "2026年10月31日・11月1日開催の公式「ゴーゴーマルシェ」紹介画像20枚に掲載された79ブースを整理しました。扱う商品から検索できます。キッチンカー・保護団体等を含むイベント全体の総数ではありません。日別出店・在庫・販売内容は各ブースの最新案内をご確認ください。"
     },
     "inumatsuri-terrace-dec2026": {
       "brandIds": [],
@@ -15415,6 +18008,16 @@ const eventExhibitorsData = {
       "checkedAt": "2026-10-13",
       "status": "unverified",
       "note": "会場公式は2日間合計約70〜90店舗と案内しています。店舗別の出展情報は未確認のため、主催者の最新紹介をご確認ください。"
+    },
+    "animal-baton-osaka-20261121": {
+      "brandIds": [
+        "animal-baton-osaka-20261121-dogtree",
+        "animal-baton-osaka-20261121-shizento"
+      ],
+      "sourceUrl": "https://www.dogtree.jp/news/event2026",
+      "checkedAt": "2026-10-31",
+      "status": "partial",
+      "note": "公式で確認できた出展者を掲載。全出展者一覧ではありません。"
     }
   }
 };

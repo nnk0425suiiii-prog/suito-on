@@ -1,4 +1,4 @@
-/* Instagram sync 2026-10-26. Existing records preserved. */
+/* イベント開催情報。既存記事を保持して追記。 */
 const calendarEvents = [
   {
     "id": "tokyo-wanwan-halloween-2026",
@@ -682,14 +682,22 @@ const calendarEvents = [
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E5%B0%8F%E7%9F%A2%E9%83%A8%E5%B8%82%E8%A5%BF%E4%B8%AD%E9%87%8E972-1%20%E4%B8%89%E4%BA%95%E3%82%A2%E3%82%A6%E3%83%88%E3%83%AC%E3%83%83%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%20%E5%8C%97%E9%99%B8%E5%B0%8F%E7%9F%A2%E9%83%A8",
     "image": "images/event/inumatsuri-oyabe-20261114-watercolor.webp",
     "description": "北陸小矢部で開催予定の犬祭り。アウトレットのおでかけとあわせて、犬用品を見て回る候補です。",
-    "content": "<p>北陸小矢部で開催予定の犬祭り。アウトレットのおでかけとあわせて、犬用品を見て回る候補です。</p><h2>楽しみ方・参加前のポイント</h2><p>別会場の犬祭りテラスの時間・料金を、この開催回の条件として読み替えないようにしましょう。出店一覧が発表されたら、気になる用品の取扱店も確認できます。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-14〜2026-11-15</dd></div><div><dt>開催時間</dt><dd>当該会場の公式続報を確認。</dd></div><div><dt>料金・申込み</dt><dd>入場条件・料金は当該会場の公式案内で確認。</dd></div><div><dt>雨の日</dt><dd>雨天・荒天時の扱いは主催者の続報へ。</dd></div><div><dt>犬連れの条件</dt><dd>イベント参加と各店舗への犬同伴は別のルール。キャリーやカートの条件は施設・店舗ごとに確認。</dd></div></dl><h2>会場への行き方</h2><p>三井アウトレットパーク 北陸小矢部へ。イベント区画・駐車場入口は施設案内を確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://inumatsuri.com/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月11日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p>",
-    "url": "https://inumatsuri.com/",
-    "editorialCheckedAt": "2026-10-11",
+    "content": "<p>北陸小矢部で開催予定の犬祭り。アウトレットのおでかけとあわせて、犬用品を見て回る候補です。</p><h2>楽しみ方・参加前のポイント</h2><p>別会場の犬祭りテラスの時間・料金を、この開催回の条件として読み替えないようにしましょう。公式の出店一覧が公開されました。気になる用品の取扱店と出店日を確認できます。</p><h2>時間・料金・犬連れの条件</h2><dl class=\"event-practical-info\"><div><dt>開催日</dt><dd>2026-11-14〜2026-11-15</dd></div><div><dt>開催時間</dt><dd>両日10:00〜16:00。</dd></div><div><dt>料金・申込み</dt><dd>入場無料。買い物・飲食等は別途。</dd></div><div><dt>雨の日</dt><dd>雨天・荒天時の扱いは主催者の続報へ。</dd></div><div><dt>犬連れの条件</dt><dd>イベント参加と各店舗への犬同伴は別のルール。キャリーやカートの条件は施設・店舗ごとに確認。</dd></div></dl><h2>会場への行き方</h2><p>三井アウトレットパーク 北陸小矢部へ。P3駐車場内の特設会場で開催。施設の駐車場は約2,800台・無料。入口は施設案内を確認。</p><h2>公式情報・更新の確認</h2><ul class=\"event-source-links\"><li><a href=\"https://inumatsuri.com/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></li></ul><p class=\"event-source-date\">情報確認：2026年10月31日。開催変更・券の残数・当日の受付は公式案内をご確認ください。見出し画像は当サイト作成のイメージイラストです。公式ポスター・実際の会場写真ではありません。</p><h2>出店一覧が公開されました</h2><p>公式の店舗一覧を出展紹介欄に追加しました。館内ではカート・キャリーの蓋を閉め、顔が出ない状態で利用してください。入店できる店舗は入口表示を確認。フードコート・飲食店舗は犬同伴不可です。</p>",
+    "url": "https://inumatsuri.com/oyabe2026/",
+    "editorialCheckedAt": "2026-10-31",
     "verificationNote": "",
     "sources": [
       {
         "label": "公式開催案内",
         "url": "https://inumatsuri.com/"
+      },
+      {
+        "label": "公式出店者一覧（10月26日公開）",
+        "url": "https://inumatsuri.com/12877/"
+      },
+      {
+        "label": "主催者・会場ルール",
+        "url": "https://inumatsuri.com/oyabe2026/"
       }
     ]
   },
@@ -2168,5 +2176,125 @@ const calendarEvents = [
       }
     ],
     "content": "<p>2026年10月のインスタ投稿で紹介したイベント。開催終了分の告知記録です。</p><h2>当時の開催案内</h2><p>10/11／大阪・此花／大阪北港マリーナ</p><p>インスタ原稿の情報記録は2026年9月25日です。当時の開催告知を保存しており、次回の日程や現在の参加受付を示すものではありません。</p><h2>次回のおでかけに</h2><p>次回開催の有無、日付・会場・チケット・犬の参加条件は、主催者の新しい開催回の案内をご確認ください。</p><h2>情報元</h2><p><a href=\"https://chihuahua-expo.com/event/2026-10-11/data/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内 ↗</a></p><p>原稿の情報確認：2026年9月25日。変更・中止・参加条件は来場前に公式で確認してください。</p><p>画像はインスタ投稿用に作成した紹介画像です。画像内の確認日と本文の情報元もご覧ください。</p>"
+  },
+  {
+    "id": "oita-doggo-land-20261121",
+    "title": "第6回 OITA DOGGO LAND",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-22",
+    "region": "kyushu",
+    "prefecture": "大分県",
+    "place": "平和市民公園 催し広場",
+    "address": "平和市民公園 催し広場",
+    "image": "images/event/oita-doggo-land-20261121-editorial.png",
+    "description": "大分で、愛犬と買い物やランを楽しむ2日間。入場無料で参加できるドッグイベントです。",
+    "content": "<p>大分で、愛犬と買い物やランを楽しむ2日間。入場無料で参加できるドッグイベントです。</p><h2>開催情報・犬連れで確認したいこと</h2><h3>日時・料金</h3><p>11月21日・22日、10:00〜16:00。入場無料。買い物・飲食等は別途。</p><h3>楽しみ方</h3><p>ドッググッズや飲食の出店、体重別エリアのドッグランが案内されています。ふれあいイベント・譲渡会ではありません。</p><h3>駐車場・参加条件</h3><p>公式は公園利用者駐車場E（132台）を案内。リード・接種証明などのラン利用条件、雨天対応は公式の来場案内をご確認ください。</p><h2>公式情報</h2><p><a href=\"https://oitabuhiland.com/about.html\" target=\"_blank\" rel=\"noopener noreferrer\">公式の開催案内 ↗</a></p><p>情報確認：2026年10月31日。未訪問のイベント紹介です。変更・中止や参加条件は来場前に公式でご確認ください。</p><p class=\"event-image-note\">見出し画像は当サイトの編集部イラストです。公式ポスター・実際の会場風景ではありません。</p>",
+    "url": "https://oitabuhiland.com/about.html",
+    "editorialCheckedAt": "2026-10-31",
+    "verificationNote": "公式開催案内で日程・会場を確認。出展者は当該回の発表が確認できたもののみ掲載。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://oitabuhiland.com/about.html"
+      }
+    ]
+  },
+  {
+    "id": "greenland-wonder-ride-20261114",
+    "title": "わんだーライドDAY／グリーンランド",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-15",
+    "region": "kyushu",
+    "prefecture": "熊本県",
+    "place": "グリーンランド（熊本県荒尾市）",
+    "address": "グリーンランド（熊本県荒尾市）",
+    "image": "images/event/greenland-wonder-ride-20261114-editorial.png",
+    "description": "遊園地を愛犬と楽しむ特別な2日間。犬同伴のアトラクションやラン、マルシェを回れます。",
+    "content": "<p>遊園地を愛犬と楽しむ特別な2日間。犬同伴のアトラクションやラン、マルシェを回れます。</p><h2>開催情報・犬連れで確認したいこと</h2><h3>日時</h3><p>11月14日・15日。主催者発表の営業時間は10:00〜17:30です。</p><h3>料金</h3><p>犬の入園料は前売500円・当日800円。犬の入園＋フリーパスは前売2,500円・当日2,800円。人の入園料・フリーパスは別途必要です。</p><h3>一緒に遊ぶ・食べる</h3><p>犬同伴アトラクション10機種、約1,000㎡のラン、犬同伴で店内利用できるレストラン2店舗を案内。アトラクションごとにサイズ・体重・マナーパンツ等の条件が異なります。</p><h3>事前準備</h3><p>チケット購入時の同意書と、公式の入園条件を確認してください。雨天時の運行・開催判断、駐車料金は来場前に公式へ。</p><h2>公式情報</h2><p><a href=\"https://wancoi.jp/greenland/wonderrideday2026/\" target=\"_blank\" rel=\"noopener noreferrer\">公式の開催案内 ↗</a></p><p>情報確認：2026年10月31日。未訪問のイベント紹介です。変更・中止や参加条件は来場前に公式でご確認ください。</p><p class=\"event-image-note\">見出し画像は当サイトの編集部イラストです。公式ポスター・実際の会場風景ではありません。</p>",
+    "url": "https://wancoi.jp/greenland/wonderrideday2026/",
+    "editorialCheckedAt": "2026-10-31",
+    "verificationNote": "公式開催案内で日程・会場を確認。出展者は当該回の発表が確認できたもののみ掲載。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://wancoi.jp/greenland/wonderrideday2026/"
+      }
+    ]
+  },
+  {
+    "id": "nihonken-nasu-20261123",
+    "title": "日本犬フェス／那須ハイランドパーク",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-11-23",
+    "endDate": "2026-11-23",
+    "region": "kanto",
+    "prefecture": "栃木県",
+    "place": "那須ハイランドパーク フォレストプラザドッグラン",
+    "address": "那須ハイランドパーク フォレストプラザドッグラン",
+    "image": "images/event/nihonken-nasu-20261123-editorial.png",
+    "description": "日本犬や日本犬ミックスが集まる那須の交流イベント。30m走や和風コスプレ企画も予定されています。",
+    "content": "<p>日本犬や日本犬ミックスが集まる那須の交流イベント。30m走や和風コスプレ企画も予定されています。</p><h2>開催情報・犬連れで確認したいこと</h2><h3>日時・会場</h3><p>11月23日、12:00〜15:00。フォレストプラザドッグラン。</p><h3>参加・予約</h3><p>30m走は事前申込み（11月23日8:00まで）。入園時は犬同伴の同意書登録が必要です。イベント参加費の有無と人・犬の入園料金は公式でご確認ください。</p><h3>犬の条件・雨天</h3><p>交流時のランは小型犬と中・大型犬に分割。ヒート中は参加を控えてください。小雨は別会場などで縮小する場合があり、荒天は中止予定です。</p><h2>公式情報</h2><p><a href=\"https://www.nasuhai.co.jp/event/1123\" target=\"_blank\" rel=\"noopener noreferrer\">公式の開催案内 ↗</a></p><p>情報確認：2026年10月31日。未訪問のイベント紹介です。変更・中止や参加条件は来場前に公式でご確認ください。</p><p class=\"event-image-note\">見出し画像は当サイトの編集部イラストです。公式ポスター・実際の会場風景ではありません。</p>",
+    "url": "https://www.nasuhai.co.jp/event/1123",
+    "editorialCheckedAt": "2026-10-31",
+    "verificationNote": "公式開催案内で日程・会場を確認。出展者は当該回の発表が確認できたもののみ掲載。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://www.nasuhai.co.jp/event/1123"
+      }
+    ]
+  },
+  {
+    "id": "kagoshima-aigo-20261123",
+    "title": "動物愛護フェスティバル2026／鹿児島市",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-11-23",
+    "endDate": "2026-11-23",
+    "region": "kyushu",
+    "prefecture": "鹿児島県",
+    "place": "かごしま健康の森公園 ファミリー広場（鹿児島市犬迫町825番地）",
+    "address": "かごしま健康の森公園 ファミリー広場（鹿児島市犬迫町825番地）",
+    "image": "images/event/kagoshima-aigo-20261123-editorial.png",
+    "description": "犬と参加できる体験やしつけ教室、健康相談を通じて、動物との暮らしを学ぶ一日です。",
+    "content": "<p>犬と参加できる体験やしつけ教室、健康相談を通じて、動物との暮らしを学ぶ一日です。</p><h2>開催情報・犬連れで確認したいこと</h2><h3>日時・料金</h3><p>11月23日、10:00〜15:00。入場無料、ペット同伴可。荒天中止の場合があり、雨天は一部企画を中止することがあります。</p><h3>ランは事前申込み</h3><p>ドッグラン体験は事前申込み・定員制。犬鑑札、狂犬病予防注射済票、混合ワクチン接種証明書が必要です。接種時期などの詳細は公式利用規約をご確認ください。</p><h3>駐車場・マナー</h3><p>第2・第3駐車場が会場に近く、第1も利用可。首輪またはハーネスとリードを着用し、排泄物・ごみは持ち帰りましょう。</p><h2>公式情報</h2><p><a href=\"https://www.city.kagoshima.lg.jp/kenkofukushi/hokenjo/seiei-jueki/kurashi/dobutsu/festival.html\" target=\"_blank\" rel=\"noopener noreferrer\">公式の開催案内 ↗</a></p><p>情報確認：2026年10月31日。未訪問のイベント紹介です。変更・中止や参加条件は来場前に公式でご確認ください。</p><p class=\"event-image-note\">見出し画像は当サイトの編集部イラストです。公式ポスター・実際の会場風景ではありません。</p>",
+    "url": "https://www.city.kagoshima.lg.jp/kenkofukushi/hokenjo/seiei-jueki/kurashi/dobutsu/festival.html",
+    "editorialCheckedAt": "2026-10-31",
+    "verificationNote": "公式開催案内で日程・会場を確認。出展者は当該回の発表が確認できたもののみ掲載。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://www.city.kagoshima.lg.jp/kenkofukushi/hokenjo/seiei-jueki/kurashi/dobutsu/festival.html"
+      }
+    ]
+  },
+  {
+    "id": "animal-baton-osaka-20261121",
+    "title": "アニマルバトンフェスタ2026",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-22",
+    "region": "kansai",
+    "prefecture": "大阪府",
+    "place": "服部緑地 円形花壇（大阪府豊中市服部緑地1-1）",
+    "address": "服部緑地 円形花壇（大阪府豊中市服部緑地1-1）",
+    "image": "images/event/animal-baton-osaka-20261121-editorial.png",
+    "description": "買い物とともに、保護動物やペット防災についても知ることができる、服部緑地のペットイベントです。",
+    "content": "<p>買い物とともに、保護動物やペット防災についても知ることができる、服部緑地のペットイベントです。</p><h2>開催情報・犬連れで確認したいこと</h2><h3>日時・料金</h3><p>11月21日10:00〜18:00、22日10:00〜17:00。入場無料。物販・飲食等は別途。</p><h3>開催内容</h3><p>主催者はキッチンカーを含む約100パビリオンを予定。譲渡会や防災の啓発、寄付の取り組みも案内しています。</p><h3>犬連れの準備</h3><p>接種証明・リード等の細則、雨天対応、駐車場の営業・料金は公式の最新案内でご確認ください。譲渡会は各団体の参加条件を優先してください。</p><h2>公式情報</h2><p><a href=\"https://prtimes.jp/main/html/rd/p/000000003.000170588.html\" target=\"_blank\" rel=\"noopener noreferrer\">公式の開催案内 ↗</a></p><p>情報確認：2026年10月31日。未訪問のイベント紹介です。変更・中止や参加条件は来場前に公式でご確認ください。</p><p class=\"event-image-note\">見出し画像は当サイトの編集部イラストです。公式ポスター・実際の会場風景ではありません。</p>",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000170588.html",
+    "editorialCheckedAt": "2026-10-31",
+    "verificationNote": "公式開催案内で日程・会場を確認。出展者は当該回の発表が確認できたもののみ掲載。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://prtimes.jp/main/html/rd/p/000000003.000170588.html"
+      }
+    ]
   }
 ];
