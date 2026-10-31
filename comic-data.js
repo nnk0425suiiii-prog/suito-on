@@ -29,7 +29,7 @@ const comicSeriesData = [
     "id": "socialization",
     "name": "社会化期編",
     "description": "抱っこでのお出かけから、猫の先輩との暮らし、お散歩、ドッグランへ。すいの世界が少しずつ広がるお話。",
-    "thumbnail": "images/comic/sui-on-socialization-001-v2.png",
+    "thumbnail": "images/comic/comic-socialization-thumb-v2.png",
     "finalEpisodeId": 18,
     "comingSoon": false
   }
@@ -123,7 +123,7 @@ const comicData = [
       "出会い編",
 
     image:
-      "images/comic/sui-on-deai-003-v2.png",
+      "images/comic/sui-on-deai-003-watercolor-20261014.png",
 
     alt:
       "すいとおん。4コマ 出会い編③ はじめまして、すい。",
@@ -155,7 +155,7 @@ const comicData = [
       "出会い編",
 
     image:
-      "images/comic/sui-on-deai-004-v2.png",
+      "images/comic/sui-on-deai-004-watercolor-20261014.png",
 
     alt:
       "すいとおん。4コマ 出会い編④ 帰宅。試練のはじまり",
@@ -176,7 +176,7 @@ const comicData = [
     "number": "005",
     "title": "いるかな。",
     "series": "出会い編",
-    "image": "images/comic/sui-on-deai-005-v1.png",
+    "image": "images/comic/sui-on-deai-005-watercolor-20261014.png",
     "alt": "すいとおん。4コマ 出会い編⑤ いるかな。",
     "description": "初めての夜。鳴かずに約2時間おきに手を伸ばし、私がいるか確認するすい。私もすいが気になって、あまり眠れませんでした。",
     "detailPage": "comic-detail.html?id=5",
@@ -189,7 +189,7 @@ const comicData = [
     "number": "006",
     "title": "もう、うちの子。",
     "series": "出会い編",
-    "image": "images/comic/sui-on-deai-006-v1.png",
+    "image": "images/comic/sui-on-deai-006-watercolor-20261014.png",
     "alt": "すいとおん。4コマ 出会い編⑥ もう、うちの子。 出会い編最終話",
     "description": "お迎えから数日、すっかりくつろぐすいと、気になって仕方ない猫の先輩。わが家に新しい毎日が始まりました。出会い編、最終話。",
     "detailPage": "comic-detail.html?id=6",

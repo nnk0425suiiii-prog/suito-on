@@ -39,6 +39,7 @@
 
   <link rel="stylesheet" href="items-journal.css?v=20260923-images">
   <link rel="stylesheet" href="journal-footer.css?v=20260917-final">
+<style>.item-wishlist-card .item-dog{background:#f2eadf;color:#62574c}</style>
 </head>
 
 
@@ -201,7 +202,7 @@
             </h1>
 
             <p>
-              すいとおん。の愛用品。
+              愛用品と、気になるもの。
             </p>
 
           </div>
@@ -234,8 +235,8 @@
 
 
         <p class="items-ref-description">
-          実際に使っているものや、<br>
-          暮らしの中で「よかった」と思ったものをまとめています。
+          実際に使っている愛用品と、インスタで紹介した購入前の候補。<br>
+          まだ使っていないものには「未使用・候補」と表示しています。
         </p>
 
 
@@ -249,7 +250,8 @@
          FILTER
     ================================================== -->
 
-    <section class="items-ref-filter">
+    <details class="items-ref-filter" style="padding:20px 24px"><summary>気になるブランドのメモ（9ブランド）</summary><div id="itemBrandNotes"></div></details>
+<section class="items-ref-filter">
 
       <div class="items-ref-filter-inner">
 
@@ -259,15 +261,16 @@
         <div class="items-ref-filter-row">
 
           <span class="items-ref-filter-label">
-            WHO
+            SELECT
           </span>
 
 
           <div class="items-filter-buttons">
+<button type="button" class="items-filter-button active" data-dog="owned">愛用品</button>
 
             <button
               type="button"
-              class="items-filter-button active"
+              class="items-filter-button"
               data-dog="all"
             >
               ALL
@@ -297,7 +300,8 @@
               BOTH
             </button>
 
-          </div>
+          <button type="button" class="items-filter-button" data-dog="未使用">気になるもの</button>
+</div>
 
         </div>
 
@@ -377,7 +381,7 @@
          ITEM LIST
     ================================================== -->
 
-    <p class="items-order-note">すいとおん。の愛用品を、新しく追加したものから順に。</p>
+    <p class="items-order-note">愛用品と気になるものを、新しく追加した順に。気になるものは使用レビューではありません。</p>
     <section class="items-ref-list-section">
 
       <div class="items-ref-list-inner">
@@ -403,16 +407,16 @@
       <div class="items-ref-note-inner">
 
         <p class="items-ref-note-en">
-          OUR REAL FAVORITES
+          FAVORITES & WISHLIST
         </p>
 
         <h2>
-          実際に使っているものを。
+          使っているもの、これから気になるもの。
         </h2>
 
         <p>
           ここに載せているのは、
-          すいとおん。が実際に使っているものが中心です。<br>
+          愛用品と、公式・取扱店の情報から選んだ未使用の候補です。<br>
           BLOGで詳しく紹介しているものは、
           商品カードから記事も読めます。
         </p>
@@ -537,9 +541,9 @@
 
   <script src="publish-schedule.js?v=20260917-final"></script>
   <script src="blog-data.js?v=20260917-final"></script>
-  <script src="items-data.js?v=20261004-carriers"></script>
+  <script src="items-data.js?v=20261026-product-photos"></script>
   <script src="rakuten-affiliate.js?v=20261011"></script>
-  <script src="items.js?v=20261011-rakuten"></script>
+  <script src="items.js?v=20261026-product-photos"></script>
   <script src="items-like.js?v=20260917-final"></script>
   <script src="script.js?v=20260919-outing"></script>
 

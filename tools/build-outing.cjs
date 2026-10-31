@@ -10,11 +10,11 @@ for(const f of features){
  if(!/^images\/[\w./-]+$/.test(f.image)||f.image.includes('..')||!fs.existsSync(path.join(root,f.image)))throw Error('Missing/invalid image: '+f.image);
  if(/\{\{place:/.test(render.article(f,places,features)))throw Error('Invalid facility reference: '+f.id);
 }
-const scripts='<script src="outing-affiliate.js?v=20261011" defer></script><script src="outing-features.js?v=20260930-common"></script><script src="outing-render.js?v=20260930-common"></script><script src="outing-article.js?v=20260930-common"></script>';
+const scripts='<script src="outing-affiliate.js?v=20261011" defer></script><script src="outing-features.js?v=20261026-instagram"></script><script src="outing-render.js?v=20261026-instagram"></script><script src="outing-article.js?v=20260930-common"></script>';
 const template=fs.readFileSync(path.join(__dirname,'outing-template.html'),'utf8');
 const article=template.replace('{{TITLE}}','OUTING').replace('{{META}}','<meta name="robots" content="noindex, follow">')
  .replace('{{MAIN}}','<main id="outingArticle" class="outing-main outing-article"><!-- OUTING_CONTENT_START --><p>記事を読み込んでいます。</p><noscript>記事を表示するにはJavaScriptを有効にしてください。</noscript><!-- OUTING_CONTENT_END --></main>')
- .replace('</body>','<script src="outing-data.js?v=20260930-common"></script>'+scripts+'\n</body>');
+ .replace('</body>','<script src="outing-data.js?v=20261026-instagram"></script>'+scripts+'\n</body>');
 const hub=fs.readFileSync(path.join(__dirname,'outing-hub-template.html'),'utf8')
  .replace('{{FEATURE_CARDS}}',()=>render.cards(features)).replace('{{PLAY_COUNT}}',places.filter(p=>p.kind==='play').length).replace('{{STAY_COUNT}}',places.filter(p=>p.kind==='stay').length)
  .replace('</body>',scripts+'\n</body>');

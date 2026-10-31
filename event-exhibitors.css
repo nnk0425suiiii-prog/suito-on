@@ -25,3 +25,14 @@
 .event-exhibitors-pending{padding:16px 20px;border-radius:14px;background:#f7f4ec;font-size:14px}
 .event-exhibitors :is(button,input,select):focus-visible{outline:2px solid #466e80;outline-offset:3px}
 @media(max-width:520px){.event-exhibitors-controls{grid-template-columns:1fr}}
+
+/* A quiet paper board: aligned notes keep long exhibitor lists scannable. */
+.event-exhibitors{box-sizing:border-box;padding:32px 28px;background:#f2eee4;border:1px solid #e2d9c9;border-radius:8px;box-shadow:0 3px 12px #5146320a;margin:24px 0 48px}
+.event-exhibitors-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:26px 18px;align-items:start;margin-top:30px}
+.event-exhibitor-card{position:relative;border:0;border-radius:2px 2px 12px 2px;padding:24px 18px 18px;background:#fff9e4;box-shadow:1px 4px 7px #65564114}
+.event-exhibitor-card:nth-child(3n+2){background:#eaf3f5}.event-exhibitor-card:nth-child(3n){background:#f6ece7}
+.event-exhibitor-card:before{content:'';position:absolute;width:56px;height:17px;left:calc(50% - 28px);top:-8px;background:#d6c9af99;transform:rotate(-3deg);pointer-events:none}
+.event-exhibitor-card h3{font-size:18px}.event-exhibitor-card p{font-size:13px;line-height:1.8}.event-exhibitor-details summary{font-size:12px;cursor:pointer;min-height:44px;display:flex;align-items:center;text-decoration:underline;text-underline-offset:4px}.event-exhibitor-details summary:before{content:'＋';margin-right:6px}.event-exhibitor-details[open] summary:before{content:'−'}.event-exhibitor-links{margin-top:8px}.event-exhibitor-links a{display:flex;min-height:44px;align-items:center}.event-exhibitor-tags{margin-bottom:8px}.event-exhibitors-controls{max-width:700px}
+@media(min-width:1200px){.event-exhibitors-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media(max-width:900px){.event-exhibitors-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:540px){.event-exhibitors{padding:24px 16px}.event-exhibitors-grid{grid-template-columns:1fr;gap:25px}.event-exhibitor-card{padding:24px 20px 18px}}

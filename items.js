@@ -284,8 +284,7 @@ function isNewItem(addedDate) {
    FILTER STATE
 ================================================== */
 
-let selectedDog =
-  "all";
+let selectedDog = "owned";
 
 
 let selectedCategory =
@@ -373,7 +372,7 @@ function displayItems(
 
 
       article.className =
-        "items-ref-card";
+        "items-ref-card" + (item.dog === "未使用" ? " item-wishlist-card" : "");
 
 
       article.id =
@@ -428,14 +427,14 @@ function displayItems(
 
           ? `
             <img
-              src="${item.image}"
+              loading="lazy" decoding="async" src="${item.image}"
               alt="${item.name}"
             >
           `
 
           : `
             <div class="items-ref-no-image">
-              NO IMAGE
+              ${item.dog === "未使用" ? "気になるもの" : "NO IMAGE"}
             </div>
           `;
 
@@ -545,9 +544,9 @@ function displayItems(
 
       article.innerHTML = `
         <div class="item-open-card">
-          <div class="item-open-photo">${imageHTML}${newHTML}</div>
+          <div class="item-open-photo">${item.dog === "未使用" && item.image ? `<a href="${rakutenUrl || item.shopUrl}" target="_blank" rel="${rakutenUrl ? 'nofollow sponsored noopener' : 'noopener noreferrer'}" aria-label="${item.name}の商品ページを見る">${imageHTML}</a>` : imageHTML}${newHTML}</div>
           <div class="item-open-body">
-            <div class="items-ref-meta"><span class="items-ref-category">${item.category || "ITEM"}</span><span class="item-dog ${dogClass}">${item.dog || "BOTH"}</span></div>
+            <div class="items-ref-meta"><span class="items-ref-category">${item.category || "ITEM"}</span><span class="item-dog ${dogClass}">${item.dog === "未使用" ? "未使用・候補" : (item.dog || "BOTH")}</span></div>
             <h2>${item.name}</h2>
             ${rakutenUrl ? `<p class="item-open-price">価格は楽天で確認</p>` : item.price ? `<p class="item-open-price">${item.price}</p>` : ""}
             <p class="item-open-note">${recommendation}</p>
@@ -747,7 +746,7 @@ function applyItemsFilter() {
 
 
       const dogMatch =
-        selectedDog === "all"
+        selectedDog === "all" || (selectedDog === "owned" && item.dog !== "未使用")
         ||
         item.dog === selectedDog;
 
@@ -877,12 +876,17 @@ categoryFilterButtons.forEach(
    FIRST DISPLAY
 ================================================== */
 
-displayItems(
-  allItems
-);
+applyItemsFilter();
 
 // Disclosure remains visible while filtering the item list.
 if (typeof getRakutenProductLink === "function" && allItems.some(item => getRakutenProductLink(item.id))) {
   showRakutenDisclosure(document.querySelector(".items-ref-description"));
 }
 
+
+// Brand notes are separate from product reviews.
+{
+ const root = document.getElementById('itemBrandNotes');
+ const escape = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ if (root && typeof itemBrandNotes !== 'undefined') root.innerHTML = itemBrandNotes.map(b => `<section style="padding:16px 0;border-bottom:1px solid #e7e1d9"><h3>${escape(b.name)}</h3><p>${escape(b.description)}</p><p><a href="${escape(b.url)}" target="_blank" rel="noopener noreferrer">ブランド・取扱店を見る ↗</a> / 情報記録 ${escape(b.checked)}</p></section>`).join('');
+}
