@@ -19,7 +19,14 @@
       "/comic-series.html",
       "/event-detail",
       "/event-detail.html",
-      "/outing-*"
+      "/outing-*",
+      "/blog",
+      "/blog.html",
+      "/guide",
+      "/guide.html",
+      "/event",
+      "/event.html",
+      "/sitemap.xml"
     ]
   }
 }
