@@ -61,6 +61,9 @@ export function rewriteSharingHTML(html, share) {
   return html.replace('</head>',meta.join('\n')+'\n</head>');
 }
 async function assetResponse(request, env) {
+  const cleanHeaders=new Headers(request.headers);
+  for(const name of ['if-none-match','if-modified-since','range','if-range'])cleanHeaders.delete(name);
+  request=new Request(request,{headers:cleanHeaders});
   let response=await env.ASSETS.fetch(request);
   // Asset serving may normalize .html paths. Follow only same-origin normalizations.
   for(let count=0;count<3&&[301,302,307,308].includes(response.status);count++){
@@ -74,6 +77,8 @@ async function assetResponse(request, env) {
 export default {
   async fetch(request, env) {
     const url=new URL(request.url);
+    const index=await respondIndex(request,env,url);
+    if(index)return index;
     const outing=await respondOuting(request,env,url);
     if(outing)return outing;
     const share=resolveShare(url);
@@ -83,7 +88,7 @@ export default {
     const assetURL=new URL(`/${share.route}`,url.origin);
     const response=await assetResponse(new Request(assetURL,{headers:request.headers}),env);
     if(!response.ok)return response;
-    const html=rewriteSharingHTML(await response.text(),share);
+    const html=renderArticleHTML(rewriteSharingHTML(await response.text(),share),share);
     const headers=new Headers(response.headers);
     headers.set('content-type','text/html; charset=utf-8');
     headers.set('cache-control','no-store');
@@ -126,4 +131,66 @@ async function respondOuting(request,env,url) {
   headers.delete('etag');headers.delete('content-length');headers.delete('content-encoding');
   if(!item)headers.set('x-robots-tag','noindex, follow');
   return new Response(request.method==='HEAD'?null:html,{status:item?200:404,headers});
+}
+
+// Only edit controlled, empty template slots; content comes from our editorial data.
+function fillSlot(html, id, value) {
+  const re = new RegExp('(<([a-z][a-z0-9]*)\\b[^>]*\\bid=["\\\']'+id+'["\\\'][^>]*>)[\\s\\S]*?(<\\/\\2>)', 'i');
+  if (!re.test(html)) throw new Error('Missing content slot: '+id);
+  return html.replace(re, (_,open,tag,close)=>open+value+close);
+}
+function imageSlot(html,id,item) {
+  return html.replace(new RegExp('<img\\b[^>]*\\bid=["\\\']'+id+'["\\\'][^>]*>', 'i'), tag => tag
+    .replace(/\s(?:src|alt)\s*=\s*["'][^"']*["']/gi,'')
+    .replace(/\s*\/?\s*>$/,` src="${escapeHTML(item.image||DEFAULT_IMAGE)}" alt="${escapeHTML(item.title)}">`));
+}
+export function renderArticleHTML(html,share) {
+  if (share.missing) return html;
+  const p=share.item, e=escapeHTML;
+  const prefix=share.route==='article'?'article':share.route==='guide-article'?'guideArticle':null;
+  if(prefix) {
+    for(const [suffix,value] of Object.entries({Title:p.title,Date:p.date,Category:p.category,Lead:p.lead}))
+      html=fillSlot(html,prefix+suffix,e(value));
+    html=fillSlot(html,prefix+'Body',p.content||'');
+    html=imageSlot(html,prefix==='article'?'articleMainImage':'guideArticleImage',p);
+  } else if(share.route==='event-detail') {
+    const date=[p.startDate,p.endDate!==p.startDate?p.endDate:''].filter(Boolean).join(' ～ ');
+    for(const [id,value] of Object.entries({eventDetailTitle:p.title,eventDetailDate:date,eventDetailLocation:[p.prefecture,p.place].filter(Boolean).join(' / '),eventInfoDate:date,eventInfoPlace:p.place,eventInfoAddress:p.address})) html=fillSlot(html,id,e(value));
+    html=fillSlot(html,'eventDetailContent',p.content||`<p>${e(p.description||'')}</p>`);
+    html=fillSlot(html,'eventDetailImage',p.image?`<img src="${e(p.image)}" alt="${e(p.title)}">`:'');
+    for(const [id,url,label] of [['eventInfoMap',p.mapUrl,'地図を見る'],['eventInfoOfficial',p.url,'公式情報を見る']])
+      html=fillSlot(html,id,/^https?:\/\//.test(url||'')?`<a href="${e(url)}" rel="noopener noreferrer">${label} ↗</a>`:'');
+  }
+  return html;
+}
+const listingRoutes = new Map([['blog','blog'],['guide','guide'],['event','events']]);
+export function listingHTML(kind,now=Date.now()) {
+  const posts=CONTENT[kind].filter(p=>isPublished(p,now)).filter(p=>kind!=='events'||(p.endDate||p.startDate||'')>=new Date(now+9*3600000).toISOString().slice(0,10))
+    .sort((a,b)=>kind==='events'?String(a.startDate).localeCompare(String(b.startDate)):String(b.datetime).localeCompare(String(a.datetime)));
+  const e=escapeHTML,route=kind==='blog'?'article':kind==='guide'?'guide-article':'event-detail';
+  if(kind==='events')return posts.map(p=>`<article class="event-ref-card"><a href="/${route}?id=${encodeURIComponent(p.id)}"><h3>${e(p.title)}</h3></a><p>${e(p.startDate)} ～ ${e(p.endDate||p.startDate)} / ${e(p.place)}</p><p>${e(p.description||'')}</p></article>`).join('')||'<p>公開中の開催予定はありません。</p>';
+  return posts.map((p,i)=>{
+    const k=kind,href=`/${route}?id=${encodeURIComponent(p.id)}`,img=`<img src="${e(p.image)}" alt="${e(p.title)}" loading="lazy">`,meta=`<time datetime="${e(p.datetime)}">${e(p.date)}</time> <span>${e(p.category)}</span>`;
+    if(i===0)return `<article class="${k}-ref-featured"><a class="${k}-ref-featured-link" href="${href}"><div class="${k}-ref-featured-${k==='guide'?'photo':'image'}">${img}</div><div class="${k}-ref-featured-content"><div class="${k}-ref-featured-meta">${meta}</div><h2>${e(p.title)}</h2><p>${e(p.lead)}</p><span>続きを読む →</span></div></a></article>`;
+    return `<article class="${k==='blog'?'blog-ref-row':'guide-ref-card'}"><a class="${k}-ref-row-link" href="${href}"><div class="${k==='blog'?'blog-ref-row-image':'guide-ref-card-image'}">${img}</div><div class="${k}-ref-row-content">${meta}<h2>${e(p.title)}</h2></div></a></article>`;
+  }).reduce((out,card,i)=>i===0?card:out+(i===1?`<div class="${kind==='blog'?'blog-ref-archive':'guide-ref-archive-wrap'}">`:'')+card,'')+(posts.length>1?'</div>':'');
+}
+export function sitemapXML(now=Date.now()) {
+  const paths=['/','/blog','/guide','/event','/outing','/items','/comic','/about','/privacy','/contact'];
+  for(const [kind,route] of [['blog','article'],['guide','guide-article'],['events','event-detail'],['comics','comic-detail'],['outing','outing-article']])
+    for(const p of CONTENT[kind]||[]) if(isPublished(p,now))paths.push(`/${route}?id=${encodeURIComponent(p.id)}`);
+  for(const s of CONTENT.series||[])if(!s.comingSoon&&CONTENT.comics.some(p=>p.series===s.name&&isPublished(p,now)))paths.push(`/comic-series?series=${encodeURIComponent(s.id)}`);
+  return '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+[...new Set(paths)].map(p=>`<url><loc>${escapeHTML(SITE_ORIGIN+p)}</loc></url>`).join('')+'</urlset>';
+}
+async function respondIndex(request,env,url) {
+  const route=url.pathname.replace(/^\//,'').replace(/\.html$/,'').replace(/\/$/,'');
+  if(route!=='sitemap.xml'&&!listingRoutes.has(route))return null;
+  if(!['GET','HEAD'].includes(request.method))return new Response('Method Not Allowed',{status:405,headers:{Allow:'GET, HEAD'}});
+  if(route==='sitemap.xml')return new Response(request.method==='HEAD'?null:sitemapXML(),{headers:{'Content-Type':'application/xml; charset=utf-8','Cache-Control':'no-store'}});
+  const response=await assetResponse(new Request(new URL('/'+route,url.origin),{headers:request.headers}),env);
+  if(!response.ok)return response;
+  const html=fillSlot(await response.text(),route==='event'?'eventList':route+'List',listingHTML(listingRoutes.get(route)));
+  const headers=new Headers(response.headers);headers.set('Content-Type','text/html; charset=utf-8');headers.set('Cache-Control','no-store');
+  for(const name of ['etag','content-length','content-encoding'])headers.delete(name);
+  return new Response(request.method==='HEAD'?null:html,{headers});
 }
