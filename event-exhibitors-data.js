@@ -1,6 +1,6 @@
 /* 開催回ごとの公式確認情報。未確認を出展なしと扱わない。 */
 const eventExhibitorsData = {
-  "checkedAt": "2026-10-31",
+  "checkedAt": "2026-11-14",
   "brands": {
     "b-9ee6e734c257": {
       "name": "GALAXY GLAMPING DOG",
@@ -15917,7 +15917,7 @@ const eventExhibitorsData = {
       "checkedAt": "2026-10-31"
     },
     "inumatsuri-oyabe-20261114-56829a6543d3": {
-      "name": "TPG富山国際ペットビジネス学院",
+      "name": "TPG富山国際ペットビジネス学院",
       "category": "その他",
       "description": "公式の「その他」区分に掲載。出店日：11/14・11/15。取扱商品・在庫は店舗へご確認ください。",
       "tags": [
@@ -16167,6 +16167,650 @@ const eventExhibitorsData = {
       "linkLabel": "公式の出店案内",
       "sourceUrl": "https://www.shizen-to.com/event",
       "checkedAt": "2026-10-31"
+    },
+    "b-ae087e8bb136": {
+      "name": "松毬",
+      "category": "ドッグフード・トリーツ",
+      "description": "主催者の「ドッグフード・トリーツ」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://chihuahua-expo.com/event/2026-11-22/market/4227",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://chihuahua-expo.com/event/2026-11-22/market/4227",
+      "checkedAt": "2026-11-14"
+    },
+    "b-b662714e210e": {
+      "name": "BIOGANCE",
+      "category": "グルーミング・ケアアイテム",
+      "description": "主催者の「グルーミング・ケアアイテム」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://chihuahua-expo.com/event/2026-11-22/market/1013",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://chihuahua-expo.com/event/2026-11-22/market/1013",
+      "checkedAt": "2026-11-14"
+    },
+    "b-a8e9c2ad14a0": {
+      "name": "フォトレコペット撮影会",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://chihuahua-expo.com/event/2026-11-22/market/3532",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://chihuahua-expo.com/event/2026-11-22/market/3532",
+      "checkedAt": "2026-11-14"
+    },
+    "b-344cee13d9a3": {
+      "name": "Petit Blanche87",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://chihuahua-expo.com/event/2026-11-22/market/1002",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://chihuahua-expo.com/event/2026-11-22/market/1002",
+      "checkedAt": "2026-11-14"
+    },
+    "b-c9f8924e3201": {
+      "name": "NegoDog",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://chihuahua-expo.com/event/2026-11-22/market/4144",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://chihuahua-expo.com/event/2026-11-22/market/4144",
+      "checkedAt": "2026-11-14"
+    },
+    "b-7ed4ebdfd8e8": {
+      "name": "aletta angelique",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://chihuahua-expo.com/event/2026-11-22/market/4022",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://chihuahua-expo.com/event/2026-11-22/market/4022",
+      "checkedAt": "2026-11-14"
+    },
+    "b-f081f884a46a": {
+      "name": "ぱぐのるぱん",
+      "category": "ドッグフード・トリーツ",
+      "description": "主催者の「ドッグフード・トリーツ」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://schnauzer-kingdom.com/event/2026-11-29/market/5297",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://schnauzer-kingdom.com/event/2026-11-29/market/5297",
+      "checkedAt": "2026-11-14"
+    },
+    "b-1127a22cdc12": {
+      "name": "Beardie",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://schnauzer-kingdom.com/event/2026-11-29/market/5428",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://schnauzer-kingdom.com/event/2026-11-29/market/5428",
+      "checkedAt": "2026-11-14"
+    },
+    "b-aef7e0595f14": {
+      "name": "荏原住宅設備",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://schnauzer-kingdom.com/event/2026-11-29/market/372",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://schnauzer-kingdom.com/event/2026-11-29/market/372",
+      "checkedAt": "2026-11-14"
+    },
+    "b-bb27392c4f48": {
+      "name": "京都文具屋",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://schnauzer-kingdom.com/event/2026-11-29/market/533",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://schnauzer-kingdom.com/event/2026-11-29/market/533",
+      "checkedAt": "2026-11-14"
+    },
+    "b-cbfd81f8508a": {
+      "name": "アトリエ空.色",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://schnauzer-kingdom.com/event/2026-11-29/market/5298",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://schnauzer-kingdom.com/event/2026-11-29/market/5298",
+      "checkedAt": "2026-11-14"
+    },
+    "b-0cc2000929ae": {
+      "name": "bu-do_as",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://schnauzer-kingdom.com/event/2026-11-29/market/2943",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://schnauzer-kingdom.com/event/2026-11-29/market/2943",
+      "checkedAt": "2026-11-14"
+    },
+    "b-072ae299016e": {
+      "name": "Happpyel",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://schnauzer-kingdom.com/event/2026-11-29/market/3027",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://schnauzer-kingdom.com/event/2026-11-29/market/3027",
+      "checkedAt": "2026-11-14"
+    },
+    "b-fe14db1fefc4": {
+      "name": "Somewoof",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://schnauzer-kingdom.com/event/2026-11-29/market/4532",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://schnauzer-kingdom.com/event/2026-11-29/market/4532",
+      "checkedAt": "2026-11-14"
+    },
+    "b-b3b337dd8c6e": {
+      "name": "DogNeel",
+      "category": "ドッグフード・トリーツ",
+      "description": "主催者の「ドッグフード・トリーツ」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://dachshund-festival.com/event/2026-11-14/market/5923",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://dachshund-festival.com/event/2026-11-14/market/5923",
+      "checkedAt": "2026-11-14"
+    },
+    "b-89a9f7a1f07b": {
+      "name": "みえのおやつ",
+      "category": "ドッグフード・トリーツ",
+      "description": "主催者の「ドッグフード・トリーツ」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://dachshund-festival.com/event/2026-11-14/market/6014",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://dachshund-festival.com/event/2026-11-14/market/6014",
+      "checkedAt": "2026-11-14"
+    },
+    "b-8d12edd632a1": {
+      "name": "ことのは|たまゆら　アニマルコミュニケーション",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://dachshund-festival.com/event/2026-11-14/market/5965",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://dachshund-festival.com/event/2026-11-14/market/5965",
+      "checkedAt": "2026-11-14"
+    },
+    "b-503f37725757": {
+      "name": "フォトレコペット撮影会",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://dachshund-festival.com/event/2026-11-14/market/4177",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://dachshund-festival.com/event/2026-11-14/market/4177",
+      "checkedAt": "2026-11-14"
+    },
+    "b-0054990d4f18": {
+      "name": "動物保護団体わんらぶ",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://dachshund-festival.com/event/2026-11-14/market/1198",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://dachshund-festival.com/event/2026-11-14/market/1198",
+      "checkedAt": "2026-11-14"
+    },
+    "b-5a051275dd02": {
+      "name": "zakka-candy&ミルクローバー",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://dachshund-festival.com/event/2026-11-14/market/5617",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://dachshund-festival.com/event/2026-11-14/market/5617",
+      "checkedAt": "2026-11-14"
+    },
+    "b-4d83f4352739": {
+      "name": "snowdrop Plus",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://dachshund-festival.com/event/2026-11-14/market/454",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://dachshund-festival.com/event/2026-11-14/market/454",
+      "checkedAt": "2026-11-14"
+    },
+    "b-7c3959bdc2d6": {
+      "name": "オモロイTシャツ屋さん",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://dachshund-festival.com/event/2026-11-14/market/6010",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://dachshund-festival.com/event/2026-11-14/market/6010",
+      "checkedAt": "2026-11-14"
+    },
+    "b-2bcac69a9206": {
+      "name": "Rare&Wonder",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://dachshund-festival.com/event/2026-11-14/market/431",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://dachshund-festival.com/event/2026-11-14/market/431",
+      "checkedAt": "2026-11-14"
+    },
+    "b-9ba8f6df889d": {
+      "name": "Rivervillage",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://dachshund-festival.com/event/2026-11-14/market/1667",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://dachshund-festival.com/event/2026-11-14/market/1667",
+      "checkedAt": "2026-11-14"
+    },
+    "b-7a91aabbae59": {
+      "name": "似顔絵アトリエ・ユニコーン",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://dachshund-festival.com/event/2026-11-14/market/5891",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://dachshund-festival.com/event/2026-11-14/market/5891",
+      "checkedAt": "2026-11-14"
+    },
+    "b-0b8aceb0d295": {
+      "name": "ホテルトーイン京都",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://pomeranian-festival.com/event/2026-11-23/market/6001",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://pomeranian-festival.com/event/2026-11-23/market/6001",
+      "checkedAt": "2026-11-14"
+    },
+    "b-312ebfc87b46": {
+      "name": "ペットサロンくんくん",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://pomeranian-festival.com/event/2026-11-23/market/5993",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://pomeranian-festival.com/event/2026-11-23/market/5993",
+      "checkedAt": "2026-11-14"
+    },
+    "b-2551f31e66bc": {
+      "name": "フォトレコペット@ポメフェス2026autumn",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://pomeranian-festival.com/event/2026-11-23/market/5888",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://pomeranian-festival.com/event/2026-11-23/market/5888",
+      "checkedAt": "2026-11-14"
+    },
+    "b-de9f7857ce34": {
+      "name": "わんにゃんdeきゅん",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://pomeranian-festival.com/event/2026-11-23/market/5904",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://pomeranian-festival.com/event/2026-11-23/market/5904",
+      "checkedAt": "2026-11-14"
+    },
+    "b-92820bbd8e1a": {
+      "name": "Bellos Farm",
+      "category": "ドッグフード・トリーツ",
+      "description": "主催者の「ドッグフード・トリーツ」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shihtzu-festival.com/event/2026-11-28/market/bellos-farm",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shihtzu-festival.com/event/2026-11-28/market/bellos-farm",
+      "checkedAt": "2026-11-14"
+    },
+    "b-c8098228293b": {
+      "name": "愛犬と一緒に泊まれる 『プライベートヴィラ愛川』",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shihtzu-festival.com/event/2026-11-28/market/with-the-dogs",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shihtzu-festival.com/event/2026-11-28/market/with-the-dogs",
+      "checkedAt": "2026-11-14"
+    },
+    "b-a0698b220232": {
+      "name": "愛犬と一緒に泊まれる 『プライベートヴィラ沼田』",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shihtzu-festival.com/event/2026-11-28/market/private_villa_numata",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shihtzu-festival.com/event/2026-11-28/market/private_villa_numata",
+      "checkedAt": "2026-11-14"
+    },
+    "b-f4bcd7040706": {
+      "name": "フォトレコペット撮影会",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shihtzu-festival.com/event/2026-11-28/market/photoreco",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shihtzu-festival.com/event/2026-11-28/market/photoreco",
+      "checkedAt": "2026-11-14"
+    },
+    "b-ec96ddf415a9": {
+      "name": "sora___room",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shihtzu-festival.com/event/2026-11-28/market/sora___room",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shihtzu-festival.com/event/2026-11-28/market/sora___room",
+      "checkedAt": "2026-11-14"
+    },
+    "b-639b5d6e4142": {
+      "name": "HUGG.",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shihtzu-festival.com/event/2026-11-28/market/hugg",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shihtzu-festival.com/event/2026-11-28/market/hugg",
+      "checkedAt": "2026-11-14"
+    },
+    "b-93e3a4c37044": {
+      "name": "ペットアーツ",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shihtzu-festival.com/event/2026-11-28/market/petarts",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shihtzu-festival.com/event/2026-11-28/market/petarts",
+      "checkedAt": "2026-11-14"
+    },
+    "b-eb843baa03f6": {
+      "name": "刺繍屋　WAN STITCH",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shihtzu-festival.com/event/2026-11-28/market/wan-stitch",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shihtzu-festival.com/event/2026-11-28/market/wan-stitch",
+      "checkedAt": "2026-11-14"
+    },
+    "b-b69183451808": {
+      "name": "genic",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shihtzu-festival.com/event/2026-11-28/market/genic",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shihtzu-festival.com/event/2026-11-28/market/genic",
+      "checkedAt": "2026-11-14"
+    },
+    "b-e0cb5d7abb78": {
+      "name": "DogNeel",
+      "category": "ドッグフード・トリーツ",
+      "description": "主催者の「ドッグフード・トリーツ」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shibainu-festival.com/event/2026-11-22/market/dogneel",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shibainu-festival.com/event/2026-11-22/market/dogneel",
+      "checkedAt": "2026-11-14"
+    },
+    "b-799d7b274814": {
+      "name": "きゃな",
+      "category": "ドッグフード・トリーツ",
+      "description": "主催者の「ドッグフード・トリーツ」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shibainu-festival.com/event/2026-11-22/market/kyana",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shibainu-festival.com/event/2026-11-22/market/kyana",
+      "checkedAt": "2026-11-14"
+    },
+    "b-9ba983bd7eb6": {
+      "name": "フォトレコペット撮影会",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shibainu-festival.com/event/2026-11-22/market/photoreco_petphoto",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shibainu-festival.com/event/2026-11-22/market/photoreco_petphoto",
+      "checkedAt": "2026-11-14"
+    },
+    "b-ba0cf432cd41": {
+      "name": "メルキュール京都宮津リゾート＆スパ",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shibainu-festival.com/event/2026-11-22/market/%e3%83%a1%e3%83%ab%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%ab%e4%ba%ac%e9%83%bd%e5%ae%ae%e6%b4%a5%e3%83%aa%e3%82%be%e3%83%bc%e3%83%88%ef%bc%86%e3%82%b9%e3%83%91",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shibainu-festival.com/event/2026-11-22/market/%e3%83%a1%e3%83%ab%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%ab%e4%ba%ac%e9%83%bd%e5%ae%ae%e6%b4%a5%e3%83%aa%e3%82%be%e3%83%bc%e3%83%88%ef%bc%86%e3%82%b9%e3%83%91",
+      "checkedAt": "2026-11-14"
+    },
+    "b-8d04d67a385a": {
+      "name": "ワンラブコート",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shibainu-festival.com/event/2026-11-22/market/%e3%83%af%e3%83%b3%e3%83%a9%e3%83%96%e3%82%b3%e3%83%bc%e3%83%88",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shibainu-festival.com/event/2026-11-22/market/%e3%83%af%e3%83%b3%e3%83%a9%e3%83%96%e3%82%b3%e3%83%bc%e3%83%88",
+      "checkedAt": "2026-11-14"
+    },
+    "b-49ae3b7778f7": {
+      "name": "TVアニメ『シバつき物件』",
+      "category": "ライフサービス",
+      "description": "主催者の「ライフサービス」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shibainu-festival.com/event/2026-11-22/market/tv%e3%82%a2%e3%83%8b%e3%83%a1%e3%80%8e%e3%82%b7%e3%83%90%e3%81%a4%e3%81%8d%e7%89%a9%e4%bb%b6%e3%80%8f",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shibainu-festival.com/event/2026-11-22/market/tv%e3%82%a2%e3%83%8b%e3%83%a1%e3%80%8e%e3%82%b7%e3%83%90%e3%81%a4%e3%81%8d%e7%89%a9%e4%bb%b6%e3%80%8f",
+      "checkedAt": "2026-11-14"
+    },
+    "b-b58e4d10a732": {
+      "name": "ロハナわんこグッズ",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shibainu-festival.com/event/2026-11-22/market/rohana_wankogoods",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shibainu-festival.com/event/2026-11-22/market/rohana_wankogoods",
+      "checkedAt": "2026-11-14"
+    },
+    "b-48458d42f7e8": {
+      "name": "オモロイTシャツ屋さん",
+      "category": "ドッグアパレル・雑貨",
+      "description": "主催者の「ドッグアパレル・雑貨」に掲載されています。詳しい取扱内容は出展者紹介をご覧ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "当日の商品・サービス、対応サイズは店舗へご確認ください。",
+      "url": "https://shibainu-festival.com/event/2026-11-22/market/%e3%82%aa%e3%83%a2%e3%83%ad%e3%82%a4t%e3%82%b7%e3%83%a3%e3%83%84%e5%b1%8b%e3%81%95%e3%82%93",
+      "linkLabel": "主催者の出展者紹介",
+      "sourceUrl": "https://shibainu-festival.com/event/2026-11-22/market/%e3%82%aa%e3%83%a2%e3%83%ad%e3%82%a4t%e3%82%b7%e3%83%a3%e3%83%84%e5%b1%8b%e3%81%95%e3%82%93",
+      "checkedAt": "2026-11-14"
     }
   },
   "events": {
@@ -16176,9 +16820,12 @@ const eventExhibitorsData = {
         "b-87c298c25f45",
         "b-a0384d3a7289",
         "b-ff8a00bb1536",
+        "b-ae087e8bb136",
         "b-7d31d7309ae2",
+        "b-b662714e210e",
         "b-471d0488aba9",
         "b-126be4e53a2f",
+        "b-a8e9c2ad14a0",
         "b-c7da15effdfc",
         "b-04f737e29db4",
         "b-b86aa02b1bd6",
@@ -16210,12 +16857,15 @@ const eventExhibitorsData = {
         "b-1f96c534d314",
         "b-0c6e0840252e",
         "b-8777ed0f8b11",
-        "b-c1adf5a7411c"
+        "b-c1adf5a7411c",
+        "b-344cee13d9a3",
+        "b-c9f8924e3201",
+        "b-7ed4ebdfd8e8"
       ],
       "sourceUrl": "https://chihuahua-expo.com/event/2026-11-22/market/",
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-11-14",
       "status": "listed",
-      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
+      "note": "主催者の開催回別マーケット一覧で確認。協力団体欄は含みません。出展日・変更は公式案内へ。"
     },
     "schnauzer-kingdom-2026-10-18": {
       "brandIds": [
@@ -16267,6 +16917,7 @@ const eventExhibitorsData = {
         "b-eb341c4782b6",
         "b-fea469288313",
         "b-1d37e837a193",
+        "b-f081f884a46a",
         "b-2d6532975806",
         "b-7024e8197139",
         "b-41f9cb66ad12",
@@ -16275,11 +16926,18 @@ const eventExhibitorsData = {
         "b-ed207eb3d791",
         "b-f84bd29ecd87",
         "b-7c8fab82f178",
+        "b-1127a22cdc12",
+        "b-aef7e0595f14",
         "b-b53231436b59",
         "b-23409c907d71",
         "b-5033977c205a",
+        "b-bb27392c4f48",
         "b-b3bb52248e78",
         "b-02ce195dc088",
+        "b-cbfd81f8508a",
+        "b-0cc2000929ae",
+        "b-072ae299016e",
+        "b-a7deec62b784",
         "b-2513df138128",
         "b-1cec07a03be3",
         "b-1b89b0531771",
@@ -16288,23 +16946,22 @@ const eventExhibitorsData = {
         "b-9cf3c53e91e6",
         "b-c97cdf29efc7",
         "b-1ae04c0cbb6b",
+        "b-fe14db1fefc4",
         "b-3f2190702a51",
         "b-8e7b0744a97d",
         "b-2766f82e8708",
         "b-ec788516aec9",
         "b-b9fcaf33d615",
         "b-402ec5e62cbf",
-        "b-ed9e6031a744",
         "b-e22ceb55cc47",
         "b-c1adf5a7411c",
-        "b-a7deec62b784",
         "b-0df0d93d08fd",
         "b-3225753dbdf8"
       ],
       "sourceUrl": "https://schnauzer-kingdom.com/event/2026-11-29/market/",
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-11-14",
       "status": "listed",
-      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
+      "note": "主催者の開催回別マーケット一覧で確認。協力団体欄は含みません。出展日・変更は公式案内へ。"
     },
     "dachshund-festival-2026-10-18": {
       "brandIds": [
@@ -16361,22 +17018,34 @@ const eventExhibitorsData = {
       "brandIds": [
         "b-840730f60755",
         "b-ab2435804670",
+        "b-d43be750850c",
         "b-4260c5b9fe99",
+        "b-b3b337dd8c6e",
         "b-eb341c4782b6",
+        "b-89a9f7a1f07b",
         "b-7f051c6282ba",
         "b-9ee6e734c257",
+        "b-8d12edd632a1",
+        "b-503f37725757",
+        "b-0054990d4f18",
         "b-9b45c6e6c79b",
         "b-3badccd97076",
         "b-1302624a6201",
         "b-bab63ce4b5ea",
         "b-f99d1cc5dda8",
+        "b-5a051275dd02",
         "b-5c2c8c21e50b",
+        "b-4d83f4352739",
         "b-c8eea0735896",
         "b-510adb85c0fe",
         "b-3deeac2ed661",
         "b-4b321a62b222",
+        "b-7c3959bdc2d6",
+        "b-2bcac69a9206",
         "b-68ba5aba5e59",
+        "b-9ba8f6df889d",
         "b-e57223939917",
+        "b-4bf75f89e317",
         "b-93b419c39a6e",
         "b-45ec4ac81db9",
         "b-03ec000425d7",
@@ -16385,15 +17054,13 @@ const eventExhibitorsData = {
         "b-478cfaa87283",
         "b-c45414025344",
         "b-b71f8dc774d3",
-        "b-d43be750850c",
         "b-be80d7cbdd0b",
-        "b-4bf75f89e317",
-        "b-daf6ff6b0e57"
+        "b-7a91aabbae59"
       ],
       "sourceUrl": "https://dachshund-festival.com/event/2026-11-14/market/",
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-11-14",
       "status": "listed",
-      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
+      "note": "主催者の開催回別マーケット一覧で確認。協力団体欄は含みません。出展日・変更は公式案内へ。"
     },
     "pomeranian-festival-2026-10-17": {
       "brandIds": [
@@ -16438,11 +17105,13 @@ const eventExhibitorsData = {
         "b-31d9f0a5379a",
         "b-9ee6e734c257",
         "b-e7db442daf27",
-        "b-82461f7aa0fa",
+        "b-0b8aceb0d295",
+        "b-312ebfc87b46",
         "b-f7a9b74d6723",
         "b-6a419be7cb9d",
-        "b-68ba5aba5e59",
         "b-e1d25a45f2f2",
+        "b-2551f31e66bc",
+        "b-de9f7857ce34",
         "b-231b3e4f1fee",
         "b-81abbec4e9cf",
         "b-c408f781d784",
@@ -16453,16 +17122,17 @@ const eventExhibitorsData = {
         "b-894bc153ccc0",
         "b-5274386ad522",
         "b-311d42f00e00",
+        "b-68ba5aba5e59",
         "b-493933ceb70b",
         "b-cf2cc4cc84b4",
         "b-b850c6f3272a",
-        "b-1feb6a13f8c0",
-        "b-b97c89efc7de"
+        "b-b97c89efc7de",
+        "b-1feb6a13f8c0"
       ],
       "sourceUrl": "https://pomeranian-festival.com/event/2026-11-23/market/",
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-11-14",
       "status": "listed",
-      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
+      "note": "主催者の開催回別マーケット一覧で確認。協力団体欄は含みません。出展日・変更は公式案内へ。"
     },
     "shihtzu-festival-2026-10-17": {
       "brandIds": [
@@ -16747,15 +17417,24 @@ const eventExhibitorsData = {
     },
     "shihtzu-tokyo-20261128": {
       "brandIds": [
+        "b-92820bbd8e1a",
         "b-11e8c6cb3d87",
         "b-9916cd921bce",
         "b-4746e653d71c",
         "b-44fe58110e0e",
         "b-776731ad6b5f",
+        "b-c8098228293b",
+        "b-a0698b220232",
+        "b-f4bcd7040706",
         "b-5fab77f94d54",
         "b-45625c6b258b",
         "b-d670a3500afb",
         "b-dccfbdd410ea",
+        "b-ec96ddf415a9",
+        "b-639b5d6e4142",
+        "b-93e3a4c37044",
+        "b-eb843baa03f6",
+        "b-b69183451808",
         "b-0df0d93d08fd",
         "b-c05081b984e8",
         "b-1416b8674507",
@@ -16772,9 +17451,9 @@ const eventExhibitorsData = {
         "b-f52525c2970d"
       ],
       "sourceUrl": "https://shihtzu-festival.com/event/2026-11-28/market/",
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-11-14",
       "status": "listed",
-      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
+      "note": "主催者の開催回別マーケット一覧で確認。協力団体欄は含みません。出展日・変更は公式案内へ。"
     },
     "corgi-osaka-20261115": {
       "brandIds": [
@@ -17937,13 +18616,18 @@ const eventExhibitorsData = {
         "b-0d43f418b66f",
         "b-c804f0d61343",
         "b-ce877ba501df",
-        "b-b97c89efc7de",
+        "b-e0cb5d7abb78",
+        "b-799d7b274814",
         "b-31d9f0a5379a",
         "b-9ee6e734c257",
         "b-e65639abefa6",
         "b-7f051c6282ba",
         "b-6a419be7cb9d",
         "b-663fc36418ae",
+        "b-9ba983bd7eb6",
+        "b-ba0cf432cd41",
+        "b-8d04d67a385a",
+        "b-49ae3b7778f7",
         "b-5812f2a4d34f",
         "b-8c763ab645f5",
         "b-c1e2ff0c98f2",
@@ -17958,12 +18642,15 @@ const eventExhibitorsData = {
         "b-2b3915bdcb1f",
         "b-a01fdd87e735",
         "b-93a5e0325fbe",
-        "b-6b605253e339"
+        "b-6b605253e339",
+        "b-b97c89efc7de",
+        "b-b58e4d10a732",
+        "b-48458d42f7e8"
       ],
       "sourceUrl": "https://shibainu-festival.com/event/2026-11-22/market/",
-      "checkedAt": "2026-10-12",
+      "checkedAt": "2026-11-14",
       "status": "listed",
-      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
+      "note": "主催者の開催回別マーケット一覧で確認。協力団体欄は含みません。出展日・変更は公式案内へ。"
     },
     "wanwonder-kasugai-202611": {
       "brandIds": [],
@@ -18018,6 +18705,41 @@ const eventExhibitorsData = {
       "checkedAt": "2026-10-31",
       "status": "partial",
       "note": "公式で確認できた出展者を掲載。全出展者一覧ではありません。"
+    },
+    "wontime-kazo-20261121": {
+      "brandIds": [],
+      "sourceUrl": "https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule",
+      "checkedAt": "2026-11-14",
+      "status": "pending",
+      "note": "開催は公式発表で確認済み。確定した出展店名は確認でき次第掲載します。"
+    },
+    "wontime-kyuhoji-20261128": {
+      "brandIds": [],
+      "sourceUrl": "https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule",
+      "checkedAt": "2026-11-14",
+      "status": "pending",
+      "note": "開催は公式発表で確認済み。確定した出展店名は確認でき次第掲載します。"
+    },
+    "wontime-fukakita-20261205": {
+      "brandIds": [],
+      "sourceUrl": "https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule",
+      "checkedAt": "2026-11-14",
+      "status": "pending",
+      "note": "開催は公式発表で確認済み。確定した出展店名は確認でき次第掲載します。"
+    },
+    "wontime-kazo-20261219": {
+      "brandIds": [],
+      "sourceUrl": "https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule",
+      "checkedAt": "2026-11-14",
+      "status": "pending",
+      "note": "開催は公式発表で確認済み。確定した出展店名は確認でき次第掲載します。"
+    },
+    "hokkaido-dogfesta-winter-20261227": {
+      "brandIds": [],
+      "sourceUrl": "https://liveupdog.com/news/hdf-2026-winter/",
+      "checkedAt": "2026-11-14",
+      "status": "pending",
+      "note": "開催は公式発表で確認済み。確定した出展店名は確認でき次第掲載します。"
     }
   }
 };
