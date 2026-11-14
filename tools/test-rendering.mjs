@@ -63,3 +63,30 @@ for(const [id,listing] of Object.entries(exhibitors.events)){
  assert.equal(new Set(listing.brandIds||[]).size,(listing.brandIds||[]).length,id);
 }
 console.log('PASS: all event embedded records, no false missing message, real 404 state, unique IDs and exhibitor references');
+// Nearby guidance must be present in server HTML and in the client record.
+const nearby=JSON.parse(fs.readFileSync('data/event-nearby.json','utf8'));
+const affiliateLinks=JSON.parse(fs.readFileSync('outing-affiliate.js','utf8').match(/const links = (\{[\s\S]*?\n\});/)[1]);
+let advertised=0, researched=0;
+for(const event of content.events){
+ const profiles=nearby.venues.filter(p=>event.place.includes(p.match));
+ assert.equal(profiles.length,1,`Venue profile missing or ambiguous: ${event.id}`);
+ const html=event.content;
+ assert.equal((html.match(/id="nearby"/g)||[]).length,1,event.id);
+ const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(x=>x[1]);
+ assert.equal(ids.length,new Set(ids).size,`Duplicate article anchor: ${event.id}`);
+ for(const kind of ['cafe','park','stay'])assert(html.includes(`id="nearby-${kind}"`),event.id);
+ const ads=[...html.matchAll(/<a[^>]+href="(https:\/\/hb\.afl\.rakuten\.co\.jp[^\"]+)"[^>]*>/g)];
+ if(ads.length){
+  advertised++; assert(html.includes('楽天アフィリエイトの広告リンク'),event.id);
+  for(const ad of ads){
+   assert(ad[0].includes('sponsored nofollow'),event.id);
+   assert(Object.values(affiliateLinks).includes(ad[1].replaceAll('&amp;','&')),`Changed tracking URL: ${event.id}`);
+  }
+ }
+ if(html.includes('data-nearby-status="curated"'))researched++;
+ const share=mod.resolveShare(new URL('https://suito-on.com/event-detail?id='+event.id),now);
+ const page=mod.renderArticleHTML(fs.readFileSync('event-detail.html','utf8'),share);
+ assert(page.includes('<section class="event-nearby"'),event.id);
+ assert(!page.includes('イベントが見つかりませんでした'),event.id);
+}
+console.log(`PASS: ${content.events.length} nearby guides; ${researched} articles with researched places; ${advertised} with unchanged affiliate links and disclosures`);
