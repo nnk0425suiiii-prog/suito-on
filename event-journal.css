@@ -106,3 +106,10 @@ body.event-detail-page-body { background:#fffdf7; background-image:linear-gradie
  .event-page .event-card-image { height:auto; aspect-ratio:1; }
  .event-page .event-card-content { padding:4px 6px; }
 }
+
+/* Event planning notes: readable on small screens. */
+.event-nearby{margin:2rem 0;padding:clamp(18px,4vw,30px);background:#fff7ed;border:1px solid #e8c9ab;border-radius:20px;overflow-wrap:anywhere}
+.event-nearby .event-nearby-label{color:#93623c;font-weight:700;font-size:.9rem;letter-spacing:.05em}
+.event-nearby h3{margin-top:1.8em;padding-top:1em;border-top:1px dashed #d7baa1;line-height:1.7}
+.event-nearby a{display:inline-block;padding:6px 0;text-underline-offset:4px}
+.event-status{display:inline-block;margin-left:10px;padding:4px 10px;border-radius:20px;background:#f1e7db;font-size:.8rem}
