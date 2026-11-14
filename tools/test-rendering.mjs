@@ -40,3 +40,26 @@ for(const path of ['/article?id=aburatsubo-first-trip','/guide-article?id=heartw
 }
 assert.equal((await mod.default.fetch(new Request('https://suito-on.com/article?id=missing'),env)).status,404);
 console.log('PASS: '+count+' published articles, scheduled exclusions, listings, sitemap, HTTP/HEAD, missing IDs and cache validators');
+// A detail page carries its own record: stale list data must not decide existence.
+for(const p of content.events){
+ const share=mod.resolveShare(new URL('https://suito-on.com/event-detail?id='+p.id),now);
+ const html=mod.renderArticleHTML(fs.readFileSync('event-detail.html','utf8'),share);
+ const payload=html.match(/<script type="application\/json" id="eventPageData">([\s\S]*?)<\/script>/);
+ assert(payload,p.id);assert.equal(JSON.parse(payload[1]).id,p.id);
+ assert(!html.includes('id="eventNotFound"'),p.id);
+ assert(!/src="event-data\.js/.test(html),p.id);
+}
+const missingEvent=await mod.default.fetch(new Request('https://suito-on.com/event-detail?id=not-a-real-event'),env);
+assert.equal(missingEvent.status,404);
+const missingHTML=await missingEvent.text();
+assert(/id="eventDetail"\s+hidden/.test(missingHTML));
+assert(/id="eventNotFound"\s*>/.test(missingHTML));
+assert.equal(new Set(content.events.map(p=>p.id)).size,content.events.length);
+vm.runInContext(fs.readFileSync('event-exhibitors-data.js','utf8'),ctx);
+const exhibitors=vm.runInContext('eventExhibitorsData',ctx);
+for(const [id,listing] of Object.entries(exhibitors.events)){
+ assert(content.events.some(p=>p.id===id),id);
+ for(const brand of listing.brandIds||[])assert(exhibitors.brands[brand],brand);
+ assert.equal(new Set(listing.brandIds||[]).size,(listing.brandIds||[]).length,id);
+}
+console.log('PASS: all event embedded records, no false missing message, real 404 state, unique IDs and exhibitor references');
