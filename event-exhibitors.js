@@ -4,7 +4,7 @@
   const data = typeof eventExhibitorsData === 'undefined' ? null : eventExhibitorsData;
   const listing = data?.events?.[id];
   const anchor = document.getElementById('eventDetailContent');
-  if (!listing || !anchor) return;
+  if (!listing || !anchor || (typeof currentEvent !== 'undefined' && !currentEvent)) return;
   const brands = (listing.brandIds || []).map(key => data.brands[key]).filter(Boolean).sort((a, b) => {
     const priority = brand => /^(飼い主向け|住まい|車・)/.test(brand.category) ? 2 : brand.category === '出展ブース' ? 1 : 0;
     return priority(a) - priority(b);
@@ -102,5 +102,5 @@
     `確認日：${listing.checkedAt}。${brands.length ? '通常の取扱情報を含みます。当日の販売商品・サイズ・在庫・出店日は各店舗へご確認ください。' : ''}出展の変更は主催者の最新案内へ。`));
   // Give the shop board full page width, while keeping the article readable.
   const layout = anchor.closest('.event-detail-layout');
-  if (layout) layout.before(section); else anchor.before(section);
+  if (layout) layout.after(section); else anchor.after(section);
 })();
