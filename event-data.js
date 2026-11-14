@@ -1002,7 +1002,7 @@ const calendarEvents = [
     "image": "images/event/sui-on-japan-wanko-festa-autumn-2026.jpg",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=お台場セントラル広場",
     "url": "https://japan-wanko-festa.com/",
-    "content": "\n<p class=\"event-editorial-note\">2026年10月の主催者Instagramで、お台場セントラル広場及びプロムナードでの開催を再確認しました。</p>\n<p>犬用品の買い物やフードを楽しむ、秋のジャパンわんこフェスタ。主催者の発表では11月27日〜29日の三日間、お台場での開催が案内されています。</p>\n<h2>このイベントの楽しみ方</h2>\n<p>主催者発表には、犬向けの買い物や飲食を楽しめる企画が紹介されています。出店者や体験の詳細は秋開催の案内で確認しましょう。春・初夏の出店情報や会場マップとは分けて見るのがポイントです。</p>\n<h2>時間・料金・参加の前に</h2>\n<dl class=\"event-practical-info\">\n<div><dt>開催時間</dt><dd>10:00〜17:00（主催者発表）</dd></div>\n<div><dt>料金</dt><dd>入場無料（主催者発表）。買い物・飲食等は別途。</dd></div>\n<div><dt>雨の日</dt><dd>屋外開催。雨天・荒天時の扱いは秋開催の最新案内を確認。</dd></div>\n<div><dt>犬連れの条件</dt><dd>入場条件、リード・カートのルール、証明書の要否は秋開催の公式案内で確認してください。</dd></div>\n</dl>\n<h2>会場への行き方</h2>\n<p>会場はお台場セントラル広場及びプロムナード（東京都江東区青海1丁目1）。当日の入場口や駐車場の案内は主催者の最新情報をご確認ください。</p>\n<aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>広い会場を回る計画では、気になるお店を絞り、途中で犬が休める時間を取ると無理なく楽しめます。</p><small>編集部からの準備のヒントです。参加体験談ではありません。</small></aside>\n<h2>情報元・最新のお知らせ</h2>\n<ul class=\"event-source-links\">\n<li><a href=\"https://prtimes.jp/main/html/rd/p/000000102.000093750.html\" target=\"_blank\" rel=\"noopener noreferrer\">主催者発表・秋開催の概要 ↗</a></li>\n<li><a href=\"https://japan-wanko-festa.com/\" target=\"_blank\" rel=\"noopener noreferrer\">ジャパンわんこフェスタ公式サイト ↗</a></li>\n<li><a href=\"https://www.instagram.com/p/DeBEcCGD8TC/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者Instagram・開催情報と出展紹介</a></li></ul>\n<p class=\"event-source-date\">情報更新：2026年10月13日。未確認の項目は本文に明記しています。開催済みの情報は当該回の案内で、次回開催を保証するものではありません。</p>\n",
+    "content": "\n<p class=\"event-editorial-note\">2026年10月の主催者Instagramで、お台場セントラル広場及びプロムナードでの開催を再確認しました。</p>\n<p>犬用品の買い物やフードを楽しむ、秋のジャパンわんこフェスタ。主催者の発表では11月27日〜29日の三日間、お台場での開催が案内されています。</p>\n<h2>このイベントの楽しみ方</h2>\n<p>主催者発表には、犬向けの買い物や飲食を楽しめる企画が紹介されています。出店者や体験の詳細は秋開催の案内で確認しましょう。春・初夏の出店情報や会場マップとは分けて見るのがポイントです。</p>\n<h2>時間・料金・参加の前に</h2>\n<dl class=\"event-practical-info\">\n<div><dt>開催時間</dt><dd>10:00〜17:00（主催者発表）</dd></div>\n<div><dt>料金</dt><dd>入場無料（主催者発表）。買い物・飲食等は別途。</dd></div>\n<div><dt>雨の日</dt><dd>屋外開催。雨天・荒天時の扱いは秋開催の最新案内を確認。</dd></div>\n<div><dt>犬連れの条件</dt><dd>入場条件、リード・カートのルール、証明書の要否は秋開催の公式案内で確認してください。</dd></div>\n</dl>\n<h2>会場への行き方</h2>\n<p>会場はお台場セントラル広場及びプロムナード（東京都江東区青海1丁目1）。当日の入場口や駐車場の案内は主催者の最新情報をご確認ください。</p>\n<aside class=\"event-editorial-tip\"><h3>すいとおん。のおでかけメモ</h3><p>広い会場を回る計画では、気になるお店を絞り、途中で犬が休める時間を取ると無理なく楽しめます。</p><small>編集部からの準備のヒントです。参加体験談ではありません。</small></aside>\n<h2>情報元・最新のお知らせ</h2>\n<ul class=\"event-source-links\">\n<li><a href=\"https://prtimes.jp/main/html/rd/p/000000102.000093750.html\" target=\"_blank\" rel=\"noopener noreferrer\">主催者発表・秋開催の概要 ↗</a></li>\n<li><a href=\"https://japan-wanko-festa.com/\" target=\"_blank\" rel=\"noopener noreferrer\">ジャパンわんこフェスタ公式サイト ↗</a></li>\n<li><a href=\"https://www.instagram.com/p/DeBEcCGD8TC/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者Instagram・開催情報と出展紹介</a></li></ul>\n<p class=\"event-source-date\">情報更新：2026年10月13日。未確認の項目は本文に明記しています。開催済みの情報は当該回の案内で、次回開催を保証するものではありません。</p>\n<section class=\"event-nearby\" id=\"nearby\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2>お台場で犬と立ち寄る場所</h2><p>公式の施設案内をもとに選んだ候補です。現地訪問レポートではありません。混雑や愛犬の疲れ方に合わせ、立ち寄り先は一つでも十分。</p><h3>カフェ｜DOG DEPT＋CAFÉ お台場東京ビーチ店</h3><p>デックス東京ビーチ1階の、店内もペット同伴できるカフェ。平日は11〜18時（ラストオーダー17時）、土日祝は11〜20時（同19時）と案内されています。</p><p><strong>11月27日（金）はイベント終了の17時がカフェのラストオーダーと重なります。</strong>金曜は会場へ行く前や早めの休憩に、土日は終了後の候補として考えると予定を組みやすそうです。臨時変更・混雑は店舗へ確認を。</p><p>デックスの共用館内は、顔の出ないキャリー・カート等が必要です。カフェの同伴条件が館全体に適用されるわけではないので、移動経路にも気をつけて。</p><p><a href=\"https://www.odaiba-decks.com/shop/detail/11040002?tenant_cd=11040002\" target=\"_blank\" rel=\"noopener noreferrer\">店舗公式案内</a> ／ <a href=\"https://www.odaiba-decks.com/facility/detail/17\" target=\"_blank\" rel=\"noopener noreferrer\">館内のペット同伴ルール</a></p><h3>散歩・休憩｜お台場海浜公園</h3><p>買い物のあとは海沿いで短い散歩を。公園ではリードを付け、長く伸ばしすぎず、排泄物は持ち帰ってください。海辺は風が強い日もあるので、寒い日は長居せず愛犬の様子を優先しましょう。</p><p><a href=\"https://www.tptc.co.jp/park/01_02/qa\" target=\"_blank\" rel=\"noopener noreferrer\">公園の犬連れルール・施設案内</a></p><h3>宿泊｜芝公園へ移動して泊まるなら inumo 芝公園</h3><p>会場隣接ではなく、芝公園エリアまで移動して宿泊する候補です。公式FAQでは40kg未満・1室3頭までの案内がありますが、犬種の制限や追加料金、予防接種証明書の条件もあります。予約前に愛犬の体格・頭数とプランを照合してください。</p><p><a href=\"https://www.hvf.jp/inumo-shibakoen/inumo-qa/\" target=\"_blank\" rel=\"noopener noreferrer\">ホテル公式FAQで宿泊条件を確認</a> ／ <a href=\"outing.html\">ほかの犬連れのおでかけ先を探す</a></p><p class=\"event-source-date\">周辺情報確認：2026年11月14日。営業時間・受入条件は変更される場合があります。</p></section>",
     "description": "犬用品の買い物やフードを楽しむ、秋のジャパンわんこフェスタ。主催者の発表では11月27日〜29日の三日間、お台場での開催が案内されています。",
     "editorialCheckedAt": "2026-10-13",
     "verificationNote": "2026年10月の主催者Instagramで、お台場会場・日時・入場無料を再確認。",
@@ -2296,5 +2296,125 @@ const calendarEvents = [
         "url": "https://prtimes.jp/main/html/rd/p/000000003.000170588.html"
       }
     ]
+  },
+  {
+    "id": "wontime-kazo-20261121",
+    "title": "ワンタイムマルシェ in 加須はなさき公園（11月）",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-22",
+    "region": "kanto",
+    "prefecture": "埼玉県",
+    "place": "加須はなさき公園",
+    "address": "埼玉県加須市水深1722",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=埼玉県加須市水深1722",
+    "image": "",
+    "description": "加須はなさき公園で開催。2026-11-21〜2026-11-22、10〜16時、入場無料。犬連れで出発前に確認したいことをまとめました。",
+    "url": "https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule",
+    "editorialCheckedAt": "2026-11-14",
+    "sources": [
+      {
+        "label": "主催者の年間スケジュール",
+        "url": "https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule"
+      }
+    ],
+    "content": "<p>加須はなさき公園で愛犬と楽しむワンタイムマルシェ。主催者の年間スケジュールで開催が案内されています。</p><h2>日時・会場</h2><p>2026-11-21〜2026-11-22、10:00〜16:00。入場無料。会場は加須はなさき公園（埼玉県加須市水深1722）です。</p><h2>この会場へ行く前に</h2><p>連休のお出かけなら、買い物の前後に休憩を挟む計画に。園内は広いため、駐車場からイベント区画までの動線を出発前に確認しておきましょう。</p><h2>出展店・参加条件</h2><p>開催回別の出展店名は確認でき次第掲載します。店ごとの参加日、企画の受付、犬同伴の条件や雨天時の対応は主催者の最新案内でご確認ください。</p><h2>持ち物メモ</h2><p>飲み水、排泄物を持ち帰る袋、リードを用意。服やハーネスを探すなら、胴回りなどを測ってメモしておくと店頭で相談しやすくなります。</p><p><a href=\"https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule\" target=\"_blank\" rel=\"noopener noreferrer\">主催者の開催スケジュールを見る</a></p><p class=\"event-source-date\">情報確認：2026年11月14日。公式発表をもとに編集した開催案内で、現地訪問レポートではありません。</p>"
+  },
+  {
+    "id": "wontime-kyuhoji-20261128",
+    "title": "ワンタイムマルシェ in 久宝寺緑地（11月）",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-11-28",
+    "endDate": "2026-11-29",
+    "region": "kansai",
+    "prefecture": "大阪府",
+    "place": "久宝寺緑地",
+    "address": "大阪府八尾市西久宝寺323",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=大阪府八尾市西久宝寺323",
+    "image": "",
+    "description": "久宝寺緑地で開催。2026-11-28〜2026-11-29、10〜16時、入場無料。犬連れで出発前に確認したいことをまとめました。",
+    "url": "https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule",
+    "editorialCheckedAt": "2026-11-14",
+    "sources": [
+      {
+        "label": "主催者の年間スケジュール",
+        "url": "https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule"
+      }
+    ],
+    "content": "<p>久宝寺緑地で愛犬と楽しむワンタイムマルシェ。主催者の年間スケジュールで開催が案内されています。</p><h2>日時・会場</h2><p>2026-11-28〜2026-11-29、10:00〜16:00。入場無料。会場は久宝寺緑地（大阪府八尾市西久宝寺323）です。</p><h2>この会場へ行く前に</h2><p>緑地には複数の入口があります。公園の住所だけでなく、主催者の会場図でイベント区画と利用する入口を確認しておくと安心です。</p><h2>出展店・参加条件</h2><p>開催回別の出展店名は確認でき次第掲載します。店ごとの参加日、企画の受付、犬同伴の条件や雨天時の対応は主催者の最新案内でご確認ください。</p><h2>持ち物メモ</h2><p>飲み水、排泄物を持ち帰る袋、リードを用意。服やハーネスを探すなら、胴回りなどを測ってメモしておくと店頭で相談しやすくなります。</p><p><a href=\"https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule\" target=\"_blank\" rel=\"noopener noreferrer\">主催者の開催スケジュールを見る</a></p><p class=\"event-source-date\">情報確認：2026年11月14日。公式発表をもとに編集した開催案内で、現地訪問レポートではありません。</p>"
+  },
+  {
+    "id": "wontime-fukakita-20261205",
+    "title": "ワンタイムマルシェ in 深北緑地公園（12月）",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-06",
+    "region": "kansai",
+    "prefecture": "大阪府",
+    "place": "深北緑地公園",
+    "address": "大阪府大東市深野北4丁目284",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=大阪府大東市深野北4丁目284",
+    "image": "",
+    "description": "深北緑地公園で開催。2026-12-05〜2026-12-06、10〜16時、入場無料。犬連れで出発前に確認したいことをまとめました。",
+    "url": "https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule",
+    "editorialCheckedAt": "2026-11-14",
+    "sources": [
+      {
+        "label": "主催者の年間スケジュール",
+        "url": "https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule"
+      }
+    ],
+    "content": "<p>深北緑地公園で愛犬と楽しむワンタイムマルシェ。主催者の年間スケジュールで開催が案内されています。</p><h2>日時・会場</h2><p>2026-12-05〜2026-12-06、10:00〜16:00。入場無料。会場は深北緑地公園（大阪府大東市深野北4丁目284）です。</p><h2>この会場へ行く前に</h2><p>12月の屋外のお出かけ。休憩用の敷物や、寒がりな犬の防寒着も用意を。公園内のほかの施設は、イベントとは利用条件が異なるので個別に確認してください。</p><h2>出展店・参加条件</h2><p>開催回別の出展店名は確認でき次第掲載します。店ごとの参加日、企画の受付、犬同伴の条件や雨天時の対応は主催者の最新案内でご確認ください。</p><h2>持ち物メモ</h2><p>飲み水、排泄物を持ち帰る袋、リードを用意。服やハーネスを探すなら、胴回りなどを測ってメモしておくと店頭で相談しやすくなります。</p><p><a href=\"https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule\" target=\"_blank\" rel=\"noopener noreferrer\">主催者の開催スケジュールを見る</a></p><p class=\"event-source-date\">情報確認：2026年11月14日。公式発表をもとに編集した開催案内で、現地訪問レポートではありません。</p>"
+  },
+  {
+    "id": "wontime-kazo-20261219",
+    "title": "ワンタイムマルシェ in 加須はなさき公園（12月）",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-20",
+    "region": "kanto",
+    "prefecture": "埼玉県",
+    "place": "加須はなさき公園",
+    "address": "埼玉県加須市水深1722",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=埼玉県加須市水深1722",
+    "image": "",
+    "description": "加須はなさき公園で開催。2026-12-19〜2026-12-20、10〜16時、入場無料。犬連れで出発前に確認したいことをまとめました。",
+    "url": "https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule",
+    "editorialCheckedAt": "2026-11-14",
+    "sources": [
+      {
+        "label": "主催者の年間スケジュール",
+        "url": "https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule"
+      }
+    ],
+    "content": "<p>加須はなさき公園で愛犬と楽しむワンタイムマルシェ。主催者の年間スケジュールで開催が案内されています。</p><h2>日時・会場</h2><p>2026-12-19〜2026-12-20、10:00〜16:00。入場無料。会場は加須はなさき公園（埼玉県加須市水深1722）です。</p><h2>この会場へ行く前に</h2><p>年末の屋外イベントは、長時間の滞在より愛犬の体調に合わせた休憩を優先。お目当ての店がある場合は、土曜・日曜のどちらに出展するか確認してから予定を立てましょう。</p><h2>出展店・参加条件</h2><p>開催回別の出展店名は確認でき次第掲載します。店ごとの参加日、企画の受付、犬同伴の条件や雨天時の対応は主催者の最新案内でご確認ください。</p><h2>持ち物メモ</h2><p>飲み水、排泄物を持ち帰る袋、リードを用意。服やハーネスを探すなら、胴回りなどを測ってメモしておくと店頭で相談しやすくなります。</p><p><a href=\"https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule\" target=\"_blank\" rel=\"noopener noreferrer\">主催者の開催スケジュールを見る</a></p><p class=\"event-source-date\">情報確認：2026年11月14日。公式発表をもとに編集した開催案内で、現地訪問レポートではありません。</p>"
+  },
+  {
+    "id": "hokkaido-dogfesta-winter-20261227",
+    "title": "北海道ドッグフェスタ TAKINO DE WINTER",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-27",
+    "endDate": "2026-12-27",
+    "region": "hokkaido",
+    "prefecture": "北海道",
+    "place": "滝野すずらん丘陵公園 つどいの森広場",
+    "address": "北海道札幌市南区滝野247",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=滝野すずらん丘陵公園",
+    "image": "",
+    "description": "滝野の冬開催。春・秋とは会場区画が異なります。雪のドッグランやマルシェを予定する日のアクセス・防寒の確認メモ。",
+    "url": "https://liveupdog.com/news/hdf-2026-winter/",
+    "editorialCheckedAt": "2026-11-14",
+    "sources": [
+      {
+        "label": "主催者の冬開催案内",
+        "url": "https://liveupdog.com/news/hdf-2026-winter/"
+      }
+    ],
+    "content": "<p>北海道ドッグフェスタの冬開催が発表されました。雪のドッグラン、マルシェ、温かい飲み物や焚き火エリアが予定されています。</p><h2>日時・料金</h2><p>2026年12月27日（日）10:00〜15:00、荒天中止。イベント・冬期の公園入園は無料で、駐車料金は500円です。</p><h2>春・秋の会場との違い</h2><p>会場はつどいの森広場の駐車場寄り。春・秋とは場所と広さが異なります。以前参加した方も、同じ入口・区画だと思い込まず、当日の案内を確認してください。</p><h2>犬連れの冬支度</h2><p>濡れた体や足を拭くタオル、防寒用品、飲み水を準備して、寒がる様子があれば早めに休憩を。短めの滞在も選べる計画にすると安心です。道路の積雪や交通状況も出発前に確認を。</p><h2>ドッグラン・出展店</h2><p>マルシェは約20店舗を予定し、確認時点では出展者募集中です。確定した店名、ランの利用区分や証明書などの条件は今後の公式案内をご確認ください。</p><p><a href=\"https://liveupdog.com/news/hdf-2026-winter/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者の開催案内を見る</a></p><p class=\"event-source-date\">情報確認：2026年11月14日。公式発表をもとに編集した開催案内で、現地訪問レポートではありません。</p>"
   }
 ];
