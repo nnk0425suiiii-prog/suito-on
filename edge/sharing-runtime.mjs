@@ -145,7 +145,13 @@ function imageSlot(html,id,item) {
     .replace(/\s*\/?\s*>$/,` src="${escapeHTML(item.image||DEFAULT_IMAGE)}" alt="${escapeHTML(item.title)}">`));
 }
 export function renderArticleHTML(html,share) {
-  if (share.missing) return html;
+  if (share.missing) {
+    if (share.route === 'event-detail') {
+      html = html.replace(/(<article\b[^>]*id="eventDetail"[^>]*)(>)/, '$1 hidden$2');
+      html = html.replace(/(id="eventNotFound")\s+hidden/, '$1');
+    }
+    return html;
+  }
   const p=share.item, e=escapeHTML;
   const prefix=share.route==='article'?'article':share.route==='guide-article'?'guideArticle':null;
   if(prefix) {
@@ -154,6 +160,12 @@ export function renderArticleHTML(html,share) {
     html=fillSlot(html,prefix+'Body',p.content||'');
     html=imageSlot(html,prefix==='article'?'articleMainImage':'guideArticleImage',p);
   } else if(share.route==='event-detail') {
+    // Ship the exact same record as the server-rendered body; cached list data must not hide it.
+    const payload = JSON.stringify(p).replace(/</g, '\\u003c');
+    html = html.replace(/<script\s+src="event-data\.js[^"]*"><\/script>/, `<script type="application/json" id="eventPageData">${payload}</script>`);
+    html = html.replace(/<section\b[^>]*id="eventNotFound"[^>]*>[\s\S]*?<\/section>/, '');
+    const ended = (p.endDate || p.startDate) < new Date().toLocaleDateString('sv-SE', {timeZone:'Asia/Tokyo'});
+    html = fillSlot(html, 'eventDetailMeta', `<span class="event-type-label">${p.type==='adoption'?'譲渡会':'EVENT'}</span>${ended ? '<span class="event-status">開催済みの記録</span>' : ''}`);
     const date=[p.startDate,p.endDate!==p.startDate?p.endDate:''].filter(Boolean).join(' ～ ');
     for(const [id,value] of Object.entries({eventDetailTitle:p.title,eventDetailDate:date,eventDetailLocation:[p.prefecture,p.place].filter(Boolean).join(' / '),eventInfoDate:date,eventInfoPlace:p.place,eventInfoAddress:p.address})) html=fillSlot(html,id,e(value));
     html=fillSlot(html,'eventDetailContent',p.content||`<p>${e(p.description||'')}</p>`);
