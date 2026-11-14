@@ -171,6 +171,13 @@ if (
 
 
 
+// Prefer the record rendered by the server over a separately cached event list.
+try {
+  const pageData = document.getElementById('eventPageData');
+  const record = pageData ? JSON.parse(pageData.textContent) : null;
+  if (record && record.id === eventId) currentEvent = record;
+} catch (error) { console.warn('Event page data could not be read', error); }
+
 /* ==================================================
    DATE FORMAT
 
@@ -415,6 +422,9 @@ function displayEventDetail(
 ) {
 
 
+  if (eventDetail) eventDetail.hidden = false;
+  if (eventNotFound) eventNotFound.hidden = true;
+
   /* ==================================================
      PAGE TITLE
   ================================================== */
@@ -458,6 +468,7 @@ function displayEventDetail(
     </span>
 
     ${statusHTML}
+    ${(event.endDate || event.startDate) < new Date().toLocaleDateString('sv-SE', {timeZone:'Asia/Tokyo'}) ? '<span class="event-status">開催済みの記録</span>' : ''}
 
   `;
 
