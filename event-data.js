@@ -2416,5 +2416,808 @@ const calendarEvents = [
       }
     ],
     "content": "<p>北海道ドッグフェスタの冬開催が発表されました。雪のドッグラン、マルシェ、温かい飲み物や焚き火エリアが予定されています。</p><h2>日時・料金</h2><p>2026年12月27日（日）10:00〜15:00、荒天中止。イベント・冬期の公園入園は無料で、駐車料金は500円です。</p><h2>春・秋の会場との違い</h2><p>会場はつどいの森広場の駐車場寄り。春・秋とは場所と広さが異なります。以前参加した方も、同じ入口・区画だと思い込まず、当日の案内を確認してください。</p><h2>犬連れの冬支度</h2><p>濡れた体や足を拭くタオル、防寒用品、飲み水を準備して、寒がる様子があれば早めに休憩を。短めの滞在も選べる計画にすると安心です。道路の積雪や交通状況も出発前に確認を。</p><h2>ドッグラン・出展店</h2><p>マルシェは約20店舗を予定し、確認時点では出展者募集中です。確定した店名、ランの利用区分や証明書などの条件は今後の公式案内をご確認ください。</p><p><a href=\"https://liveupdog.com/news/hdf-2026-winter/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者の開催案内を見る</a></p><p class=\"event-source-date\">情報確認：2026年11月14日。公式発表をもとに編集した開催案内で、現地訪問レポートではありません。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">北海道札幌市南区滝野で、犬と寄り道</h2><p>冬の屋外イベントでは、犬と入れる暖かい場所を別に確保。公園の休憩所は犬同伴不可なので、車へ戻る経路や防寒を準備しましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"curated\"><h3><span>01</span>カフェ・食事</h3><h4>THE DOGMAN’S CAFE</h4><p class=\"event-nearby-area\">札幌市西区二十四軒</p><p>犬と過ごせるカフェと室内ドッグランを案内。イベント会場から西区への移動が必要です。滝野・石狩・江別からの徒歩での寄り道ではなく、車などで札幌市内に戻るときの候補に。</p><div class=\"event-nearby-links\"><a href=\"https://thedogmanscafe.com/shop/\" target=\"_blank\" rel=\"noopener noreferrer\">公式の利用条件を見る ↗</a><a href=\"https://www.google.com/maps/dir/?api=1&amp;origin=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%BB%9D%E9%87%8E%E3%81%99%E3%81%9A%E3%82%89%E3%82%93%E4%B8%98%E9%99%B5%E5%85%AC%E5%9C%92%20%E3%81%A4%E3%81%A9%E3%81%84%E3%81%AE%E6%A3%AE%E5%BA%83%E5%A0%B4&amp;destination=%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%A5%BF%E5%8C%BA%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%BB%92%20THE%20DOGMAN%E2%80%99S%20CAFE\" target=\"_blank\" rel=\"noopener noreferrer\">会場からの経路を見る ↗</a></div><p class=\"event-nearby-checked\">公式情報の確認：2026-11-14／未訪問の候補です。</p></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"curated\"><h3><span>02</span>公園・散歩・休憩</h3><h4>国営滝野すずらん丘陵公園</h4><p class=\"event-nearby-area\">会場と同じ公園</p><p>リードは2m以内。休憩所やレストランなどの建物には同伴できません。冬のイベントでは、屋内で犬と暖まれる前提にせず、防寒・短い滞在・車へ戻る経路を考えておきましょう。</p><div class=\"event-nearby-links\"><a href=\"https://takinopark.com/guide/faq/\" target=\"_blank\" rel=\"noopener noreferrer\">公式の利用条件を見る ↗</a><a href=\"https://www.google.com/maps/dir/?api=1&amp;origin=%E5%8C%97%E6%B5%B7%E9%81%93%20%E6%BB%9D%E9%87%8E%E3%81%99%E3%81%9A%E3%82%89%E3%82%93%E4%B8%98%E9%99%B5%E5%85%AC%E5%9C%92%20%E3%81%A4%E3%81%A9%E3%81%84%E3%81%AE%E6%A3%AE%E5%BA%83%E5%A0%B4&amp;destination=%E4%BC%9A%E5%A0%B4%E3%81%A8%E5%90%8C%E3%81%98%E5%85%AC%E5%9C%92%20%E5%9B%BD%E5%96%B6%E6%BB%9D%E9%87%8E%E3%81%99%E3%81%9A%E3%82%89%E3%82%93%E4%B8%98%E9%99%B5%E5%85%AC%E5%9C%92\" target=\"_blank\" rel=\"noopener noreferrer\">会場からの経路を見る ↗</a></div><p class=\"event-nearby-checked\">公式情報の確認：2026-11-14／未訪問の候補です。</p></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8D%97%E5%8C%BA%E6%BB%9D%E9%87%8E%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">北海道札幌市南区滝野で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。過去のイベント記事でも、この寄り道案内は上記の確認日時点の情報です。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "sippo-festa-2026-winter-20261205",
+    "title": "Sippo Festa 2026冬",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-06",
+    "region": "kanto",
+    "prefecture": "東京都",
+    "place": "国営昭和記念公園 みどりの文化ゾーン ゆめひろば",
+    "address": "東京都立川市緑町3173（国営昭和記念公園）",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=国営昭和記念公園 ゆめひろば",
+    "image": "",
+    "description": "国営昭和記念公園の無料エリアで開かれる総合ペットイベント。エクストリーム全国決勝大会や参加型プログラム、出店ブースを愛犬と楽しめます。",
+    "url": "https://sippofesta.com/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "公式サイトで日程・時間・会場・プログラムを確認。出店社一覧は公式サイトで「Coming soon」とされ、公式Instagramで順次紹介されている。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://sippofesta.com/"
+      }
+    ],
+    "content": "<p>国営昭和記念公園とNPO法人ワンワンパーティクラブが主催する総合ペットイベント「Sippo Festa（しっぽフェスタ）」の冬開催。犬・猫の飼い主さんはもちろん、これから犬・猫を迎える人も楽しめるイベントを目指して開催されます。</p><h2>日時・料金・会場</h2><p>2026年12月5日（土）・6日（日）10:00〜16:00。会場は国営昭和記念公園 みどりの文化ゾーン ゆめひろば（東京都立川市）。会場は公園の無料エリアのため入場料はかかりませんが、一部有料の参加プログラムがあり、駐車場を利用する場合は別途駐車料金がかかります。</p><h2>どんなイベント？</h2><p>ドッグスポーツ「エクストリーム」のチャンピオンシップ全国決勝大会が両日行われるほか、エクストリーム体験会＆講習会、わんわんネームビンゴ、わんわん迷路、飛行犬撮影会、愛犬なんでも相談会など、見て・参加して楽しめるプログラムが多数予定されています。</p><h2>出店店舗</h2><p>公式サイトの出店社一覧は順次公開予定です。公式Instagramでは出店社が1社ずつ紹介されており、現時点で紹介されているのは次の店舗です。</p><ul><li>&amp;WANKitchen</li><li>napani</li><li>お魚だよ全員集合</li><li>ペットシエスタ国立</li><li>オメカシペット</li><li>Honda Dog（ホンダアクセス）</li></ul><p>全店舗の一覧は、公開され次第、公式サイト・公式Instagramでご確認ください。</p><h2>犬連れで行く前に</h2><p>プログラムごとに予約の要否や参加料が異なります。当日予約制の体験プログラムもあるため、参加したい内容は事前に公式サイトで確認を。雨天時は「わんわんネームビンゴ」が抽選会に変更となる場合があるなど、プログラムが変更・中止になる可能性もあります。</p><h2>アクセスと雨の日</h2><p>電車ではJR中央線・立川駅からあけぼの口まで約10分、JR青梅線・西立川駅から西立川口まで約2分が目安です。車の場合は立川口駐車場が会場に近く便利ですが、開場は9:00で、開場前に一般道で待機しないよう公式に案内されています。天候による変更は公式サイト・公式Instagramで確認してください。</p><h2>公式情報</h2><p><a href=\"https://sippofesta.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Sippo Festa公式サイト ↗</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">東京都立川市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">東京都立川市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">東京都立川市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">東京都立川市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "bichonfrise-festival-christmas-20261206",
+    "title": "ビションフリーゼフェスティバル 2026 クリパ meets イーノの森Dog Garden",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-06",
+    "endDate": "2026-12-06",
+    "region": "kanto",
+    "prefecture": "東京都",
+    "place": "イーノの森Dog Garden",
+    "address": "東京都江東区夢の島3丁目2-2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=イーノの森Dog Garden",
+    "image": "",
+    "description": "ビションフリーゼとそのMixのための犬種別フェスティバル。グッズマーケットやD-1グランプリ、撮影会など、ビションだらけの1日を楽しめます。",
+    "url": "https://bichonfrise-festival.com/event/2026-12-06/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "公式サイトの開催概要・チケット・グッズマーケット各ページで日程・料金・会場・出店店舗を確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://bichonfrise-festival.com/event/2026-12-06/"
+      }
+    ],
+    "content": "<p>ビションフリーゼ＆ビションフリーゼMixと、そのオーナーの親睦・交流を目的とした犬種別フェスティバル。クリスマスパーティー（クリパ）として、イーノの森Dog Gardenで開催されます。</p><h2>日時・料金・会場</h2><p>2026年12月6日（日）9:00〜16:00（開会9:50）。会場はイーノの森Dog Garden（東京都江東区夢の島3丁目2-2）。前売りチケットは大人2,200円／小学生以下1,100円／3歳以下無料／愛犬880円、駐車場付き大人チケット4,400円。当日チケットは大人3,000円／小学生以下2,000円／愛犬2,000円です。</p><h2>どんなイベント？</h2><p>ビションフリーゼのグッズを取り揃えたグッズマーケット、ビション最速を競うD-1グランプリ、ご長寿表彰、クリスマスファッションショー、名刺交換会、集合写真撮影など、ビションならではのコンテンツが多数。緑の芝生の上でピクニックも楽しめます。</p><h2>出店店舗</h2><p>公式サイトの「ビションフリーゼグッズマーケット」で公開されている出店店舗です。</p><ul><li>イヌなでホリスティック協会『イヌなで®』式マッサージ＆ストレスケア by azi</li><li>ペットコミュニケーション</li><li>フォトレコペット撮影会＠ビションフリーゼ2026クリパ</li><li>手作り犬おやつのbon moment</li><li>株式会社松毬</li><li>らぴすのおやつ</li><li>香りと整え処あゆむ</li><li>ペトラ-涙やけケア専門家-</li><li>BIOGANCE</li><li>HARZLY</li><li>MofuDogTomiu</li><li>HYDRA</li><li>グッドドッグ</li><li>bow_wow_goo</li><li>Auau</li><li>genic</li><li>the nui tokyo</li><li>3本しっぽのビションフリーゼ</li><li>atelier unico</li><li>BOB chan goods</li><li>ミル工房</li><li>Manalima Dogs</li><li>THE ROMPERS</li><li>aletta angelique</li></ul><p>キッチンカーは次の店舗が出店予定です。</p><ul><li>カーニャパッソ</li><li>ポーク亭</li><li>もあいの揚げパン</li><li>大宮唐揚げモヒカラ</li></ul><h2>犬連れで行く前に</h2><p>参加にはチケットが必要です。愛犬も頭数分のチケットが必要で、参加規約を事前に公式サイトで確認するよう案内されています。前売りチケットは予定枚数に達し次第、販売期間中でも終了する場合があります。</p><h2>アクセスと雨の日</h2><p>電車ではJR京葉線・りんかい線・東京メトロ有楽町線「新木場」駅より徒歩約20分。車では首都高速湾岸線「新木場インター」より約2分ですが、会場内駐車場は駐車場付きチケット購入者のみ利用可能で、それ以外の方は近隣コインパーキングの利用が案内されています。雨天決行（荒天中止）です。</p><h2>公式情報</h2><p><a href=\"https://bichonfrise-festival.com/event/2026-12-06/\" target=\"_blank\" rel=\"noopener noreferrer\">ビションフリーゼフェスティバル公式サイト ↗</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">東京都江東区で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">東京都江東区で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">東京都江東区で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">東京都江東区で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "wan-heroes-festival-tokyo-20261206",
+    "title": "WAN HEROES FESTIVAL 2026 in Tokyo",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-06",
+    "endDate": "2026-12-06",
+    "region": "kanto",
+    "prefecture": "東京都",
+    "place": "livedoor URBAN SPORTS PARK",
+    "address": "東京都江東区有明1丁目13-7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=livedoor URBAN SPORTS PARK",
+    "image": "",
+    "description": "東京・有明で開かれる体験型ドッグイベント。約50店舗のマルシェやステージ、フォトスポットなど、家族みんなが主役になれる1日です。",
+    "url": "https://www.instagram.com/with_wan_heroes_festival/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催者公式イベントページと公式Instagramで日程・時間・会場を確認。個別の出店店舗一覧は公式ページ未掲載で、公式Instagramで順次発表されている。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://www.instagram.com/with_wan_heroes_festival/"
+      }
+    ],
+    "content": "<p>これまで湘南・藤沢で開催されてきた体験型ドッグイベント「WAN HEROES FESTIVAL」が、東京・有明に舞台を移して開催。テーマは「家族みんなが主役になれる1日」です。</p><h2>日時・料金・会場</h2><p>2026年12月6日（日）10:00〜16:00（予定）。会場はlivedoor URBAN SPORTS PARK（東京都江東区有明1丁目13-7）。入場無料です。</p><h2>どんなイベント？</h2><p>ドッグマルシェ、キッチンカー、ステージ、体験型コンテンツ、フォトスポットなどが予定されています。ドッグウェアやおやつ、フード、ケア用品など、愛犬との暮らしを豊かにする約50店舗の出店が予定されています。</p><h2>出店店舗</h2><p>出店店舗の個別一覧は、公式ページではまだ公開されていません。出店を発表している店舗には、ハンドメイド犬グッズの「ticolet（ティコレット）」や、オリジナルグッズを展開する「NOMON DAWAN」などがあります。全店舗は公式Instagramで順次発表されるため、分かり次第、公式情報をご確認ください。</p><h2>犬連れで行く前に</h2><p>ステージ出演者やコンテンツの詳細は公式サイト・公式Instagramで随時発表されます。来場条件や当日の案内は、事前に公式Instagramで確認してください。</p><h2>アクセスと雨の日</h2><p>会場は東京・有明の屋外スポーツパークです。雨天決行・荒天中止と案内されていますが、当日の開催判断は公式Instagramで確認してください。</p><h2>公式情報</h2><p><a href=\"https://www.instagram.com/with_wan_heroes_festival/\" target=\"_blank\" rel=\"noopener noreferrer\">WAN HEROES FESTIVAL公式Instagram ↗</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">東京都江東区で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">東京都江東区で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">東京都江東区で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">東京都江東区で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "hiroshima-wanwan-christmas-20261205",
+    "title": "広島わんわんクリスマス2026",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-06",
+    "region": "chugoku",
+    "prefecture": "広島県",
+    "place": "THE OUTLETS HIROSHIMA 東駐車場",
+    "address": "広島県広島市佐伯区石内東4丁目1-1（THE OUTLETS HIROSHIMA）",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=THE OUTLETS HIROSHIMA",
+    "image": "",
+    "description": "ジアウトレット広島で開かれるクリスマスマーケット。2日間合計100〜130店舗が集まり、抽選会や無料フォトスポットも楽しめます。",
+    "url": "https://www.wanwan-event.com/post/%E5%BA%83%E5%B3%B6%E3%82%8F%E3%82%93%E3%82%8F%E3%82%93%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B92026",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催者公式ページで日程・時間・会場・入場料・出店規模・注意事項を確認。個別の出店店舗は募集中で未公開。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://www.wanwan-event.com/post/%E5%BA%83%E5%B3%B6%E3%82%8F%E3%82%93%E3%82%8F%E3%82%93%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B92026"
+      }
+    ],
+    "content": "<p>わんちゃんも飼い主さんも一緒に楽しめるクリスマスマーケット。保護犬・保護猫の活動を支援するイベントで、収益の一部は保護活動団体への寄付や物資支援に使われます。</p><h2>日時・料金・会場</h2><p>2026年12月5日（土）・6日（日）10:00〜16:00。会場はTHE OUTLETS HIROSHIMA（ジアウトレット広島）東駐車場。入場料は1人500円（高校生以下は無料）。無料駐車場が約3,000台分あります。</p><h2>どんなイベント？</h2><p>わんちゃん用のおやつ、フード、服、グッズ、似顔絵などの店舗が広島県内外から集まります。スタンプを3つ集めると参加できるクリスマス大抽選会や、無料フォトスポットも用意されます。イベント後は、わんちゃんと入店OKの店舗が多いジアウトレット広島でそのまま買い物も楽しめます。</p><h2>出店店舗</h2><p>2日間合計で100〜130店舗が集結する予定です。個別の出店店舗一覧は公式で順次公開予定です。分かり次第、公式情報をご確認ください。</p><h2>犬連れで行く前に</h2><p>マナーウェアの着用が推奨されています。必ずリードを着用し、ロングリード＆伸縮リードは禁止です。愛犬のうんちは持ち帰ってください。愛犬のトラブル・事故・怪我は飼い主さんの自己責任となります。</p><h2>アクセスと雨の日</h2><p>会場は駐車場の一部を利用して開催されるため、安全のため歩道を利用するよう案内されています。小雨決行・大雨の場合は中止です。</p><h2>公式情報</h2><p><a href=\"https://www.wanwan-event.com/post/%E5%BA%83%E5%B3%B6%E3%82%8F%E3%82%93%E3%82%8F%E3%82%93%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B92026\" target=\"_blank\" rel=\"noopener noreferrer\">広島わんわんイベント公式・開催案内 ↗</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">広島県広島市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">広島県広島市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">広島県広島市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">広島県広島市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "wan-wonderful-festa-kobe-20261205",
+    "title": "Wan! Wonderful Festa 神戸",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-06",
+    "region": "kansai",
+    "prefecture": "兵庫県",
+    "place": "須磨海浜公園",
+    "address": "兵庫県神戸市須磨区若宮町1丁目（須磨海浜公園）",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=須磨海浜公園",
+    "image": "",
+    "description": "神戸・須磨海浜公園で開かれるドッグイベント。物販ブース約44店舗とキッチンカーが並び、海辺の公園で愛犬と過ごせます。",
+    "url": "https://www.instagram.com/wanwonderfulfesta_kobe/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催者公式Instagramの開催告知とエリアマップ投稿で日程・時間・会場・出店エリアを確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://www.instagram.com/wanwonderfulfesta_kobe/"
+      }
+    ],
+    "content": "<p>神戸の海辺、須磨海浜公園で開催されるドッグイベント「Wan! Wonderful Festa 神戸」。神戸須磨シーワールドに隣接するエリアに、物販ブースとキッチンカーが並びます。</p><h2>日時・料金・会場</h2><p>2026年12月5日（土）・6日（日）10:30〜16:30。会場は須磨海浜公園（兵庫県神戸市須磨区若宮町1丁目）。入場料については公式Instagramの最新案内でご確認ください。駐車場は有料駐車場があります。</p><h2>どんなイベント？</h2><p>公式Instagramで公開されたエリアマップでは、物販エリアにブース番号1〜44、キッチンカーエリアにA〜Gの区画が設けられています。海辺の公園というロケーションで、買い物とお散歩を一緒に楽しめるイベントです。</p><h2>出店店舗</h2><p>公式Instagramのエリアマップで公開されている主な出店店舗です。</p><ul><li>Ayamerry</li><li>Nanala</li><li>HARDW'R DOG</li><li>THE GIBIER</li></ul><p>キッチンカーエリアには次の店舗が出店します。</p><ul><li>Lulumalu Cafe</li><li>Turtles kitchen</li><li>THE CHEFS KOBE</li></ul><p>全店舗の一覧は公式Instagramのエリアマップ投稿でご確認ください。</p><h2>犬連れで行く前に</h2><p>当日の案内や変更情報は公式Instagramで発信されます。来場前に最新の投稿を確認してください。</p><h2>アクセスと雨の日</h2><p>車では阪神高速神戸線「若宮I.C.」から浜側、または第2神明道路「須磨I.C」から南へ約5分が目安です。雨天時の対応は公式Instagramでご確認ください。</p><h2>公式情報</h2><p><a href=\"https://www.instagram.com/wanwonderfulfesta_kobe/\" target=\"_blank\" rel=\"noopener noreferrer\">Wan! Wonderful Festa 神戸公式Instagram ↗</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">兵庫県神戸市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">兵庫県神戸市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">兵庫県神戸市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">兵庫県神戸市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "seaparadise-wanko-island-20261211",
+    "title": "わんこ島シーパラダイヌ",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-11",
+    "endDate": "2026-12-13",
+    "region": "kanto",
+    "prefecture": "神奈川県",
+    "place": "横浜・八景島シーパラダイス",
+    "address": "神奈川県横浜市金沢区八景島（横浜・八景島シーパラダイス）",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=横浜・八景島シーパラダイス",
+    "image": "",
+    "description": "普段は犬と入れない水族館やアトラクションに、わんちゃんと一緒に入れる3日間限定の特別イベント。イルカたちの限定パフォーマンスも開催されます。",
+    "url": "https://prtimes.jp/main/html/rd/p/000001004.000011571.html",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催者（株式会社横浜八景島）の公式プレスリリースで日程・時間・料金・対象施設・参加条件を確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://prtimes.jp/main/html/rd/p/000001004.000011571.html"
+      }
+    ],
+    "content": "<p>横浜・八景島シーパラダイス×西武ペットスマイルプロジェクトの特別イベント。普段はわんちゃんと一緒に入れない水族館内、アトラクション、レストラン、ショップを、わんちゃんと一緒に楽しめる3日間です。</p><h2>日時・料金・会場</h2><p>2026年12月11日（金）〜13日（日）14:00〜19:00（施設により利用時間が異なります）。会場は横浜・八景島シーパラダイス。料金は「わんわんファミリーパス」で、大人・高校生3,900円／小・中学生2,600円／シニア（65才以上）2,600円／幼児（4才以上）1,700円／わんちゃん1,000円。受付はアクアミュージアム前広場の特設テントで18:30までです。</p><h2>どんなイベント？</h2><p>4つの水族館（アクアミュージアム、ドルフィン ファンタジー、うみファーム、ふれあいラグーン）の見学や、メリーゴーラウンドなど4機種のアトラクションにわんちゃんと一緒に乗車できます。アクアミュージアムのライブスタジアムでは、イルカやペンギンたちによる限定「ワンダフルパフォーマンス」（専用チケット1名600円、わんちゃん無料）も開催されます。</p><h2>出店店舗</h2><p>マルシェ形式のイベントではないため出店店舗一覧はありませんが、わんちゃんと一緒に利用できる施設内の店舗が公式に案内されています。</p><ul><li>ファンタジーショップ（水族館「ドルフィン ファンタジー」内。ドッグブランド「PET PARADISE」の商品やマナーウェアを販売）</li><li>Seafood ＆ Grill YAKIYA（わんちゃん向け専用メニューあり）</li><li>ハワイアンカフェ ＆ レストラン メレンゲ</li><li>ラ・タラフク</li><li>マンジャーレ</li><li>ドルフィン（テイクアウト）</li><li>ケーブルカーコーヒー（テイクアウト）</li><li>マリオンクレープ（テイクアウト）</li></ul><h2>犬連れで行く前に</h2><p>利用には、1年以内に狂犬病予防注射と5種以上の混合ワクチンを接種した証明書（接種から3日間経過が必要）を受付で提示する必要があります。水族館・アトラクション・ショップ利用時はマナーウェアの着用が必要です。わんちゃん1頭につき、15歳以上の保護者1名の付き添いが必須です。島内では常時リードを着用してください。</p><h2>アクセスと雨の日</h2><p>会場は横浜市金沢区の八景島です。施設ごとに利用時間やルールが異なるため、対象アトラクションの運行時刻などは公式Webサイトで確認してください。天候や海象状況により、うみファームなどが中止になる場合があります。</p><h2>公式情報</h2><p><a href=\"https://prtimes.jp/main/html/rd/p/000001004.000011571.html\" target=\"_blank\" rel=\"noopener noreferrer\">横浜・八景島公式プレスリリース ↗</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">神奈川県横浜市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県横浜市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県横浜市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県横浜市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "todoroki-dog-festival-8th-20261212",
+    "title": "等々力ドッグフェスティバル 8th",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-13",
+    "region": "kanto",
+    "prefecture": "神奈川県",
+    "place": "等々力緑地 特設会場（等々力球場外周）",
+    "address": "神奈川県川崎市中原区等々力1-1（等々力緑地）",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=等々力緑地",
+    "image": "",
+    "description": "等々力緑地で開かれる8回目のドッグフェスティバル。ショッピングブースや参加型コンテンツ、キッチンカー、防災啓発コーナーがそろいます。",
+    "url": "https://todoroki-dogfes.com/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "公式サイトのトップページとショップ情報一覧で日程・会場・出店店舗・来場時の注意事項を確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://todoroki-dogfes.com/"
+      }
+    ],
+    "content": "<p>「愛犬家のモラル向上」と「より良い犬との共生社会の実現」を目的に、等々力緑地で開催されるドッグフェスティバル。今回で8回目を迎えます。</p><h2>日時・料金・会場</h2><p>2026年12月12日（土）・13日（日）10:00〜16:00。会場は等々力緑地 特設会場（等々力球場外周）。入場無料です（一部コンテンツは有料）。</p><h2>どんなイベント？</h2><p>ドッググッズやペットフードのショッピングブースのほか、わんわん20mチャレンジなどの参加型コンテンツ、災害救助犬デモンストレーション＆救助犬ふれあい体験、無料しつけ相談、フォトレコペット撮影会、キッチンカー、防災啓発コーナーなどが予定されています。</p><h2>出店店舗</h2><p>公式サイトのショップ情報で公開されている出店店舗（全22店舗）です。</p><ul><li>AZERIA</li><li>Dr.WANDEL</li><li>WAN VOYAGE</li><li>鹿肉工房</li><li>首輪とおやつの専門店Diange</li><li>GEWALK</li><li>株式会社Root-A</li><li>にくきゅうスタンプイベント</li><li>池田動物病院</li><li>Sobagni Pet</li><li>ファルミナペットフーズ・ジャパン株式会社</li><li>ココールペット</li><li>PREMIUMWATER</li><li>DREAMBEER</li><li>パルシステム生活協同組合連合会</li><li>株式会社Graimo</li><li>2e Deuxieme Cale</li><li>Favorite Scene BAG</li><li>ココグルメ</li><li>軽井沢鹿工房</li><li>XAXA（ザザ）信州犬猫おやつと服飾雑貨</li><li>WAN LIFE</li></ul><h2>犬連れで行く前に</h2><p>同伴するわんちゃんは狂犬病ワクチン接種が必須で、6種以上の感染症ワクチン接種が推奨されています。会場内では必ずリードを着用し、伸びるリードは短くロックして使用してください。うんちは持ち帰り、ブラッシングやボール投げ・フライングディスクで遊ぶことは禁止されています。</p><h2>アクセスと雨の日</h2><p>会場周辺は混雑が予想されるため、主催者は公共交通機関での来場を呼びかけています。武蔵小杉駅からバスで「市営等々力グランド入口」下車が目安です。雨天決行・荒天中止と案内されています。</p><h2>公式情報</h2><p><a href=\"https://todoroki-dogfes.com/\" target=\"_blank\" rel=\"noopener noreferrer\">等々力ドッグフェスティバル公式サイト ↗</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">神奈川県川崎市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県川崎市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県川崎市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県川崎市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "inawan-christmas-20261212",
+    "title": "INAWAN Christmas",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-13",
+    "region": "kanto",
+    "prefecture": "千葉県",
+    "place": "稲毛海浜公園 多目的広場・メイン通り",
+    "address": "千葉県千葉市美浜区（稲毛海浜公園）",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=稲毛海浜公園",
+    "image": "",
+    "description": "稲毛海浜公園の桟橋を望むメイン通りで開かれるドッグイベント。約80店舗のペットマルシェやキッチンカー、パン食いレースが楽しめます。",
+    "url": "https://sunsetbeachpark.jp/inaa1113/2026/11/13/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "会場（稲毛海浜公園）公式ページで日程・時間・会場・入場料・出店規模を確認。個別の出店店舗名は同ページ未掲載。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://sunsetbeachpark.jp/inaa1113/2026/11/13/"
+      }
+    ],
+    "content": "<p>稲毛海浜公園のシンボルでもある桟橋を望むメイン通りで開催されるドッグイベント「INAWAN Christmas」。愛犬と一緒にクリスマスの雰囲気を楽しめます。</p><h2>日時・料金・会場</h2><p>2026年12月12日（土）・13日（日）10:00〜16:00。会場は稲毛海浜公園 多目的広場・メイン通り（千葉県千葉市美浜区）。入場料は無料です。</p><h2>どんなイベント？</h2><p>2日間で約80店舗のペットマルシェをはじめ、キッチンカー、ガラポン、毎回人気のパン食いレースなど様々なコンテンツが予定されています。公園内のDOG PARK INAGEではドッグランも営業しています。</p><h2>出店店舗</h2><p>約80店舗のペットマルシェが出店予定ですが、個別の出店店舗一覧は公式で順次公開予定です。分かり次第、公式情報をご確認ください。</p><h2>犬連れで行く前に</h2><p>コンテンツの詳細や当日の案内は、会場公式ページとイベント公式の発信で確認してください。お問い合わせは festa@worldparkjp.com までと案内されています。</p><h2>アクセスと雨の日</h2><p>会場は千葉市美浜区の稲毛海浜公園です。雨天時の対応は公式情報をご確認ください。</p><h2>公式情報</h2><p><a href=\"https://sunsetbeachpark.jp/inaa1113/2026/11/13/\" target=\"_blank\" rel=\"noopener noreferrer\">稲毛海浜公園公式・開催案内 ↗</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">千葉県千葉市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">千葉県千葉市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">千葉県千葉市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">千葉県千葉市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "wandarake-marche-20261212",
+    "title": "wandarake marche 53&54",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-13",
+    "region": "chubu",
+    "prefecture": "愛知県",
+    "place": "富浜緑地",
+    "address": "愛知県弥富市富浜1丁目1番地",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=富浜緑地",
+    "image": "",
+    "description": "全国からわんこのお店が集まる大型マルシェ「わんだらけ」の2026年最後の開催回。クリスマスシーズンのspecial 2days winter festivalとして、マルシェとフードエリア、催しものが楽しめます。",
+    "url": "https://buddys.life/wandarake_blog/2026/10/25/post-1975/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催者公式ブログの開催告知と公式サイトで、日程・時間・会場・参加費を確認。",
+    "sources": [
+      {
+        "label": "主催者公式・開催告知",
+        "url": "https://buddys.life/wandarake_blog/2026/10/25/post-1975/"
+      },
+      {
+        "label": "公式サイト",
+        "url": "https://wandarake.buddys.life/"
+      }
+    ],
+    "content": "<p>愛犬と一日中楽しめるマルシェ「wandarake marche」の53&54回。2026年最後の開催は、クリスマスシーズンの「special 2days winter festival」です。全国からわんこのお店が集まるマルシェエリアと、グルメやドリンク＆スイーツのフードエリアが用意されます。</p><h2>日時・料金・会場</h2><p>2026年12月12日（土）・13日（日）9:00〜16:00。会場は富浜緑地（愛知県弥富市富浜1丁目1番地）。参加費は大人1,500円／中高生500円／小学生以下無料、わんこは何頭でも無料です。1日券のみで当日何度でも再入場可、前売り券はなく現金のみです。</p><h2>どんなイベント？</h2><p>同じ犬種やテーマで集まるオフ会「わんオフ」、ドッグカートなど豪華賞品が当たる「メガ抽選会」、スタンプを集める「お買い物マラソン」や「スタンプラリー」、特設レッドカーペットを愛犬と歩く「わんパレ」、謎解きの「トレハン」など催しが盛りだくさん。獣医による無料相談もあります。</p><h2>出店店舗</h2><p>出店一覧は公式で順次公開予定です。詳しいスケジュールや出店者情報は、公式サイトや公式Instagram・Facebookで順次紹介されると案内されています。</p><h2>犬連れで行く前に</h2><p>会場ではカートを利用するか必ずリードを付け、伸びるリードは短く固定してください。他のわんこに近づく・触る・撮影するときは飼い主の了承を得ること、排泄物は各自持ち帰ること（マナーウェア着用推奨）が公式のお願いとして案内されています。</p><h2>アクセスと雨の日</h2><p>車の場合は湾岸弥富IC・弥富木曽岬ICから約5〜15分。特設駐車場あり（参加費に含む、利用時間7:30〜17:00）。公共交通機関の場合は近鉄弥富駅南口からタクシー利用が案内されています。雨天決行ですが、荒天時は中止する場合があります。</p><h2>公式情報</h2><ul><li><a href=\"https://buddys.life/wandarake_blog/2026/10/25/post-1975/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式・開催告知</a></li><li><a href=\"https://wandarake.buddys.life/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイト</a></li></ul><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">愛知県弥富市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%BC%A5%E5%AF%8C%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">愛知県弥富市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%BC%A5%E5%AF%8C%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">愛知県弥富市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%BC%A5%E5%AF%8C%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">愛知県弥富市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "misato-wanwan-festival-20261212",
+    "title": "第3回みさとわんわんフェスティバル",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-13",
+    "region": "kanto",
+    "prefecture": "埼玉県",
+    "place": "OGISHIみさとパーク（県営みさと公園）自由広場",
+    "address": "埼玉県三郷市 OGISHIみさとパーク（県営みさと公園）",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=OGISHIみさとパーク（県営みさと公園）自由広場",
+    "image": "",
+    "description": "県営みさと公園の自由広場で開かれる、犬と一緒に楽しめるフェスティバルの第3回。入場無料で2日間開催されます。",
+    "url": "https://www.seibu-la.co.jp/misato-yoshikawa/event/202609091619095286.html",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "会場指定管理者の公式イベントページで、開催日・時間・会場・入場無料を確認。",
+    "sources": [
+      {
+        "label": "会場公式・開催案内",
+        "url": "https://www.seibu-la.co.jp/misato-yoshikawa/event/202609091619095286.html"
+      }
+    ],
+    "content": "<p>埼玉県三郷市のOGISHIみさとパーク（県営みさと公園）自由広場で開かれる「みさとわんわんフェスティバル」の第3回です。</p><h2>日時・料金・会場</h2><p>2026年12月12日（土）・13日（日）10:00〜15:00。会場はOGISHIみさとパーク（県営みさと公園）自由広場。入場無料です。</p><h2>どんなイベント？</h2><p>公園の自由広場を舞台に、愛犬と一緒に週末を過ごせる犬向けフェスティバルです。詳しい催しの内容は公式ページの案内をご確認ください。</p><h2>出店店舗</h2><p>出店店舗の一覧は、本記事の確認時点では公式ページで確認できませんでした。出店一覧は公式で順次公開予定です。最新の出店情報は公式ページをご確認ください。</p><h2>犬連れで行く前に</h2><p>公園内での犬同伴の範囲やリードの扱いなど、当日の参加条件は公式ページの最新案内で確認してください。</p><h2>アクセスと雨の日</h2><p>会場は県営みさと公園内の自由広場です。アクセス方法や雨天時の開催可否は、公式ページの案内を確認してください。</p><h2>公式情報</h2><ul><li><a href=\"https://www.seibu-la.co.jp/misato-yoshikawa/event/202609091619095286.html\" target=\"_blank\" rel=\"noopener noreferrer\">会場公式・開催案内</a></li></ul><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">埼玉県三郷市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E4%B8%89%E9%83%B7%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県三郷市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E4%B8%89%E9%83%B7%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県三郷市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E4%B8%89%E9%83%B7%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県三郷市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "dachshund-meet-up-20261212",
+    "title": "Dachshund MEET UP 2026 - rooted in Germany -",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-12",
+    "region": "kanto",
+    "prefecture": "埼玉県",
+    "place": "秋ヶ瀬公園 三ツ池グラウンド",
+    "address": "埼玉県さいたま市 秋ヶ瀬公園 三ツ池グラウンド",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=秋ヶ瀬公園 三ツ池グラウンド",
+    "image": "",
+    "description": "フリーステッチ主催のダックスフンド専用ミートアップ。ドッグランや50mスプリント、撮影会、ショッピングエリアなど、ダックスと飼い主が一日楽しめる犬種別イベントです。",
+    "url": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催者フリーステッチ公式の当該イベントページと公式出店者紹介ページで、開催日・会場・出店者を確認。",
+    "sources": [
+      {
+        "label": "主催者公式・開催案内",
+        "url": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026"
+      },
+      {
+        "label": "主催者公式・出店者紹介",
+        "url": "https://www.freestitch.jp/mblog/54335"
+      }
+    ],
+    "content": "<p>フリーステッチ主催の犬種別ミートアップ「Dachshund MEET UP 2026」。ダックスフンドとその家族が秋ヶ瀬公園に集まる一日です。</p><h2>日時・料金・会場</h2><p>2026年12月12日（土）。会場は秋ヶ瀬公園 三ツ池グラウンド（埼玉県さいたま市）。参加は予約制で、参加予約期間は6月24日〜12月3日、フィールドコンテンツやドッグランなどの予約期間は10月15日〜12月3日と案内されています。料金や当日の時間配分は公式ページで確認してください。</p><h2>どんなイベント？</h2><p>ドッグラン、50mスプリント＆ハードル走、30mレース、犬まみれ撮影、家族でダッシュ、撮影会、パピーセミナー、個別レッスンなどのフィールドコンテンツに加え、当日は集合写真、家族写真撮影、ご長寿犬表彰、チャリティガラポンも予定されています。</p><h2>出店店舗</h2><p>公式の出店者紹介ページで公開されている店舗です（随時更新されます）。</p><ul><li>ハンドメイドのオハナ</li><li>WANSAMA-NYANSAMA</li><li>♡hokari</li><li>ENTAME GIG PET</li><li>happy bell★</li><li>株式会社GARO5</li><li>DO_GOOD store</li><li>nono|うちの子イラスト</li><li>SHARESDESIGN</li><li>SANCTUARY</li><li>free stitch</li><li>もつ煮一番</li><li>株式会社山中商店 おにくの椿</li><li>はえまつクレープ</li><li>willowkitchen</li></ul><p>お買い物エリアの店舗のほか、オーナー向けのご飯・ドリンク店舗も出店します。</p><h2>犬連れで行く前に</h2><p>参加規約を予約前に必ず確認してください。コンテンツごとに予約期間や定員が異なるため、参加したい企画は早めの予約がおすすめです。</p><h2>アクセスと雨の日</h2><p>会場はさいたま市の秋ヶ瀬公園内、三ツ池グラウンドです。アクセスや雨天時の扱いは公式ページの案内を確認してください。</p><h2>公式情報</h2><ul><li><a href=\"https://www.freestitch.jp/meetup/dachshund-meet-up-2026\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式・開催案内</a></li><li><a href=\"https://www.freestitch.jp/mblog/54335\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式・出店者紹介</a></li></ul><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">埼玉県さいたま市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県さいたま市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県さいたま市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県さいたま市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "hanatanken-20261213",
+    "title": "鼻短犬祭 2026 クリパ meets こもれび森のイバライド",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-13",
+    "endDate": "2026-12-13",
+    "region": "kanto",
+    "prefecture": "茨城県",
+    "place": "こもれび森のイバライド",
+    "address": "茨城県稲敷市上君山2060-1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=こもれび森のイバライド",
+    "image": "",
+    "description": "フレンチブルドッグなど鼻の短い犬種と家族のための「鼻短犬祭」のクリスマス回。グッズマーケットや撮影会などがこもれび森のイバライドで開かれます。",
+    "url": "https://hanatanken.com/event/2026-12-13/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "公式サイトの当該回ページで日程・時間・会場・料金を確認。出店店舗は主催者公式Instagramの出店紹介投稿で確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://hanatanken.com/event/2026-12-13/"
+      },
+      {
+        "label": "主催者公式Instagram",
+        "url": "https://www.instagram.com/hanatanken/"
+      }
+    ],
+    "content": "<p>鼻短犬（短頭種）とその家族のためのイベント「鼻短犬祭」のクリスマス回が、こもれび森のイバライドで開催されます。</p><h2>日時・料金・会場</h2><p>2026年12月13日（日）9:00〜16:00。会場はこもれび森のイバライド（茨城県稲敷市上君山2060-1）。料金は前売り：大人2,200円／小学生以下1,100円／3歳以下無料、愛犬880円。当日：大人3,000円／小学生以下2,000円、愛犬2,000円です。</p><h2>どんなイベント？</h2><p>鼻短犬グッズのマーケットや撮影会などが案内されている、鼻短犬の飼い主同士の交流を目的としたイベントです。イベントチケットで施設も利用できます。</p><h2>出店店舗</h2><p>主催者公式Instagramで順次紹介されている出店店舗の一部です。</p><ul><li>CHEERBEE</li><li>BULLMODE</li><li>DESIGN☆&amp;A</li><li>masishu~</li><li>あいぬか住宅つくば店</li></ul><p>出店紹介は公式Instagramで順次公開されています。最新の出店情報はそちらをご確認ください。</p><h2>犬連れで行く前に</h2><p>首輪またはハーネスとリードが必須で、ロングリード・巻き取り式リードは使用を控えるよう案内されています。狂犬病・混合ワクチンの接種や、ヒート中などの入場制限もあるため、参加規約を事前に確認してください。</p><h2>アクセスと雨の日</h2><p>会場は茨城県稲敷市上君山2060-1のこもれび森のイバライドです。雨天決行・荒天中止と案内されています。</p><h2>公式情報</h2><ul><li><a href=\"https://hanatanken.com/event/2026-12-13/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内</a></li><li><a href=\"https://www.instagram.com/hanatanken/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式Instagram</a></li></ul><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">茨城県稲敷市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">茨城県稲敷市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">茨城県稲敷市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E7%A8%B2%E6%95%B7%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">茨城県稲敷市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "cocker-spaniel-festival-20261213",
+    "title": "Cocker Spaniel Festival 2026",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-13",
+    "endDate": "2026-12-13",
+    "region": "kanto",
+    "prefecture": "埼玉県",
+    "place": "秋ヶ瀬公園 三ツ池グラウンド",
+    "address": "埼玉県さいたま市 秋ヶ瀬公園 三ツ池グラウンド",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=秋ヶ瀬公園 三ツ池グラウンド",
+    "image": "",
+    "description": "フリーステッチ主催のコッカースパニエル専用フェスティバル。ドッグランやレース、レッスン、ショッピングエリアまで、コッカーと家族が一日楽しめる犬種別イベントです。",
+    "url": "https://www.freestitch.jp/meetup/cocker-spaniel-festival-2026",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催者フリーステッチ公式の当該イベントページと公式出店者紹介ページで、開催日・会場・出店者を確認。",
+    "sources": [
+      {
+        "label": "主催者公式・開催案内",
+        "url": "https://www.freestitch.jp/meetup/cocker-spaniel-festival-2026"
+      },
+      {
+        "label": "主催者公式・出店者紹介",
+        "url": "https://www.freestitch.jp/mblog/54336"
+      }
+    ],
+    "content": "<p>フリーステッチ主催の犬種別イベント「Cocker Spaniel Festival 2026」。コッカースパニエルとその家族が秋ヶ瀬公園に集まる一日です。</p><h2>日時・料金・会場</h2><p>2026年12月13日（日）。会場は秋ヶ瀬公園 三ツ池グラウンド（埼玉県さいたま市）。参加は予約制で、参加予約期間は6月26日〜12月4日、フィールドコンテンツなどの予約期間は10月15日〜12月4日と案内されています。料金や当日の時間配分は公式ページで確認してください。</p><h2>どんなイベント？</h2><p>ドッグラン、50mスプリント＆ハードル走、30mレース、犬まみれ撮影、家族でダッシュ、撮影会、パピーセミナー、個別レッスンなどのフィールドコンテンツに加え、当日は集合写真、家族写真撮影、ご長寿犬表彰、チャリティガラポンも予定されています。</p><h2>出店店舗</h2><p>公式の出店者紹介ページで公開されている店舗です（随時更新されます）。</p><ul><li>FARADAY KAMAKURA</li><li>M’s Diamond</li><li>LeCheO</li><li>nono|うちの子イラスト</li><li>SHARESDESIGN</li><li>free stitch</li><li>やきいもやＫＯＴＩ</li><li>OK kitchen</li><li>POWDERBOO</li></ul><p>お買い物エリアの店舗のほか、オーナー向けのご飯・ドリンク店舗も出店します。</p><h2>犬連れで行く前に</h2><p>参加規約を予約前に必ず確認してください。コンテンツごとに予約期間や定員が異なるため、参加したい企画は早めの予約がおすすめです。</p><h2>アクセスと雨の日</h2><p>会場はさいたま市の秋ヶ瀬公園内、三ツ池グラウンドです。アクセスや雨天時の扱いは公式ページの案内を確認してください。</p><h2>公式情報</h2><ul><li><a href=\"https://www.freestitch.jp/meetup/cocker-spaniel-festival-2026\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式・開催案内</a></li><li><a href=\"https://www.freestitch.jp/mblog/54336\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式・出店者紹介</a></li></ul><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">埼玉県さいたま市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県さいたま市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県さいたま市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県さいたま市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "premium-dog-festa-hiratsuka-20261226",
+    "title": "プレミアムドッグフェスタ in 湘南平塚（年末大感謝祭）",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-26",
+    "endDate": "2026-12-27",
+    "region": "kanto",
+    "prefecture": "神奈川県",
+    "place": "ジ アウトレット湘南平塚",
+    "address": "神奈川県平塚市大神8-1-1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ジ アウトレット湘南平塚",
+    "image": "",
+    "description": "ジ アウトレット湘南平塚で開かれる年末大感謝祭。日本全国から155店舗以上が出店し、獣医師の常駐や特設ドッグランも予定される入場無料のドッグフェスタです。",
+    "url": "https://www.instagram.com/premium_dog_festa/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催者公式Instagramの開催告知で、日程・時間・会場・入場無料・出店規模を確認。",
+    "sources": [
+      {
+        "label": "主催者公式Instagram",
+        "url": "https://www.instagram.com/premium_dog_festa/"
+      }
+    ],
+    "content": "<p>2026年最後のプレミアムドッグフェスタは「年末大感謝祭」として、ジ アウトレット湘南平塚で開催されます。</p><h2>日時・料金・会場</h2><p>2026年12月26日（土）・27日（日）10:00〜16:00。会場はジ アウトレット湘南平塚（神奈川県平塚市大神8-1-1）。入場無料です。</p><h2>どんなイベント？</h2><p>日本全国から155店舗以上が出店するドッグフェスタです。会場には獣医師が常駐し、特設ドッグランも登場予定と案内されています。年末大感謝祭として、お得な商品や福袋などの企画も告知されています。</p><h2>出店店舗</h2><p>主催者公式の告知では、日本全国から155店舗以上が出店すると案内されています。個別の店舗名の一覧は公式で未公開のため、出店一覧は公式で順次公開予定です。最新情報は主催者公式Instagramをご確認ください。</p><h2>犬連れで行く前に</h2><p>会場内の開催区画や特設ドッグランの利用条件は、告知では詳しく案内されていません。来場前に主催者公式Instagramの最新投稿で確認してください。イベントへの同伴条件と、アウトレット各店舗への入店条件は別に確認を。</p><h2>アクセスと雨の日</h2><p>会場所在地は神奈川県平塚市大神8-1-1。雨天時の開催可否は公式Instagramの案内を確認してください。</p><h2>公式情報</h2><ul><li><a href=\"https://www.instagram.com/premium_dog_festa/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式Instagram</a></li></ul><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">神奈川県平塚市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B9%B3%E5%A1%9A%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県平塚市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B9%B3%E5%A1%9A%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県平塚市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B9%B3%E5%A1%9A%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県平塚市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "london-dog-festival-matsubushi-20261226",
+    "title": "ロンドンドッグフェスティバル in まつぶし緑の丘公園",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2026-12-26",
+    "endDate": "2026-12-27",
+    "region": "kanto",
+    "prefecture": "埼玉県",
+    "place": "まつぶし緑の丘公園",
+    "address": "埼玉県北葛飾郡松伏町 まつぶし緑の丘公園",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=まつぶし緑の丘公園",
+    "image": "",
+    "description": "ロンドンをモチーフにした体験型ドッグマルシェ「ロンドンドッグフェスティバル」の年末回。まつぶし緑の丘公園で入場無料で開催されます。",
+    "url": "https://www.instagram.com/london_dog_festival/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催者公式Instagramの開催告知で、日程・時間・会場・入場無料を確認。",
+    "sources": [
+      {
+        "label": "主催者公式Instagram",
+        "url": "https://www.instagram.com/london_dog_festival/"
+      },
+      {
+        "label": "主催者公式サイト",
+        "url": "https://tokyo-dogs.com/london-dog-festival/"
+      }
+    ],
+    "content": "<p>ペット先進国ロンドンをモチーフにした体験型ドッグマルシェ「ロンドンドッグフェスティバル」が、年末にまつぶし緑の丘公園で開催されます。</p><h2>日時・料金・会場</h2><p>2026年12月26日（土）・27日（日）10:00〜16:00。会場はまつぶし緑の丘公園（埼玉県北葛飾郡松伏町）。入場無料です。</p><h2>どんなイベント？</h2><p>愛犬と一緒に過ごす時間を豊かにする体験型のドッグフェスティバルです。しつけ体験を通じてペットとの正しい関わり方を広める取り組みも行われています。今回の回の詳しいコンテンツは公式Instagramの案内をご確認ください。</p><h2>出店店舗</h2><p>出店一覧は公式で順次公開予定です。今回の回の出店店舗名は、本記事の確認時点では主催者公式で公表されていませんでした。最新情報は主催者公式Instagramをご確認ください。</p><h2>犬連れで行く前に</h2><p>当日のコンテンツや同伴条件は回ごとに異なるため、来場前に主催者公式Instagramの最新投稿を確認してください。</p><h2>アクセスと雨の日</h2><p>会場は埼玉県北葛飾郡松伏町のまつぶし緑の丘公園です。雨天時の開催可否は公式Instagramの案内を確認してください。</p><h2>公式情報</h2><ul><li><a href=\"https://www.instagram.com/london_dog_festival/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式Instagram</a></li><li><a href=\"https://tokyo-dogs.com/london-dog-festival/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式サイト</a></li></ul><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">埼玉県北葛飾郡松伏町で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%8C%97%E8%91%9B%E9%A3%BE%E9%83%A1%E6%9D%BE%E4%BC%8F%E7%94%BA%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県北葛飾郡松伏町で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%8C%97%E8%91%9B%E9%A3%BE%E9%83%A1%E6%9D%BE%E4%BC%8F%E7%94%BA%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県北葛飾郡松伏町で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%8C%97%E8%91%9B%E9%A3%BE%E9%83%A1%E6%9D%BE%E4%BC%8F%E7%94%BA%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県北葛飾郡松伏町で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "london-dog-festa-sagamihara-20270109",
+    "title": "ロンドンドッグフェスタ in 相模原公園",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2027-01-09",
+    "endDate": "2027-01-10",
+    "region": "kanto",
+    "prefecture": "神奈川県",
+    "place": "県立相模原公園 芝生広場",
+    "address": "神奈川県相模原市 県立相模原公園 芝生広場",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=県立相模原公園 芝生広場",
+    "image": "",
+    "description": "ロンドンをモチーフにした体験型ドッグマルシェ「ロンドンドッグフェスタ」の新年回。県立相模原公園の芝生広場で入場無料で開催されます。",
+    "url": "https://www.instagram.com/london_dog_festival/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催者公式Instagramの開催告知で、日程・時間・会場・入場無料を確認。",
+    "sources": [
+      {
+        "label": "主催者公式Instagram",
+        "url": "https://www.instagram.com/london_dog_festival/"
+      },
+      {
+        "label": "主催者公式サイト",
+        "url": "https://tokyo-dogs.com/london-dog-festival/"
+      }
+    ],
+    "content": "<p>ペット先進国ロンドンをモチーフにした体験型ドッグマルシェ「ロンドンドッグフェスタ」が、新年に県立相模原公園で開催されます。</p><h2>日時・料金・会場</h2><p>2027年1月9日（土）・10日（日）10:00〜15:00。会場は県立相模原公園 芝生広場（神奈川県相模原市）。入場無料です。</p><h2>どんなイベント？</h2><p>愛犬と一緒に過ごす時間を豊かにする体験型のドッグフェスティバルです。しつけ体験を通じてペットとの正しい関わり方を広める取り組みも行われています。今回の回の詳しいコンテンツは公式Instagramの案内をご確認ください。</p><h2>出店店舗</h2><p>出店一覧は公式で順次公開予定です。今回の回の出店店舗名は、本記事の確認時点では主催者公式で公表されていませんでした。最新情報は主催者公式Instagramをご確認ください。</p><h2>犬連れで行く前に</h2><p>当日のコンテンツや同伴条件は回ごとに異なるため、来場前に主催者公式Instagramの最新投稿を確認してください。</p><h2>アクセスと雨の日</h2><p>会場は神奈川県相模原市の県立相模原公園、芝生広場です。雨天時の開催可否は公式Instagramの案内を確認してください。</p><h2>公式情報</h2><ul><li><a href=\"https://www.instagram.com/london_dog_festival/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式Instagram</a></li><li><a href=\"https://tokyo-dogs.com/london-dog-festival/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式サイト</a></li></ul><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">神奈川県相模原市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県相模原市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県相模原市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県相模原市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "pethaku-yokohama-20270109",
+    "title": "Pet博2027横浜",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2027-01-09",
+    "endDate": "2027-01-11",
+    "region": "kanto",
+    "prefecture": "神奈川県",
+    "place": "パシフィコ横浜 展示ホールA",
+    "address": "神奈川県横浜市西区みなとみらい1-1-1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=パシフィコ横浜 展示ホールA",
+    "image": "",
+    "description": "ペット同伴で入場できる国内最大級のペット総合イベント「Pet博」の横浜開催。ペット関連グッズの展示・販売や体験型アトラクションが3日間楽しめます。",
+    "url": "https://www.pethaku.com/yokohama/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "公式サイトの横浜会場・開催概要ページで、会期・時間・会場・入場料・ペット同伴条件を直接確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://www.pethaku.com/yokohama/"
+      }
+    ],
+    "content": "<p>国内最大級のペット総合イベント「Pet博」が、2027年もパシフィコ横浜で開催されます。わんちゃん、ねこちゃんと一緒に場内へ入場できる参加・体験型イベントです。</p><h2>日時・料金・会場</h2><p>2027年1月9日（土）〜11日（月・祝）10:00〜17:00。会場はパシフィコ横浜 展示ホールA（神奈川県横浜市西区みなとみらい1-1-1）。入場料は大人（中学生以上）1,500円（前売り1,300円）、子供（4歳〜小学生）800円（前売り700円）。身体障害者手帳などを提示した本人の入場は無料です。</p><h2>どんなイベント？</h2><p>ペット関連グッズの展示・販売コーナーのほか、ペットを飼っていない方も楽しめるアトラクションやステージイベントが多数用意されるペット総合イベントです。各日とも午前中は大変混雑すると案内されているため、分散来場への協力が呼びかけられています。</p><h2>出店店舗</h2><p>出店一覧は公式で順次公開予定です。本記事の確認時点では、公式サイトの開催概要ページに出展店舗名の一覧は掲載されていませんでした。最新の出展情報は公式サイトをご確認ください。</p><h2>犬連れで行く前に</h2><p>同伴するペットにはマナーウェアの着用がお願いされています。各種ワクチン接種、生後91日を過ぎた犬は狂犬病予防接種が必要です。リードは必ず短く持ち、人や他の動物を見て攻撃的になる恐れのある動物は入場できません。混雑時はペットを抱いて入場する場合があります。</p><h2>アクセスと雨の日</h2><p>会場は横浜市西区みなとみらい1-1-1のパシフィコ横浜です。屋内開催のため、アクセスは施設公式の案内で確認してください。</p><h2>公式情報</h2><ul><li><a href=\"https://www.pethaku.com/yokohama/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内</a></li></ul><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">神奈川県横浜市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県横浜市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県横浜市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">神奈川県横浜市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "wannyan-dome-20270213",
+    "title": "わんにゃんドーム2027",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2027-02-13",
+    "endDate": "2027-02-14",
+    "region": "chubu",
+    "prefecture": "愛知県",
+    "place": "バンテリンドーム ナゴヤ",
+    "address": "愛知県名古屋市東区大幸南一丁目1番1号",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=バンテリンドーム ナゴヤ",
+    "image": "",
+    "description": "ペット同伴で入場できる東海地区最大級のペットイベントが、3年ぶりにバンテリンドーム ナゴヤで開催。チャンピオン犬や珍しい猫、わんわん動物園など企画が満載です。",
+    "url": "https://tv-aichi.co.jp/wannyan/2027/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催・テレビ愛知の公式ページで、日程・時間・会場・主催・ペット同伴可を直接確認。",
+    "sources": [
+      {
+        "label": "主催者公式・開催案内",
+        "url": "https://tv-aichi.co.jp/wannyan/2027/"
+      }
+    ],
+    "content": "<p>ペット同伴で入場できる東海地区最大級のペットイベント「わんにゃんドーム」が、3年ぶりにバンテリンドーム ナゴヤで開催されます。</p><h2>日時・料金・会場</h2><p>2027年2月13日（土）・14日（日）10:00〜17:00（最終入場16:30、再入場可）。会場はバンテリンドーム ナゴヤ（愛知県名古屋市東区大幸南一丁目1番1号）。主催はテレビ愛知、中日新聞社、ナゴヤドームです。入場料は公式ページでご確認ください。</p><h2>どんなイベント？</h2><p>トップブリーダーのチャンピオン犬や珍しい猫、わんわん動物園など、子どもから大人まで楽しめる企画が満載のペットイベントです。</p><h2>出店店舗</h2><p>出店一覧は公式で順次公開予定です。本記事の確認時点では、公式ページに出店店舗名の一覧は掲載されていませんでした。最新の出店情報は公式ページをご確認ください。</p><h2>犬連れで行く前に</h2><p>同伴するペットには狂犬病など各種ワクチンの接種がお願いされています。会場内での事故について主催者は責任を持たない旨も案内されているため、リードの管理など愛犬の安全対策をして来場してください。</p><h2>アクセスと雨の日</h2><p>会場は名古屋市東区大幸南一丁目1番1号のバンテリンドーム ナゴヤです。屋内開催のため、アクセスは施設公式の案内で確認してください。</p><h2>公式情報</h2><ul><li><a href=\"https://tv-aichi.co.jp/wannyan/2027/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式・開催案内</a></li></ul><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">愛知県名古屋市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">愛知県名古屋市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">愛知県名古屋市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">愛知県名古屋市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "japan-wanko-expo-komazawa-20270320",
+    "title": "ジャパンわんこエキスポ in 駒沢公園",
+    "type": "event",
+    "status": "scheduled",
+    "startDate": "2027-03-20",
+    "endDate": "2027-03-22",
+    "region": "kanto",
+    "prefecture": "東京都",
+    "place": "駒沢オリンピック公園 中央広場",
+    "address": "東京都世田谷区駒沢公園1-1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=駒沢オリンピック公園 中央広場",
+    "image": "",
+    "description": "FLAFFY主催の大規模ペットフェスが駒沢オリンピック公園で開催。全国から集まるペット関連ショップのブースやドッグラン、犬種別オフ会、フォトブースなどが予定され、入場無料です。",
+    "url": "https://prtimes.jp/main/html/rd/p/000000113.000093750.html",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催者FLAFFYの公式プレスリリースで、日程・時間・会場・入場無料・想定動員を確認。",
+    "sources": [
+      {
+        "label": "主催者公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000113.000093750.html"
+      },
+      {
+        "label": "主催者公式Instagram",
+        "url": "https://www.instagram.com/flaffy.fes/"
+      }
+    ],
+    "content": "<p>株式会社FLAFFY主催の「ジャパンわんこエキスポ in 駒沢公園」が、2027年春に駒沢オリンピック公園で開催されます。前回（2026年3月）の開催では約180店舗が集結し、約7万人が来場しました。</p><h2>日時・料金・会場</h2><p>2027年3月20日（土）〜22日（月・祝）10:00〜17:00。会場は駒沢オリンピック公園 中央広場（東京都世田谷区駒沢公園1-1）。入場無料です。想定動員は3日間合計で約50,000名〜70,000名と発表されています。</p><h2>どんなイベント？</h2><p>全国から集まるペット関連ショップのブースをはじめ、ドッグランや犬種別オフ会、フォトブースなどを前回からパワーアップして展開予定です。わんちゃんのおやつや洋服を実際に手に取って選べるほか、キッチンカーも出店予定です。</p><h2>出店店舗</h2><p>出店一覧は公式で順次公開予定です。現在は出店者の募集期間中で（募集締切：2026年12月25日）、個別の店舗名はまだ発表されていません。最新情報は主催者公式Instagramをご確認ください。</p><h2>犬連れで行く前に</h2><p>想定動員が5〜7万人と大規模なイベントです。混雑に弱い子は時間帯を工夫し、最新の運営案内を公式Instagramで確認してから来場してください。</p><h2>アクセスと雨の日</h2><p>会場は東京都世田谷区駒沢公園1-1の駒沢オリンピック公園 中央広場です。雨天時の開催可否は公式Instagramの案内を確認してください。</p><h2>公式情報</h2><ul><li><a href=\"https://prtimes.jp/main/html/rd/p/000000113.000093750.html\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式発表</a></li><li><a href=\"https://www.instagram.com/flaffy.fes/\" target=\"_blank\" rel=\"noopener noreferrer\">主催者公式Instagram</a></li></ul><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">東京都世田谷区で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">東京都世田谷区で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">東京都世田谷区で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">東京都世田谷区で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "happy-inuyashiki-adoption-20261202",
+    "title": "ハッピー犬屋敷 ふれあい譲渡会",
+    "type": "adoption",
+    "status": "scheduled",
+    "startDate": "2026-12-02",
+    "endDate": "2026-12-02",
+    "region": "kanto",
+    "prefecture": "千葉県",
+    "place": "トイドッグカフェ プウホヌア",
+    "address": "千葉県市川市市川南3-3-25",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=トイドッグカフェ プウホヌア",
+    "image": "",
+    "description": "市川市のトイドッグカフェで開かれる、一般社団法人ハッピー犬屋敷の小さなふれあい譲渡会。カフェでランチをしながら保護犬たちと触れ合えます。",
+    "url": "https://inuyasiki.com/events/21603/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催団体ハッピー犬屋敷の公式イベントページで日時・会場・注意事項を確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://inuyasiki.com/events/21603/"
+      }
+    ],
+    "content": "<p>一般社団法人ハッピー犬屋敷が、市川市のトイドッグカフェ プウホヌアで開く小さなふれあい譲渡会です。カフェの通常営業の一部スペースでの開催で、ランチがてら保護犬たちに会いに行けます。</p><h2>日時・会場</h2><p>2026年12月2日（水）11:00〜15:00。会場はトイドッグカフェ プウホヌア（千葉県市川市市川南3-3-25）。カフェ営業内での開催のため、来場時はワンドリンクの注文をお願いしています。当日はハンドメイド品の販売もあります。</p><h2>どんな譲渡会？</h2><p>主催は保護犬の譲渡活動を行う一般社団法人ハッピー犬屋敷。この回には「こつぶママ教室」のわんこが参加予定です。会場では保護犬たちへの支援物資（フードやペットシート、使い古しのタオルなど）の受付も行われます。</p><h2>参加する前に</h2><p>公式案内では、申し込みの前に団体のホームページにある「里親になるには」を読むよう案内されています。当日その場で犬を連れて帰ることはできず、申し込み後は書類選考を経て、条件を満たし話が進む場合に団体から連絡が入る流れです。申し込みは会場で用紙に記入する方法と、終了後に家族で話し合ってから後日ホームページで申し込む方法のどちらでも受け付けています。愛犬同伴の場合はマナーオムツの着用が必要です。保護犬はデリケートなため、触れ合いはスタッフの指示に従ってください。未就学児も入場できますが、わんこの抱っこはできません。お問い合わせは会場のカフェではなく、ハッピー犬屋敷のお問い合わせフォームへお願いされています。</p><h2>アクセス</h2><p>会場専用の駐車場案内はなく、公式案内では近隣のコインパーキングの利用が案内されています。</p><h2>公式情報</h2><p><a href=\"https://inuyasiki.com/events/21603/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">千葉県市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">千葉県市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">千葉県市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">千葉県市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "peace-wanko-mito-adoption-20261205",
+    "title": "ピースワンコ譲渡会＠富士住建 水戸ショールーム",
+    "type": "adoption",
+    "status": "scheduled",
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-05",
+    "region": "kanto",
+    "prefecture": "茨城県",
+    "place": "富士住建 水戸ショールーム",
+    "address": "茨城県水戸市河和田2-1800-1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=富士住建 水戸ショールーム",
+    "image": "",
+    "description": "ピースワンコ・ジャパン（西東京ふれあい譲渡センター）が水戸市の富士住建ショールームで開く保護犬の譲渡会。予約不要・参加無料です。",
+    "url": "https://wanko.peace-winds.org/event/53162",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催者ピースワンコ・ジャパンの公式イベントページで日時・会場・参加条件を確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://wanko.peace-winds.org/event/53162"
+      }
+    ],
+    "content": "<p>ピースワンコ・ジャパンが、茨城県水戸市の富士住建 水戸ショールームを会場に開く保護犬の譲渡会です。ピースワンコの活動に共感する富士住建との共催で、西東京ふれあい譲渡センターのワンコたちが水戸にやって来ます。</p><h2>日時・会場</h2><p>2026年12月5日（土）11:00〜13:00。会場は富士住建 水戸ショールーム（茨城県水戸市河和田2-1800-1）。屋内開催のため雨天でも開催され、正面入口から入場します。</p><h2>どんな譲渡会？</h2><p>主催は「殺処分ゼロ」を掲げるピースワンコ・ジャパン（担当は西東京ふれあい譲渡センター）。参加予定のワンコは決定次第、公式ページでお知らせされるとのことです。保護犬を迎えたい方はもちろん、保護犬について知りたい方や会ってみたい方も歓迎されています。</p><h2>参加する前に</h2><p>公式案内では予約不要・参加無料と明記されています。当日の譲渡は行われていないため、その場で犬を連れて帰ることはできません。譲渡を希望する場合は、公式サイトの里親募集ページや里親希望者事前アンケートも案内されていますので、あわせてご確認ください。</p><h2>アクセス</h2><p>会場の駐車場を利用できるため、車での来場も可能です。詳しいアクセスは公式ページでご確認ください。</p><h2>公式情報</h2><p><a href=\"https://wanko.peace-winds.org/event/53162\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">茨城県水戸市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E6%B0%B4%E6%88%B8%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">茨城県水戸市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E6%B0%B4%E6%88%B8%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">茨城県水戸市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E6%B0%B4%E6%88%B8%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">茨城県水戸市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "anifare-kitakyushu-adoption-20261205",
+    "title": "anifare 保護犬譲渡会（THE OUTLETS KITAKYUSHU）",
+    "type": "adoption",
+    "status": "scheduled",
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-06",
+    "region": "kyushu",
+    "prefecture": "福岡県",
+    "place": "THE OUTLETS KITAKYUSHU",
+    "address": "福岡県北九州市八幡東区東田4-1-1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=THE OUTLETS KITAKYUSHU",
+    "image": "",
+    "description": "保護犬に医療ケアを行い家族につなぐanifare（アニフェア）が、北九州市のアウトレットモールで開く保護犬譲渡会。約25〜30頭の保護犬が参加予定です。",
+    "url": "https://anifare.jp/notice/702933/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "anifare公式の2026年12月イベント譲渡会情報ページで日程・会場・時間を確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://anifare.jp/notice/702933/"
+      }
+    ],
+    "content": "<p>保護犬に医療と家族を届ける活動を行うanifare（アニフェア）が、全国の商業施設で開いているイベント譲渡会の北九州会場です。アウトレットでの買い物のついでに、保護犬たちと実際に触れ合いながら家族に迎える検討ができます。</p><h2>日時・会場</h2><p>2026年12月5日（土）〜12月6日（日）11:00〜18:00。会場はTHE OUTLETS KITAKYUSHU（福岡県北九州市八幡東区東田4-1-1）の1946区画です。</p><h2>どんな譲渡会？</h2><p>主催はanifare。公式案内では、各会場に約25頭〜30頭前後の保護犬が参加するとされています。初めて保護犬に触れる方も多く参加しているそうです。イベント予定は予告なく変更となる場合があるため、来場前に公式ページで最新情報をご確認ください。</p><h2>参加する前に</h2><p>公式案内では、予約なしでも来場できますが、事前に予約すると当日の案内がスムーズになるとされています。譲渡の条件や当日の流れの詳細は公式でご確認ください。</p><h2>アクセス</h2><p>会場は北九州市八幡東区のアウトレットモール内です。詳しいアクセスは公式ページおよび施設の案内でご確認ください。</p><h2>公式情報</h2><p><a href=\"https://anifare.jp/notice/702933/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">福岡県北九州市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">福岡県北九州市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">福岡県北九州市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">福岡県北九州市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "chibawan-hachioji-adoption-20261206",
+    "title": "ちばわん 第609回 八王子プチいぬ親会",
+    "type": "adoption",
+    "status": "scheduled",
+    "startDate": "2026-12-06",
+    "endDate": "2026-12-06",
+    "region": "kanto",
+    "prefecture": "東京都",
+    "place": "たまとポチ ドッグラン",
+    "address": "東京都八王子市宇津木町815-3",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=たまとポチ ドッグラン",
+    "image": "",
+    "description": "保護団体ちばわんが八王子市のドッグランで開く保護犬の譲渡会「いぬ親会」。予約不要・入場無料で、見学だけでも参加できます。",
+    "url": "https://chibawan.net/event/20261206hachiouji-dog/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催団体ちばわんの公式イベントページで日時・会場・譲渡の流れを確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://chibawan.net/event/20261206hachiouji-dog/"
+      }
+    ],
+    "content": "<p>保護団体ちばわんが、ペット用品店「たまとポチ」のドッグランを借りて開く保護犬の譲渡会「八王子プチいぬ親会」です。預かり家庭で暮らす保護犬たちが、新しい家族との出会いを求めて参加します。</p><h2>日時・会場</h2><p>2026年12月6日（日）12:00〜15:00。会場はたまとポチ ドッグラン（東京都八王子市宇津木町815-3）。天候等により中止になる場合があり、開催の有無は当日午前8時までに公式ページと公式Xで知らされます。天気によっては早めに終了する場合もあります。</p><h2>どんな譲渡会？</h2><p>家族募集中の犬は黄色いバンダナが目印で、緑のテントに集まります。付き添いの預かりボランティアに、犬の性格や生活習慣を直接聞くことができます。ネット募集も並行しているため、参加予定の犬が当日までに変更・取消になる場合があり、最新の参加犬一覧は公式ページで確認するよう案内されています。会場ではちばわんのチャリティグッズ販売も行われます。</p><h2>参加する前に</h2><p>予約不要・入場無料で、見学だけでも参加できます。希望の犬が決まったら会場でアンケートに記入し、団体で検討のうえ3日以内に結果の連絡があります。当日犬を連れて帰ることはできず、ご縁が成立した場合は後日自宅まで犬が届けられ、約1か月のお試し生活が始まります。譲渡には室内飼育などの条件があり、ワクチン・不妊去勢手術代など保護にかかった費用の一部負担も案内されています。臆病な犬や子どもが苦手な犬も参加するため、いきなり犬に触らず、まずボランティアに声をかけてください。同伴する愛犬は一般的なリードを付け、伸縮リード・ロングリードでの入場はできません。</p><h2>アクセス</h2><p>車の場合は中央自動車道・八王子インター第2出口から約1km。会場北側に隣接する「メディカルフラット宇津木駐車場」（25台）が案内されています。バスの場合は西東京バスの宇津木バス停から徒歩10分、宇津木台バス停から徒歩12分です。店舗への問い合わせはお断りとされているため、質問はちばわんの八王子会場お問い合わせフォームへお願いします。</p><h2>公式情報</h2><p><a href=\"https://chibawan.net/event/20261206hachiouji-dog/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">東京都八王子市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">東京都八王子市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">東京都八王子市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">東京都八王子市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "anifare-hamamatsu-adoption-20261212",
+    "title": "anifare 保護犬譲渡会（イオンモール浜松志都呂）",
+    "type": "adoption",
+    "status": "scheduled",
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-13",
+    "region": "chubu",
+    "prefecture": "静岡県",
+    "place": "イオンモール浜松志都呂 2F イオンホール",
+    "address": "静岡県浜松市中央区志都呂2丁目37-1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=イオンモール浜松志都呂",
+    "image": "",
+    "description": "anifare（アニフェア）がイオンモール浜松志都呂で開く保護犬譲渡会。各会場約25〜30頭の保護犬が参加し、予約なしでも来場できます。",
+    "url": "https://anifare.jp/notice/702933/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "anifare公式の2026年12月イベント譲渡会情報ページで日程・会場・時間を確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://anifare.jp/notice/702933/"
+      }
+    ],
+    "content": "<p>保護犬に医療と家族を届ける活動を行うanifare（アニフェア）が、全国の商業施設で開いているイベント譲渡会の浜松会場です。実際に保護犬と触れ合いながら、家族として迎え入れる検討ができる機会です。</p><h2>日時・会場</h2><p>2026年12月12日（土）〜12月13日（日）12:00〜17:00。会場はイオンモール浜松志都呂（静岡県浜松市中央区志都呂2丁目37-1）の2F イオンホールです。</p><h2>どんな譲渡会？</h2><p>主催はanifare。公式案内では、各会場に約25頭〜30頭前後の保護犬が参加するとされています。初めて保護犬に触れる方も多く参加しているそうです。イベント予定は予告なく変更となる場合があるため、来場前に公式ページで最新情報をご確認ください。</p><h2>参加する前に</h2><p>公式案内では、予約なしでも来場できますが、事前に予約すると当日の案内がスムーズになるとされています。譲渡の条件や当日の流れの詳細は公式でご確認ください。</p><h2>アクセス</h2><p>会場は浜松市中央区のイオンモール内です。詳しいアクセスは公式ページおよび施設の案内でご確認ください。</p><h2>公式情報</h2><p><a href=\"https://anifare.jp/notice/702933/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">静岡県浜松市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E6%B5%9C%E6%9D%BE%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">静岡県浜松市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E6%B5%9C%E6%9D%BE%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">静岡県浜松市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E6%B5%9C%E6%9D%BE%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">静岡県浜松市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "hiroshima-apc-adoption-20261205",
+    "title": "広島県動物愛護センター 犬の譲渡会（12月・毎週土曜開催）",
+    "type": "adoption",
+    "status": "scheduled",
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-26",
+    "region": "chugoku",
+    "prefecture": "広島県",
+    "place": "広島県動物愛護センター",
+    "address": "広島県三原市 広島県動物愛護センター",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=広島県動物愛護センター",
+    "image": "",
+    "description": "広島県動物愛護センターで12月の毎週土曜日に開かれる犬の譲渡会。見学は自由で、譲渡には譲渡前講習会の受講などが条件です。",
+    "url": "https://www.pref.hiroshima.lg.jp/site/apc/contents-sincenterinunekonojouto.html",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "広島県公式サイトの動物愛護センターページで開催日・時間・譲渡条件を確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://www.pref.hiroshima.lg.jp/site/apc/contents-sincenterinunekonojouto.html"
+      }
+    ],
+    "content": "<p>広島県動物愛護センターが開く犬の譲渡会です。2026年12月は毎週土曜日に開催され、センターに収容されている犬たちと出会えます。猫の譲渡会も同時開催されます。</p><h2>日時・会場</h2><p>2026年12月5日・12日・19日・26日の各土曜日、10:00〜12:00／13:00〜15:30。会場は広島県動物愛護センター（三原市）のアイディオー譲渡犬（猫）展示室です。</p><h2>どんな譲渡会？</h2><p>主催は広島県動物愛護センター。見学は自由にできます。譲渡を希望する場合は、センターが定める条件を満たしたうえで手続きを進める形です。</p><h2>参加する前に</h2><p>公式案内では、譲渡の条件として「譲渡対象者基準（誓約事項）を満たすこと」と「譲渡前講習会の受講」が案内されています。講習会の受講方法や当日の受付など、詳しい条件は公式ページでご確認ください。</p><h2>アクセス</h2><p>会場は広島県三原市の広島県動物愛護センターです。詳しい住所やアクセスは公式ページでご確認ください。</p><h2>公式情報</h2><p><a href=\"https://www.pref.hiroshima.lg.jp/site/apc/contents-sincenterinunekonojouto.html\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">広島県三原市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E4%B8%89%E5%8E%9F%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">広島県三原市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E4%B8%89%E5%8E%9F%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">広島県三原市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E4%B8%89%E5%8E%9F%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">広島県三原市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "kumamoto-city-adoption-20261213",
+    "title": "熊本市動物愛護センター 犬の見学会・譲渡前講習会",
+    "type": "adoption",
+    "status": "scheduled",
+    "startDate": "2026-12-13",
+    "endDate": "2026-12-13",
+    "region": "kyushu",
+    "prefecture": "熊本県",
+    "place": "熊本市動物愛護センター",
+    "address": "熊本県熊本市東区小山2丁目11-1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=熊本市動物愛護センター",
+    "image": "",
+    "description": "熊本市動物愛護センターで開かれる犬の見学会と譲渡前講習会。犬は当日譲渡不可で、後日の譲渡を希望する場合は講習会の受講が必要です。",
+    "url": "https://www.city.kumamoto.jp/doubutuaigo/kiji00373779/index.html",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "熊本市公式サイトの動物愛護センターページで日程・時間・譲渡の仕組みを確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://www.city.kumamoto.jp/doubutuaigo/kiji00373779/index.html"
+      }
+    ],
+    "content": "<p>熊本市動物愛護センターが開く「犬の見学会」と「犬の譲渡前講習会」です。収容頭数が増えている成犬たちに新しい家族との出会いをつくるための開催で、同日には猫の譲渡会も別時間で行われます。</p><h2>日時・会場</h2><p>2026年12月13日（日）。犬の見学会は9:30〜10:30、犬の譲渡前講習会は10:30〜11:00。会場は熊本市動物愛護センター（熊本市東区小山2丁目11-1）。収容動物の健康状態や悪天候・地震などの緊急事態で急遽中止となることがあり、その場合はホームページで知らされます。</p><h2>どんな譲渡会？</h2><p>主催は熊本市動物愛護センター。この日は譲渡会ではなく、収容中の犬たちを見学し、譲渡の流れを学ぶ見学会＋講習会の形式です。センターに収容されている犬の情報は、公式サイトの譲渡犬ページでも公開されています（すでに譲渡済みの場合もあります）。なお、平日も予約制で譲渡を行っており、平日の方がゆっくり見学できるそうです。</p><h2>参加する前に</h2><p>公式案内では、犬については12月13日当日の譲渡はできないと明記されています。後日の譲渡を希望する場合は、この譲渡前講習会の受講が必要です。譲渡の可否は、過去の飼育状況や迎え入れる家族の現在の環境・状況を聞いたうえで判断され、譲渡には条件があります。詳しい譲渡条件は公式ページの「譲渡の基準」でご確認ください。</p><h2>アクセス</h2><p>会場は熊本市東区小山2丁目11-1の熊本市動物愛護センターです。詳しいアクセスは公式ページでご確認ください。</p><h2>公式情報</h2><p><a href=\"https://www.city.kumamoto.jp/doubutuaigo/kiji00373779/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">熊本県熊本市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">熊本県熊本市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">熊本県熊本市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">熊本県熊本市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "anifare-takasaki-adoption-20261226",
+    "title": "anifare 保護犬譲渡会（イオンモール高崎）",
+    "type": "adoption",
+    "status": "scheduled",
+    "startDate": "2026-12-26",
+    "endDate": "2026-12-28",
+    "region": "kanto",
+    "prefecture": "群馬県",
+    "place": "イオンモール高崎 1F イーストコート",
+    "address": "群馬県高崎市棟高町1400番地",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=イオンモール高崎",
+    "image": "",
+    "description": "anifare（アニフェア）がイオンモール高崎で年末に開く保護犬譲渡会。各会場約25〜30頭の保護犬が参加予定です。",
+    "url": "https://anifare.jp/notice/702933/",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "anifare公式の2026年12月イベント譲渡会情報ページで日程・会場・時間を確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://anifare.jp/notice/702933/"
+      }
+    ],
+    "content": "<p>保護犬に医療と家族を届ける活動を行うanifare（アニフェア）が、全国の商業施設で開いているイベント譲渡会の高崎会場です。年末の3日間開催で、保護犬たちと実際に触れ合いながら家族に迎える検討ができます。</p><h2>日時・会場</h2><p>2026年12月26日（土）〜12月28日（月）11:00〜18:00。会場はイオンモール高崎（群馬県高崎市棟高町1400番地）の1F イーストコートです。</p><h2>どんな譲渡会？</h2><p>主催はanifare。公式案内では、各会場に約25頭〜30頭前後の保護犬が参加するとされています。初めて保護犬に触れる方も多く参加しているそうです。イベント予定は予告なく変更となる場合があるため、来場前に公式ページで最新情報をご確認ください。</p><h2>参加する前に</h2><p>公式案内では、予約なしでも来場できますが、事前に予約すると当日の案内がスムーズになるとされています。譲渡の条件や当日の流れの詳細は公式でご確認ください。</p><h2>アクセス</h2><p>会場は高崎市のイオンモール内です。詳しいアクセスは公式ページおよび施設の案内でご確認ください。</p><h2>公式情報</h2><p><a href=\"https://anifare.jp/notice/702933/\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">群馬県高崎市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E9%AB%98%E5%B4%8E%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">群馬県高崎市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E9%AB%98%E5%B4%8E%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">群馬県高崎市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E9%AB%98%E5%B4%8E%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">群馬県高崎市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "hapimaru-matsuyama-adoption-20270124",
+    "title": "はぴまるの丘 保護犬・保護猫の譲渡会",
+    "type": "adoption",
+    "status": "scheduled",
+    "startDate": "2027-01-24",
+    "endDate": "2027-01-24",
+    "region": "shikoku",
+    "prefecture": "愛媛県",
+    "place": "はぴまるの丘（松山総合公園内）",
+    "address": "愛媛県松山市朝日ヶ丘1丁目 松山総合公園内",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=はぴまるの丘",
+    "image": "",
+    "description": "松山総合公園内の「はぴまるの丘」で、動物愛護団体と松山市が共催する保護犬・保護猫の譲渡会。月2回ペースで定期開催されています。",
+    "url": "http://www.city.matsuyama.ehime.jp/bosyu/zyoutokai.html",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "松山市公式サイトで開催日程・時間・会場を確認（同ページは併催イベントの案内を含む）。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "http://www.city.matsuyama.ehime.jp/bosyu/zyoutokai.html"
+      }
+    ],
+    "content": "<p>松山総合公園内の動物愛護拠点「はぴまるの丘」で開かれる、保護犬・保護猫の譲渡会です。はぴまるの丘サポーターの動物愛護団体と松山市の共催で、動物愛護の普及啓発イベントとして定期開催されています。</p><h2>日時・会場</h2><p>2027年1月24日（日）11:00〜15:00。会場ははぴまるの丘（松山市朝日ヶ丘1丁目、松山総合公園内）。同シリーズは2026年12月13日・27日、2027年2月14日・28日にも同じ時間で開催されます。当日はキッチンカーの出店も予定されています。</p><h2>どんな譲渡会？</h2><p>共催は、はぴまるの丘サポーターである動物愛護団体と松山市（はぴまるの丘は松山市動物愛護センターを兼ねています）。保護犬だけでなく保護猫も参加する譲渡会です。参加する犬猫の頭数や顔ぶれは公式ページでは公表されていないため、当日の案内をご確認ください。</p><h2>参加する前に</h2><p>来場の予約要否や譲渡条件は、確認した松山市公式ページには来場者向けの詳しい記載がありませんでした。参加前に公式ページや、はぴまるの丘（松山市動物愛護センター）へのお問い合わせでご確認ください。</p><h2>アクセス</h2><p>会場は松山総合公園内のはぴまるの丘（松山市朝日ヶ丘1丁目）です。詳しいアクセスは公式ページでご確認ください。</p><h2>公式情報</h2><p><a href=\"http://www.city.matsuyama.ehime.jp/bosyu/zyoutokai.html\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">愛媛県松山市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%84%9B%E5%AA%9B%E7%9C%8C%E6%9D%BE%E5%B1%B1%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">愛媛県松山市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%84%9B%E5%AA%9B%E7%9C%8C%E6%9D%BE%E5%B1%B1%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">愛媛県松山市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%84%9B%E5%AA%9B%E7%9C%8C%E6%9D%BE%E5%B1%B1%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">愛媛県松山市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "inudasuke-shibamata-adoption-20270214",
+    "title": "いぬ助け 保護犬譲渡会（柴又公園）",
+    "type": "adoption",
+    "status": "scheduled",
+    "startDate": "2027-02-14",
+    "endDate": "2027-02-14",
+    "region": "kanto",
+    "prefecture": "東京都",
+    "place": "柴又公園駐車広場",
+    "address": "東京都葛飾区 柴又公園駐車広場",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=柴又公園駐車広場",
+    "image": "",
+    "description": "保護団体いぬ助けが葛飾区の柴又公園駐車広場で開く定例の保護犬譲渡会。毎月第2日曜日に葛飾区や近隣で開催されています。",
+    "url": "https://www.inudasuke.com/譲渡会開催予定",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催団体いぬ助け公式サイトの譲渡会開催予定ページで日程・会場を確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://www.inudasuke.com/譲渡会開催予定"
+      }
+    ],
+    "content": "<p>保護団体いぬ助けが開く保護犬の定例譲渡会です。毎月第2日曜日に、東京都葛飾区の公園や近隣の区で開催されており、この回は柴又公園駐車広場が会場です。</p><h2>日時・会場</h2><p>2027年2月14日（日）。会場は柴又公園駐車広場（東京都葛飾区）。同会場では2026年12月13日、2027年1月10日・3月14日にも開催予定です。開催時間は公式の予定ページに記載が見当たらなかったため、公式サイトでご確認ください。会場は変更になる場合があるとも案内されています。</p><h2>どんな譲渡会？</h2><p>主催はいぬ助け。葛飾区を拠点に長く続いている定例の譲渡会で、保護犬たちが新しい家族との出会いを待っています。参加予定の犬の情報は公式サイトでご確認ください。</p><h2>参加する前に</h2><p>予約の要否や譲渡条件は、公式の開催予定ページには詳しい記載が見当たりませんでした。参加前にいぬ助け公式サイトでご確認ください。</p><h2>アクセス</h2><p>会場は葛飾区の柴又公園駐車広場です。詳しいアクセスは公式サイトでご確認ください。</p><h2>公式情報</h2><p><a href=\"https://www.inudasuke.com/譲渡会開催予定\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">東京都葛飾区で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">東京都葛飾区で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">東京都葛飾区で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">東京都葛飾区で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "shiga-apc-adoption-20270314",
+    "title": "滋賀県動物保護管理センター ボランティアによる譲渡会（犬）",
+    "type": "adoption",
+    "status": "scheduled",
+    "startDate": "2027-03-14",
+    "endDate": "2027-03-14",
+    "region": "kansai",
+    "prefecture": "滋賀県",
+    "place": "滋賀県動物保護管理センター 友遊館内 図書コーナー前",
+    "address": "滋賀県 滋賀県動物保護管理センター",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=滋賀県動物保護管理センター",
+    "image": "",
+    "description": "滋賀県動物保護管理センターで、県事業協力ボランティアが開く譲渡会。この日は犬の回で、飼い方講習会と同時開催されます。",
+    "url": "https://www.pref.shiga.lg.jp/el31/34065.html",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "滋賀県公式サイトで開催日・時間・会場・対象（犬の回）を確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://www.pref.shiga.lg.jp/el31/34065.html"
+      }
+    ],
+    "content": "<p>滋賀県動物保護管理センターで開かれる、ボランティアによる譲渡会です。滋賀県動物保護管理協会の飼い方講習会が開かれる第2日曜日にあわせて、日頃から県の事業に協力しているボランティアが同時開催しています。</p><h2>日時・会場</h2><p>2027年3月14日（日）11:00〜15:00。会場は滋賀県動物保護管理センターの友遊館内、図書コーナー前です。</p><h2>どんな譲渡会？</h2><p>このシリーズは犬の回と猫の回が分かれており、2026年12月13日と2027年2月14日は猫の回、犬の回は2027年3月14日のみです。犬との出会いを求める方はこの日が対象です。当日は滋賀県動物保護管理協会の飼い方講習会も同時開催されます。</p><h2>参加する前に</h2><p>予約の要否や譲渡条件の詳細は、確認した滋賀県公式ページには記載が見当たりませんでした。参加前に公式ページでご確認ください。</p><h2>アクセス</h2><p>会場は滋賀県動物保護管理センターです。詳しい住所やアクセスは公式ページでご確認ください。</p><h2>公式情報</h2><p><a href=\"https://www.pref.shiga.lg.jp/el31/34065.html\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">滋賀県で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">滋賀県で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">滋賀県で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E6%BB%8B%E8%B3%80%E7%9C%8C%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">滋賀県で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
+  },
+  {
+    "id": "aguri-misato-adoption-20270321",
+    "title": "アグリドッグレスキュー 譲渡会（ペットステーションWAN）",
+    "type": "adoption",
+    "status": "scheduled",
+    "startDate": "2027-03-21",
+    "endDate": "2027-03-21",
+    "region": "kanto",
+    "prefecture": "埼玉県",
+    "place": "ペットステーションWAN 室内ドッグラン",
+    "address": "埼玉県三郷市三郷2-11-15",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=ペットステーションWAN",
+    "image": "",
+    "description": "アグリドッグレスキューが三郷市の室内ドッグランで開く保護犬の譲渡会。同会場で定期開催されており、子犬からシニアまで幅広い保護犬が参加します。",
+    "url": "https://ameblo.jp/aguriinuneko/entry-12982685136.html",
+    "editorialCheckedAt": "2026-11-20",
+    "verificationNote": "主催団体アグリドッグレスキューの公式ブログで今後の開催予定（同会場・日程）と参加の流れを確認。",
+    "sources": [
+      {
+        "label": "公式開催案内",
+        "url": "https://ameblo.jp/aguriinuneko/entry-12982685136.html"
+      }
+    ],
+    "content": "<p>保護団体アグリドッグレスキューが、埼玉県三郷市のペットステーションWAN室内ドッグランで定期開催している保護犬の譲渡会です。元気な子犬から落ち着いたシニアまで、幅広い保護犬たちが温かい家族を探しています。</p><h2>日時・会場</h2><p>2027年3月21日（日）。会場はペットステーションWAN 室内ドッグラン（埼玉県三郷市三郷2-11-15）。同会場では2026年12月20日、2027年1月17日・2月21日にも開催予定です。この回の開催時間などの詳細は決定次第、団体の公式ブログで告知されるとのことです。室内開催のため、過去の同会場開催は雨天決行でした。</p><h2>どんな譲渡会？</h2><p>主催はアグリドッグレスキュー。参加犬は開催が近づくと公式ブログで発表されます（体調不良などで欠席になる場合があるため、当日の確認が案内されています）。過去の同会場開催では、売上が医療費に寄付されるドッグマッサージなどの併催もありました。</p><h2>参加する前に</h2><p>公式ブログでは、希望の犬がいる場合は団体の「譲渡条件」を読んだうえで、事前に犬のアンケートフォームを送ると当日の話がスムーズに進み、アンケートを送った方が優先されると案内されています。この回の詳しい参加条件は、詳細告知を公式ブログでご確認ください。来場する愛犬にはマナーベルトの着用がお願いされています。お問い合わせは会場の店舗ではなくアグリドッグレスキューへお願いされています。</p><h2>アクセス</h2><p>電車の場合はJR武蔵野線・三郷駅南口から徒歩3分。車の場合は東京外環道・三郷西ICから約15分、常磐道・三郷ICから約10分です。駐車場は近隣のコインパーキングの利用が案内されています。</p><h2>公式情報</h2><p><a href=\"https://ameblo.jp/aguriinuneko/entry-12982685136.html\" target=\"_blank\" rel=\"noopener noreferrer\">公式開催案内</a></p><p class=\"event-source-date\">情報確認：2026年11月20日。最新の開催状況は公式情報をご確認ください。</p>\n<!-- event-nearby:start --><section class=\"event-nearby\" id=\"nearby\" aria-labelledby=\"nearby-title\"><p class=\"event-nearby-label\">イベントの前後に、もうひと休み。</p><h2 id=\"nearby-title\">埼玉県三郷市で、犬と寄り道</h2><p>会場周辺で犬と立ち寄れる場所は、店舗・施設の公式案内で同伴条件を確認してから向かいましょう。</p><nav class=\"event-nearby-nav\" aria-label=\"寄り道案内\"><a href=\"#nearby-cafe\">カフェ</a><a href=\"#nearby-park\">公園・休憩</a><a href=\"#nearby-stay\">宿泊</a></nav><div class=\"event-nearby-card\" id=\"nearby-cafe\" data-nearby-kind=\"cafe\" data-nearby-status=\"search\"><h3><span>01</span>カフェ・食事</h3><h4>カフェの候補を探す</h4><p>この会場の近くで、犬同伴の条件まで確認した飲食店はまだ掲載していません。地図で候補を探し、店内かテラスか・犬の体格や頭数・ラストオーダーを店舗へ確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E4%B8%89%E9%83%B7%E5%B8%82%20%E7%8A%AC%E5%90%8C%E4%BC%B4%20%E3%82%AB%E3%83%95%E3%82%A7\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県三郷市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-park\" data-nearby-kind=\"park\" data-nearby-status=\"search\"><h3><span>02</span>公園・散歩・休憩</h3><h4>散歩・休憩場所の候補を探す</h4><p>この会場の近くで、犬と使える範囲まで確認した公園はまだ掲載していません。地図の表示だけで同伴可とは判断せず、管理者の案内で立入範囲・リード・閉園時刻を確認してください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E4%B8%89%E9%83%B7%E5%B8%82%20%E5%85%AC%E5%9C%92%20%E7%8A%AC%20%E6%95%A3%E6%AD%A9\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県三郷市で地図検索 ↗</a></div><div class=\"event-nearby-card\" id=\"nearby-stay\" data-nearby-kind=\"stay\" data-nearby-status=\"search\"><h3><span>03</span>犬と泊まる</h3><h4>このエリアの犬同伴宿を探す</h4><p>この会場の近くで、犬同伴条件まで確認した宿はまだ掲載していません。「ペットホテル」は犬だけを預ける施設の場合もあるため、飼い主と同室で泊まれる宿泊施設を選んでください。</p><a href=\"https://www.google.com/maps/search/?api=1&amp;query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E4%B8%89%E9%83%B7%E5%B8%82%20%E7%8A%AC%E3%81%A8%E6%B3%8A%E3%81%BE%E3%82%8C%E3%82%8B%E5%AE%BF\" target=\"_blank\" rel=\"noopener noreferrer\">埼玉県三郷市で地図検索 ↗</a><p><a href=\"https://travel.rakuten.co.jp/pet/\" target=\"_blank\" rel=\"noopener noreferrer\">楽天トラベルのペットと泊まれる宿特集を見る ↗</a><br><small>宿探し用の通常リンクです。空室・犬同伴を保証するものではありません。</small></p></div><p class=\"event-nearby-footnote\">候補は公式案内をもとに編集しています。未確認の項目は検索の入口として区別しています。地図の経路・所要時間、当日の営業や犬の受入れは出発前に確認を。</p><p><a href=\"outing.html\">OUTINGで犬とのお出かけ先をもっと見る →</a></p></section><!-- event-nearby:end -->"
   }
 ];
