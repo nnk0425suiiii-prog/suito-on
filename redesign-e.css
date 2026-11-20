@@ -1,0 +1,237 @@
+/* ============================================================
+   すいとおん。 redesign E — scrapbook / collage layer (top page)
+   yoma.inc-inspired: paper pieces, tape, serif EN headings,
+   handwritten notes, bottom nav on mobile.
+   Loaded last on index.html only.
+   ============================================================ */
+
+.home-page {
+  --e-paper: #fffdf8;
+  --e-bg: #f6f1e6;
+  --e-ink: #292929;
+  --e-orange: #e47a4e;
+  --e-blue: #62a8bd;
+  --e-navy: #2f3a56;
+  --e-tape: rgba(243, 217, 164, 0.75);
+  --e-serif: "Zen Old Mincho", "Hiragino Mincho ProN", serif;
+  --e-hand: "Yomogi", "Hiragino Maru Gothic ProN", sans-serif;
+}
+
+body.home-page {
+  background-color: var(--e-bg);
+  background-image: radial-gradient(rgba(41, 41, 41, 0.055) 1px, transparent 1.4px);
+  background-size: 22px 22px;
+  overflow-x: clip;
+}
+
+/* ---------- serif English kickers & headings ---------- */
+.home-page .home-welcome-label,
+.home-page .home-instagram-kicker,
+.home-page .home-ref-en,
+.home-page .home-popular-heading p,
+.home-page .home-ref-number {
+  font-family: var(--e-serif);
+  letter-spacing: 0.14em;
+}
+
+.home-page .home-ref-column h2,
+.home-page .home-ref-story h2,
+.home-page .home-popular-heading h2 {
+  font-family: var(--e-serif);
+  font-weight: 700;
+}
+
+/* ---------- welcome: scrapbook title area ---------- */
+.home-page .home-welcome {
+  position: relative;
+}
+
+.home-page .home-welcome h1 {
+  font-family: var(--e-serif);
+  font-weight: 700;
+}
+
+/* sticky note linking to EVENT */
+.home-page .e-note {
+  position: absolute;
+  right: 4%;
+  top: 10px;
+  width: 168px;
+  padding: 26px 14px 14px;
+  background: #fdf0a6;
+  color: var(--e-ink);
+  font-family: var(--e-hand);
+  font-size: 15px;
+  line-height: 1.7;
+  text-decoration: none;
+  transform: rotate(3deg);
+  box-shadow: 0 6px 14px rgba(71, 60, 35, 0.16);
+  z-index: 3;
+}
+
+.home-page .e-note::before {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  width: 76px;
+  height: 22px;
+  transform: translateX(-50%) rotate(-2deg);
+  background: var(--e-tape);
+  box-shadow: 0 1px 2px rgba(71, 60, 35, 0.12);
+}
+
+.home-page .e-note b {
+  color: var(--e-orange);
+  font-weight: 400;
+}
+
+@media (max-width: 768px) {
+  .home-page .e-note {
+    position: relative;
+    right: auto;
+    top: auto;
+    display: block;
+    margin: 18px auto 0;
+    transform: rotate(-2deg);
+  }
+}
+
+/* ---------- hero: taped photos / polaroid ---------- */
+.home-page .home-instagram-latest {
+  background: var(--e-paper);
+  transform: rotate(-1.3deg);
+  box-shadow: 0 10px 24px rgba(71, 60, 35, 0.14);
+}
+
+.home-page .home-hero-photo-main {
+  background: #ffffff;
+  padding: 10px 10px 30px;
+  transform: rotate(1.1deg);
+  box-shadow: 0 12px 26px rgba(71, 60, 35, 0.16);
+  position: relative;
+}
+
+.home-page .home-hero-photo-main::before {
+  content: "";
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  width: 110px;
+  height: 26px;
+  transform: translateX(-50%) rotate(-2deg);
+  background: var(--e-tape);
+  box-shadow: 0 1px 2px rgba(71, 60, 35, 0.12);
+  z-index: 2;
+}
+
+/* ---------- paper cards with a scrapbook tilt ---------- */
+.home-page .blog-card,
+.home-page .home-guide-card,
+.home-page .home-item-card,
+.home-page .home-comic-card,
+.home-page #homeEventList.home-ref-event-list .home-event-card,
+.home-page .home-ranking-item {
+  background: var(--e-paper);
+  border: 1px solid #eadfc9;
+  border-radius: 4px;
+  box-shadow: 0 5px 14px rgba(71, 60, 35, 0.10);
+}
+
+.home-page #homeBlogList .blog-card:nth-child(2n),
+.home-page #homeGuideList .home-guide-card:nth-child(2n),
+.home-page #homeItemsList .home-item-card:nth-child(2n),
+.home-page #homeEventList .home-event-card:nth-child(2n) {
+  transform: rotate(0.5deg);
+}
+
+.home-page #homeBlogList .blog-card:nth-child(3n),
+.home-page #homeGuideList .home-guide-card:nth-child(3n),
+.home-page #homeItemsList .home-item-card:nth-child(3n),
+.home-page #homeEventList .home-event-card:nth-child(3n) {
+  transform: rotate(-0.5deg);
+}
+
+.home-page .blog-card:hover,
+.home-page .home-guide-card:hover,
+.home-page .home-item-card:hover,
+.home-page #homeEventList .home-event-card:hover {
+  transform: rotate(0deg);
+}
+
+/* tape on event cards */
+.home-page #homeEventList .home-event-card {
+  position: relative;
+}
+
+.home-page #homeEventList .home-event-card::before {
+  content: "";
+  position: absolute;
+  top: -9px;
+  left: 22px;
+  width: 64px;
+  height: 18px;
+  transform: rotate(-3deg);
+  background: var(--e-tape);
+  box-shadow: 0 1px 2px rgba(71, 60, 35, 0.10);
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* event date as a navy paper tag */
+.home-page .home-event-date {
+  font-family: var(--e-serif);
+  color: var(--e-navy);
+}
+
+/* ---------- category nav: paper tags ---------- */
+.home-page .home-category-nav a {
+  background: var(--e-paper);
+  border: 1px solid #eadfc9;
+  box-shadow: 0 3px 8px rgba(71, 60, 35, 0.08);
+}
+
+.home-page .home-category-nav a:nth-child(2n) { transform: rotate(0.8deg); }
+.home-page .home-category-nav a:nth-child(3n) { transform: rotate(-0.8deg); }
+
+/* ---------- section numbers: big serif numerals ---------- */
+.home-page .home-ref-number {
+  color: var(--e-orange);
+  opacity: 0.9;
+}
+
+/* ---------- bottom nav (mobile, yoma-style fixed bar) ---------- */
+.home-page .e-bottom-nav {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .home-page .e-bottom-nav {
+    display: flex;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 60;
+    background: rgba(255, 253, 248, 0.97);
+    border-top: 1.5px solid var(--e-ink);
+    padding: 10px 6px calc(10px + env(safe-area-inset-bottom));
+    justify-content: space-around;
+  }
+
+  .home-page .e-bottom-nav a {
+    font-family: var(--e-serif);
+    font-size: 13px;
+    letter-spacing: 0.12em;
+    color: var(--e-ink);
+    text-decoration: none;
+  }
+
+  .home-page .e-bottom-nav a.e-bottom-nav-event {
+    color: var(--e-orange);
+  }
+
+  body.home-page {
+    padding-bottom: 54px;
+  }
+}
