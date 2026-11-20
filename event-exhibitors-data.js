@@ -1,6 +1,6 @@
 /* 開催回ごとの公式確認情報。未確認を出展なしと扱わない。 */
 const eventExhibitorsData = {
-  "checkedAt": "2026-11-14",
+  "checkedAt": "2026-11-20",
   "brands": {
     "b-9ee6e734c257": {
       "name": "GALAXY GLAMPING DOG",
@@ -16811,6 +16811,3772 @@ const eventExhibitorsData = {
       "linkLabel": "主催者の出展者紹介",
       "sourceUrl": "https://shibainu-festival.com/event/2026-11-22/market/%e3%82%aa%e3%83%a2%e3%83%ad%e3%82%a4t%e3%82%b7%e3%83%a3%e3%83%84%e5%b1%8b%e3%81%95%e3%82%93",
       "checkedAt": "2026-11-14"
+    },
+    "b-38348770e68b": {
+      "name": "marumarudogs",
+      "category": "出展ブース",
+      "description": "鹿肉や魚を使った犬用おやつ。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/marumaru_dogs",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-f6131873f719": {
+      "name": "takaramono",
+      "category": "出展ブース",
+      "description": "肝臓・脳・関節・免疫を考えた無添加サプリメント。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/takaramono.shop",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-4f4743d4a72b": {
+      "name": "Dog Art Museum",
+      "category": "出展ブース",
+      "description": "犬のイラストポスターなどのアートグッズ。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-912ba0477445": {
+      "name": "One.",
+      "category": "出展ブース",
+      "description": "国産・無添加の犬用おやつ。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/one.treat2025",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-7c71fe6c31fe": {
+      "name": "ONE's OWN WAY",
+      "category": "出展ブース",
+      "description": "ハンドメイドの布小物・ポーチやリボンアクセサリー。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-6deeb97f42bd": {
+      "name": "Kotetsu Diary",
+      "category": "出展ブース",
+      "description": "カスタマイズできる木製の犬キーホルダー。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/kotetsu_diary_0305",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-702b5c1be97b": {
+      "name": "South farm",
+      "category": "出展ブース",
+      "description": "鹿肉や猪肉のジャーキーと骨のおやつ。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/south_farm",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-fc9d1953a0f3": {
+      "name": "shirokuroinuko",
+      "category": "出展ブース",
+      "description": "ルチャリブレ柄などのハンドメイド犬服。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/shirokuroinuko",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-23b4883d296c": {
+      "name": "gonfuku koubou",
+      "category": "出展ブース",
+      "description": "鶏足や魚、肉などを乾燥させた自家製おやつ。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/gonfukukobo",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-02328d5e4653": {
+      "name": "88 ILIO Paracord",
+      "category": "出展ブース",
+      "description": "パラコード製のハーネスやリード（ハンドメイド）。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/88_ilio",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-9eef7b6cc638": {
+      "name": "shikaniku koubou",
+      "category": "出展ブース",
+      "description": "自家製の鹿肉ドッグフードとおやつ。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/shikanikukoubou",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-79c064ee186f": {
+      "name": "MURASHE",
+      "category": "出展ブース",
+      "description": "カラフルな編み込みの首輪とリード。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/mura_she28",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-9763449d66f8": {
+      "name": "Dog's Treat KANO x Kano",
+      "category": "出展ブース",
+      "description": "ハンバーグやビーフシチュー、お好み焼き、鶏ジャーキーなどの手作り犬ごはん。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/dogstreatkanoxkano",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-921b1f6132f4": {
+      "name": "PEACE★WAN",
+      "category": "出展ブース",
+      "description": "卵型のラテックス製おもちゃ。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-0aa7a4e99854": {
+      "name": "KGDOG bla",
+      "category": "しつけ相談",
+      "description": "ドッグトレーナーによるしつけ相談。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://midori-gr.com/shinrin/wp-content/uploads/2026/10/WANWANfestVol1-c.pdf",
+      "checkedAt": "2026-11-20"
+    },
+    "b-1f935c2e12ec": {
+      "name": "corota",
+      "category": "撮影",
+      "description": "ペットシッター士のドッグカメラマン（桑崎遥香）による写真撮影。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://midori-gr.com/shinrin/wp-content/uploads/2026/10/WANWANfestVol1-c.pdf",
+      "checkedAt": "2026-11-20"
+    },
+    "b-3ad5e31997ff": {
+      "name": "Wan Touch",
+      "category": "ペットケア",
+      "description": "愛玩動物看護師・メディカルアロマアドバイザー（西川直美）によるペットケアアドバイス。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://midori-gr.com/shinrin/wp-content/uploads/2026/10/WANWANfestVol1-c.pdf",
+      "checkedAt": "2026-11-20"
+    },
+    "b-570d57fdaf50": {
+      "name": "Anelasoap",
+      "category": "物販",
+      "description": "犬用無添加石鹸の販売。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://midori-gr.com/shinrin/wp-content/uploads/2026/10/WANWANfestVol1-c.pdf",
+      "checkedAt": "2026-11-20"
+    },
+    "b-f30200828016": {
+      "name": "ケリーズキッチン",
+      "category": "フード",
+      "description": "鹿肉のご飯とおやつの販売。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://midori-gr.com/shinrin/wp-content/uploads/2026/10/WANWANfestVol1-c.pdf",
+      "checkedAt": "2026-11-20"
+    },
+    "b-4746481f9d7c": {
+      "name": "LILY PET WORLD",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/inuto_watashi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-06abc798c338": {
+      "name": "Hunters Farm",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/inuto_watashi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-61f85a8e86bc": {
+      "name": "DOMO-PETS",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/inuto_watashi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-37d15cc9eec3": {
+      "name": "Bête à Bon Dieu",
+      "category": "出展ブース",
+      "description": "犬のオリジナルウェア（ブース30）。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/inuto_watashi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-59c3c5e70985": {
+      "name": "Smart wan",
+      "category": "出展ブース",
+      "description": "犬用のお肉のおやつ（ブース31）。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/inuto_watashi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-29ea9863fbbc": {
+      "name": "espoir",
+      "category": "出展ブース",
+      "description": "ハンドメイドのペットアクセサリー（ブース32）。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/inuto_watashi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-172dfb400d86": {
+      "name": "信州桜ファクトリー",
+      "category": "出展ブース",
+      "description": "ペット用ジャーキーのおやつ。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/inuto_watashi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-7204e6a483ca": {
+      "name": "Dailor - Dog wear",
+      "category": "物販",
+      "description": "レースやチェック柄のドッグウェア。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/pomeranianfes_official/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-55f1c37519bb": {
+      "name": "Amber 589",
+      "category": "体験",
+      "description": "スウェーデン式ドッグマッサージ。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/pomeranianfes_official/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-e1402f168acf": {
+      "name": "beau-plus",
+      "category": "物販",
+      "description": "ハンドメイドの犬服。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/pomeranianfes_official/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-77aee1a5a24a": {
+      "name": "andmaru for dogs",
+      "category": "物販",
+      "description": "刺繍の犬グッズ。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/pomeranianfes_official/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-fce515e47f51": {
+      "name": "PAPRIKA",
+      "category": "フード",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/oita_doggoland/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-d4e56a9a2832": {
+      "name": "THREE FACE",
+      "category": "フード",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/oita_doggoland/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-685c7e352f39": {
+      "name": "WAFONA",
+      "category": "物販",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/oita_doggoland/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-f74a4f15eb0a": {
+      "name": "KANNA",
+      "category": "物販",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/oita_doggoland/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-a69332823f50": {
+      "name": "P.A.M.C PHOTO",
+      "category": "物販",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/oita_doggoland/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-fb4d722f9165": {
+      "name": "CoCoNa SHOP",
+      "category": "出展ブース",
+      "description": "ペット服・帽子・ドレス・雑貨（ハンドメイド品など）。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/coco.na_shop",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/wontime_marche/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-b99ef5146e3e": {
+      "name": "ALOHA DOG MALU",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wontime_marche/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-b92967a788e6": {
+      "name": "Ame nochi Hare",
+      "category": "キッチンカー",
+      "description": "NY風スパイシーチキンオーバーライス。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wontimemarche_kansai/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-2b89e9eacb28": {
+      "name": "Yama Kitchen",
+      "category": "キッチンカー",
+      "description": "ケバブ。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wontimemarche_kansai/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-4e67f2a72d9d": {
+      "name": "Hot Dog Base",
+      "category": "キッチンカー",
+      "description": "こだわりソーセージのホットドッグ。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wontimemarche_kansai/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-aa94655bf1b3": {
+      "name": "akira foodcompany",
+      "category": "キッチンカー",
+      "description": "和牛ハラミ丼などシェフ手作りの丼もの。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wontimemarche_kansai/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-18ecc987a7e9": {
+      "name": "taco fune 321",
+      "category": "キッチンカー",
+      "description": "創作タコス、ポテト、チュロス、ドリンク。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wontimemarche_kansai/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-6f5e51012528": {
+      "name": "FUNNY EMOTION",
+      "category": "出展ブース",
+      "description": "ビションフリーゼ中心の犬デザイングッズとペット用品。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wontimemarche_kansai/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-30e3f2e3019e": {
+      "name": "近畿フルーツ産直センター",
+      "category": "出展ブース",
+      "description": "和歌山の柿やみかんなどの生鮮フルーツ。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/kinful_karuche",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/wontimemarche_kansai/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-8656f70e9b2d": {
+      "name": "BuWo's choice",
+      "category": "出展ブース",
+      "description": "ペット刺繍入りの韓国ヌビ生地アイテム。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wontimemarche_kansai/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-8af609dec3a4": {
+      "name": "アニマルコミュニケーターひろみ",
+      "category": "出展ブース",
+      "description": "ペットの気持ちを聞くアニマルコミュニケーション。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/animalcommunicator_hiromi",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/wontimemarche_kansai/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-02223a9d18c3": {
+      "name": "旨菓楼",
+      "category": "フード",
+      "description": "レトルトおやつ＆お惣菜専門店",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-583d8cb90b90": {
+      "name": "雄鹿原ジビエ工房",
+      "category": "フード",
+      "description": "広島県産の鹿を使ったワイルドジャーキー",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-618b4f3cb8e6": {
+      "name": "株式会社ケイエムテイ",
+      "category": "フード",
+      "description": "プレミアムドッグフード・キャットフード",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-236b6891b421": {
+      "name": "ZEAL pet food",
+      "category": "フード",
+      "description": "ニュージーランド産の原料を使ったフード",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-a87d050f4396": {
+      "name": "Jimmy's Paw",
+      "category": "フード",
+      "description": "広島素材の無添加おやつ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-dff505b8f0f1": {
+      "name": "jolipote",
+      "category": "フード",
+      "description": "オリジナルおやつ、首輪、玩具類",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-f17e4e8655b7": {
+      "name": "Deerly Delicious",
+      "category": "フード",
+      "description": "野菜とお肉の手作り無添加ジャーキー",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-67141b7398ef": {
+      "name": "犬の洋菓子店 Toy's FAMILY",
+      "category": "フード",
+      "description": "生おからと倉敷野菜のケーキ＆おやつ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-bfbc7b3f0da3": {
+      "name": "プレミアムペットフード zu-tto",
+      "category": "フード",
+      "description": "熊本馬肉と天草大王等を使ったおやつ＆トッピング",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-d4371324977c": {
+      "name": "BUN'S KITCHEN",
+      "category": "フード",
+      "description": "無添加ペットフード",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-b7628bed15b4": {
+      "name": "ミライマルシェ",
+      "category": "フード",
+      "description": "厳選素材を使ったプレミアムなおやつ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-30f8fbf3044d": {
+      "name": "龍亜のワンにゃん部",
+      "category": "フード",
+      "description": "犬猫用のやわらかい燻製肉のおやつ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-9dcd890a72cc": {
+      "name": "WansJoie",
+      "category": "フード",
+      "description": "無添加手作りレトルトペットごはん",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-370d9468cdb5": {
+      "name": "あもっぽSHOP",
+      "category": "ペットウェア",
+      "description": "ペット服、PREMIUM POPCORN PET",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-1f3490b11c0a": {
+      "name": "AraMall",
+      "category": "ペットウェア",
+      "description": "ペット服",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-f6d72b7c7b34": {
+      "name": "THE DOG WEAR",
+      "category": "ペットウェア",
+      "description": "機能性素材を使ったドッグウェア",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-213eed387754": {
+      "name": "Jack's claws",
+      "category": "ペットウェア",
+      "description": "オーダーメイド犬服",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-efa9d1c13f2e": {
+      "name": "DOGBASE YOKOHAMA",
+      "category": "ペットウェア",
+      "description": "特攻服、チャイナ服、グッズ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-c0c32adafc8d": {
+      "name": "Barba しょっぷ",
+      "category": "ペットウェア",
+      "description": "国内メーカーのペット服",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-3440b8974c4c": {
+      "name": "ハンドメイド犬服 Moana",
+      "category": "ペットウェア",
+      "description": "ハンドメイド犬服",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-a520a1a4fec8": {
+      "name": "favori",
+      "category": "ペットウェア",
+      "description": "ハンドメイド犬服、ハーネス、首輪等",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-dd7560db398a": {
+      "name": "moecom dogwear",
+      "category": "ペットウェア",
+      "description": "ハンドメイド犬服",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-3b9051db13cc": {
+      "name": "WAN VOYAGE",
+      "category": "ペットウェア",
+      "description": "犬のお洋服を販売",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-c739ec76b468": {
+      "name": "犬服ハンドメイド chouchouLupan",
+      "category": "ペットウェア",
+      "description": "ハンドメイドの犬服と雑貨",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-151fe2580ca5": {
+      "name": "Ocean resin art Andyou",
+      "category": "ペットグッズ",
+      "description": "レジンアート雑貨",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-b75f58a238e6": {
+      "name": "collars collection",
+      "category": "ペットグッズ",
+      "description": "オリジナルハンドメイド布製首輪等",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-c6965d5dc737": {
+      "name": "gorillaz DOG SUPPLY",
+      "category": "ペットグッズ",
+      "description": "オリジナル洋服、バッグ、輸入雑貨",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-1a3666c042c8": {
+      "name": "Chien",
+      "category": "ペットグッズ",
+      "description": "首輪やリード、ハーネス、布雑貨など",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-9784dfaa492d": {
+      "name": "GEBC craft",
+      "category": "ペットグッズ",
+      "description": "オリジナルステッカー、木製キーホルダー等",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-9beb6cb89169": {
+      "name": "Dog&Cat CLEAR",
+      "category": "ペットグッズ",
+      "description": "涙やけ・口臭ケア・肉球クリーム",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-c9a11d79caca": {
+      "name": "Dog tag TOTO",
+      "category": "ペットグッズ",
+      "description": "迷子札の刻印、迷子札専用チョーカー等",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-9063013af053": {
+      "name": "PiccoloCane-secondo",
+      "category": "ペットグッズ",
+      "description": "ペットカート",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-d771dcd37dc5": {
+      "name": "petit bouquet LADY",
+      "category": "ペットグッズ",
+      "description": "小型犬用レザーカラー、リード、雑貨",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-a0ebb1519bcd": {
+      "name": "BLENHEIM",
+      "category": "ペットグッズ",
+      "description": "倉敷産帆布を使用したオリジナルの用品",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-62b2b8566564": {
+      "name": "Pet_to_family",
+      "category": "ペットグッズ",
+      "description": "ペットの毛で作るペット筆",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-d75a59546f60": {
+      "name": "maronco",
+      "category": "ペットグッズ",
+      "description": "スリング専門店",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-cb27635dac70": {
+      "name": "mii&me",
+      "category": "ペットグッズ",
+      "description": "ドッググッズ（雑貨、編み物の帽子）",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-3cc16f6f1d64": {
+      "name": "mofunuku-もふぬく-浦上ふとん店",
+      "category": "ペットグッズ",
+      "description": "ペット用品・mofunukuシリーズ寝具等",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-2c614e3575e5": {
+      "name": "Wan wan",
+      "category": "ペットグッズ",
+      "description": "カート用あごのせクッション、他",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-ad7c72b51220": {
+      "name": "Re+a",
+      "category": "ペットグッズ",
+      "description": "ペットも人も快適な暮らしのご提案",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-6187d24b2fa7": {
+      "name": "Half Beans",
+      "category": "その他",
+      "description": "岡山デニムのハーネス・スリング",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-282292359cf6": {
+      "name": "はみみとゆ〜たん",
+      "category": "その他",
+      "description": "わんこの雑貨（髪飾り・手編帽子）",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-e19038d36681": {
+      "name": "B CRANE",
+      "category": "その他",
+      "description": "革製品の首輪、リード、ハーネス等",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-297183e22d76": {
+      "name": "CreativeCross株式会社",
+      "category": "その他",
+      "description": "ペットサプリ健康部門",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-e5f77c158f09": {
+      "name": "coirground japan",
+      "category": "その他",
+      "description": "ココヤシで作られたマットの紹介",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-f4e926e90458": {
+      "name": "ソフトバンク",
+      "category": "その他",
+      "description": "ソフトバンクPR",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-1dcf0f663474": {
+      "name": "たなん似顔絵やさん",
+      "category": "その他",
+      "description": "ペット似顔絵、うちの子グッズ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-833bbb242fcf": {
+      "name": "team schnauzerrescue",
+      "category": "その他",
+      "description": "ミニチュアシュナウザーに特化した保護団体",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-50b460c3d53b": {
+      "name": "dography",
+      "category": "その他",
+      "description": "特注ガラステーブルを使った肉球撮影",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-af9261729a3d": {
+      "name": "似顔絵キューピット☆つかさ",
+      "category": "その他",
+      "description": "ペット似顔絵オーダー受付",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-bf4d3a10404e": {
+      "name": "NIKOBA株式会社",
+      "category": "その他",
+      "description": "ガラポン無料抽選会",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-d5c2434237a3": {
+      "name": "江戸前かもめ鮨",
+      "category": "飲食",
+      "description": "江戸前寿司職人のつくるワンハンド手巻き寿司",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-dfaba53b8ac2": {
+      "name": "緑溜しめなわ号",
+      "category": "飲食",
+      "description": "ビーフステーキ、揚げみたらし、ロングポテト等",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-89e54491fd95": {
+      "name": "天茶（てんし）",
+      "category": "飲食",
+      "description": "呉の魚で漁師の女将が作る漁師めし",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-f135cc9b431e": {
+      "name": "Kitchen KANEMARU",
+      "category": "飲食",
+      "description": "牛すじカレー、国産和牛炙り丼、牛すじポン酢等",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-aec2a9cec199": {
+      "name": "極楽とんぼ",
+      "category": "飲食",
+      "description": "ネギ塩タン、イカ串、牛串、焼きそば等",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-cb1bd3710662": {
+      "name": "(株)富乃屋",
+      "category": "飲食",
+      "description": "佐世保バーガー、ターキーレッグ、ポテト等",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-c216b55d6732": {
+      "name": "焼肉三郎",
+      "category": "飲食",
+      "description": "牛串/スープ系/ソフトドリンク",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-bb8a61f539d6": {
+      "name": "はにぃすぽっと",
+      "category": "飲食",
+      "description": "蜂蜜唐揚げ、ハニーレモンソーダ、各種ドリンク等",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-2642d8e249ee": {
+      "name": "Straw Hat x wan care team",
+      "category": "出展ブース",
+      "description": "スウェーデン式ドッグマッサージ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/dogcare_strawhat/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-0d1ffb10d121": {
+      "name": "return",
+      "category": "出展ブース",
+      "description": "ハンドメイドの犬用チョーカーとロープリード",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/return_riitan_hypertension/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-8c5f543548fd": {
+      "name": "Amour Dining",
+      "category": "出展ブース",
+      "description": "国産食材・ヒューマングレードのドッグフード",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/amourdining/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-3f97281d6648": {
+      "name": "ENTAME GIG PET",
+      "category": "出展ブース",
+      "description": "ヤクミルクチーズのおやつ「DogChu」",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/entamegigpet/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-dedbcb13f22a": {
+      "name": "EZOG北海道",
+      "category": "出展ブース",
+      "description": "プレミアム生鹿肉ジャーキー",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/ezog_hokkaido/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-37f5a7f6ef21": {
+      "name": "MEDIY's kitchen",
+      "category": "出展ブース",
+      "description": "国産・無添加の手作り犬おやつ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/mediys_kitchen/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-98481b9effe3": {
+      "name": "南牧ジビエ",
+      "category": "出展ブース",
+      "description": "群馬県産・鹿肉100%のペットおやつと革製品",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/nanmokugibier/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-7dabfd9204bc": {
+      "name": "芋この焼き芋 こさじ店",
+      "category": "出展ブース",
+      "description": "犬用石焼き芋「Wankoimo」",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/imoya_kosaji/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-431a446278e0": {
+      "name": "いぬのココロ",
+      "category": "出展ブース",
+      "description": "写真・名前入りのカスタムペットグッズ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/inunococoro_iitasu/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-64bca3f47ba1": {
+      "name": "DOMO-PETS",
+      "category": "出展ブース",
+      "description": "ペット用洗浄・除菌水「SHUPPA」",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/shuppa_/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-60449d6a7c10": {
+      "name": "ぽちぽちペット",
+      "category": "出展ブース",
+      "description": "野菜パウダーと米粉の手作り犬クッキー",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/pochipochipet/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-025ced9359da": {
+      "name": "刻印堂Quteen",
+      "category": "出展ブース",
+      "description": "その場で作る迷子札・キーホルダー・コースター",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/quteen_web/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-5159b7b1572c": {
+      "name": "Dogtreat",
+      "category": "出展ブース",
+      "description": "手作り無添加のドッグスナック",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/dogtreat_wanko/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-1aa6b9c46489": {
+      "name": "Sobagni Pet",
+      "category": "出展ブース",
+      "description": "自動車品質素材の耐久ペットグッズ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-cb591b28774e": {
+      "name": "Wan'z",
+      "category": "出展ブース",
+      "description": "写真から作るカスタムグッズと無添加おやつ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/wanz.bubuchan/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-35dd2e7132ba": {
+      "name": "D.R.Comfy",
+      "category": "出展ブース",
+      "description": "岡山デニムの犬と飼い主向けアイテム",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/d.r.comfy/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-a6759bdd867b": {
+      "name": "belle et marron",
+      "category": "出展ブース",
+      "description": "写真・名前入りのオーダーメイド犬グッズ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/beru.maron/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-2d669a4432f3": {
+      "name": "くりくるみ",
+      "category": "出展ブース",
+      "description": "犬・猫・フェレット用の手編みアイテム",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/marronpanna/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-21c0ed8dbe9e": {
+      "name": "myu myu",
+      "category": "出展ブース",
+      "description": "ハンドメイド犬服、カフェマット、お散歩バッグ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/myumyu.inufuku/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-783a78f8cf23": {
+      "name": "みるくショップわかば",
+      "category": "出展ブース",
+      "description": "明治の牛乳配達店（骨密度測定も実施）",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/wakaba_369/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-cbb33874e15b": {
+      "name": "福の森",
+      "category": "出展ブース",
+      "description": "自然素材の手作り犬おやつ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/fukunomori0529/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-d162846a9e22": {
+      "name": "hedgedog&denim",
+      "category": "出展ブース",
+      "description": "犬種刺繍のデニムアイテム",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/hedgedogdenim_seabreezestudio1/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-f147f2da4565": {
+      "name": "PSJerky's",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-5ee89eaa88bb": {
+      "name": "ミル工房",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-9bf11f5ff9b5": {
+      "name": "WHEAT RIBBON",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-653438f8b86b": {
+      "name": "marumarudogs",
+      "category": "出展ブース",
+      "description": "土曜のみ出店（ブース5）",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-8116edc549f7": {
+      "name": "UNO",
+      "category": "出展ブース",
+      "description": "日曜のみ出店（ブース5）。牛柄・ダルメシアン柄の犬服（バルーン服・襟付きシャツ）を販売し、その場でサイズ調整も可能",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "https://www.instagram.com/kana1550/",
+      "linkLabel": "公式Instagram",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-8908a4badb41": {
+      "name": "LIOLEA",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-e7c8f654acc7": {
+      "name": "コストコ三郷店",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-5b03e4a76f52": {
+      "name": "DogWearーOzy",
+      "category": "出展ブース",
+      "description": "ハンドメイドのリード・首輪・小物バッグ",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-e1edf39426f4": {
+      "name": "Kimily",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-da6f6551516e": {
+      "name": "Dearest Paracord",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-14e7a518735d": {
+      "name": "COCOlatte",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-1e349f5b702d": {
+      "name": "espoir",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-dc84f2a6554b": {
+      "name": "fairy tail シンバのおやつ",
+      "category": "出展ブース",
+      "description": "ハンドメイドの犬服（ニットセーター、レース襟など）",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-e142b5ad918d": {
+      "name": "結むすぶ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-1011c73ebba8": {
+      "name": "anne craft design",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-543a357099db": {
+      "name": "ミネターズドッグフード",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-7a3d3fc9a7f2": {
+      "name": "Tears",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-e7de015d84e0": {
+      "name": "doggy_sweets_colo",
+      "category": "出展ブース",
+      "description": "土曜のみ出店（ブース18）",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-2b6ec22ff0ce": {
+      "name": "osampo",
+      "category": "出展ブース",
+      "description": "日曜のみ出店（ブース18）",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-ff32d82202d7": {
+      "name": "首輪とおやつの専門店Diange",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-4261a0b515f9": {
+      "name": "and AJ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-b70e87cc7cf0": {
+      "name": "Kumquat",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-8ef51789de19": {
+      "name": "ワンもあちゃんす",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-cce59697f6d8": {
+      "name": "わんroom",
+      "category": "出展ブース",
+      "description": "土曜のみ出店（ブース23）",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-93f028712614": {
+      "name": "わん写",
+      "category": "出展ブース",
+      "description": "日曜のみ出店（ブース23）",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-49f3c532a244": {
+      "name": "Petit bonheur",
+      "category": "出展ブース",
+      "description": "土曜のみ出店（ブース24）",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-418c27143c6c": {
+      "name": "D.R.Comfy",
+      "category": "出展ブース",
+      "description": "日曜のみ出店（ブース24）",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-98ae33db2173": {
+      "name": "アロマドレッシング",
+      "category": "出展ブース",
+      "description": "ペットシャンプーや植物由来の洗剤、国産エッセンシャルオイルの販売",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-7bd544347e91": {
+      "name": "わんわんニットKinu",
+      "category": "出展ブース",
+      "description": "ハンドメイドの犬用ニットセーター",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-585b448898b3": {
+      "name": "two",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-7eff3d3014d7": {
+      "name": "le'ale'a FORDOGS",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-ab1459c99091": {
+      "name": "DEVAN",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-51de95d28e39": {
+      "name": "MOMO Marche",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-15cb8ee38c6c": {
+      "name": "NAAF PREMIUM FOOD",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-a4137a8bce71": {
+      "name": "みかぽんむすび＆白和屋",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-13d5e29d8073": {
+      "name": "フッセジャパン東彩",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-9020c5dd5237": {
+      "name": "あにまる堂",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-39df703580c2": {
+      "name": "Art of Life with DOG",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-b87e40778d1e": {
+      "name": "Luke＆Co.＆花語り",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-b2046ee1cc98": {
+      "name": "M's Diamond",
+      "category": "出展ブース",
+      "description": "土曜のみ出店（ブース39）",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-70bde4bd0c67": {
+      "name": "&amp;WANKitchen",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://sippofesta.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-a66ffca4fe9d": {
+      "name": "napani",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://sippofesta.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-75caf9a1b603": {
+      "name": "お魚だよ全員集合",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://sippofesta.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-2414f65354eb": {
+      "name": "ペットシエスタ国立",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://sippofesta.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-31196bb85759": {
+      "name": "オメカシペット",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://sippofesta.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-2e677f3af199": {
+      "name": "Honda Dog（ホンダアクセス）",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://sippofesta.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-532e331aa42f": {
+      "name": "イヌなでホリスティック協会『イヌなで®』式マッサージ＆ストレスケア by azi",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-567b690876ed": {
+      "name": "ペットコミュニケーション",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-667bccb1ddd3": {
+      "name": "フォトレコペット撮影会＠ビションフリーゼ2026クリパ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-dcbc93b5d79e": {
+      "name": "手作り犬おやつのbon moment",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-6155f82dc6b1": {
+      "name": "株式会社松毬",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-a0be8ac67ea8": {
+      "name": "らぴすのおやつ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-dc6e197c9a79": {
+      "name": "香りと整え処あゆむ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-9ba2eb9f3cf3": {
+      "name": "ペトラ-涙やけケア専門家-",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-a7ba4f3b6d89": {
+      "name": "BIOGANCE",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-9ee11e1d6a50": {
+      "name": "HARZLY",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-adad19c1b2e2": {
+      "name": "MofuDogTomiu",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-e2fd7f57d7a7": {
+      "name": "HYDRA",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-f2d8e8fdfad5": {
+      "name": "グッドドッグ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-a184b5e83660": {
+      "name": "bow_wow_goo",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-acb40c5a18bd": {
+      "name": "Auau",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-f2c5af8ec6fb": {
+      "name": "genic",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-ac74d77ab1f2": {
+      "name": "the nui tokyo",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-007e86726bb2": {
+      "name": "3本しっぽのビションフリーゼ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-938314207039": {
+      "name": "atelier unico",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-8d505af37653": {
+      "name": "BOB chan goods",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-9835c57c5919": {
+      "name": "ミル工房",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-cdb17f21cbf2": {
+      "name": "Manalima Dogs",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-112fb88f60a4": {
+      "name": "THE ROMPERS",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-bd3358591f22": {
+      "name": "aletta angelique",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-946685227cc8": {
+      "name": "カーニャパッソ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-a5f2f93ac456": {
+      "name": "ポーク亭",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-01cdfd4d7d11": {
+      "name": "もあいの揚げパン",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-2d0472fc852c": {
+      "name": "大宮唐揚げモヒカラ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-ec642d2a097d": {
+      "name": "Ayamerry",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wanwonderfulfesta_kobe/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-26ea08ecdf1a": {
+      "name": "Nanala",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wanwonderfulfesta_kobe/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-dcc87fbe8e1f": {
+      "name": "HARDW'R DOG",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wanwonderfulfesta_kobe/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-8438502f373a": {
+      "name": "THE GIBIER",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wanwonderfulfesta_kobe/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-469886c72cc8": {
+      "name": "Lulumalu Cafe",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wanwonderfulfesta_kobe/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-de06f62966cb": {
+      "name": "Turtles kitchen",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wanwonderfulfesta_kobe/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-9d78f0181064": {
+      "name": "THE CHEFS KOBE",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/wanwonderfulfesta_kobe/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-394b5817dfad": {
+      "name": "ファンタジーショップ（水族館「ドルフィン ファンタジー」内。ドッグブランド「PET PARADISE」の商品やマナーウェアを販売）",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000001004.000011571.html",
+      "checkedAt": "2026-11-20"
+    },
+    "b-cdf8038cda84": {
+      "name": "Seafood ＆ Grill YAKIYA（わんちゃん向け専用メニューあり）",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000001004.000011571.html",
+      "checkedAt": "2026-11-20"
+    },
+    "b-c66c7378d488": {
+      "name": "ハワイアンカフェ ＆ レストラン メレンゲ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000001004.000011571.html",
+      "checkedAt": "2026-11-20"
+    },
+    "b-2ae34b565e70": {
+      "name": "ラ・タラフク",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000001004.000011571.html",
+      "checkedAt": "2026-11-20"
+    },
+    "b-4f5369a09708": {
+      "name": "マンジャーレ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000001004.000011571.html",
+      "checkedAt": "2026-11-20"
+    },
+    "b-102cf130bfbe": {
+      "name": "ドルフィン（テイクアウト）",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000001004.000011571.html",
+      "checkedAt": "2026-11-20"
+    },
+    "b-ee12fe75bf83": {
+      "name": "ケーブルカーコーヒー（テイクアウト）",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000001004.000011571.html",
+      "checkedAt": "2026-11-20"
+    },
+    "b-0351b6ae6aa9": {
+      "name": "マリオンクレープ（テイクアウト）",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000001004.000011571.html",
+      "checkedAt": "2026-11-20"
+    },
+    "b-344e65ed5e36": {
+      "name": "AZERIA",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-be4bf6d666f4": {
+      "name": "Dr.WANDEL",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-241a95d3f6e0": {
+      "name": "WAN VOYAGE",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-71e325a568c6": {
+      "name": "鹿肉工房",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-bc6f7dff94b4": {
+      "name": "首輪とおやつの専門店Diange",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-ae66b2575da7": {
+      "name": "GEWALK",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-dd038c2d621a": {
+      "name": "株式会社Root-A",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-1441e4627820": {
+      "name": "にくきゅうスタンプイベント",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-08fdab0e297f": {
+      "name": "池田動物病院",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-4b583b2ca994": {
+      "name": "Sobagni Pet",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-cedafefd8517": {
+      "name": "ファルミナペットフーズ・ジャパン株式会社",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-2b263647b1f3": {
+      "name": "ココールペット",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-849f153e7874": {
+      "name": "PREMIUMWATER",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-604337bc714f": {
+      "name": "DREAMBEER",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-330a9e62c063": {
+      "name": "パルシステム生活協同組合連合会",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-bd628f392ad3": {
+      "name": "株式会社Graimo",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-292c8f4e3d4f": {
+      "name": "2e Deuxieme Cale",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-2bad8003fc9b": {
+      "name": "Favorite Scene BAG",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-ba17a0d6de3f": {
+      "name": "ココグルメ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-da4b279a78dd": {
+      "name": "軽井沢鹿工房",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-847400d865da": {
+      "name": "XAXA（ザザ）信州犬猫おやつと服飾雑貨",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-5620d5e16861": {
+      "name": "WAN LIFE",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-d3d6d067cf30": {
+      "name": "ハンドメイドのオハナ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-f08e5ebe8244": {
+      "name": "WANSAMA-NYANSAMA",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-204895a62b7f": {
+      "name": "♡hokari",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-f67a396d92e3": {
+      "name": "ENTAME GIG PET",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-6f50f821e71d": {
+      "name": "happy bell★",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-89e67c98eda0": {
+      "name": "株式会社GARO5",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-d5891346427b": {
+      "name": "DO_GOOD store",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-a9c22a75d025": {
+      "name": "nono|うちの子イラスト",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-51888c11d79f": {
+      "name": "SHARESDESIGN",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-6425594fdfca": {
+      "name": "SANCTUARY",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-9cf4ee1d4723": {
+      "name": "free stitch",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-1f1b98301d7e": {
+      "name": "もつ煮一番",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-046a8a518b61": {
+      "name": "株式会社山中商店 おにくの椿",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-5227f565e3b6": {
+      "name": "はえまつクレープ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-dd269f975577": {
+      "name": "willowkitchen",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-3a78f84bdc4c": {
+      "name": "CHEERBEE",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://hanatanken.com/event/2026-12-13/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-42dca5e6d3fc": {
+      "name": "BULLMODE",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://hanatanken.com/event/2026-12-13/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-e6ae28c58fac": {
+      "name": "DESIGN☆&amp;A",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://hanatanken.com/event/2026-12-13/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-e88146eef805": {
+      "name": "masishu~",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://hanatanken.com/event/2026-12-13/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-db7c14d780bb": {
+      "name": "あいぬか住宅つくば店",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://hanatanken.com/event/2026-12-13/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-515fc6083c61": {
+      "name": "FARADAY KAMAKURA",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/cocker-spaniel-festival-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-4dffc99b52cd": {
+      "name": "M’s Diamond",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/cocker-spaniel-festival-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-b697f33bbe7c": {
+      "name": "LeCheO",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/cocker-spaniel-festival-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-776f9d291699": {
+      "name": "nono|うちの子イラスト",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/cocker-spaniel-festival-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-be4e9291ead5": {
+      "name": "SHARESDESIGN",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/cocker-spaniel-festival-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-9f121a9051a0": {
+      "name": "free stitch",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/cocker-spaniel-festival-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-67292cb1e81b": {
+      "name": "やきいもやＫＯＴＩ",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/cocker-spaniel-festival-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-df17a1c6ad27": {
+      "name": "OK kitchen",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/cocker-spaniel-festival-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-a0916a8dacd8": {
+      "name": "POWDERBOO",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.freestitch.jp/meetup/cocker-spaniel-festival-2026",
+      "checkedAt": "2026-11-20"
+    },
+    "b-19d1a5f4532c": {
+      "name": "ticolet",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/with_wan_heroes_festival/",
+      "checkedAt": "2026-11-20"
+    },
+    "b-34b6f6b415d4": {
+      "name": "NOMON DAWAN",
+      "category": "出展ブース",
+      "description": "主催者の出店者紹介で案内されている店舗です。取扱商品や当日の在庫は店舗へご確認ください。",
+      "tags": [
+        "サイズ・対象要確認"
+      ],
+      "sizes": [],
+      "sizeNote": "小型犬・大型犬の対応範囲は未確認です。商品やサービスごとに店舗へご確認ください。",
+      "url": "",
+      "linkLabel": "公式サイト",
+      "sourceUrl": "https://www.instagram.com/with_wan_heroes_festival/",
+      "checkedAt": "2026-11-20"
     }
   },
   "events": {
@@ -17558,11 +21324,17 @@ const eventExhibitorsData = {
       "note": "この開催回の店舗別情報は確認中です。出展の有無・最新の店舗一覧は主催者の案内をご確認ください。"
     },
     "hiroshima-shinrin-wanwan-20261122": {
-      "brandIds": [],
-      "sourceUrl": "https://midori-gr.com/shinrin/2026/10/05/%E7%AC%AC%EF%BC%91%E5%9B%9E%E3%83%AF%E3%83%B3%E3%83%AF%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%88/",
-      "checkedAt": "2026-10-12",
-      "status": "unverified",
-      "note": "この開催回の店舗別情報は確認中です。出展の有無・最新の店舗一覧は主催者の案内をご確認ください。"
+      "brandIds": [
+        "b-0aa7a4e99854",
+        "b-1f935c2e12ec",
+        "b-3ad5e31997ff",
+        "b-570d57fdaf50",
+        "b-f30200828016"
+      ],
+      "sourceUrl": "https://midori-gr.com/shinrin/wp-content/uploads/2026/10/WANWANfestVol1-c.pdf",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
     },
     "higeinu-20261101": {
       "brandIds": [
@@ -17760,11 +21532,26 @@ const eventExhibitorsData = {
       "note": "この開催回の店舗別情報は確認中です。出展の有無・最新の店舗一覧は主催者の案内をご確認ください。"
     },
     "ashigara-wanwan-2026-11-21": {
-      "brandIds": [],
-      "sourceUrl": "https://sapa.c-nexco.co.jp/special?id=2252",
-      "checkedAt": "2026-10-12",
-      "status": "unverified",
-      "note": "この開催回の店舗別情報は確認中です。出展の有無・最新の店舗一覧は主催者の案内をご確認ください。"
+      "brandIds": [
+        "b-38348770e68b",
+        "b-f6131873f719",
+        "b-4f4743d4a72b",
+        "b-912ba0477445",
+        "b-7c71fe6c31fe",
+        "b-6deeb97f42bd",
+        "b-702b5c1be97b",
+        "b-fc9d1953a0f3",
+        "b-23b4883d296c",
+        "b-02328d5e4653",
+        "b-9eef7b6cc638",
+        "b-79c064ee186f",
+        "b-9763449d66f8",
+        "b-921b1f6132f4"
+      ],
+      "sourceUrl": "https://www.instagram.com/p/Df0kmkWGuFV/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "公式の出店者紹介で名前を確認できた店舗を掲載しています（全店舗ではありません）。"
     },
     "ashigara-wanwan-2027-03-20": {
       "brandIds": [],
@@ -18707,18 +22494,31 @@ const eventExhibitorsData = {
       "note": "公式で確認できた出展者を掲載。全出展者一覧ではありません。"
     },
     "wontime-kazo-20261121": {
-      "brandIds": [],
-      "sourceUrl": "https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule",
-      "checkedAt": "2026-11-14",
-      "status": "pending",
-      "note": "開催は公式発表で確認済み。確定した出展店名は確認でき次第掲載します。"
+      "brandIds": [
+        "b-fb4d722f9165",
+        "b-b99ef5146e3e"
+      ],
+      "sourceUrl": "https://www.instagram.com/wontime_marche/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "公式の出店者紹介で名前を確認できた店舗を掲載しています（全店舗ではありません）。"
     },
     "wontime-kyuhoji-20261128": {
-      "brandIds": [],
-      "sourceUrl": "https://wontimemarche.store/blogs/wontimemarche-info/wm2026-schedule",
-      "checkedAt": "2026-11-14",
-      "status": "pending",
-      "note": "開催は公式発表で確認済み。確定した出展店名は確認でき次第掲載します。"
+      "brandIds": [
+        "b-b92967a788e6",
+        "b-2b89e9eacb28",
+        "b-4e67f2a72d9d",
+        "b-aa94655bf1b3",
+        "b-18ecc987a7e9",
+        "b-6f5e51012528",
+        "b-30e3f2e3019e",
+        "b-8656f70e9b2d",
+        "b-8af609dec3a4"
+      ],
+      "sourceUrl": "https://www.instagram.com/wontimemarche_kansai/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
     },
     "wontime-fukakita-20261205": {
       "brandIds": [],
@@ -18740,6 +22540,365 @@ const eventExhibitorsData = {
       "checkedAt": "2026-11-14",
       "status": "pending",
       "note": "開催は公式発表で確認済み。確定した出展店名は確認でき次第掲載します。"
+    },
+    "inutomatsuri-gongendo-20261205": {
+      "brandIds": [
+        "b-4746481f9d7c",
+        "b-06abc798c338",
+        "b-61f85a8e86bc",
+        "b-37d15cc9eec3",
+        "b-59c3c5e70985",
+        "b-29ea9863fbbc",
+        "b-172dfb400d86"
+      ],
+      "sourceUrl": "https://www.instagram.com/inuto_watashi/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "公式の出店者紹介で名前を確認できた店舗を掲載しています（全店舗ではありません）。"
+    },
+    "pomeranian-christmas-20261213": {
+      "brandIds": [
+        "b-7204e6a483ca",
+        "b-55f1c37519bb",
+        "b-e1402f168acf",
+        "b-77aee1a5a24a"
+      ],
+      "sourceUrl": "https://www.instagram.com/pomeranianfes_official/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "公式の出店者紹介で名前を確認できた店舗を掲載しています（全店舗ではありません）。"
+    },
+    "oita-doggo-land-20261121": {
+      "brandIds": [
+        "b-fce515e47f51",
+        "b-d4e56a9a2832",
+        "b-685c7e352f39",
+        "b-f74a4f15eb0a",
+        "b-a69332823f50"
+      ],
+      "sourceUrl": "https://www.instagram.com/oita_doggoland/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "公式の出店者紹介で名前を確認できた店舗を掲載しています（全店舗ではありません）。"
+    },
+    "hiroshima-wanwan-christmas-20261205": {
+      "brandIds": [
+        "b-02223a9d18c3",
+        "b-583d8cb90b90",
+        "b-618b4f3cb8e6",
+        "b-236b6891b421",
+        "b-a87d050f4396",
+        "b-dff505b8f0f1",
+        "b-f17e4e8655b7",
+        "b-67141b7398ef",
+        "b-bfbc7b3f0da3",
+        "b-d4371324977c",
+        "b-b7628bed15b4",
+        "b-30f8fbf3044d",
+        "b-9dcd890a72cc",
+        "b-370d9468cdb5",
+        "b-1f3490b11c0a",
+        "b-f6d72b7c7b34",
+        "b-213eed387754",
+        "b-efa9d1c13f2e",
+        "b-c0c32adafc8d",
+        "b-3440b8974c4c",
+        "b-a520a1a4fec8",
+        "b-dd7560db398a",
+        "b-3b9051db13cc",
+        "b-c739ec76b468",
+        "b-151fe2580ca5",
+        "b-b75f58a238e6",
+        "b-c6965d5dc737",
+        "b-1a3666c042c8",
+        "b-9784dfaa492d",
+        "b-9beb6cb89169",
+        "b-c9a11d79caca",
+        "b-9063013af053",
+        "b-d771dcd37dc5",
+        "b-a0ebb1519bcd",
+        "b-62b2b8566564",
+        "b-d75a59546f60",
+        "b-cb27635dac70",
+        "b-3cc16f6f1d64",
+        "b-2c614e3575e5",
+        "b-ad7c72b51220",
+        "b-6187d24b2fa7",
+        "b-282292359cf6",
+        "b-e19038d36681",
+        "b-297183e22d76",
+        "b-e5f77c158f09",
+        "b-f4e926e90458",
+        "b-1dcf0f663474",
+        "b-833bbb242fcf",
+        "b-50b460c3d53b",
+        "b-af9261729a3d",
+        "b-bf4d3a10404e",
+        "b-d5c2434237a3",
+        "b-dfaba53b8ac2",
+        "b-89e54491fd95",
+        "b-f135cc9b431e",
+        "b-aec2a9cec199",
+        "b-cb1bd3710662",
+        "b-c216b55d6732",
+        "b-bb8a61f539d6"
+      ],
+      "sourceUrl": "https://www.instagram.com/p/DfrCQwUmNKR/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "公式の出店者紹介で名前を確認できた店舗を掲載しています（全店舗ではありません）。"
+    },
+    "london-dog-festival-matsubushi-20261226": {
+      "brandIds": [
+        "b-2642d8e249ee",
+        "b-0d1ffb10d121",
+        "b-8c5f543548fd",
+        "b-3f97281d6648",
+        "b-dedbcb13f22a",
+        "b-37f5a7f6ef21",
+        "b-98481b9effe3",
+        "b-7dabfd9204bc",
+        "b-431a446278e0",
+        "b-64bca3f47ba1",
+        "b-60449d6a7c10",
+        "b-025ced9359da",
+        "b-5159b7b1572c",
+        "b-1aa6b9c46489",
+        "b-cb591b28774e",
+        "b-35dd2e7132ba",
+        "b-a6759bdd867b",
+        "b-2d669a4432f3",
+        "b-21c0ed8dbe9e",
+        "b-783a78f8cf23",
+        "b-cbb33874e15b",
+        "b-d162846a9e22"
+      ],
+      "sourceUrl": "https://www.instagram.com/london_dog_festival/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
+    },
+    "misato-wanwan-festival-20261212": {
+      "brandIds": [
+        "b-f147f2da4565",
+        "b-5ee89eaa88bb",
+        "b-9bf11f5ff9b5",
+        "b-653438f8b86b",
+        "b-8116edc549f7",
+        "b-8908a4badb41",
+        "b-e7c8f654acc7",
+        "b-5b03e4a76f52",
+        "b-e1edf39426f4",
+        "b-da6f6551516e",
+        "b-14e7a518735d",
+        "b-1e349f5b702d",
+        "b-dc84f2a6554b",
+        "b-e142b5ad918d",
+        "b-1011c73ebba8",
+        "b-543a357099db",
+        "b-7a3d3fc9a7f2",
+        "b-e7de015d84e0",
+        "b-2b6ec22ff0ce",
+        "b-ff32d82202d7",
+        "b-4261a0b515f9",
+        "b-b70e87cc7cf0",
+        "b-8ef51789de19",
+        "b-cce59697f6d8",
+        "b-93f028712614",
+        "b-49f3c532a244",
+        "b-418c27143c6c",
+        "b-98ae33db2173",
+        "b-7bd544347e91",
+        "b-585b448898b3",
+        "b-7eff3d3014d7",
+        "b-ab1459c99091",
+        "b-51de95d28e39",
+        "b-15cb8ee38c6c",
+        "b-a4137a8bce71",
+        "b-13d5e29d8073",
+        "b-9020c5dd5237",
+        "b-39df703580c2",
+        "b-b87e40778d1e",
+        "b-b2046ee1cc98"
+      ],
+      "sourceUrl": "https://www.instagram.com/p/Df8JD2zgaVi/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
+    },
+    "sippo-festa-2026-winter-20261205": {
+      "brandIds": [
+        "b-70bde4bd0c67",
+        "b-a66ffca4fe9d",
+        "b-75caf9a1b603",
+        "b-2414f65354eb",
+        "b-31196bb85759",
+        "b-2e677f3af199"
+      ],
+      "sourceUrl": "https://sippofesta.com/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "公式の出店者紹介で名前を確認できた店舗を掲載しています（全店舗ではありません）。"
+    },
+    "bichonfrise-festival-christmas-20261206": {
+      "brandIds": [
+        "b-532e331aa42f",
+        "b-567b690876ed",
+        "b-667bccb1ddd3",
+        "b-dcbc93b5d79e",
+        "b-6155f82dc6b1",
+        "b-a0be8ac67ea8",
+        "b-dc6e197c9a79",
+        "b-9ba2eb9f3cf3",
+        "b-a7ba4f3b6d89",
+        "b-9ee11e1d6a50",
+        "b-adad19c1b2e2",
+        "b-e2fd7f57d7a7",
+        "b-f2d8e8fdfad5",
+        "b-a184b5e83660",
+        "b-acb40c5a18bd",
+        "b-f2c5af8ec6fb",
+        "b-ac74d77ab1f2",
+        "b-007e86726bb2",
+        "b-938314207039",
+        "b-8d505af37653",
+        "b-9835c57c5919",
+        "b-cdb17f21cbf2",
+        "b-112fb88f60a4",
+        "b-bd3358591f22",
+        "b-946685227cc8",
+        "b-a5f2f93ac456",
+        "b-01cdfd4d7d11",
+        "b-2d0472fc852c"
+      ],
+      "sourceUrl": "https://bichonfrise-festival.com/event/2026-12-06/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
+    },
+    "wan-wonderful-festa-kobe-20261205": {
+      "brandIds": [
+        "b-ec642d2a097d",
+        "b-26ea08ecdf1a",
+        "b-dcc87fbe8e1f",
+        "b-8438502f373a",
+        "b-469886c72cc8",
+        "b-de06f62966cb",
+        "b-9d78f0181064"
+      ],
+      "sourceUrl": "https://www.instagram.com/wanwonderfulfesta_kobe/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "公式の出店者紹介で名前を確認できた店舗を掲載しています（全店舗ではありません）。"
+    },
+    "seaparadise-wanko-island-20261211": {
+      "brandIds": [
+        "b-394b5817dfad",
+        "b-cdf8038cda84",
+        "b-c66c7378d488",
+        "b-2ae34b565e70",
+        "b-4f5369a09708",
+        "b-102cf130bfbe",
+        "b-ee12fe75bf83",
+        "b-0351b6ae6aa9"
+      ],
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000001004.000011571.html",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
+    },
+    "todoroki-dog-festival-8th-20261212": {
+      "brandIds": [
+        "b-344e65ed5e36",
+        "b-be4bf6d666f4",
+        "b-241a95d3f6e0",
+        "b-71e325a568c6",
+        "b-bc6f7dff94b4",
+        "b-ae66b2575da7",
+        "b-dd038c2d621a",
+        "b-1441e4627820",
+        "b-08fdab0e297f",
+        "b-4b583b2ca994",
+        "b-cedafefd8517",
+        "b-2b263647b1f3",
+        "b-849f153e7874",
+        "b-604337bc714f",
+        "b-330a9e62c063",
+        "b-bd628f392ad3",
+        "b-292c8f4e3d4f",
+        "b-2bad8003fc9b",
+        "b-ba17a0d6de3f",
+        "b-da4b279a78dd",
+        "b-847400d865da",
+        "b-5620d5e16861"
+      ],
+      "sourceUrl": "https://todoroki-dogfes.com/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
+    },
+    "dachshund-meet-up-20261212": {
+      "brandIds": [
+        "b-d3d6d067cf30",
+        "b-f08e5ebe8244",
+        "b-204895a62b7f",
+        "b-f67a396d92e3",
+        "b-6f50f821e71d",
+        "b-89e67c98eda0",
+        "b-d5891346427b",
+        "b-a9c22a75d025",
+        "b-51888c11d79f",
+        "b-6425594fdfca",
+        "b-9cf4ee1d4723",
+        "b-1f1b98301d7e",
+        "b-046a8a518b61",
+        "b-5227f565e3b6",
+        "b-dd269f975577"
+      ],
+      "sourceUrl": "https://www.freestitch.jp/meetup/dachshund-meet-up-2026",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
+    },
+    "hanatanken-20261213": {
+      "brandIds": [
+        "b-3a78f84bdc4c",
+        "b-42dca5e6d3fc",
+        "b-e6ae28c58fac",
+        "b-e88146eef805",
+        "b-db7c14d780bb"
+      ],
+      "sourceUrl": "https://hanatanken.com/event/2026-12-13/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "公式の出店者紹介で名前を確認できた店舗を掲載しています（全店舗ではありません）。"
+    },
+    "cocker-spaniel-festival-20261213": {
+      "brandIds": [
+        "b-515fc6083c61",
+        "b-4dffc99b52cd",
+        "b-b697f33bbe7c",
+        "b-776f9d291699",
+        "b-be4e9291ead5",
+        "b-9f121a9051a0",
+        "b-67292cb1e81b",
+        "b-df17a1c6ad27",
+        "b-a0916a8dacd8"
+      ],
+      "sourceUrl": "https://www.freestitch.jp/meetup/cocker-spaniel-festival-2026",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "主催者のこの開催回の出展一覧をもとに掲載しています。"
+    },
+    "wan-heroes-festival-tokyo-20261206": {
+      "brandIds": [
+        "b-19d1a5f4532c",
+        "b-34b6f6b415d4"
+      ],
+      "sourceUrl": "https://www.instagram.com/with_wan_heroes_festival/",
+      "checkedAt": "2026-11-20",
+      "status": "listed",
+      "note": "公式の出店者紹介で名前を確認できた店舗を掲載しています（全店舗ではありません）。"
     }
   }
 };
